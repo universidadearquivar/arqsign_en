@@ -5,6 +5,7 @@
 ## TOP MENU
 
 * [➕ New Document](top-menu/new-document.md)
+* [✍️ Document Signing](top-menu/document-signing.md)
 * [🖊️ Batch Signing](top-menu/batch-signing.md)
 * [⏱️ Overdue](top-menu/overdue.md)
 * [👤 My Profile](top-menu/my-profile.md)
