@@ -46,7 +46,7 @@ When you click on a document, the document preview screen will open, which displ
 
 It is possible to select more than one document by checking the checkboxes next to the file names and perform batch actions. Batch actions can only be performed on documents where the user is not only a signatory but also the sender of the document.&#x20;
 
-<figure><img src="../.gitbook/assets/17.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/17 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Move Document:** Clicking on this icon will allow you to change the folder where the selected documents are stored. This action can only be performed on documents where the user is not only a signatory but also the sender of the document.
 
@@ -54,15 +54,15 @@ It is possible to select more than one document by checking the checkboxes next 
 
 **Resend:** Clicking on this icon will allow you to resend the selected documents to recipients who have not yet signed. This action can only be performed on documents where the user is not only a signatory but also the sender of the document and that do not have the status "Completed."
 
-<figure><img src="../.gitbook/assets/18.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/18 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Cancel Sending:** Clicking on this icon will allow you to cancel the sending of the selected documents, interrupting the signature processes. This action can only be performed on documents where the user is not only a signatory but also the sender of the document and that do not have the status "Completed."
 
-<figure><img src="../.gitbook/assets/19.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/19 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Delete:** Clicking on this icon will allow you to delete the selected documents. This action can only be performed on documents where the user is not only a signatory but also the sender of the document and that have the status "Completed."
 
-<figure><img src="../.gitbook/assets/16.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/16 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
@@ -84,13 +84,13 @@ It is possible to select more than one document by checking the checkboxes next 
 <mark style="color:orange;">**The Global Administrator, who is not the sender of the document, can change the ownership of completed documents listed in the Directories feature or when deactivating a user who has documents under their ownership.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/08 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/08 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Download File:** Used to download the document.&#x20;
 
 **Download Signature Registration:** Used to download the log of signatures performed on the document. The Signature Log displays all information about the electronic signatures, such as the names of the signers, date and time of the signature, location and IP from where it was done, data of the digital certificates used, etc.&#x20;
 
-<figure><img src="../.gitbook/assets/10 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/10 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Cancel:** This option will only be displayed if the user, in addition to being a signer, is also the sender of the document. Clicking this option cancels the document, and the signature process is halted. This option will not be displayed if the document status is "Completed."
 
@@ -100,7 +100,7 @@ It is possible to select more than one document by checking the checkboxes next 
 
 **Share:** This option allows the user to create a link to access the document, which can be shared with individuals who are not participants in the signature process. This link can have a specified or indefinite expiration date, and the user can determine whether to allow those who access it to also view the attachments sent by the signatories.
 
-<figure><img src="../.gitbook/assets/11 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/11 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Change Renewal Schedule:** This option will only be displayed if the user, in addition to being a signer, is also the sender of the document. It is used to modify or add a renewal deadline to the document, as previously set in the New Document > Add Documents menu.
 
@@ -108,15 +108,15 @@ It is possible to select more than one document by checking the checkboxes next 
 
 **Refuse Signature:** Available only if the document has not been signed by the signer yet, and it is their turn to sign according to the order established by the sender, if applicable. Used when the signer, for some reason, does not wish to sign the document. In this case, they should provide a reason for the refusal and click on "Refuse Signature."
 
-<figure><img src="../.gitbook/assets/13.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/13 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Resend:** This option will only be displayed if the user, in addition to being a signer, is also the sender of the document, and if the document has expired, meaning the signing deadline passed before all signatories have signed. Clicking this button will display information about the sending order to the recipients, the email or phone to which the document was sent, the security code for accessing the document (if applicable), and an "Edit" icon that allows editing recipient information.
 
-<figure><img src="../.gitbook/assets/14 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/14 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Rename:** This option will only be displayed if the user, in addition to being a signer, is also the sender of the document. It is used to rename the document.
 
-<figure><img src="../.gitbook/assets/15 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/15 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Delete:** Used to delete the file, which will be moved to the Deleted Items folder.
 

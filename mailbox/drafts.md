@@ -38,11 +38,11 @@ In the Drafts menu, all documents that started to be configured for signature co
 
 It is possible to select more than one document by checking the checkboxes next to the file names and perform batch actions.&#x20;
 
-<figure><img src="../.gitbook/assets/09 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/09 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Move Document:** Clicking on this icon allows you to change the folder where the selected documents are stored.&#x20;
 
-<figure><img src="../.gitbook/assets/06 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/06 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Delete:** Clicking on this icon allows you to delete the selected documents.&#x20;
 
@@ -60,7 +60,7 @@ It is possible to select more than one document by checking the checkboxes next 
 
 **Change Folder:** Clicking on this option allows the user to change the folder where the document is stored.&#x20;
 
-<figure><img src="../.gitbook/assets/06 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/06 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Download File:** Used to download the document.&#x20;
 

@@ -96,7 +96,7 @@ In the Digital Certificate tab, the user should register A1 type digital certifi
 
 On the main screen, information about all certificates registered by the user is displayed.&#x20;
 
-<figure><img src="../.gitbook/assets/13 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/13 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">**INFORMATION:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">A1 type digital certificates store the user's signature on their own machine and have a password for access. By importing an A1 digital certificate, it will be hosted on the ArqSign platform (cloud) and can be used to sign documents on any device or computer.</mark>&#x20;
