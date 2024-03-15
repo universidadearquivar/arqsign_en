@@ -1,88 +1,120 @@
 # ✍️ Document Signing
 
-&#x20;The electronic signing process can be carried out through two pathways.&#x20;
+The electronic signing process can be carried out through two pathways:
 
-Access via the link from the notification received by email&#x20;
-
+{% tabs %}
+{% tab title="Access via the link from the notification received by email " %}
 This occurs when the responsible party receives an email notification, indicating that the document needs to be signed and providing the link for document access.&#x20;
 
 The user responsible for signing will receive an email notification containing the link to access the file. This email will also display the sender's name and the deadline for signing. If the recipient has set a personalized message, it will also be shown in this notification.&#x20;
 
-By clicking on the link or providing the code, the user will be directed to the login screen. If the user already has an active account on the signing platform, they can choose to sign the document without logging in or enter their credentials to access.&#x20;
+<figure><img src="../.gitbook/assets/01 (13).png" alt=""><figcaption></figcaption></figure>
 
-If the user does not have a registered account on the platform, they will be directed to the signing screen without having to provide credentials, but at the end of the process, a suggestion message will be displayed for them to create a free trial account.&#x20;
+By clicking on the link or providing the code, the user will be directed to the signing screen.
 
-IMPORTANT: Creating a free trial account is not mandatory.&#x20;
+<figure><img src="../.gitbook/assets/02 (13).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
 
-Direct Access to ArqSign via Login&#x20;
-
+{% tab title="Direct Access to ArqSign via Login " %}
 This occurs when the person responsible for the signature directly accesses the platform and checks the list of documents pending signature.&#x20;
 
 After logging into the account, the user should click on the menu "Inbox > Incoming Mailbox." To sign a document, click on the "Sign" button for the desired file.&#x20;
 
-Signing a Document&#x20;
+<figure><img src="../.gitbook/assets/03 (12).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
-1\. Accessing the Document&#x20;
+***
 
-If the sender has set a security code for opening the document, the signatory will be asked to enter the code, which should have been received earlier via email, WhatsApp, SMS, or from the sender. If the code is not received, the user should click on "Did Not Receive the Code."&#x20;
+## Signing a Document&#x20;
 
-\[assinatura23]&#x20;
+### Step 1 - Accessing the Document&#x20;
 
-\[assinatura22]&#x20;
+If the sender has set a security code for opening the document, the signatory will be asked to enter the code, which should have been received earlier via email, SMS or from the sender. If the code is not received, the user should click on "Did Not Receive the Code."&#x20;
 
-The document will be displayed on the screen for signing. To sign, the signatory should click on the designated signing area and choose the Signature Style.&#x20;
+<figure><img src="../.gitbook/assets/11 (8).png" alt=""><figcaption></figcaption></figure>
 
-Signature Style&#x20;
+<figure><img src="../.gitbook/assets/12 (10).png" alt=""><figcaption></figcaption></figure>
 
-The Signature Style is the visual representation of the user's signature. To complete the signing of a document, the user must choose how they will sign:&#x20;
 
-Default: In this style, the user needs to enter their full name and set the style (font) in which the text will be presented. To do this, click on "Style" and make the selection.&#x20;
 
-&#x20;
+The document will be displayed on the screen for signing. At the top of the screen, the sender's name, document name, navigation between pages, and zoom and full-screen viewing buttons will be presented.
 
-\[assinatura10]&#x20;
+<figure><img src="../.gitbook/assets/04 (12).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;
+Clicking on "Options," the signer will be able to perform the following actions:
 
-Drawing: To sign with a drawing, the user should sign or initial using the mouse in the "Signature Drawing Area." To correct, click on the "Erase" icon.&#x20;
+<figure><img src="../.gitbook/assets/05 (13).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;
+**Signature Registration:** Used to download the record of signatures made on the document. The Signature Registration displays all information about the electronic signatures made, such as the names of signers, date and time of signature, location and IP from where it was done, data of the digital certificates used, etc. If the sender has set up that a QR Code should be generated in the Signature Log on the Advanced Settings screen of the document registration, this QR Code will be displayed here.
 
-\[assinatura11]&#x20;
+<figure><img src="../.gitbook/assets/06 (11).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;
+**View History:** Used to view information about the document and the history of events related to it. It is also possible to download the original files of the process before the signatures were completed.
 
-Image: If desired, the user can upload an image representing their signature.&#x20;
+<figure><img src="../.gitbook/assets/07 (12).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;
+**Refuse Signing:** Used when the signer does not wish to sign the document for any reason. In this case, they should provide a justification for the refusal and click on "Refuse Signing". By declining the signature, the document signing process will be automatically canceled for all parties involved, and it will appear with the status "Canceled" for the sender responsible for the document.
 
-\[assinatura12]&#x20;
+<figure><img src="../.gitbook/assets/08 (11).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;
+**Conclude Later:** Used to return and complete the signature at another time.
 
-To complete the signature, the signatory should click on "Apply." If it is requested in the document to sign as an Individual and a Legal Entity, the same signature can be used for both by clicking on "Apply Individual and Legal Entity."&#x20;
+**File Download:** Used to download the document.
 
-Additional Information for the Signature&#x20;
+When signing the document, the system will automatically record the signer's acceptance of the "**Electronic Signature Agreement**."
 
-After defining the Signature Style, the user will be prompted to sign, which can be&#x20;
+To change the language of the document viewing screen, in the bottom right corner of the screen, choose between "English - USA", "Spanish - Spain", or "Portuguese - Brazil".
 
-1. Electronic Signature&#x20;
+<figure><img src="../.gitbook/assets/09 (12).png" alt=""><figcaption></figcaption></figure>
 
-In electronic signature, the user provides their personal or business information, and ArqSign itself certifies the authenticity and truthfulness of the presented information.&#x20;
+To proceed with the signature, the signer must click on "Sign."
 
-If the user is using an electronic signature, they will need to enter the mandatory fields requested in the "Data" area. Mandatory fields vary depending on the document. The symbol \* indicates that the information is mandatory.&#x20;
+<figure><img src="../.gitbook/assets/10 (8).png" alt=""><figcaption></figcaption></figure>
 
-Actions on the Signing Screen&#x20;
+***
 
-By clicking on the "Options" button in the upper right corner of the signing screen, the user will have access to the following options:&#x20;
+### Step 2 - Signatory Information and Attachments&#x20;
 
-Download File: Used to download the document.&#x20;
+In the next step, if the signer has been requested to provide additional data, they should fill it in.
 
-Decline Signature: Used when the signatory does not wish to sign the document for any reason. In this case, they must provide a justification for the refusal and click on "Decline Signature." By declining the signature, the document's signing process will be automatically canceled for all parties involved and will appear with the status "Canceled" for the sender responsible for the document.&#x20;
+If the signer has also been requested to attach files, they should upload the requested documents in the "Attachments" field. After completing, the user should click on "Next."
 
-View History: Used to view information about the document and the history of events related to it. It is also possible to download the original files of the process before the signatures were completed.
+<figure><img src="../.gitbook/assets/13 (7).png" alt=""><figcaption></figcaption></figure>
 
-Signature Log: Used to download the log of the signatures made on the document. The Signature Log displays all information about the electronic signatures made, such as the names of the signatories, date and time of the signature, location and IP from where it was made, data from the certificates used, etc.
+***
 
-Electronic Signature Terms: Clicking on this option will display the Electronic Signature Terms presented to all signatories for acknowledgment of the truthfulness and authenticity of the signed documents. It is also possible to print this term by clicking on the print icon.
+### Step 3 - Signature Style&#x20;
+
+The Signature Style is the visual representation of the user's signature. To complete the signing of a document, the user must choose how they will sign:
+
+* **Default:** In this style, the user must provide their full name and choose the style (font) in which the text will be presented. To do this, they should click on "Style" and make the selection.
+
+<figure><img src="../.gitbook/assets/14 (6).png" alt=""><figcaption></figcaption></figure>
+
+* **Drawing:** To sign with a drawing, the user should sign or initial using the mouse in the "Signature Drawing Area." To correct, they should click on the "Erase" icon.
+
+<figure><img src="../.gitbook/assets/15 (5).png" alt=""><figcaption></figcaption></figure>
+
+* **Image:** If desired, the user can upload an image representing their signature.
+
+<figure><img src="../.gitbook/assets/16 (5).png" alt=""><figcaption></figcaption></figure>
+
+To conclude, the signer should click on "Finish". If it was requested in the document that they sign as both an Individual and a Legal Entity, the same signature will be used for both situations.
+
+They will be directed to the login screen. If they already have an active account on the signing platform, they can enter their credentials to access it. If they do not have a registered account on the platform, a message suggesting that they create a free trial account will be displayed.
+
+{% hint style="warning" %}
+<mark style="color:orange;">**Creating a free trial account is not mandatory.**</mark>
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/17 (3).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### Step 4 - Concluding the signing process
+
+After the process is completed and all signatories have signed the document, all participants will receive an email or WhatsApp notification about the completion of the signing process. By clicking on the received link, it will be possible to view the signed document, the document's ID code, information about the digital certificates and electronic signatures used for signing, and the history of events related to the document, as well as information about the signatories.
+
+<figure><img src="../.gitbook/assets/18 (2).png" alt=""><figcaption></figcaption></figure>
 
