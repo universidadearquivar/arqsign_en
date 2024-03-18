@@ -8,6 +8,7 @@
 * [✍️ Document Signing](top-menu/document-signing.md)
 * [🖊️ Batch Signing](top-menu/batch-signing.md)
 * [⏱️ Overdue](top-menu/overdue.md)
+* [🛒 Purchase Plan or Change Plan](top-menu/purchase-plan-or-change-plan.md)
 * [👤 My Profile](top-menu/my-profile.md)
 
 ## MAILBOX
