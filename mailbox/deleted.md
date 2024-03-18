@@ -20,7 +20,7 @@ In the Deleted menu, all documents deleted by the user are displayed. Documents 
 
 **Column Status:** The possible statuses for a document are "Completed" (all participants have signed the document), "Cancelled" (the document sending was canceled, and the signature process was interrupted), and "Created" (the document was created on the platform, but its configuration and sending to recipients have not been completed yet). When hovering over the status, information about signatories with pending signatures and those who have already completed, along with their data, is displayed. The security code sent to recipients is also shown (if applicable).&#x20;
 
-<figure><img src="../.gitbook/assets/03 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/03 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Column Size:** This column displays the file size of the document.&#x20;
 
@@ -32,11 +32,11 @@ In the Deleted menu, all documents deleted by the user are displayed. Documents 
 
 **Column Actions:** This column displays action buttons related to the document. The priority action for execution, according to the user's profile and document status, will always be displayed in this button.&#x20;
 
-<figure><img src="../.gitbook/assets/05 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/05 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Filter Bar:** It allows locating one or more documents using the available search filters. On the Deleted Items screen, the search can be performed by the document name, the responsible party's name, the names of the signatories, the document status, the folder where the document is hosted, or the document deletion date.&#x20;
 
-<figure><img src="../.gitbook/assets/04 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/04 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 

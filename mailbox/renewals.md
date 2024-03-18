@@ -16,7 +16,7 @@ In the Renewals menu, all documents that were registered and sent for signature 
 
 **Column Status:** On the Renewals screen, the only possible status for a document is "Completed" (all participants have signed the document). When hovering over the status, information about the signatories is displayed. The security code sent to recipients is also shown (if applicable).&#x20;
 
-<figure><img src="../.gitbook/assets/03 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/03 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Column Size:** In this column, the file size of the document is displayed.&#x20;
 
@@ -30,7 +30,7 @@ In the Renewals menu, all documents that were registered and sent for signature 
 
 **Filter Bar:** It is possible to locate one or more documents using the available search filters. On the Renewals screen, the search can be performed by the document name, the responsible party's name, the names of the signatories, the document status, the folder where the document is hosted, or the document deletion date.&#x20;
 
-<figure><img src="../.gitbook/assets/04 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/04 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
@@ -60,7 +60,7 @@ It is possible to select more than one document by checking the checkboxes next 
 
 ## Individual Action Buttons - Renewals&#x20;
 
-<figure><img src="../.gitbook/assets/05 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/05 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Renew:** This action will be available if the document has reached the scheduled date and time for renewal, specified in the field "Schedule renewal \_\_\_ months after the completion of signatures" on the New Document > Add Documents and Recipients > Add Documents screen. Clicking this button will redirect the user to the document registration screen to configure and resend the document to recipients.&#x20;
 
