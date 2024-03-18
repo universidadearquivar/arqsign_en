@@ -2,13 +2,13 @@
 
 In the Renewals menu, all documents that were registered and sent for signature with the option "Schedule renewal \_\_\_ months after completion of signatures" marked on the New Document > Add Documents and Recipients > Add Documents screen are displayed. Only documents with the "Completed" status can be shown on this screen.
 
-<figure><img src="../.gitbook/assets/01 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/01 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
 ## Columns on the Renewals Screen&#x20;
 
-<figure><img src="../.gitbook/assets/02 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/02 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Column Process Name:** In this column, the document name and the name of the signer are displayed. If there is more than one signer, the name of the first signer and the number of other people who should sign will be shown.&#x20;
 
@@ -42,7 +42,7 @@ It is possible to select more than one document by checking the checkboxes next 
 
 **Move Document:** Clicking on this icon allows you to change the folder where the selected documents are stored.&#x20;
 
-<figure><img src="../.gitbook/assets/06 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/06 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Change Owner:** Clicking on this icon enables you to change the ownership of the selected documents, meaning the document administration functions will belong to another user. This action can only be undone if the user defined as the new owner returns the document ownership to the original owner. The batch owner change has a 24-hour timeframe for completion, and to track progress, the user should access the My Profile > Requests Tab.&#x20;
 
@@ -70,7 +70,7 @@ It is possible to select more than one document by checking the checkboxes next 
 
 **Change Folder:** Clicking on this option allows the user to change the directory folder where the document is stored.&#x20;
 
-<figure><img src="../.gitbook/assets/06 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/06 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Change Renewal:** This option will only be available if the document has not yet reached the renewal deadline specified in its registration. Clicking this option allows changing the renewal date by specifying the number of months for the document's renewal interval. It is also possible to delete the renewal by clicking "Delete Schedule."&#x20;
 

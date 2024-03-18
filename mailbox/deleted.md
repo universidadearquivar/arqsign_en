@@ -80,4 +80,4 @@ It is possible to select more than one document by checking the checkboxes next 
 
 **History:** Used to view information about the document and the history of events related to it. It's also possible to download the original files of the process before the signatures were completed. This option will only be available for documents with the "Completed" status.&#x20;
 
-<figure><img src="../.gitbook/assets/06 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/06 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>

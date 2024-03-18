@@ -21,7 +21,7 @@ The advanced settings are settings related to the document. All of them have a d
 * **Send Reminders to Recipients Every:** In this field, specify how often (in days) the system should send signature reminders to recipients who have not yet signed.
 * **Generate Access QR Code in the Signature Log:** By activating this option, a QR code will be generated in the signature log document. By default, this option will be unchecked.
 
-<figure><img src="../.gitbook/assets/01.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/01 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 To include the document that needs to be signed, select or drag the desired file to the document inclusion field. More than one file can be included.
 
@@ -41,7 +41,7 @@ Multiple files can be included in the same submission. In this case, the files a
 <mark style="color:orange;">**Each file can have up to 35MB or up to 2000 pages, with a total limit of 100MB.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/02.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/02 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 In the **"Document Name"** field, edit the document name. To delete a file after uploading, click on the "Delete" icon next to the file name.
 
@@ -63,7 +63,7 @@ In the "**Recipients**" field, fill in the fields related to the users who will 
 
 To add a recipient saved in the contact list, click on the "**Add recipient from my contacts**" icon. The contact list must be created beforehand in the My Profile menu.&#x20;
 
-<figure><img src="../.gitbook/assets/06.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/06 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 By clicking this button, the list is displayed. To add the desired recipients, select them by clicking the checkbox next to their name and click "**Add Recipients**."
 
