@@ -9,6 +9,7 @@
 * [🖊️ Batch Signing](top-menu/batch-signing.md)
 * [⏱️ Overdue](top-menu/overdue.md)
 * [🛒 Purchase Plan or Change Plan](top-menu/purchase-plan-or-change-plan.md)
+* [💳 Buy Credits](top-menu/buy-credits.md)
 * [👤 My Profile](top-menu/my-profile.md)
 
 ## MAILBOX
