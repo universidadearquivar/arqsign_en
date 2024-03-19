@@ -28,4 +28,5 @@
 
 ## ADMINISTRATION
 
-* [⚙️ Administration](administration/administration.md)
+* [⚙️ Administration](administration/administration/README.md)
+  * [🟪 Account](administration/administration/account.md)
