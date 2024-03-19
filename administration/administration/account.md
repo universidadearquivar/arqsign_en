@@ -2,7 +2,7 @@
 
 In the Account menu, you can find information about the user's account.
 
-<figure><img src="../../.gitbook/assets/01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/01.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
@@ -12,7 +12,7 @@ In the Invoice Data tab, the fiscal and financial details of the user are displa
 
 If the user's account is on a free plan, the information will be blank but can be edited by clicking on the "Edit" button.&#x20;
 
-<figure><img src="../../.gitbook/assets/02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/02.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 In this tab, the following user information is presented:&#x20;
 
@@ -30,7 +30,7 @@ In this tab, the following user information is presented:&#x20;
 * **State:** The state of the user or company.&#x20;
 * **City:** The city of the user or company.&#x20;
 
-<figure><img src="../../.gitbook/assets/03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/03.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
@@ -44,7 +44,7 @@ In the Plan and Consumption sub-tab, the type of plan, billing period (annual or
 
 By default, when creating an account, the "Automatic Renewal" option will be automatically enabled. To cancel this renewal, simply uncheck this option.&#x20;
 
-<figure><img src="../../.gitbook/assets/04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/04.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">By keeping the automatic renewal enabled, when the plan expires, the system will automatically renew the payment using the same payment method as the previous purchase. If the option is disabled, the "Buy Now" button will be displayed, allowing the user to repurchase the same plan or choose another plan.</mark>&#x20;
@@ -52,11 +52,11 @@ By default, when creating an account, the "Automatic Renewal" option will be aut
 
 To change the payment method for the plan, click on "Change Payment Method." A link will be sent to the account owner's email or phone with instructions to make this change.&#x20;
 
-<figure><img src="../../.gitbook/assets/05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/05.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 Clicking on "Plan Details" will display information about the user's current plan, such as plan type, billing period (monthly or annual), amount paid for the plan, description and quantity of items the plan provides access to, credit values, excess credits, and the plan's expiration date.
 
-<figure><img src="../../.gitbook/assets/07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/07.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 On this screen, it is also possible to view the remaining credits the user has for sending documents. In "Accumulated Plan Usage," the user can see the quantity of document sends included in the contracted plan.&#x20;
 
@@ -68,7 +68,7 @@ In "Remaining Credits from Plan Subscription," the credits the user still has in
 
 If the user has purchased additional credits beyond those already included in the plan, clicking on "Expiration Dates of Extra Credits" will allow them to view the dates on which separately purchased credits will expire.&#x20;
 
-<figure><img src="../../.gitbook/assets/08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/08.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
@@ -78,9 +78,9 @@ In the Purchase History tab, the user can find a description of the products alr
 
 Clicking on "Plan Details" displays a detailed description and quantity of the items included in the plan, credit values, excess credit values (if purchased), and the expiration date of each item.
 
-<figure><img src="../../.gitbook/assets/06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/06.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/07.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
@@ -90,7 +90,7 @@ Clicking on "Plan Details" displays a detailed description and quantity of the i
 
 By default, the settings on this tab are automatically filled in, but it is possible to modify them by clicking the "Edit" button.&#x20;
 
-<figure><img src="../../.gitbook/assets/09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/09.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 The values set here will be adopted as the default for the configuration of sending and renewing documents and signature processes performed by the user. However, these settings can be altered for each document during its creation in the "New Document > Add Documents and Recipients > Advanced Settings" screen.
 
@@ -100,7 +100,7 @@ The values set here will be adopted as the default for the configuration of send
 
 **Default setting for recurring reminders to be sent to recipients after the date of sending:** By checking this option, from the moment the document is sent until its expiration date, reminders will be sent to recipients at regular intervals determined in the field "Default time of \_\_\_\_\_ days for recurring reminder to recipients about any pending action on the document." If the option is disabled, the field below will also be automatically disabled.
 
-<figure><img src="../../.gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/10.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Generate QR Code for document access in the Signature Log:** If this option is enabled, the Signature Log of a signed document will display a QR Code through which the person accessing it can view the signed document.
 
@@ -112,11 +112,11 @@ The values set here will be adopted as the default for the configuration of send
 <mark style="color:orange;">**Upon completing the signature process, the system will send an access link to the document in the body of the email to all recipients.**</mark>&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/11.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Default setting for recurring reminders to be sent to senders after the scheduled renewal date of a document:** If this option is checked, when there is a completed document with a scheduled renewal, the system will remind the sender that it is eligible for renewal. This reminder will be sent at the interval defined in the field "Default time of \_\_\_\_ days for recurring reminders to senders about document renewal." If this option is disabled, this field will also be automatically disabled.
 
-<figure><img src="../../.gitbook/assets/12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/12.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
@@ -130,11 +130,11 @@ In this tab, signatory roles are created that will be presented when registering
 
 By default, the platform presents the roles "Hired," "Contractor," "Guarantor," "Party," and "Witness."&#x20;
 
-<figure><img src="../../.gitbook/assets/13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/13.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 To edit these roles, simply select the one you want and click on the "Edit" icon.
 
-<figure><img src="../../.gitbook/assets/14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/14.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 It will be possible to change the name of the role and set it as the default role.&#x20;
 
@@ -144,17 +144,17 @@ It will be possible to change the name of the role and set it as the default rol
 
 To create a new role, click on the "Add" icon and provide a name for the role. If you wish to make it the default role, check the option "Set this role as default." To finish, click on "Save."
 
-<figure><img src="../../.gitbook/assets/16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/16.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/15.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 To change the default role, click on "Remove Default" or "Set as Default," depending on your needs.
 
-<figure><img src="../../.gitbook/assets/17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/17.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 To delete a role, click on the "Delete" icon. It's also possible to find a role type using the search bar on the screen.
 
-<figure><img src="../../.gitbook/assets/18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/18.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
@@ -164,11 +164,11 @@ To delete a role, click on the "Delete" icon. It's also possible to find a role 
 
 **Notify every \_\_\_\_\_ days, starting from \_\_\_\_\_ days before the subscription expiration:** By filling in these fields, global administrators of the account will be notified within the specified period as the plan expiration date approaches.&#x20;
 
-<figure><img src="../../.gitbook/assets/19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/19.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 If the "**Custom Notifications - Customization with brand colors and logo**" field is enabled, it will be possible to insert a banner and define the highlight colors of the notifications sent to recipients via email and WhatsApp.
 
-<figure><img src="../../.gitbook/assets/20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/20.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Pay attention to the standard dimensions of the banner image. Images outside the specified sizes will not be accepted.**</mark>
@@ -182,9 +182,9 @@ Clicking on "View Notification" will allow you to see how the notification email
 <mark style="color:orange;">**If these fields are not filled in, the system will send the banner and use the default colors of the ArqSign platform.**</mark>
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/21.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/22.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
@@ -196,15 +196,15 @@ In this tab, the user can insert or edit the Electronic Signature Term presented
 
 The platform presents the default term, but if the user wishes to edit or replace this text, they can do so by clicking on "Edit."&#x20;
 
-<figure><img src="../../.gitbook/assets/23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/23.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 They can also change the formatting and colors of the text using the editing toolbar.&#x20;
 
-<figure><img src="../../.gitbook/assets/24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/24.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 By clicking "Preview," the Term is displayed as it will be presented to signatories.
 
-<figure><img src="../../.gitbook/assets/25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/25.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
@@ -220,6 +220,6 @@ In this tab, all acceptances of the Electronic Signature Term by signatories are
 * **Geolocation:** This column shows the geolocation of the signatory's machine at the time they accepted the Electronic Signature Term.&#x20;
 * **View Term:** Clicking on this button displays the version of the term accepted by the signatory.&#x20;
 
-<figure><img src="../../.gitbook/assets/26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/26.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/27 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/27 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
