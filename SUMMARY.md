@@ -31,3 +31,4 @@
 * [⚙️ Administration](administration/administration/README.md)
   * [🟪 Account](administration/administration/account.md)
   * [🟪 Users](administration/administration/users.md)
+  * [🟪 User Groups](administration/administration/user-groups.md)
