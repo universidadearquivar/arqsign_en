@@ -8,11 +8,11 @@ The number of users that can be invited varies depending on the contracted plan.
 
 In the free plans, as many users as necessary can be created (unlimited).
 
-<figure><img src="../../.gitbook/assets/01 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/01 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 After a new user is added by the Global Administrator, the invitee receives an email invitation to join the account. If they already have an account on the platform, they only need to provide their password. If they don't have an account yet, they need to provide their name and create a password to access the platform for the first time.
 
-<figure><img src="../../.gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/11.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
@@ -46,11 +46,11 @@ The actions on the Users screen can be accessed through the top buttons, the act
 
 <div>
 
-<figure><img src="../../.gitbook/assets/03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/03.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/04.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 </div>
 
@@ -58,11 +58,11 @@ The actions on the Users screen can be accessed through the top buttons, the act
 
 The user must set a security code that the invitee will need to enter for the initial account access. Afterward, provide the user's email and choose the type of profile to be assigned, which can be Global Administrator (access to all features), Document Sender (sends and signs documents), or both.&#x20;
 
-<figure><img src="../../.gitbook/assets/02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/02.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 If the invited user has only the Document Sender profile, it is necessary to define the User Group to which the invitee will be associated. This user group will determine which folders in the directory the new account member will have access to and should have been previously created in the Administration > User Group menu. It is also possible to create a group by clicking on "New Group."&#x20;
 
-<figure><img src="../../.gitbook/assets/05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/05.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**The group definition is not required for users created with a Global Administrator profile because these users have access to all folders in the Directory Documents, eliminating the need for this restriction.**</mark>&#x20;
@@ -74,7 +74,7 @@ If the invited user has only the Document Sender profile, it is necessary to def
 
 
 
-<figure><img src="../../.gitbook/assets/06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/06.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Edit:** Used to edit user information.&#x20;
 
@@ -84,12 +84,12 @@ If the "Deactivate without Transfer" option is chosen, the user, despite being i
 
 If the "Transfer" option is chosen, it is necessary to inform who will be the new owner of the documents and whether all documents or only those in the signing process or with scheduled renewals will be transferred.&#x20;
 
-<figure><img src="../../.gitbook/assets/07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/07.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Delete:** Only users with "Pending" status, i.e., those who have been invited but have not yet joined the account, can be deleted from the account.&#x20;
 
-<figure><img src="../../.gitbook/assets/09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/09.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Search:** It is possible to search for a user in the account by name or email using the top search bar.&#x20;
 
-<figure><img src="../../.gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/10.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
