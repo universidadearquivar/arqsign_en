@@ -118,4 +118,4 @@ It is possible to select more than one document by checking the checkboxes next 
 
 **Refuse Signature:** Available only if the document has not been signed by the signer yet, and it is their turn to sign according to the order established by the sender, if applicable. Used when the signer, for some reason, does not wish to sign the document. In this case, they should provide a reason for the refusal and click on "Refuse Signature."
 
-<figure><img src="../.gitbook/assets/13 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/13 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>

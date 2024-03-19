@@ -169,7 +169,7 @@ Upon accessing their account, the user's homepage will display the following but
 
 **Logout:** Used to log out of the platform. &#x20;
 
-<figure><img src=".gitbook/assets/16 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/16 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 On the left side of the screen, all available menus are listed, grouped accordingly. It's essential to note that these menus are presented based on each user's permission level. &#x20;
 
@@ -179,7 +179,7 @@ On the left side of the screen, all available menus are listed, grouped accordin
 
 **Administration:** In this group, account, user, and user group settings are available. &#x20;
 
-<figure><img src=".gitbook/assets/17 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/17 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 In the bottom right corner of the screen, the user will find the Support menu, where they can access a demonstrative tutorial on platform access, FAQ (Frequently Asked Questions) about platform usage, learn how to verify the legal validity of a document, access content from the Help Center and ArqSign blog, schedule a free platform demonstration, and contact the technical support team via chat. &#x20;
 

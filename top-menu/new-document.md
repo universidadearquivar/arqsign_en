@@ -21,7 +21,7 @@ The advanced settings are settings related to the document. All of them have a d
 * **Send Reminders to Recipients Every:** In this field, specify how often (in days) the system should send signature reminders to recipients who have not yet signed.
 * **Generate Access QR Code in the Signature Log:** By activating this option, a QR code will be generated in the signature log document. By default, this option will be unchecked.
 
-<figure><img src="../.gitbook/assets/01 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/01 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 To include the document that needs to be signed, select or drag the desired file to the document inclusion field. More than one file can be included.
 
@@ -41,19 +41,19 @@ Multiple files can be included in the same submission. In this case, the files a
 <mark style="color:orange;">**Each file can have up to 35MB or up to 2000 pages, with a total limit of 100MB.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/02 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/02 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 In the **"Document Name"** field, edit the document name. To delete a file after uploading, click on the "Delete" icon next to the file name.
 
-<figure><img src="../.gitbook/assets/03 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/03 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 In the **"Document Folder"** field, select the folder where the document will be hosted. The folders in which documents can be stored should be created in the Directories > Documents menu. By default, a folder with the user's name is created and should be selected if no other folder exists.
 
-<figure><img src="../.gitbook/assets/04 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/04 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 To schedule the automatic renewal of the document being registered, select the checkbox in the **"Schedule renewal \_\_\_ months after completion of signatures"** field, specifying the number of months in which you want the document to be renewed. Once the signatures from the initial submission are completed, the system will start counting the specified period. When the renewal period is reached, the document owner (sender) will receive a notification indicating that the document is ready for renewal.
 
-<figure><img src="../.gitbook/assets/05 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/05 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
@@ -63,11 +63,11 @@ In the "**Recipients**" field, fill in the fields related to the users who will 
 
 To add a recipient saved in the contact list, click on the "**Add recipient from my contacts**" icon. The contact list must be created beforehand in the My Profile menu.&#x20;
 
-<figure><img src="../.gitbook/assets/06 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/06 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 By clicking this button, the list is displayed. To add the desired recipients, select them by clicking the checkbox next to their name and click "**Add Recipients**."
 
-<figure><img src="../.gitbook/assets/07.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/07 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 By checking the **"Sign in the order below"** checkbox, the document will be sent to recipients in the order defined in the **"Order"** field that will appear at the top of the "Recipient Data." When this option is set, a user will only receive the document after the preceding one completes their signing or viewing action.
 
@@ -75,13 +75,13 @@ By checking the **"Sign in the order below"** checkbox, the document will be sen
 <mark style="color:orange;">**If the previous user only had viewing access, the next signer will receive the document when the last signer before them completes the signature.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/08.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/08 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Name:** Provide the recipient's name.&#x20;
 
 **This recipient will:** Specify whether the recipient will sign the document online as an individual (Pessoa Física), as a legal entity (Pessoa Jurídica), or if they will only receive a copy of the document at the end of the signing process.
 
-<figure><img src="../.gitbook/assets/09.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/09 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 If it has been determined that the recipient will sign as an individual or a legal entity, it is necessary to define their role as a signer in the process. Select from one or more roles listed or add a custom "**Signer Role"** by clicking "**Add Role**".
 
@@ -89,39 +89,39 @@ The signer roles presented here are previously created in the Administration > A
 
 <div>
 
-<figure><img src="../.gitbook/assets/10.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/10 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/11.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/11 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 </div>
 
 **Signature Type:** Select whether the recipient should use an electronic signature or a digital certificate to sign the document.
 
-<figure><img src="../.gitbook/assets/12.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/12 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 By selecting the option **"Save this recipient to my contacts list,"** the recipient's provided data will be automatically saved to the user's contact list.
 
-<figure><img src="../.gitbook/assets/13.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/13 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **"Security Code" Icon:** By clicking on this icon, a numerical code can be created and sent to the recipient for document access. The code can be generated automatically by the system or manually input by the user.
 
-<figure><img src="../.gitbook/assets/14.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/14 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 After generating the code, choose whether it will be sent via email or SMS, and provide the email or phone number for delivery. It is also possible not to send the code, allowing the user to inform the recipient in their preferred manner. To delete the created code, simply click on "**Delete Security Code**."
 
-<figure><img src="../.gitbook/assets/15.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/15 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Custom Message Icon:** By clicking on this icon, you can insert a message that will be sent to the recipient along with the document. To do this, fill in the "Subject" and "Message" fields. If you wish to delete the message, click on **"Delete Custom Message."**
 
-<figure><img src="../.gitbook/assets/16.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/16 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 To add other recipients, click on the "Add New Recipient" button.&#x20;
 
 To include yourself as a recipient, click on **"Add me as a recipient".** The name and email fields will be automatically filled with the information registered in your user profile, and the "Send via" field will be filled with the "Email" option.&#x20;
 
-<figure><img src="../.gitbook/assets/17.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/17 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
@@ -133,11 +133,11 @@ In the "**Default Message"** field, the default message to be sent to all recipi
 <mark style="color:orange;">**In the case of recipients who have the Custom Message fields filled, the provided message will be sent in place of the default message.**</mark>&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/18.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/18 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 After completing these settings, click "Next" to proceed to the next step, "Save for Later" to save the document as a draft, or "Discard" to cancel the registration.
 
-<figure><img src="../.gitbook/assets/19.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/19 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
@@ -145,7 +145,7 @@ After completing these settings, click "Next" to proceed to the next step, "Save
 
 In the next step, the documents inserted in the previous stage will be displayed in PDF format, and the areas where participants in the process should sign need to be configured.
 
-<figure><img src="../.gitbook/assets/20.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/20 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ### Signature Fields&#x20;
 
@@ -153,11 +153,11 @@ In the right corner of the screen, choose between "**Manually position signature
 
 For each recipient added in the first step, it is necessary to configure the signature area. To do this, select the recipient in the "**Settings for**" field.&#x20;
 
-<figure><img src="../.gitbook/assets/21.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/21 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 If the option "**Manually position signatures**" was chosen, the "**Signature Fields**" section will be displayed. To create the signature area, drag the "**Sign as**" box to the part of the document where you want the signature to be inserted.&#x20;
 
-<figure><img src="../.gitbook/assets/22.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/22 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 If the option "**Automatically position signatures on a page at the end of the document**" has been chosen, a page will be inserted at the end of the document where signatures and signatory information will be displayed in an orderly manner. The role that the signer has in the contract is also displayed.
 
@@ -167,7 +167,7 @@ If in step 1 it was defined that the recipient will sign as an individual and a 
 <mark style="color:orange;">**Note that the boxes for recipients are of the same color as shown in the "Settings for" field.**</mark>&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/23.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/23 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
@@ -177,7 +177,7 @@ Depending on the type of signature defined for the recipient in step 1, the "**A
 
 If the signature is as an Individual, it is possible to require the recipient's name and some document by selecting the options "Individual's Name" and "Individual's Document" as mandatory fields.&#x20;
 
-<figure><img src="../.gitbook/assets/24.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/24 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 To require a document, select the desired option among CPF, CNH, RG, or others. If the last option is selected, you will need to provide the document's name, specify if it is text or numeric, and indicate the number of characters.&#x20;
 
@@ -185,7 +185,7 @@ If the signature is as a Legal Entity, it is possible to require the recipient's
 
 To require a document, select the desired option among Driver's License, Identity or others. If the last option is selected, you will need to provide the document name, specify whether it is text or numeric, and indicate the number of characters.
 
-<figure><img src="../.gitbook/assets/25.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/25 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 If the signature is as a Legal Entity, it is possible to require the recipient to provide the company's legal name and some document by checking the options "Legal Entity Name" and "Legal Entity Document" as mandatory fields.
 
@@ -199,7 +199,7 @@ Provide the name of the attachment that will be requested and specify whether it
 
 It is possible to request more than one attachment by clicking on the "**Add**" icon.&#x20;
 
-<figure><img src="../.gitbook/assets/26.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/26 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 By clicking "**Delete,**" the document will be deleted. Clicking "**Save as Draft**" will save the document in the Drafts folder. To edit the document or recipients, click "**Previous Step**." Once the signature field configurations are completed, click "**Send**" to submit the document for the recipients' signatures.&#x20;
 
