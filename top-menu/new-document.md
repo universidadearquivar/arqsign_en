@@ -21,7 +21,7 @@ The advanced settings are settings related to the document. All of them have a d
 * **Send Reminders to Recipients Every:** In this field, specify how often (in days) the system should send signature reminders to recipients who have not yet signed.
 * **Generate Access QR Code in the Signature Log:** By activating this option, a QR code will be generated in the signature log document. By default, this option will be unchecked.
 
-<figure><img src="../.gitbook/assets/01 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/01 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 To include the document that needs to be signed, select or drag the desired file to the document inclusion field. More than one file can be included.
 
@@ -41,19 +41,19 @@ Multiple files can be included in the same submission. In this case, the files a
 <mark style="color:orange;">**Each file can have up to 35MB or up to 2000 pages, with a total limit of 100MB.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/02 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/02 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 In the **"Document Name"** field, edit the document name. To delete a file after uploading, click on the "Delete" icon next to the file name.
 
-<figure><img src="../.gitbook/assets/03 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/03 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 In the **"Document Folder"** field, select the folder where the document will be hosted. The folders in which documents can be stored should be created in the Directories > Documents menu. By default, a folder with the user's name is created and should be selected if no other folder exists.
 
-<figure><img src="../.gitbook/assets/04 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/04 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 To schedule the automatic renewal of the document being registered, select the checkbox in the **"Schedule renewal \_\_\_ months after completion of signatures"** field, specifying the number of months in which you want the document to be renewed. Once the signatures from the initial submission are completed, the system will start counting the specified period. When the renewal period is reached, the document owner (sender) will receive a notification indicating that the document is ready for renewal.
 
-<figure><img src="../.gitbook/assets/05 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/05 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
@@ -63,11 +63,11 @@ In the "**Recipients**" field, fill in the fields related to the users who will 
 
 To add a recipient saved in the contact list, click on the "**Add recipient from my contacts**" icon. The contact list must be created beforehand in the My Profile menu.&#x20;
 
-<figure><img src="../.gitbook/assets/06 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/06 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 By clicking this button, the list is displayed. To add the desired recipients, select them by clicking the checkbox next to their name and click "**Add Recipients**."
 
-<figure><img src="../.gitbook/assets/07 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/07 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 By checking the **"Sign in the order below"** checkbox, the document will be sent to recipients in the order defined in the **"Order"** field that will appear at the top of the "Recipient Data." When this option is set, a user will only receive the document after the preceding one completes their signing or viewing action.
 
@@ -81,7 +81,7 @@ By checking the **"Sign in the order below"** checkbox, the document will be sen
 
 **This recipient will:** Specify whether the recipient will sign the document online as an individual (Pessoa Física), as a legal entity (Pessoa Jurídica), or if they will only receive a copy of the document at the end of the signing process.
 
-<figure><img src="../.gitbook/assets/09 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/09 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 If it has been determined that the recipient will sign as an individual or a legal entity, it is necessary to define their role as a signer in the process. Select from one or more roles listed or add a custom "**Signer Role"** by clicking "**Add Role**".
 
@@ -89,11 +89,11 @@ The signer roles presented here are previously created in the Administration > A
 
 <div>
 
-<figure><img src="../.gitbook/assets/10 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/10 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/11 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/11 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 </div>
 

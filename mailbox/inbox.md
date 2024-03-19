@@ -90,7 +90,7 @@ It is possible to select more than one document by checking the checkboxes next 
 
 **Download Signature Registration:** Used to download the log of signatures performed on the document. The Signature Log displays all information about the electronic signatures, such as the names of the signers, date and time of the signature, location and IP from where it was done, data of the digital certificates used, etc.&#x20;
 
-<figure><img src="../.gitbook/assets/10 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/10 (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Cancel:** This option will only be displayed if the user, in addition to being a signer, is also the sender of the document. Clicking this option cancels the document, and the signature process is halted. This option will not be displayed if the document status is "Completed."
 
@@ -100,7 +100,7 @@ It is possible to select more than one document by checking the checkboxes next 
 
 **Share:** This option allows the user to create a link to access the document, which can be shared with individuals who are not participants in the signature process. This link can have a specified or indefinite expiration date, and the user can determine whether to allow those who access it to also view the attachments sent by the signatories.
 
-<figure><img src="../.gitbook/assets/11 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/11 (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Change Renewal Schedule:** This option will only be displayed if the user, in addition to being a signer, is also the sender of the document. It is used to modify or add a renewal deadline to the document, as previously set in the New Document > Add Documents menu.
 

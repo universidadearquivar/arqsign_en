@@ -2,7 +2,7 @@
 
 In the Account menu, you can find information about the user's account.
 
-<figure><img src="../../.gitbook/assets/01.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/01 (2).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
@@ -12,7 +12,7 @@ In the Invoice Data tab, the fiscal and financial details of the user are displa
 
 If the user's account is on a free plan, the information will be blank but can be edited by clicking on the "Edit" button.&#x20;
 
-<figure><img src="../../.gitbook/assets/02.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/02 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 In this tab, the following user information is presented:&#x20;
 
@@ -30,7 +30,7 @@ In this tab, the following user information is presented:&#x20;
 * **State:** The state of the user or company.&#x20;
 * **City:** The city of the user or company.&#x20;
 
-<figure><img src="../../.gitbook/assets/03.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/03 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
@@ -44,7 +44,7 @@ In the Plan and Consumption sub-tab, the type of plan, billing period (annual or
 
 By default, when creating an account, the "Automatic Renewal" option will be automatically enabled. To cancel this renewal, simply uncheck this option.&#x20;
 
-<figure><img src="../../.gitbook/assets/04.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/04 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">By keeping the automatic renewal enabled, when the plan expires, the system will automatically renew the payment using the same payment method as the previous purchase. If the option is disabled, the "Buy Now" button will be displayed, allowing the user to repurchase the same plan or choose another plan.</mark>&#x20;
@@ -52,11 +52,11 @@ By default, when creating an account, the "Automatic Renewal" option will be aut
 
 To change the payment method for the plan, click on "Change Payment Method." A link will be sent to the account owner's email or phone with instructions to make this change.&#x20;
 
-<figure><img src="../../.gitbook/assets/05.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/05 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 Clicking on "Plan Details" will display information about the user's current plan, such as plan type, billing period (monthly or annual), amount paid for the plan, description and quantity of items the plan provides access to, credit values, excess credits, and the plan's expiration date.
 
-<figure><img src="../../.gitbook/assets/07.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/07 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 On this screen, it is also possible to view the remaining credits the user has for sending documents. In "Accumulated Plan Usage," the user can see the quantity of document sends included in the contracted plan.&#x20;
 
@@ -78,9 +78,9 @@ In the Purchase History tab, the user can find a description of the products alr
 
 Clicking on "Plan Details" displays a detailed description and quantity of the items included in the plan, credit values, excess credit values (if purchased), and the expiration date of each item.
 
-<figure><img src="../../.gitbook/assets/06.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/06 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/07.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/07 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
@@ -90,7 +90,7 @@ Clicking on "Plan Details" displays a detailed description and quantity of the i
 
 By default, the settings on this tab are automatically filled in, but it is possible to modify them by clicking the "Edit" button.&#x20;
 
-<figure><img src="../../.gitbook/assets/09.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/09 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 The values set here will be adopted as the default for the configuration of sending and renewing documents and signature processes performed by the user. However, these settings can be altered for each document during its creation in the "New Document > Add Documents and Recipients > Advanced Settings" screen.
 
@@ -100,7 +100,7 @@ The values set here will be adopted as the default for the configuration of send
 
 **Default setting for recurring reminders to be sent to recipients after the date of sending:** By checking this option, from the moment the document is sent until its expiration date, reminders will be sent to recipients at regular intervals determined in the field "Default time of \_\_\_\_\_ days for recurring reminder to recipients about any pending action on the document." If the option is disabled, the field below will also be automatically disabled.
 
-<figure><img src="../../.gitbook/assets/10.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/10 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Generate QR Code for document access in the Signature Log:** If this option is enabled, the Signature Log of a signed document will display a QR Code through which the person accessing it can view the signed document.
 
@@ -112,7 +112,7 @@ The values set here will be adopted as the default for the configuration of send
 <mark style="color:orange;">**Upon completing the signature process, the system will send an access link to the document in the body of the email to all recipients.**</mark>&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/11.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/11 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Default setting for recurring reminders to be sent to senders after the scheduled renewal date of a document:** If this option is checked, when there is a completed document with a scheduled renewal, the system will remind the sender that it is eligible for renewal. This reminder will be sent at the interval defined in the field "Default time of \_\_\_\_ days for recurring reminders to senders about document renewal." If this option is disabled, this field will also be automatically disabled.
 
