@@ -25,3 +25,7 @@
 * [📁 Documents](directories/documents/README.md)
   * [🟪 Directory configuration for clients who have not yet signed documents](directories/documents/directory-configuration-for-clients-who-have-not-yet-signed-documents.md)
   * [🟪 Directory configuration for clients who have already signed documents](directories/documents/directory-configuration-for-clients-who-have-already-signed-documents.md)
+
+## ADMINISTRATION
+
+* [⚙️ Administration](administration/administration.md)
