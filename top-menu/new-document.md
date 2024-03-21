@@ -155,13 +155,21 @@ For each recipient added in the first step, it is necessary to configure the sig
 
 <figure><img src="../.gitbook/assets/21 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-If the option "**Manually position signatures**" was chosen, the "**Signature Fields**" section will be displayed. To create the signature area, drag the "**Sign as**" box to the part of the document where you want the signature to be inserted.&#x20;
+If the option **"Manually Position Signatures"** has been chosen, the **"Signature Fields"** field will be displayed. To create the signature area, click on the **"Sign as Individual"** box.
 
-<figure><img src="../.gitbook/assets/22 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/img04.png" alt=""><figcaption></figcaption></figure>
+
+The signature area as an individual with the signatory's name will be inserted into the document. It will be possible to resize, enlarge, shrink, and position the signature area by dragging with the cursor or using the arrows.
+
+<figure><img src="../.gitbook/assets/img05.png" alt=""><figcaption></figcaption></figure>
+
+If the recipient will also sign as a legal entity, click on **"Sign as Corporate"** and repeat the process. To delete a signature area, click on the **"Delete"** icon above the area.
+
+<figure><img src="../.gitbook/assets/img06.png" alt=""><figcaption></figcaption></figure>
 
 If the option "**Automatically position signatures on a page at the end of the document**" has been chosen, a page will be inserted at the end of the document where signatures and signatory information will be displayed in an orderly manner. The role that the signer has in the contract is also displayed.
 
-If in step 1 it was defined that the recipient will sign as an individual and a legal entity, two boxes with their names in the same color should be inserted. The boxes for each of the recipients will be displayed in different colors to visually signal where each should sign.&#x20;
+If in [step 1](new-document.md#step-1-add-documents-and-recipients) it was defined that the recipient will sign as an individual and a legal entity, two boxes with their names in the same color should be inserted. The boxes for each of the recipients will be displayed in different colors to visually signal where each should sign.&#x20;
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Note that the boxes for recipients are of the same color as shown in the "Settings for" field.**</mark>&#x20;
