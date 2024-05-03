@@ -2,11 +2,9 @@
 
 ## Platform features
 
-ArqSign is a platform for electronic signatures that operates as follows: the user uploads the document, selects the signatories, establishes the signatures, and sends it to those involved in the signing process. Users can access the sent and received documents for signature anytime, from anywhere, on any device – be it a mobile phone, computer, or tablet – without compromising data security and encryption.&#x20;
+ArqSign is an electronic signature platform enabling users to easily upload, designate signatories, and send documents for digital signing from any device, ensuring flexibility and security through robust encryption. It features an API for integrating digital signatures into existing business workflows, enhancing operational efficiency. Primarily, ArqSign facilitates the electronic management and signing of documents, supporting both electronic signatures and digital certificates. Tailored for the American market, it emphasizes compliance, security, and accessibility, providing a streamlined solution for businesses adopting digital document processes.&#x20;
 
-ArqSign features the implementation of an API (Application Programming Interface), allowing users to integrate their Electronic and Digital Document Signatures into their company's solutions. &#x20;
-
-The primary functionality of the ArqSign platform is to offer users the ability to send, manage, and sign documents digitally, using electronic signatures or digital certificates.&#x20;
+Designed to meet the demands of the American market, ArqSign places a strong emphasis on compliance, security, and user accessibility. Its goal is to offer a reliable and efficient solution for businesses transitioning to digital document management and electronic signatures.&#x20;
 
 ***
 
