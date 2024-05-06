@@ -81,9 +81,12 @@ The free trial account of the ArqSign Platform provides users with nearly all th
 
 <figure><img src=".gitbook/assets/09 (5).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-4. To complete the process, click on "Start my Free Trial". A confirmation message of the account creation will be displayed. To access the platform, click on the provided link. &#x20;
-5. The user will receive two emails from the platform. The first email will provide instructions on how to use the free trial. In the second email, the user will receive the activation link for the account, which should be clicked to complete the initial access.
-6. The user will be directed to the login screen, where they should enter the password created during registration and click on "Entrar" (Enter) to complete the initial access.
+To complete the process, click on&#x20;
+
+4. "Start my Free Trial". A confirmation message of the account creation will be displayed. To access the platform, click on the provided link. &#x20;
+5. The user will receive two emails from the platform. The first email will provide instructions on how to use the free trial.
+6. In the second email, the user will receive the activation link for the account, which should be clicked to complete the initial access.
+7. The user will be directed to the login screen, where they should enter the password created during registration and click on "Enter" to complete the initial access.
 
 <figure><img src=".gitbook/assets/10 (3).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
