@@ -8,9 +8,9 @@ On the New Document screen, the user will be able to register a document that wi
 
 #### Advanced Settings
 
-The advanced settings are settings related to the document. All of them have a default value, which can be adjusted in the Administration > Account > Settings menu for all documents or specifically on the New Document screen.
+Advanced settings pertain to the document.
 
-* **Document Expiration Time after Sending:** In this field, the user must specify the expiration period (in days) for the document, i.e., the deadline for recipients to sign it.&#x20;
+**Document Expiration Time after Sending:** In this field, the user must specify the expiration period (in days) for the document, i.e., the deadline for recipients to sign it.&#x20;
 
 {% hint style="warning" %}
 <mark style="color:orange;">**If this field is not modified, it will be filled with the default value. The system's default value is 120 days, but this can be changed in the Administration menu > Account > Settings.**</mark>
@@ -23,7 +23,7 @@ The advanced settings are settings related to the document. All of them have a d
 
 <figure><img src="../.gitbook/assets/01 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-To include the document that needs to be signed, select or drag the desired file to the document inclusion field. More than one file can be included.
+To include the document that needs to be signed, select or drag the desired file to the document inclusion field.&#x20;
 
 Multiple files can be included in the same submission. In this case, the files are grouped into a single archive.
 
