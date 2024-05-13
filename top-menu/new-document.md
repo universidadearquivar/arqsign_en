@@ -147,13 +147,13 @@ In the next step, the documents inserted in the previous stage will be displayed
 
 <figure><img src="../.gitbook/assets/20 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
+### Signature Fields&#x20;
+
 In the right corner of the screen, choose between "**Manually position signatures**" to select where the signature areas will be placed in the document, or "**Automatically position signatures on a page at the end of the document**" so that all signatures are inserted at the end of the last page of the document.&#x20;
 
 For each recipient added in the first step, it is necessary to configure the signature area. To do this, select the recipient in the "**Settings for**" field.&#x20;
 
 <figure><img src="../.gitbook/assets/21 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
-
-### Signature Fields&#x20;
 
 If the option **"Manually Position Signatures"** was chosen, the **"Signature Fields"** section will be displayed. To create the signature area, drag the **"Sign as Individual"** box to the part of the document where you  want the signature to be inserted.
 
