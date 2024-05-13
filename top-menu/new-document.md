@@ -117,7 +117,7 @@ After generating the code, choose whether it will be sent via email or SMS, and 
 
 <figure><img src="../.gitbook/assets/16 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-To add other recipients, click on the "Add New Recipient" button.&#x20;
+To add other recipients, click on the "**Add New Recipient**" button.&#x20;
 
 To include yourself as a recipient, click on **"Add me as a recipient".** The name and email fields will be automatically filled with the information registered in your user profile, and the "Send via" field will be filled with the "Email" option.&#x20;
 
@@ -135,7 +135,7 @@ In the "**Default Message"** field, the default message to be sent to all recipi
 
 <figure><img src="../.gitbook/assets/18 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-After completing these settings, click "Next" to proceed to the next step, "Save for Later" to save the document as a draft, or "Discard" to cancel the registration.
+After completing these settings, click "**Next**" to proceed to the next step, "Save for Later" to save the document as a draft, or "Discard" to cancel the registration.
 
 <figure><img src="../.gitbook/assets/19 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
