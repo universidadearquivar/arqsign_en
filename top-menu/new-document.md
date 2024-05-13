@@ -77,13 +77,13 @@ By checking the **"Sign in the order below"** checkbox, the document will be sen
 
 <figure><img src="../.gitbook/assets/08 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Name:** Provide the recipient's name.&#x20;
+**Recipient's name:** Enter the recipient's name.&#x20;
 
-**This recipient will:** Specify whether the recipient will sign the document online as an individual (Pessoa Física), as a legal entity (Pessoa Jurídica), or if they will only receive a copy of the document at the end of the signing process.
+**Send by:** Select whether the document will be sent by email or Whatsapp to the recipient.
 
 <figure><img src="../.gitbook/assets/09 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-If it has been determined that the recipient will sign as an individual or a legal entity, it is necessary to define their role as a signer in the process. Select from one or more roles listed or add a custom "**Signer Role"** by clicking "**Add Role**".
+If it has been determined that the recipient will sign as an individual (pessoa física) or legal entity (pessoa jurídica), it is necessary to define their role as a signatory in the process. Choose from Contractor (Contratada), Contracting Party (Contratante), Guarantor (Fiador), Party (Parte), or add a custom "**Signatory Role**" by clicking "**Add Role.**"
 
 The signer roles presented here are previously created in the Administration > Account > Settings > Signer Role tab. By default, the platform presents roles such as "Contractor", "Contractee", "Guarantor", "Party", and "Witness", but it is possible to edit or delete these roles, as well as create others if necessary.
 
