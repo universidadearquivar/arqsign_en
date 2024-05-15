@@ -104,11 +104,11 @@ If the signer has also been requested to attach files, they should upload the re
 
 The Signature Style is the visual representation of the user's signature. To complete the signing of a document, the user must choose how they will sign:
 
-* **Default:** In this style, the user must provide their full name and choose the style (font) in which the text will be presented. To do this, they should click on "Style" and make the selection.
+* **Default:** In this style, the user needs to enter their full name and set the style (font) in which the text will be presented. To do this, click on "Style" and make the selection.
 
 <figure><img src="../.gitbook/assets/14 (6).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-* **Drawing:** To sign with a drawing, the user should sign or initial using the mouse in the "Signature Drawing Area." To correct, they should click on the "Erase" icon.
+* **Drawing:** To sign with a drawing, the user should sign or initial using the mouse in the "Signature Drawing Area." To correct, click on the "Erase" icon.
 
 <figure><img src="../.gitbook/assets/15 (5).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -116,9 +116,7 @@ The Signature Style is the visual representation of the user's signature. To com
 
 <figure><img src="../.gitbook/assets/16 (5).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-To conclude, the signer should click on "Finish". If it was requested in the document that they sign as both an Individual and a Legal Entity, the same signature will be used for both situations.
-
-They will be directed to the login screen. If they already have an active account on the signing platform, they can enter their credentials to access it. If they do not have a registered account on the platform, a message suggesting that they create a free trial account will be displayed.
+To complete the signature process, the signatory should proceed by clicking on the "Apply" button. In cases where the document requires signatures both as an individual and a Legal Entity, the signatory can use the same signature for both purposes by simply clicking on the option labeled "Apply Individual and Legal Entity." This simplifies the signing process, ensuring consistency and efficiency in executing the document."
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Creating a free trial account is not mandatory.**</mark>
