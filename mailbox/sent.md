@@ -79,43 +79,43 @@ It is possible to select more than one document by checking the checkboxes next 
 
 ## Individual Action Buttons - Sent Items&#x20;
 
-**Resend:** Documents that have already expired the signing deadline and have not been signed by all signatories will display the message "Expired before completion of signatures." In this case, it is possible to resend the document to those signatories who have not yet signed. Clicking this button will display information about the sending order to the recipients, the email or phone to which the document was sent, the security code for accessing the document (if applicable), and an "Edit" icon that allows editing recipient information.&#x20;
+**Resend:** Allows resending of documents that have expired signing deadlines and haven't been signed by all recipients. Clicking provides details on sending order, recipient contact information, security code (if applicable), and edit option for recipient details.
 
 <figure><img src="../.gitbook/assets/06 (10).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**History:** Used to view information about the document and the history of events related to it. It's also possible to download the original files of the process before the signatures were completed. This option will only be available for documents with the "Completed" status.
+**History:** View document details and event history. Download original files before completion. Only available for documents marked "Concluded."
 
 <figure><img src="../.gitbook/assets/07 (11).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Change Folder:** This option will only be displayed if the user has access to the account in which the document is stored. By clicking on this option, they can change the folder within the directory where the document is stored.
+**Change Folder:** This option will only be displayed if the user has access to the account in which the document is stored. By selecting this option, users can initiate the process of relocating the document to a different folder within the directory structure. This feature ensures that users can efficiently organize and manage their documents according to their specific preferences and organizational requirements.
 
 <figure><img src="../.gitbook/assets/08 (9).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Change Owner:** Clicking on this option allows the user to change the ownership of the document. When executing this action, it will not be possible to perform other document management activities.&#x20;
+**Change Owner:** Selecting this option facilitates the transfer of document ownership. During this process, other document management activities cannot be executed.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Only users registered in the same account as the responsible party can be selected as new owners.**</mark>&#x20;
+<mark style="color:orange;">**New owners must be registered within the same account.**</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/09 (11).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Change Renewal:** This option will only be available if the document has the "Completed" status. By clicking on this option, it is possible to include or change the renewal date of the document, previously determined in the field "Schedule renewal \_\_\_ months after completion of signatures," marked on the New Document > Add Documents and Recipients > Add Documents screen. It is also possible to change or define the number of months between renewals in the "Renewal Months Quantity" field.
+**Change Renewal:** Accessible only for documents marked "Concluded." By selecting this option, users can modify or set the renewal date, initially determined in the "Schedule renewal \_\_\_ months after completion of signatures" field on the New Document > Add Documents and Recipients > Add Documents screen. Users can also adjust the frequency of renewals by defining the number of months between renewals in the "Renewal Months Quantity" field.
 
 <figure><img src="../.gitbook/assets/10 (2) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Download File:** Used to download the document.&#x20;
+**Download File:** Allows users to retrieve and save the document locally.
 
-**Download Signature Log:** Used to download the log of signatures performed on the document. The Signature Log displays all information about the electronic signatures, such as the names of the signers, date and time of the signature, location and IP from where it was done, data of the digital certificates used, etc.&#x20;
+**Download Signature Log:** Enables downloading of the signature log, containing comprehensive details of electronic signatures. This includes signers' names, date and time of signatures, location and IP address, and digital certificate information.
 
 <figure><img src="../.gitbook/assets/11 (7).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**To correct:** This button will be displayed when the contact information (email or phone) for sending the document to one or more signatories is incorrect. In this case, it is necessary to correct the inaccurate information for the system to resend the document.
+**To correct:** This button appears when contact information (email or phone) for sending the document to one or more signatories is inaccurate. Users need to correct this information for the system to resend the document accurately.
 
 **Cancel:** Clicking this option cancels the document, and the signature process is interrupted.
 
 <figure><img src="../.gitbook/assets/12 (8).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Delete:** Used to delete the file, which will be moved to the Deleted Items folder.
+**Delete:** Used to delete the file, which will be moved to the Deleted Items folder
 
 <figure><img src="../.gitbook/assets/13 (5).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
