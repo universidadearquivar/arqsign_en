@@ -1,9 +1,9 @@
 # ✏️ Drafts
 
-In the Drafts menu, all documents that started to be configured for signature collection on the New Document screen are displayed but did not have this configuration completed and were not sent to recipients.&#x20;
+In the Drafts menu, all documents that started to be configured for signature collection on the New Document screen are displayed but did not have this configuration completed and were not sent to recipients
 
 {% hint style="warning" %}
-<mark style="color:orange;">**To save a document as a draft, the user must click on "Finish Later" during the document creation on the New Document > Add Documents and Recipients screen.**</mark>&#x20;
+<mark style="color:orange;">**To save a document as a draft, the user must click on "Finish Later" during the document creation on the New Document > Add Documents and Recipients screen.**</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/01 (3).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
@@ -14,21 +14,21 @@ In the Drafts menu, all documents that started to be configured for signature co
 
 <figure><img src="../.gitbook/assets/02 (3).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Column Process Name:** In this column, the document name and the name of the signer are displayed. If there is more than one signer, the name of the first signer and the number of other people who should sign will be shown.&#x20;
+**Column Process Name:**This column presents the document's name along with the name of the signer(s). If multiple signers are involved, the first signer's name is displayed, accompanied by the count of additional signatories required.
 
-**Column Responsible:** In this column, the name and email of the person who sent the document (sender) are presented. On the Drafts screen, the only name and email displayed will be those of the user themselves.&#x20;
+**Column Responsible:** Here, the sender's name and email address are listed, indicating the individual who initiated the document's transmission. On the Drafts screen, only the user's own name and email will be visible.
 
-**Column Status:** On the Drafts screen, the only possible status for documents is "Created," meaning the document has been registered but has not been finalized for sending.&#x20;
+**Column Status:** For documents in the Drafts screen, the status is exclusively "Created," indicating that the document has been logged but hasn't yet been finalized for dispatch.
 
-**Column Size:** This column displays the file size of the document.&#x20;
+**Column Size:** This column showcases the size of the document file, providing a quick reference for its data volume.
 
-**Column Folder:** In this column, the directory folder where the document is stored is shown.&#x20;
+**Column Folder:** Displays the directory path where the document is stored, aiding in organizational management.
 
-**Column Created:** Information about the date and time when the document was created on the platform.&#x20;
+**Column Created:** Offers details regarding the timestamp of the document's creation on the platform, facilitating tracking and chronological organization.
 
-**Column Actions:** This column displays action buttons related to the document. These buttons will be shown based on the user's profile. The priority action for execution, according to the user's profile and document status, will always be displayed in this button.&#x20;
+**Column Actions:** A dynamic column featuring action buttons tailored to the user's profile and document status. The primary action pertinent to the user's profile and document's current state is prominently displayed within this button for convenient execution.
 
-**Filter Bar:** It allows locating one or more documents using the available search filters. On the Drafts screen, the search can be performed by the document name, the folder where the document is hosted, or the document creation date on the platform.&#x20;
+**Filter Bar:** Enables efficient document retrieval through various search filters. On the Drafts screen, users can refine searches based on the document name, folder location, or the date of document creation on the platform, streamlining the navigation process.
 
 <figure><img src="../.gitbook/assets/03 (2).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
