@@ -113,33 +113,47 @@ In the inbox users can efficiently manage multiple documents through the use of 
 
 <figure><img src="../.gitbook/assets/07 (3).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Change Owner:** This option will only be displayed if the user, in addition to being a signer, is also the sender of the document. By clicking this option, they can change the document's owner. When executing this action, it will not be possible to perform other document management activities.&#x20;
+**Change Owner:** In our Digital Document Signature Platform, the Change Owner feature provides users with the ability to transfer ownership of a document, subject to specific conditions.  &#x20;
+
+* **Availability and Functionality:** The Change Owner option is displayed only if the user, in addition to being a signer, is also the sender of the document. Clicking this option enables users to initiate the process of transferring ownership of the document to another user within the same account.
+* **Execution and Limitations:** When executing this action, users will not be able to perform other document management activities until the ownership transfer process is completed. This ensures the integrity and accuracy of the ownership change process.&#x20;
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Only users registered under the same account as the current owner can be selected as new owners.**</mark>
-
-<mark style="color:orange;">**The Global Administrator, who is not the sender of the document, can change the ownership of completed documents listed in the Directories feature or when deactivating a user who has documents under their ownership.**</mark>
+<mark style="color:orange;">**It's crucial to note that only users registered in the same account as the responsible party can be selected as the new owners of the document. This restriction maintains data security and ensures compliance with platform policies.**</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/08 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Download File:** Used to download the document.&#x20;
+**Download File:** The Download File option enables users to retrieve the document from the platform and save it locally to their device or computer.  &#x20;
+
+* Functionality: Users can simply click on the Download File option to initiate the download process. The document will be saved in its original format, preserving its content and layout.&#x20;
 
 **Download Signature Registration:** Used to download the log of signatures performed on the document. The Signature Log displays all information about the electronic signatures, such as the names of the signers, date and time of the signature, location and IP from where it was done, data of the digital certificates used, etc.&#x20;
 
 <figure><img src="../.gitbook/assets/10 (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Cancel:** This option will only be displayed if the user, in addition to being a signer, is also the sender of the document. Clicking this option cancels the document, and the signature process is halted. This option will not be displayed if the document status is "Completed."
+**Cancel:** This option will only be displayed if the user, in addition to being a signer, is also the sender of the document. Clicking this option cancels the document, and the signature process is halted. This option will not be displayed if the document status is "Concluded."
 
-**History:** Used to view information about the document and the history of events related to it. It's also possible to download the original files of the process before the signatures were completed. This option will only be available for documents with the status "Completed."
+**History:** Used to view information about the document and the history of events related to it. It's also possible to download the original files of the process before the signatures were completed. This option will only be available for documents with the status " Concluded."
 
 <figure><img src="../.gitbook/assets/09 (2).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Share:** This option allows the user to create a link to access the document, which can be shared with individuals who are not participants in the signature process. This link can have a specified or indefinite expiration date, and the user can determine whether to allow those who access it to also view the attachments sent by the signatories.
+**Share:** In our Digital Document Signature Platform, the Share option empowers users to securely distribute documents to individuals who are not directly involved in the signature process.  &#x20;
+
+* Functionality: Clicking on the Share option enables users to generate a unique link that provides access to the document. This link can be shared with recipients outside the platform, such as clients, stakeholders, or colleagues who require access to the document for reference or review purposes.&#x20;
+* Customization Options:
+
+**Expiration Date:** Users have the flexibility to set a specified expiration date for the shared link, ensuring that access is restricted after a certain period. Alternatively, users can choose to create a link with indefinite access.&#x20;
+
+**Attachment Viewing Permissions:** Users can specify whether recipients accessing the shared link are permitted to view attachments sent by the signatories along with the main document.&#x20;
 
 <figure><img src="../.gitbook/assets/11 (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Change Renewal Schedule:** This option will only be displayed if the user, in addition to being a signer, is also the sender of the document. It is used to modify or add a renewal deadline to the document, as previously set in the New Document > Add Documents menu.
+**Change Renewal Schedule:** In our Digital Document Signature Platform, the Change Renewal Schedule feature offers users the ability to modify or add a renewal deadline to documents, subject to specific conditions.  &#x20;
+
+* **Availability and Functionality:** The Change Renewal Schedule option is displayed only if the user, in addition to being a signer, is also the sender of the document. This ensures that only users with appropriate permissions can access and modify the renewal schedule.&#x20;
+* **Modification of Renewal Deadline:** Users can utilize this option to adjust the renewal deadline previously set for the document. Whether extending the deadline or bringing it forward, users have the flexibility to tailor the renewal schedule to meet changing requirements or timelines.&#x20;
+* **Adding Renewal Deadline:** Additionally, users can use this feature to add a renewal deadline to documents that were initially created without one. This ensures that documents remain valid and up-to-date, with clear deadlines for review and renewal.&#x20;
 
 <figure><img src="../.gitbook/assets/12 (2).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
