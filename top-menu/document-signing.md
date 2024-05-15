@@ -1,12 +1,12 @@
 # ✍️ Document Signing
 
-The electronic signing process can be carried out through two pathways:
+The electronic signing process can be seamlessly completed through two distinct pathways for added flexibility and convenience.
 
 {% tabs %}
-{% tab title="Access via the link from the notification received by email " %}
-This occurs when the responsible party receives an email notification, indicating that the document needs to be signed and providing the link for document access.&#x20;
+{% tab title="Access via Email Notification Link" %}
+Upon receiving an email notification, the designated signer gains direct access to the document requiring their signature by simply clicking on the provided link. This link is embedded within the notification email for swift and efficient access.&#x20;
 
-The user responsible for signing will receive an email notification containing the link to access the file. This email will also display the sender's name and the deadline for signing. If the recipient has set a personalized message, it will also be shown in this notification.&#x20;
+The email notification is comprehensive, featuring essential details such as the sender's name, the document in need of signature, and the designated deadline for completion. Moreover, personalized messages, if included by the sender, are prominently displayed within this notification for enhanced communication.&#x20;
 
 <figure><img src="../.gitbook/assets/01 (13).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -15,10 +15,10 @@ By clicking on the link or providing the code, the user will be directed to the 
 <figure><img src="../.gitbook/assets/02 (13).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 {% endtab %}
 
-{% tab title="Direct Access to ArqSign via Login " %}
-This occurs when the person responsible for the signature directly accesses the platform and checks the list of documents pending signature.&#x20;
+{% tab title="Direct Platform Access" %}
+Alternatively, users can access the digital signature platform directly to initiate the signing process. By logging into their accounts, signatories can effortlessly locate and access documents awaiting their signature. This method offers a streamlined approach for individuals who prefer accessing the platform directly without relying on email notifications.&#x20;
 
-After logging into the account, the user should click on the menu "Inbox > Incoming Mailbox." To sign a document, click on the "Sign" button for the desired file.&#x20;
+&#x20;Both pathways ensure a smooth and expedited signing experience, catering to diverse user preferences and facilitating efficient document management.&#x20;
 
 <figure><img src="../.gitbook/assets/03 (12).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 {% endtab %}
