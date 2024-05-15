@@ -2,6 +2,8 @@
 
 The electronic signing process can be seamlessly completed through two distinct pathways for added flexibility and convenience.
 
+Both pathways ensure a smooth and expedited signing experience, catering to diverse user preferences and facilitating efficient document management.&#x20;
+
 {% tabs %}
 {% tab title="Access via Email Notification Link" %}
 Upon receiving an email notification, the designated signer gains direct access to the document requiring their signature by simply clicking on the provided link. This link is embedded within the notification email for swift and efficient access.&#x20;
@@ -22,7 +24,13 @@ It's crucial to note that creating a free trial account is purely optional and n
 {% tab title="Direct Platform Access" %}
 Alternatively, users can access the digital signature platform directly to initiate the signing process. By logging into their accounts, signatories can effortlessly locate and access documents awaiting their signature. This method offers a streamlined approach for individuals who prefer accessing the platform directly without relying on email notifications.&#x20;
 
-Both pathways ensure a smooth and expedited signing experience, catering to diverse user preferences and facilitating efficient document management.&#x20;
+Upon accessing the platform, users are greeted with a user-friendly interface displaying various options. To proceed with pending document signatures, navigate to the "Inbox" section.&#x20;
+
+&#x20;Within the "Inbox," locate and select the "Incoming Mailbox" option. This section consolidates all documents awaiting signature, ensuring easy access and efficient management.&#x20;
+
+&#x20;Once inside the "Incoming Mailbox," users can review the list of pending documents. To initiate the signing process for a specific file, simply click on the "Sign" button associated with that document.&#x20;
+
+&#x20;This intuitive process ensures that users can effortlessly manage their document signatures directly within the ArqSign platform, promoting efficiency and productivity in document management tasks.&#x20;
 
 <figure><img src="../.gitbook/assets/03 (12).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 {% endtab %}
