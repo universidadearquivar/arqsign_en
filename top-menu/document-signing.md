@@ -46,19 +46,23 @@ If the sender has set a security code for opening the document, the signatory wi
 
 <figure><img src="../.gitbook/assets/11 (8).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
+**Entering the Security Code:** If the signatory has received the security code, they can simply input it into the designated field to proceed with accessing the document. This ensures added security and authentication for document access.
+
+**Requesting a New Code:** In the event that the signatory hasn't received the code or has misplaced it, clicking on "Did Not Receive the Code" will prompt the system to initiate the process for reissuing a new security code. This ensures that signatories can securely access the document without any delays or complications.
+
 <figure><img src="../.gitbook/assets/12 (10).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
-
-
 
 The document will be displayed on the screen for signing. At the top of the screen, the sender's name, document name, navigation between pages, and zoom and full-screen viewing buttons will be presented.
 
 <figure><img src="../.gitbook/assets/04 (12).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-Clicking on "Options," the signer will be able to perform the following actions:
+By clicking on the “Options” button in the top right corner of the subscription screen, the user will have access to various information, including the following options:
 
 <figure><img src="../.gitbook/assets/05 (13).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Signature Registration:** Used to download the record of signatures made on the document. The Signature Registration displays all information about the electronic signatures made, such as the names of signers, date and time of signature, location and IP from where it was done, data of the digital certificates used, etc. If the sender has set up that a QR Code should be generated in the Signature Log on the Advanced Settings screen of the document registration, this QR Code will be displayed here.
+**Signature Registration:** Used to download the log of the signatures made on the document. The Signature Log displays all information about the electronic signatures made, such as the names of the signatories, date and time of the signature, location and IP from where it was made, data from the certificates used, etc.
+
+**Electronic Signature Terms:** Clicking on this option will display the Electronic Signature Terms presented to all signatories for acknowledgment of the truthfulness and authenticity of the signed documents. It is also possible to print this term by clicking on the print icon.
 
 <figure><img src="../.gitbook/assets/06 (11).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -66,7 +70,7 @@ Clicking on "Options," the signer will be able to perform the following actions:
 
 <figure><img src="../.gitbook/assets/07 (12).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Refuse Signing:** Used when the signer does not wish to sign the document for any reason. In this case, they should provide a justification for the refusal and click on "Refuse Signing". By declining the signature, the document signing process will be automatically canceled for all parties involved, and it will appear with the status "Canceled" for the sender responsible for the document.
+**Refuse Signing:** Used when the signatory does not wish to sign the document for any reason. In this case, they must provide a justification for the refusal and click on "Decline Signature." By declining the signature, the document's signing process will be automatically canceled for all parties involved and will appear with the status "Canceled" for the sender responsible for the document.
 
 <figure><img src="../.gitbook/assets/08 (11).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
