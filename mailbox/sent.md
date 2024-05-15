@@ -14,25 +14,32 @@ When you click on a document, the document preview screen will open, displaying 
 
 <figure><img src="../.gitbook/assets/03 (11).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Column Process Name:** In this column, the document name and the name of the signer are displayed. If there is more than one signer, the name of the first signer and the number of other people who should sign will be shown.&#x20;
+**Column Process Name:** Displays the document name and the signer's name. For documents with multiple signers, it shows the name of the first signer and the count of remaining signatories.
 
-**Column Responsible:** In this column, the name and email of the person who sent the document (sender) are presented. On the Sent Items screen, the only name and email displayed will be those of the user themselves.&#x20;
+**Column Responsible:** Shows the name and email of the document sender. In the Sent Items screen, only the user's name and email are displayed.
 
-**Column Status:** The possible statuses for a document are "Pending" (no participant has signed the document yet), "In Progress" (one or more participants have already signed the document, but signatures are still pending), "Completed" (all participants have signed the document), and "Cancelled" (the document sending was canceled, and the signature process was interrupted). When hovering over the status, information about signatories with pending signatures and those who have already completed, along with their data, is displayed. The security code sent to recipients is also shown (if applicable).
+**Column Status:** Displays the document's status:&#x20;
+
+* **Pending:** No participant has signed yet.&#x20;
+* **In Progress:** Some participants have signed, but signatures are pending.&#x20;
+* **Concluded:** All participants have signed.&#x20;
+* **Cancelled:** The sending was interrupted.&#x20;
+
+Hovering over the status reveals details about signatories with pending or completed signatures, along with their data. It also displays the security code sent to recipients if applicable.&#x20;
 
 <figure><img src="../.gitbook/assets/04 (11).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Column Size:** This column displays the file size of the document.&#x20;
+**Column Size:** Displays the document's file size
 
-**Column Folder:** In this column, the directory folder where the document is stored is shown. If the user does not have permission to access the folder, "No folder" will be displayed.&#x20;
+**Column Folder:** Shows the directory folder where the document is stored. If access permission is lacking, "No folder" is displayed.
 
-**Column Sent:** Information about the date and time when the document was sent.&#x20;
+**Column Sent:** Shows the date and time when the document was sent.
 
-**Column Concluded:** Information about the date and time when the document signing process was completed. If it has not been completed yet, this column will be blank.&#x20;
+**Column Concluded:** Shows the date and time when the document signing process was completed. If incomplete, this column remains blank.
 
-**Column Actions:** This column displays action buttons related to the document. These buttons will be shown based on the user's profile. The priority action for execution, according to the user's profile and document status, will always be displayed in this button.&#x20;
+**Column Actions:** Displays action buttons relevant to the document, prioritized based on the user's profile and document status.
 
-**Filter Bar:** It allows locating one or more documents using the available search filters. Search can be performed by the name or email of the sender, the name of one of the signatories, the document status (in Sent Items, documents with "Completed," "Pending," "In Progress," and "Cancelled" statuses will be displayed), the folder where the document is stored, or the completion date of signatures.&#x20;
+**Filter Bar:** Allows users to locate documents using various search filters. Searches can be conducted by sender name or email, signatory name, document status (including Concluded, Pending, In Progress, and Cancelled), folder location, or signature completion date.
 
 <figure><img src="../.gitbook/assets/05 (12).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -40,7 +47,7 @@ When you click on a document, the document preview screen will open, displaying 
 
 ## Batch Action Buttons - Sent Items&#x20;
 
-It is possible to select more than one document by checking the checkboxes next to the file names and perform batch actions.&#x20;
+It is possible to select more than one document by checking the checkboxes next to the file names and perform batch actions.
 
 <figure><img src="../.gitbook/assets/15 (4).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -48,23 +55,23 @@ It is possible to select more than one document by checking the checkboxes next 
 
 <figure><img src="../.gitbook/assets/08 (9).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Change Owner:** Clicking on this icon allows you to change the ownership of the selected documents, meaning that another user will have administrative control over the document. This action can only be undone if the user defined as the new owner returns the document ownership to the original owner. The batch change of document ownership has a 24-hour timeframe and the user can track the progress by accessing the menu My Profile > Requests Tab.&#x20;
+**Change Owner:** Clicking this icon transfers ownership of selected documents, granting administrative control to another user. Undoing this action requires the new owner to return ownership to the original owner. Batch ownership changes are completed within 24 hours, trackable in "My Profile > Requests Tab."&#x20;
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Only users registered in the same account as the responsible party can be selected as new owners.**</mark>&#x20;
+<mark style="color:orange;">**Only users within the same account can be chosen as new owners.**</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/09 (11).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Resend:** Clicking on this icon allows you to resend the selected documents to recipients who have not yet signed. This action can only be performed on documents that do not have the "Completed" status.&#x20;
+**Resend:** Clicking this icon resends selected documents to unsigned recipients. Applicable to documents not marked as "Concluded."
 
 <figure><img src="../.gitbook/assets/16 (4).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Cancel:** Clicking on this icon allows you to cancel the sending of the selected documents, interrupting the signature processes. This action can only be performed on documents that do not have the "Completed" status.&#x20;
+**Cancel:** Clicking this icon halts sending of selected documents, interrupting signature processes. Applicable to documents not marked as "Concluded."
 
 <figure><img src="../.gitbook/assets/12 (8).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Delete:** Clicking on this icon allows you to delete the selected documents. This action can only be performed on documents with the "Completed" or "Cancelled" status.&#x20;
+**Delete:** Clicking this icon deletes selected documents. Applicable to documents marked as "Concluded" or "Cancelled."
 
 <figure><img src="../.gitbook/assets/13 (5).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
