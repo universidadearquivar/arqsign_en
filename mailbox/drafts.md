@@ -36,15 +36,15 @@ In the Drafts menu, all documents that started to be configured for signature co
 
 ## Batch Action Buttons - Drafts&#x20;
 
-It is possible to select more than one document by checking the checkboxes next to the file names and perform batch actions.&#x20;
+In the Drafts section, users have the capability to execute batch actions by selecting multiple documents through the checkboxes adjacent to the file names.
 
 <figure><img src="../.gitbook/assets/09 (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Move Document:** Clicking on this icon allows you to change the folder where the selected documents are stored.&#x20;
+**Move Document:** By clicking on this icon, users can seamlessly transfer the selected documents to a different folder, thereby facilitating efficient organization and management.
 
 <figure><img src="../.gitbook/assets/06 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Delete:** Clicking on this icon allows you to delete the selected documents.&#x20;
+**Delete:** Clicking on this icon enables users to promptly remove the selected documents, streamlining the process of decluttering and maintaining a tidy workspace
 
 <figure><img src="../.gitbook/assets/07 (2).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -54,19 +54,19 @@ It is possible to select more than one document by checking the checkboxes next 
 
 <figure><img src="../.gitbook/assets/04 (2).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Edit:** Clicking on this option redirects the user to the document registration screen, where they should complete the document configuration, add recipients, and make other necessary settings for sending the file and collecting signatures.&#x20;
+**Edit:** This action redirects the user to the document registration screen, where they can configure the document, add recipients, and adjust other settings necessary for sending the file and collecting signatures. It provides a straightforward method for fine-tuning document details before finalization.
 
 <figure><img src="../.gitbook/assets/05 (3).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Change Folder:** Clicking on this option allows the user to change the folder where the document is stored.&#x20;
+**Change Folder:**Clicking on this option allows users to relocate the document to a different folder within the platform, aiding in efficient organization and categorization of documents based on their status or relevance.
 
 <figure><img src="../.gitbook/assets/06 (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Download File:** Used to download the document.&#x20;
+**Download File:** Enables users to swiftly download the document onto their local device.
 
-**Delete:** Used to delete the file, which will be moved to the Deleted Items folder.&#x20;
+**Delete:** This action permanently removes the document, transferring it to the Deleted Items folder for eventual disposal.
 
-**Rename:** This option will only be displayed if the user, in addition to being a signer, is also the sender of the document. It is used to rename the document.&#x20;
+**Rename:** If the user serves both as a signer and the sender of the document, this option becomes available. It allows for the renaming of the document, providing additional flexibility in document management and identification
 
 <figure><img src="../.gitbook/assets/08 (10).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
