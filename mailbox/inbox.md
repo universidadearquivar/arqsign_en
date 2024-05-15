@@ -58,23 +58,42 @@ These versatile search filters empower users to swiftly pinpoint specific docume
 
 ## Batch Action Buttons - Inbox&#x20;
 
-It is possible to select more than one document by checking the checkboxes next to the file names and perform batch actions. Batch actions can only be performed on documents where the user is not only a signatory but also the sender of the document.&#x20;
+In the inbox users can efficiently manage multiple documents through the use of batch action buttons.&#x20;
+
+* **Selecting multiple documents:** Users can easily select multiple documents for batch actions by checking the checkboxes next to the respective file names. &#x20;
+* **Running batch actions:** Batch actions allow users to perform operations on multiple documents simultaneously, increasing productivity and efficiency. However, it is essential to note that batch actions are only available for documents where the user takes on the dual role of signer and sender.
+* **Examples of batch actions include:** Bulk Signing: Sign all selected documents at once, speeding up the process of signing multiple files simultaneously.&#x20;
+* **Bulk Send:** Send multiple documents to designated recipients at once, reducing time spent on individual sends.&#x20;
+* **Bulk archiving:** Move selected documents to an archive folder for organized storage and retrieval while maintaining an organized inbox.&#x20;
+* **Bulk Reminders:** Send reminders to all signers of selected documents requesting timely completion.&#x20;
 
 <figure><img src="../.gitbook/assets/17 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Move Document:** Clicking on this icon will allow you to change the folder where the selected documents are stored. This action can only be performed on documents where the user is not only a signatory but also the sender of the document.
+**Move Document:** Within our Digital Document Signature Platform, users have the capability to relocate documents to different folders for better organization and management.
+
+* **Initiating Document Movement:** By clicking on the designated Move Document icon, users can trigger the process of transferring selected documents to a new folder of their choice.&#x20;
+* **User Eligibility:** It's important to note that this action is restricted to documents where the user holds the dual role of both signatory and sender. This limitation ensures that document movement remains aligned with the user's authority and responsibility over the document's lifecycle.&#x20;
 
 <figure><img src="../.gitbook/assets/07 (3).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Resend:** Clicking on this icon will allow you to resend the selected documents to recipients who have not yet signed. This action can only be performed on documents where the user is not only a signatory but also the sender of the document and that do not have the status "Completed."
+**Resend:** At ArqSign, users have the ability to resend documents to recipients who have not yet signed.&#x20;
+
+* **Initiating resend action:** By clicking the designated Resend icon, users can trigger the resend process for selected documents, ensuring that recipients who have not yet signed receive the document for review and signature.&#x20;
+* **User Eligibility:** It is important to highlight that this action is restricted to documents where the user assumes the dual role of signatory and sender. Additionally, documents must not have a “Concluded” status to be eligible for resubmission. This ensures that the resend action is aligned with the user's authority on the document and is performed when necessary to prompt signature completion.
 
 <figure><img src="../.gitbook/assets/18 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Cancel Sending:** Clicking on this icon will allow you to cancel the sending of the selected documents, interrupting the signature processes. This action can only be performed on documents where the user is not only a signatory but also the sender of the document and that do not have the status "Completed."
+**Cancel Sending:** Users have the capability to cancel the sending of documents, thereby interrupting the signature process when necessary.&#x20;
+
+* **Initiating Cancel Sending:** By clicking on the designated Cancel Sending icon, users can trigger the cancellation of document sending for selected documents. This action halts the signature process and prevents further actions related to the document's signing.
+* **User Eligibility:** It's important to note that this action is restricted to documents where the user assumes the dual role of both signatory and sender. Additionally, documents must not have the status "Concluded" to be eligible for canceling sending. This ensures that the cancel sending action is carried out when necessary and aligns with the user's authority over the document.&#x20;
 
 <figure><img src="../.gitbook/assets/19 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Delete:** Clicking on this icon will allow you to delete the selected documents. This action can only be performed on documents where the user is not only a signatory but also the sender of the document and that have the status "Completed."
+**Delete:** Users have the ability to delete documents that meet specific criteria, ensuring efficient document management and maintaining data integrity.&#x20;
+
+* **Initiating Deletion:** By clicking on the designated Delete icon, users can trigger the deletion of selected documents from the platform. This action permanently removes the documents from the system, freeing up storage space and decluttering the document repository.&#x20;
+* **User Eligibility:** It's important to note that this action is restricted to documents where the user holds the dual role of both signatory and sender. Additionally, documents must have the status "Concluded" to be eligible for deletion. This ensures that users can only delete documents after the signature process is successfully completed and aligns with their authority over the document.&#x20;
 
 <figure><img src="../.gitbook/assets/16 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -84,9 +103,13 @@ It is possible to select more than one document by checking the checkboxes next 
 
 <figure><img src="../.gitbook/assets/06 (2).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Sign:** Available only if the document has not been signed by the signer yet, and it's their turn to sign according to the order established by the sender, if applicable. Clicking this button redirects the user to the document signing screen.&#x20;
+**Sign:** The Sign option provides users with a streamlined pathway to complete the signing process for documents assigned to them.&#x20;
 
-**Change Folder:** This option will only be displayed if the user has access to the account in which the document is stored. By clicking this option, they can change the folder within the directory where the document is stored.&#x20;
+* Availability and Functionality: The Sign option is available only for documents that have not been signed by the designated user yet, and it's their turn to sign based on the order established by the sender. If applicable, users can click this button to seamlessly redirect to the document signing screen, where they can review the document content, affix their signature, and fulfill their signing obligation.&#x20;
+
+**Change Folder:** The Change Folder option provides users with the flexibility to organize documents within their account according to their preferred directory structure.&#x20;
+
+* **Functionality:** This option is displayed to users who have access to the account where the document is stored. By clicking Change Folder, users can seamlessly modify the folder location of the selected document within the directory. &#x20;
 
 <figure><img src="../.gitbook/assets/07 (3).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
