@@ -44,8 +44,8 @@ Hovering over the status provides additional details, including which signatorie
 
 **Filter Bar:** The Filter Bar provides users with powerful search capabilities to locate specific documents efficiently. Users can employ various search filters to narrow down their results, including:&#x20;
 
-* **Sender's Name or Email:** Search by the name or email address of the document sender.
-* **Signatory's Name:** Search for documents based on the name of one of the signatories.&#x20;
+* **Sender Name or Email:** Search by the name or email address of the document sender.
+* **Signatory Name:** Search for documents based on the name of one of the signatories.&#x20;
 * **Document Status:** Filter documents based on their status, including "Concluded," "Waiting," and "In Progress." In the Inbox, only documents with these statuses will be displayed, ensuring users focus solely on actionable items.&#x20;
 * **Folder:** Locate documents based on the directory where they are stored, ensuring easy access to organized document collections.&#x20;
 * **Date of Completion:** Search for documents based on the date when signatures were completed.&#x20;
