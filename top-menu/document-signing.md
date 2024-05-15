@@ -128,7 +128,7 @@ To complete the signature process, the signatory should proceed by clicking on t
 
 ### Step 4 - Concluding the signing process
 
-After the process is completed and all signatories have signed the document, all participants will receive an email or WhatsApp notification about the completion of the signing process. By clicking on the received link, it will be possible to view the signed document, the document's ID code, information about the digital certificates and electronic signatures used for signing, and the history of events related to the document, as well as information about the signatories.
+After the process is completed and all signatories have signed the document, all participants will receive an email notification about the completion of the signing process. By clicking on the received link, it will be possible to view the signed document, the document's ID code, information about the digital certificates and electronic signatures used for signing, and the history of events related to the document, as well as information about the signatories.
 
 <figure><img src="../.gitbook/assets/18 (2).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
