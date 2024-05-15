@@ -10,7 +10,11 @@ The email notification is comprehensive, featuring essential details such as the
 
 <figure><img src="../.gitbook/assets/01 (13).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-By clicking on the link or providing the code, the user will be directed to the signing screen.
+Upon clicking the link or entering the provided code, users will be directed to the login screen. For those with an existing account on the signing platform, they have the option to either sign the document directly without logging in or input their credentials for access.&#x20;
+
+If the user doesn't possess a registered account, they will still be seamlessly directed to the signing screen without the need for providing credentials. However, upon completing the signing process, a suggestion message will appear encouraging them to consider creating a free trial account for enhanced features and benefits.&#x20;
+
+It's crucial to note that creating a free trial account is purely optional and not mandatory. Users can choose to proceed with their document signing without any obligation to sign up for a trial account. This approach ensures flexibility and respects the user's autonomy in deciding whether to explore additional features of the platform.&#x20;
 
 <figure><img src="../.gitbook/assets/02 (13).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 {% endtab %}
@@ -18,7 +22,7 @@ By clicking on the link or providing the code, the user will be directed to the 
 {% tab title="Direct Platform Access" %}
 Alternatively, users can access the digital signature platform directly to initiate the signing process. By logging into their accounts, signatories can effortlessly locate and access documents awaiting their signature. This method offers a streamlined approach for individuals who prefer accessing the platform directly without relying on email notifications.&#x20;
 
-&#x20;Both pathways ensure a smooth and expedited signing experience, catering to diverse user preferences and facilitating efficient document management.&#x20;
+Both pathways ensure a smooth and expedited signing experience, catering to diverse user preferences and facilitating efficient document management.&#x20;
 
 <figure><img src="../.gitbook/assets/03 (12).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 {% endtab %}
