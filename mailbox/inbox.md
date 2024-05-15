@@ -1,11 +1,11 @@
 # ✉️ Inbox
 
-In the Inbox, all documents in which the user participates in the signature process as a signatory are listed. &#x20;
+The Inbox serves as a central hub for managing all documents requiring the user's signature participation. Here, users can conveniently access and track documents in which they are designated as signatories. &#x20;
 
-The signatory of a signature process can also be the sender of the document, and in this case, the document will be displayed in both the Inbox and the Sent menu.&#x20;
+A unique feature of our platform is that users may also function as both signatories and senders of documents. In such cases, the document will be prominently displayed in both the Inbox and the Sent menu, streamlining access and ensuring clarity in the signature process.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Documents that have already expired, meaning their signing deadline has passed, will not be displayed in the Inbox.**</mark>
+<mark style="color:orange;">**Documents that have surpassed their signing deadline, meaning they have expired, will automatically be removed from the Inbox interface.**</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/01 (4).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
@@ -18,25 +18,39 @@ When you click on a document, the document preview screen will open, which displ
 
 <figure><img src="../.gitbook/assets/03 (3).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Column Process Name:** In this column, the document name and the signatory's name are displayed. If there is more than one signatory, the name of the first one and the quantity of other people who should sign will be shown.&#x20;
+**Column Process Name:** In this column, users will find the document name along with the name of the primary signatory. If there are multiple signatories, the name of the first signatory will be displayed, followed by the total count of additional signatories.
 
-**Column Responsible:** This column shows the name and email of the person who sent the document (sender).&#x20;
+**Column Responsible:** The Responsible column provides the name and email address of the individual who initiated and sent the document, commonly referred to as the sender.
 
-**Column Status:** The possible statuses for a document are: "Awaiting" (no participant has signed the document yet), "In process" (one or more participants have already signed the document, but there are still pending signatures), and "Completed" (all participants have signed the document). Hovering over the status will display information about which signatories still have pending signatures and which ones have already completed, along with their details.&#x20;
+**Column Status:** The Status column indicates the current status of each document. There are three possible statuses:  &#x20;
+
+* Waiting: This status indicates that no participant has signed the document yet.&#x20;
+* In Process: Signifies that one or more participants have already signed the document, but there are still pending signatures remaining.&#x20;
+* Concluded: Indicates that all participants have successfully signed the document.&#x20;
+
+Hovering over the status provides additional details, including which signatories have completed their signatures and which ones still have pending signatures.  &#x20;
 
 <figure><img src="../.gitbook/assets/04 (3).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Column Size:** In this column, the file size of the document is displayed.&#x20;
+**Column Size**: This column displays the file size of each document, providing users with quick insight into the resource requirements and overall scale of the document.&#x20;
 
-**Column Folder:** This column shows the directory folder where the document is stored. If the user does not have permission to access the folder, "No folder" will be displayed.&#x20;
+**Column Folder:** The Folder column presents the directory path where the document is stored. If the user lacks permission to access the folder, the column will indicate "No folder." This feature ensures users are aware of the document's storage location and permissions.&#x20;
 
-**Column Sent:** Information about the date and time the document was sent.&#x20;
+**Column Sent:** In the Sent column, users can find pertinent information regarding the date and time the document was dispatched.&#x20;
 
-**Column Completed:** Information about the date and time the document signing process was completed. If it has not been completed yet, this column will remain blank.&#x20;
+**Column Concluded:** The Concluded column provides details on the date and time the document signing process reached completion. If the document signing process is ongoing or has not yet commenced, this column will remain blank. &#x20;
 
-**Column Actions:** This column displays action buttons for the document. These buttons will be displayed based on the user's profile. The priority action, according to the user's profile and document status, will always be shown in this button.&#x20;
+**Column Actions:** The Actions column serves as a dynamic interface where users can access relevant functionalities tailored to their profile and the document's current status. Action buttons are intelligently displayed, prioritizing the most relevant action based on the user's role and the document's stage in the signing process. This ensures a user-centric approach, where the primary action required is readily accessible for streamlined document management.&#x20;
 
-**Filter Bar:** It is possible to locate one or more documents using the available search filters. The search can be done by the name or email of the sender, the name of one of the signatories, the document status (in the Inbox, only documents with "Completed," "Awaiting," and "In progress" statuses will be displayed), the folder where the document is stored, or the date of completion of signatures.&#x20;
+**Filter Bar:** The Filter Bar provides users with powerful search capabilities to locate specific documents efficiently. Users can employ various search filters to narrow down their results, including:&#x20;
+
+* **Sender's Name or Email:** Search by the name or email address of the document sender.
+* **Signatory's Name:** Search for documents based on the name of one of the signatories.&#x20;
+* **Document Status:** Filter documents based on their status, including "Concluded," "Waiting," and "In Progress." In the Inbox, only documents with these statuses will be displayed, ensuring users focus solely on actionable items.&#x20;
+* **Folder:** Locate documents based on the directory where they are stored, ensuring easy access to organized document collections.&#x20;
+* **Date of Completion:** Search for documents based on the date when signatures were completed.&#x20;
+
+These versatile search filters empower users to swiftly pinpoint specific documents within the platform, enhancing productivity and facilitating effective document management.&#x20;
 
 <figure><img src="../.gitbook/assets/05 (4).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
