@@ -157,11 +157,11 @@ In the inbox users can efficiently manage multiple documents through the use of 
 
 <figure><img src="../.gitbook/assets/12 (2).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Refuse Signature:** Available only if the document has not been signed by the signer yet, and it is their turn to sign according to the order established by the sender, if applicable. Used when the signer, for some reason, does not wish to sign the document. In this case, they should provide a reason for the refusal and click on "Refuse Signature."
+**Refuse Signature:** This option is accessible when the signer hasn't signed the document yet, and it's their turn according to the sender's established order. It's used if the signer chooses not to sign the document for any reason. They must provide a reason for refusal and click on "**Refuse Signature**."
 
 <figure><img src="../.gitbook/assets/13 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Resend:** This option will only be displayed if the user, in addition to being a signer, is also the sender of the document, and if the document has expired, meaning the signing deadline passed before all signatories have signed. Clicking this button will display information about the sending order to the recipients, the email or phone to which the document was sent, the security code for accessing the document (if applicable), and an "Edit" icon that allows editing recipient information.
+**Resend:** This option is visible if the user is both a signer and the sender, and if the document has expired, indicating the signing deadline has passed before all signatories signed. Clicking this button provides details about the sending order, recipient contact information, security code (if applicable), and an "Edit" icon to modify recipient details.
 
 <figure><img src="../.gitbook/assets/14 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
