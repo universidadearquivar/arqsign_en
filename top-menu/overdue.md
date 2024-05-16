@@ -76,24 +76,24 @@ Users have the convenience of selecting multiple documents by checking the check
 
 <figure><img src="../.gitbook/assets/08 (8).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Change Owner:** By clicking on this option, the user can change the owner of the document. When performing this action, other document management activities cannot be carried out.&#x20;
+**Change Owner:** By selecting this option, users can change the owner of the document. When executing this action, other document management activities become temporarily unavailable.&#x20;
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Only users registered in the same account as the responsible party can be selected as new owners.**</mark>&#x20;
+<mark style="color:orange;">**Only users registered under the same account as the current owner can be chosen as the new owner. This ensures security and accountability within the system.**</mark>&#x20;
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/09 (10).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Download File:** Used to download the document.&#x20;
+**Download File:** This option is used to download the document itself.
 
-**Download Signature Log:** Used to download the log of signatures made on the document. The Signature Log displays all information about electronic signatures, such as the names of signatories, date and time of the signature, location, IP address from where it was performed, and data from the used digital certificates, etc.&#x20;
+**Download Signature Log:** This option allows users to download the log of signatures made on the document. The Signature Log provides comprehensive information about electronic signatures, including the names of signatories, date and time of the signature, location, IP address from where it was performed, and data from the used digital certificates, among other relevant details.
 
 <figure><img src="../.gitbook/assets/10 (7).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Cancel:** Clicking on this option cancels the document, and the signature process is interrupted.
+**Cancel:** Clicking on this option cancels the document, interrupting the signature process. This action effectively halts any further progress on the document, providing users with the ability to halt signature processes as needed.
 
 <figure><img src="../.gitbook/assets/11 (6).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**History:** Used to view information about the document and the history of events related to it. It is also possible to download the original files of the process before the signatures are completed.
+**History:** This feature is utilized to view comprehensive information about the document and its associated history of events. Users can access details such as modifications, updates, and interactions related to the document over time. Additionally, it provides the functionality to download the original files of the process before signatures are completed, offering users access to earlier versions or stages of the document.
 
 <figure><img src="../.gitbook/assets/12 (7).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
