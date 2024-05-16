@@ -38,23 +38,25 @@ The "Overdue" menu provides users with a comprehensive view of documents sent fo
 
 ## Batch Actions – Overdue
 
-It is possible to select more than one document by checking the checkboxes next to the file names and perform batch actions.&#x20;
+Users have the convenience of selecting multiple documents by checking the checkboxes next to the file names, enabling them to perform batch actions efficiently. This feature streamlines the management of expired documents, allowing users to handle multiple files simultaneously according to their needs.
 
 <figure><img src="../.gitbook/assets/13 (4).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Change Owner:** Clicking on this option allows you to change the owner of the document. After executing this action, other document management activities cannot be performed.&#x20;
+**Change Owner:** Selecting this option enables you to change the owner of the document. Upon executing this action, other document management activities become inaccessible.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Only users registered under the same account as the owner can be selected as the new owner.**</mark>&#x20;
+<mark style="color:orange;">**Only users registered under the same account as the current owner can be chosen as the new owner. This ensures security and accountability within the system.**</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/09 (9).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Cancel Submission:** Clicking on this icon allows you to cancel the submission of the selected documents, interrupting the signing processes.
+**Cancel Submission:** Clicking on this icon permits you to cancel the submission of the selected documents, thereby interrupting the signing processes associated with them. This action can be useful in situations where revisions are necessary or when documents need to be re-evaluated before proceeding with the signing process. &#x20;
+
+&#x20;
 
 <figure><img src="../.gitbook/assets/11 (6).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Resend:** Clicking on this icon allows you to resend the selected documents to the recipients who have not yet signed. When you resend a document, it is no longer displayed on the Expired screen because the expiration period is renewed.
+**Resend:** Clicking on this icon allows you to resend the selected documents to recipients who have not yet signed. When you resend a document, it is removed from the Expired screen as the expiration period is renewed. This feature ensures that recipients have another opportunity to complete the signing process, maintaining document integrity and compliance.
 
 ***
 
