@@ -10,27 +10,27 @@ The "Overdue" menu provides users with a comprehensive view of documents sent fo
 
 <figure><img src="../.gitbook/assets/02 (11).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Column Name of the Document:** In this column, the name of the document and the name of the signer are displayed. If there is more than one signer, the name of the first signer will be shown along with the number of other people who need to sign. All documents listed will display the message "Expired before completion of signatures."
+**Column Process Name:** This column displays the name of the document along with the primary signer's name. If multiple signers are involved, it showcases the primary signer's name along with the count of additional signers pending. All documents listed here bear the label "Expired before completion of signatures."
 
 <figure><img src="../.gitbook/assets/03 (10).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Column Responsible:** This column displays the name and email of the person who sent the document (sender). In the Expired screen, the user's own name will always be displayed.
+**Column Responsible:** Here, the name and email of the document sender (the initiator) are exhibited. In the Expired screen, the user's own name will consistently appear.
 
-**Column Status:** The documents listed in the Expired screen will always have the status "Awaiting" (no participant has signed the document yet) or "In process" (one or more participants have already signed the document, but signatures are still pending). Hovering over the status will display information about which signatories still have pending signatures and which ones have already completed, along with their details.
+**Column Status:** Documents in the Expired screen are categorized under the status "Waiting" (indicating no participant has signed the document) or "In process" (denoting one or more participants have begun signing, but signatures are still pending). Hovering over the status reveals information about signatories with pending or completed signatures, along with their specific details.
 
 <figure><img src="../.gitbook/assets/04 (10).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Column Size:** This column displays the size of the document file.
+**Column Size:** This column showcases the size of the document file.
 
-**Column Folder:** This column displays the directory folder where the document is stored.
+**Column Folder:** Displays the directory folder where the document resides.
 
-**Column Sent:** Information about the date and time the document was sent.
+**Column Sent:** Provides details about the date and time the document was dispatched.
 
-**Column Expiry:** Information about the date and time the document expired.
+**Column Maturity :** Offers information regarding the date and time the document expired.
 
-**Column Actions:** This column displays action buttons for the document. These buttons will be displayed according to the user's profile. The priority action corresponding to the user's profile and document status will always be displayed in this button.
+**Column Actions:** Exhibits action buttons tailored to the user's profile and document status. The priority action corresponding to the user's profile and document status always takes precedence in this button.
 
-**Filter Bar:** It is possible to locate one or more documents using the available search filters. The search can be done by the document name, signatory names, status, folder where the document is stored, or document expiration date.
+**Filter Bar:** Users can efficiently locate specific documents using the available search filters. The search can be conducted by document name, signatory names, status, folder location, or document expiration date. This empowers users to swiftly navigate and manage overdue documents according to their preferences and requirements.
 
 <figure><img src="../.gitbook/assets/05 (11).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
