@@ -1,6 +1,6 @@
 # ⏱️ Overdue
 
-In the "Overdue" menu, all documents sent by the user for signature are displayed but were not completed within the specified timeframe in the "Document expiration time after sending" field, on the "New Document > Add Documents and Recipients > Advanced Settings" screen.
+The "Overdue" menu provides users with a comprehensive view of documents sent for signature that have not been completed within the specified timeframe outlined in the "Document expiration time after sending" field, accessible through the "New Document > Add Documents and Recipients > Advanced Settings" screen.
 
 <figure><img src="../.gitbook/assets/01 (11).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
