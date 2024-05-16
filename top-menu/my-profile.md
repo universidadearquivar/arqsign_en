@@ -8,7 +8,7 @@ In the My Profile menu, the information of the authenticated user is displayed.
 
 ## My Data Tab&#x20;
 
-In the My Data tab, the user's registration information is displayed. It is possible to edit the data by clicking the "Edit" button.&#x20;
+In the My Data tab, the user's registration information is displayed. It is possible to edit the data by clicking the "Edit" button.
 
 <figure><img src="../.gitbook/assets/02 (5).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -16,21 +16,21 @@ In the My Data tab, the user's registration information is displayed. It is poss
 
 <figure><img src="../.gitbook/assets/03 (4).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Email:** The email presented in this field is the same one used at the time of the user account registration on the platform and cannot be changed.&#x20;
+**Email:** The email presented in this field is the same one used at the time of the user account registration on the platform and cannot be changed.
 
-**Full Name:** Displays the user's full name.&#x20;
+**Full Name:** Displays the user's full name.
 
-**Position:** The user can inform their job title in this field.&#x20;
+**Position:** The user can inform their job title in this field.
 
-**Type of Identification Document:** In this field, the user must choose an identification document, which can be ID, driver's license or another document.&#x20;
+**Type of Identification Document:** In this field, the user must choose an identification document, which can be CPF (Brazilian ID), driver's license (CNH), RG (national ID), or another document.
 
-**Identification Document:** In this field, the user must enter the document number chosen in the "Type of Identification Document" field.&#x20;
+**Identification Document:** In this field, the user must enter the document number chosen in the "Type of Identification Document" field.
 
-**Time Zone:** In this field, the user can choose the time zone they want the platform to consider. This setting is useful for configurations involving scheduling, for example.&#x20;
+**Time Zone:** In this field, the user can choose the time zone they want the platform to consider. This setting is useful for configurations involving scheduling, for example.
 
-**Your default language:** The user can choose the default language in which they want the platform interface to be presented, among "Portuguese - Brazil," "English - USA," and "Spanish - Spain."&#x20;
+**Your default language:** The user can choose the default language in which they want the platform interface to be presented, among "Portuguese - Brazil," "English - USA," and "Spanish - Spain."
 
-**Phone:** In this field, the user must enter their contact phone number and click "Add Phone." The numbers entered here will be displayed just below in the "Phones" field.&#x20;
+**Phone:** In this field, the user must enter their contact phone number and click "Add Phone." The numbers entered here will be displayed just below in the "Phones" field.
 
 <figure><img src="../.gitbook/assets/04 (4).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -44,9 +44,9 @@ In the My Contacts tab, the user can register recipient information for sending 
 
 <figure><img src="../.gitbook/assets/05 (5).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Name Column:** In this column, the contact's name is displayed in the same way it was registered on the list or as it was provided during the document sending. If the contact has been shared with the user by another account member, the contact's name will be displayed along with information about who registered it.&#x20;
+**Column Name:** In this column, the contact's name is displayed in the same way it was registered on the list or as it was provided during the document sending. If the contact has been shared with the user by another account member, the contact's name will be displayed along with information about who registered it.
 
-**Email / WhatsApp Column:** In this column, the name or email of the contact provided during registration or document sending is displayed.&#x20;
+**Column Email:** In this column, the name or email of the contact provided during registration or document sending is displayed.
 
 <figure><img src="../.gitbook/assets/06 (3).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -54,15 +54,15 @@ In the My Contacts tab, the user can register recipient information for sending 
 
 <figure><img src="../.gitbook/assets/07 (4).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Edit Contact Icon:** To edit the information of a contact, select the desired recipient by checking the checkbox on the left and click on the "Edit Contact" icon.&#x20;
+**Edit Contact Icon:** To edit the information of a contact, select the desired recipient by checking the checkbox on the left and click on the "Edit Contact" icon.
 
-**Delete Contact(s) Icon:** To delete one or more contacts, select the desired ones by checking the checkbox on the left and click on the "Delete Contact(s)" icon.&#x20;
+**Delete Contact(s) Icon:** To delete one or more contacts, select the desired ones by checking the checkbox on the left and click on the "Delete Contact(s)" icon.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**It is only possible to edit or delete contacts that have been registered by the user.**</mark>&#x20;
+<mark style="color:orange;">**It is only possible to edit or delete contacts that have been registered by the user.**</mark>
 {% endhint %}
 
-**Search Bar:** It is possible to locate a specific contact using email or WhatsApp filters for searching.&#x20;
+**Search Bar:** It is possible to locate a specific contact using email or WhatsApp filters for searching.
 
 <figure><img src="../.gitbook/assets/08 (2).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -70,7 +70,7 @@ In the My Contacts tab, the user can register recipient information for sending 
 
 ## Signature Style Tab&#x20;
 
-In the Signature Style tab, the user must define the visual representation of their signature, which will be used as their electronic signature for legal purposes. The user can register three types of Signature Styles by clicking "Edit."&#x20;
+In the Signature Style tab, the user must define the visual representation of their signature, which will be used as their electronic signature for legal purposes. The user can register three types of Signature Styles by clicking "Edit."
 
 <figure><img src="../.gitbook/assets/09 (3).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -120,19 +120,19 @@ If the transfer request is for a single document, it is processed instantly. How
 
 **Request Date:** In this column, the date when the user requested the document transfer is displayed.&#x20;
 
-**Previous Owner:** Name of the user who requested the transfer of document ownership.&#x20;
+**Previous Owner:** Name of the user who requested the transfer of document ownership.
 
-**New Owner:** Name of the user who will be the new owner of the document.&#x20;
+**New Owner:** Name of the user who will be the new owner of the document.
 
-**Quantity:** The number of documents that will be transferred to the new owner.&#x20;
+**Quantity:** The number of documents that will be transferred to the new owner.
 
-**Request Status:** The status of a transfer request can be "Completed" (the transfer has been concluded), "In Progress" (the transfer is being processed and should occur within 24 hours of the request), or "Requested" (a future date has been scheduled for the transfer).&#x20;
+**Request Status:** The status of a transfer request can be "Completed" (the transfer has been concluded), "In Progress" (the transfer is being processed and should occur within 24 hours of the request), or "Requested" (a future date has been scheduled for the transfer).
 
-**Completion Date:** The date when the ownership transfer is completed.&#x20;
+**Completion Date:** The date when the ownership transfer is completed.
 
 <figure><img src="../.gitbook/assets/16 (2).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Actions:** If the status of the request is "Completed" or "In Progress," no action can be taken in relation to it. If the status is still "Requested," two actions can be performed:&#x20;
+**Actions:** If the status of the request is "Completed" or "In Progress," no action can be taken in relation to it. If the status is still "Requested," two actions can be performed:
 
 * _Cancel:_ Cancels the ownership transfer.&#x20;
 * _Edit:_ Modifies the user designated as the new owner of the document.&#x20;
