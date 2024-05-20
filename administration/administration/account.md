@@ -198,7 +198,7 @@ Clicking on "View Notification" will allow you to see how the notification email
 
 In this tab, the user can insert or edit the Electronic Signature Term presented to signatories when signing a document. The purpose of this term is to ensure that signatories understand the legal validity of electronic signatures made through the ArqSign platform.&#x20;
 
-The platform presents the default term, but if the user wishes to edit or replace this text, they can do so by clicking on "Edit."&#x20;
+The platform presents the default term, but if the user wishes to edit or replace this text, they can do so by clicking on "Edit."
 
 <figure><img src="../../.gitbook/assets/23.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -206,7 +206,7 @@ They can also change the formatting and colors of the text using the editing too
 
 <figure><img src="../../.gitbook/assets/24.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-By clicking "Preview," the Term is displayed as it will be presented to signatories.
+By clicking "Preview," the Term is displayed as it will be presented to signatories. The user can print the text by clicking "Print."
 
 <figure><img src="../../.gitbook/assets/25.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -214,7 +214,7 @@ By clicking "Preview," the Term is displayed as it will be presented to signator
 
 ### Acceptance History Sub-Tab&#x20;
 
-In this tab, all acceptances of the Electronic Signature Term by signatories are presented. In other words, every time a signatory accepts the presented Acceptance Term, this action will be displayed on this screen.&#x20;
+In this tab, all acceptances of the Electronic Signature Term by signatories are presented. In other words, every time a signatory accepts the presented Acceptance Term, this action will be displayed on this screen.
 
 * **Acceptance Date:** This column displays the date on which the signatory accepted the Electronic Signature Term.&#x20;
 * **Name:** The name of the signatory who accepted the term.&#x20;
