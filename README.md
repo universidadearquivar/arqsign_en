@@ -25,7 +25,7 @@ A Signatory is an individual or legal entity that participates in the signing pr
 
 The ArqSign website (_<mark style="color:purple;">arquivar.com</mark>_) provides comprehensive information about the platform, including its features and subscription plans. On the homepage, users can also access the platform login page and sign up for a free trial account.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
@@ -35,11 +35,11 @@ To request support or assistance, navigate to the bottom menu of the page and cl
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>Click on the image to nlarge.</p></figcaption></figure>
 
-Users will be redirected to the platform's Help Center, where they can search through posted content to find solutions to their questions or request contact with the support team.  &#x20;
+<mark style="color:yellow;">Users will be redirected to the platform's Help Center, where they can search through posted content to find solutions to their questions or request contact with the support team.</mark>  &#x20;
 
 <figure><img src=".gitbook/assets/03 (6).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-Contacting the support team can be done via WhatsApp, chat, email (faleconosco@arqsign.com), or phone (4003-8839).&#x20;
+Contacting the support team can be done via <mark style="color:yellow;">WhatsApp</mark>, chat, email ([contact@arqsign.com](mailto:contact@arqsign.com)), or phone <mark style="color:yellow;">(4003-8839)</mark>.&#x20;
 
 <figure><img src=".gitbook/assets/04 (6).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -65,7 +65,7 @@ The free trial account of the ArqSign Platform provides users with nearly all th
 
 1. To create a free trial account, on the ArqSign platform's homepage, click on "Free Trial".
 
-<figure><img src=".gitbook/assets/07 (6).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Click on the image to enlarge</p></figcaption></figure>
 
 2. The user will be redirected to the login page, where they should provide their email and click on "Next".
 
