@@ -164,13 +164,13 @@ To delete a role, click on the "Delete" icon. It's also possible to find a role 
 
 **Notify every \_\_\_\_\_ days, starting from \_\_\_\_\_ days before the subscription expiration:** By filling in these fields, global administrators of the account will be notified within the specified period as the plan expiration date approaches.
 
-<figure><img src="../../.gitbook/assets/19.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
-
-If the "**Custom Notifications - Customization with brand colors and logo**" field is enabled, it will be possible to insert a banner and define the highlight colors of the notifications sent to recipients via email and WhatsApp.
-
 {% hint style="info" %}
 <mark style="color:blue;">After the subscription expiration, this type of notification will no longer be sent.</mark>
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/19.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+
+If the "**Custom Notifications - Customization with brand colors and logo**" field is enabled, it will be possible to insert a banner and define the highlight colors of the notifications sent to recipients via email.
 
 <figure><img src="../../.gitbook/assets/20.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
