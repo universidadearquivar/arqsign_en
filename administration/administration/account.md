@@ -8,9 +8,9 @@ In the Account menu, you can find information about the user's account.
 
 ## Invoice Data Tab&#x20;
 
-In the Invoice Data tab, the fiscal and financial details of the user are displayed. The data provided when creating an account and purchasing a plan on the ArqSign platform is presented on this screen.&#x20;
+In the Tax Information tab, the fiscal and financial details of the user are displayed. The data provided when creating an account and purchasing a plan on the ArqSign platform is presented on this screen.
 
-If the user's account is on a free plan, the information will be blank but can be edited by clicking on the "Edit" button.&#x20;
+If the user's account is on a free plan, the information will be blank but can be edited by clicking on the "Edit" button.
 
 <figure><img src="../../.gitbook/assets/02 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -27,8 +27,8 @@ In this tab, the following user information is presented:&#x20;
 * **Complement:** The complement of the address.&#x20;
 * **Postal Code:** The postal code of the residential or commercial address of the user or company.&#x20;
 * **Country:** The country of the user or company.&#x20;
-* **State:** The state of the user or company.&#x20;
-* **City:** The city of the user or company.&#x20;
+* **State**: The state of the user or company.&#x20;
+* **City**: The city of the user or company.&#x20;
 
 <figure><img src="../../.gitbook/assets/03 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -40,17 +40,17 @@ In the Billing and Usage tab, the user's account purchase history is presented.&
 
 ### Plan and Consumption Sub-Tab&#x20;
 
-In the Plan and Consumption sub-tab, the type of plan, billing period (annual or monthly), plan subscription date, and subscription expiration date are displayed.&#x20;
+In the Plan and Usage sub-tab, the type of plan, billing period (annual or monthly), plan subscription date, and subscription expiration date are displayed.&#x20;
 
 By default, when creating an account, the "Automatic Renewal" option will be automatically enabled. To cancel this renewal, simply uncheck this option.&#x20;
 
 <figure><img src="../../.gitbook/assets/04 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:blue;">By keeping the automatic renewal enabled, when the plan expires, the system will automatically renew the payment using the same payment method as the previous purchase. If the option is disabled, the "Buy Now" button will be displayed, allowing the user to repurchase the same plan or choose another plan.</mark>&#x20;
+<mark style="color:blue;">By keeping the automatic renewal enabled, when the plan expires, the system will automatically renew the payment using the same payment method as the previous purchase. If the option is disabled, the "Buy Now" button will be displayed, allowing the user to repurchase the same plan or choose another plan.</mark>
 {% endhint %}
 
-To change the payment method for the plan, click on "Change Payment Method." A link will be sent to the account owner's email or phone with instructions to make this change.&#x20;
+To change the payment method for the plan, click on "Change Payment Method." A link will be sent to the account owner's email or phone with instructions to make this change.
 
 <figure><img src="../../.gitbook/assets/05 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -60,13 +60,13 @@ Clicking on "Plan Details" will display information about the user's current pla
 
 On this screen, it is also possible to view the remaining credits the user has for sending documents. In "Accumulated Plan Usage," the user can see the quantity of document sends included in the contracted plan.&#x20;
 
-In "Remaining Credits from Plan Subscription," the credits the user still has in the subscribed plan are presented. The user can view the quantity of credits available for sending documents via WhatsApp and email, as well as security codes via SMS.&#x20;
+In "Remaining Credits from Plan Subscription," the credits the user still has in the subscribed plan are presented. The user can view the quantity of credits available for sending documents via email, as well as security codes via SMS. &#x20;
 
 {% hint style="warning" %}
-<mark style="color:orange;">**It is not possible to send documents via SMS. The credits purchased for SMS sending can only be used for sending security codes. The security code or token is a password used to access documents sent via email or WhatsApp and can be used to add an extra layer of security to the electronic document signing process.**</mark>
+<mark style="color:orange;">**It is not possible to send documents via SMS. The credits purchased for SMS sending can only be used for sending security codes. The security code or token is a password used to access documents sent via email and can be used to add an extra layer of security to the electronic document signing process.**</mark>
 {% endhint %}
 
-If the user has purchased additional credits beyond those already included in the plan, clicking on "Expiration Dates of Extra Credits" will allow them to view the dates on which separately purchased credits will expire.&#x20;
+If the user has purchased additional credits beyond those already included in the plan, clicking on "Expiration Dates of Extra Credits" will allow them to view the dates on which separately purchased credits will expire.
 
 <figure><img src="../../.gitbook/assets/08.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
