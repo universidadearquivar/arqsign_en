@@ -23,17 +23,17 @@ A Signatory is an individual or legal entity that participates in the signing pr
 
 ### ArqSign Platform Website &#x20;
 
-The ArqSign website ([https://arquivar.com.br/arqsign/](https://arquivar.com.br/arqsign/%22%20/t%20%22\_new)) provides comprehensive information about the platform, including its features and subscription plans. On the homepage, users can also access the platform login page and sign up for a free trial account.
+The ArqSign website (_<mark style="color:purple;">arquivar.com</mark>_) provides comprehensive information about the platform, including its features and subscription plans. On the homepage, users can also access the platform login page and sign up for a free trial account.
 
-<figure><img src=".gitbook/assets/01 (10).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
 ### Technical Support and Customer Service &#x20;
 
-To request support or assistance, navigate to the bottom menu of the page and click on "Support."&#x20;
+To request support or assistance, navigate to the bottom menu of the page and click on "Contact."
 
-<figure><img src=".gitbook/assets/02 (7).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>Click on the image to nlarge.</p></figcaption></figure>
 
 Users will be redirected to the platform's Help Center, where they can search through posted content to find solutions to their questions or request contact with the support team.  &#x20;
 
