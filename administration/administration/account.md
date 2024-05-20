@@ -74,7 +74,7 @@ If the user has purchased additional credits beyond those already included in th
 
 ### Purchase History Sub-Tab&#x20;
 
-In the Purchase History tab, the user can find a description of the products already purchased, the validity period of each, the number of installments in which the payment was divided, the amount, and the status of these installments.&#x20;
+In the Purchase History tab, the user can find a description of the products already purchased, the validity period of each, the number of installments in which the payment was divided, the amount, and the status of these installments.
 
 Clicking on "Plan Details" displays a detailed description and quantity of the items included in the plan, credit values, excess credit values (if purchased), and the expiration date of each item.
 
@@ -88,7 +88,7 @@ Clicking on "Plan Details" displays a detailed description and quantity of the i
 
 ### Documents Sub-Tab&#x20;
 
-By default, the settings on this tab are automatically filled in, but it is possible to modify them by clicking the "Edit" button.&#x20;
+By default, the settings on this tab are automatically filled in, but it is possible to modify them by clicking the "Edit" button.
 
 <figure><img src="../../.gitbook/assets/09 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -104,12 +104,12 @@ The values set here will be adopted as the default for the configuration of send
 
 **Generate QR Code for document access in the Signature Log:** If this option is enabled, the Signature Log of a signed document will display a QR Code through which the person accessing it can view the signed document.
 
-**Default expiration time of \_\_\_\_\_ days for the access link to the document after the completion of the signature:** In this field, the default time (in days) is set for users to access a document after the signature process is completed until it expires and becomes unavailable.&#x20;
+**Default expiration time of \_\_\_\_\_ days for the access link to the document after the completion of the signature:** In this field, the default time (in days) is set for users to access a document after the signature process is completed until it expires and becomes unavailable.
 
-**Attach a file smaller than 10MB to the email sent upon signature completion:** If this option is selected, any completed document with a process file size smaller than 10MB will be sent to recipients as an attachment in the email notification of the signature completion process.&#x20;
+**Attach a file smaller than 10MB to the email sent upon signature completion:** If this option is selected, any completed document with a process file size smaller than 10MB will be sent to recipients as an attachment in the email notification of the signature completion process.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Upon completing the signature process, the system will send an access link to the document in the body of the email to all recipients.**</mark>&#x20;
+<mark style="color:orange;">**Upon completing the signature process, the system will send an access link to the document in the body of the email to all recipients.**</mark>
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/11 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
@@ -122,10 +122,10 @@ The values set here will be adopted as the default for the configuration of send
 
 ### Signatory Role Sub-Tab&#x20;
 
-In this tab, signatory roles are created that will be presented when registering a document for signature in the "New Document > Add Documents and Recipients > Add Documents > Recipients" screen.&#x20;
+In this tab, signatory roles are created that will be presented when registering a document for signature in the "New Document > Add Documents and Recipients > Add Documents > Recipients" screen.
 
 {% hint style="info" %}
-<mark style="color:blue;">The signatory's role is their function in the contract, whether as a party, hired person, contractor, guarantor, witness, legal representative, etc.</mark>&#x20;
+<mark style="color:blue;">The signatory's role is their function in the contract, whether as a party, hired person, contractor, guarantor, witness, legal representative, etc.</mark>
 {% endhint %}
 
 By default, the platform presents the roles "Hired," "Contractor," "Guarantor," "Party," and "Witness."&#x20;
@@ -136,7 +136,7 @@ To edit these roles, simply select the one you want and click on the "Edit" icon
 
 <figure><img src="../../.gitbook/assets/14.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-It will be possible to change the name of the role and set it as the default role.&#x20;
+It will be possible to change the name of the role and set it as the default role.
 
 {% hint style="warning" %}
 <mark style="color:orange;">**The default role is the one that will be assigned to the signer if the sender of the document does not define a specific role for them at the time of document registration. By default, the system assigns the "Party" role as the default, but this choice can be changed by the sender user. It is not mandatory to determine a default role, but if necessary, only one of the roles can be set as the default.**</mark>
@@ -160,13 +160,17 @@ To delete a role, click on the "Delete" icon. It's also possible to find a role 
 
 ### Notification Sub-Tab&#x20;
 
-**Notify upon reaching \_\_\_\_% usage of my subscription items:** By filling in this field, the user will be notified by the system when their plan consumption reaches a certain percentage. This configuration will be disabled for plans with unlimited usage.&#x20;
+**Notify upon reaching \_\_\_\_% usage of my subscription items:** By filling in this field, the user will be notified by the system when their plan consumption reaches a certain percentage. This configuration will be disabled for plans with unlimited usage.
 
-**Notify every \_\_\_\_\_ days, starting from \_\_\_\_\_ days before the subscription expiration:** By filling in these fields, global administrators of the account will be notified within the specified period as the plan expiration date approaches.&#x20;
+**Notify every \_\_\_\_\_ days, starting from \_\_\_\_\_ days before the subscription expiration:** By filling in these fields, global administrators of the account will be notified within the specified period as the plan expiration date approaches.
 
 <figure><img src="../../.gitbook/assets/19.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 If the "**Custom Notifications - Customization with brand colors and logo**" field is enabled, it will be possible to insert a banner and define the highlight colors of the notifications sent to recipients via email and WhatsApp.
+
+{% hint style="info" %}
+<mark style="color:blue;">After the subscription expiration, this type of notification will no longer be sent.</mark>
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/20.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
