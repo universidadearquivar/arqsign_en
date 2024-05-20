@@ -1,10 +1,10 @@
 # 🟪 Users
 
-In the Users menu, all users participating in the logged-in user's account are displayed.
+In the Users menu, all users participating in the logged-in user's account are displayed.&#x20;
 
-Global administrators can invite other individuals to join the account and perform actions on the platform.
+In the free plan, only one user can access the account, but in paid plans, the account owner or global administrators can invite other individuals to join the account and perform actions on the platform.&#x20;
 
-The number of users that can be invited varies depending on the contracted plan. In the free plan, only one user can access the account.
+The number of users that can be invited varies depending on the contracted plan. In the paid plan, only one user can access the account.&#x20;
 
 In the free plans, as many users as necessary can be created (unlimited).
 
@@ -28,8 +28,6 @@ After a new user is added by the Global Administrator, the invitee receives an e
 
 **Status:** Presents the user's status, which can be "Active" (already registered in the account), "Pending" (has not accepted the invitation to join the account yet), or "Blocked" (a user who is no longer part of the account).&#x20;
 
-
-
 {% hint style="info" %}
 <mark style="color:blue;">**DIFFERENCE BETWEEN BLOCKED AND INACTIVE USER:**</mark>
 
@@ -42,7 +40,7 @@ After a new user is added by the Global Administrator, the invitee receives an e
 
 ## Actions on the Users Screen&#x20;
 
-The actions on the Users screen can be accessed through the top buttons, the actions column on the right, or by clicking on any user information in the main screen grid.&#x20;
+The actions on the Users screen can be accessed through the top buttons, the actions column on the right, or by clicking on any user information in the main screen grid.
 
 <div>
 
@@ -56,27 +54,27 @@ The actions on the Users screen can be accessed through the top buttons, the act
 
 **New:** To invite a new user to join the account, click on "New." By default, the user will have a "Pending" status until they accept the invitation to join the account.&#x20;
 
-The user must set a security code that the invitee will need to enter for the initial account access. Afterward, provide the user's email and choose the type of profile to be assigned, which can be Global Administrator (access to all features), Document Sender (sends and signs documents), or both.&#x20;
+The user must set a security code that the invitee will need to enter for the initial account access. Afterward, provide the user's email and choose the type of profile to be assigned, which can be Global Administrator (access to all features), Document Sender (sends and signs documents), or both. &#x20;
 
 <figure><img src="../../.gitbook/assets/02.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-If the invited user has only the Document Sender profile, it is necessary to define the User Group to which the invitee will be associated. This user group will determine which folders in the directory the new account member will have access to and should have been previously created in the Administration > User Group menu. It is also possible to create a group by clicking on "New Group."&#x20;
+If the invited user has only the Document Sender profile, it is necessary to define the User Group to which the invitee will be associated. This user group will determine which folders in the directory the new account member will have access to and should have been previously created in the Administration > User Group menu. It is also possible to create a group by clicking on "New Group."
 
 <figure><img src="../../.gitbook/assets/05.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 {% hint style="warning" %}
-<mark style="color:orange;">**The group definition is not required for users created with a Global Administrator profile because these users have access to all folders in the Directory Documents, eliminating the need for this restriction.**</mark>&#x20;
+<mark style="color:orange;">**The group definition is not required for users created with a Global Administrator profile because these users have access to all folders in the Directory Documents, eliminating the need for this restriction.**</mark>
 {% endhint %}
 
-**Activate:** Users with "Blocked" or "Inactive" status can be activated. When activated, previously blocked or inactive users regain access to the account.&#x20;
+**Activate:** Users with "Blocked" or "Inactive" status can be activated. When activated, previously blocked or inactive users regain access to the account.
 
-**Block:** Only users with "Active" status can be blocked. Blocked users lose ownership of all documents.&#x20;
+**Block:** Only users with "Active" status can be blocked. Blocked users lose ownership of all documents.
 
 
 
 <figure><img src="../../.gitbook/assets/06.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Edit:** Used to edit user information.&#x20;
+**Edit:** Used to edit user information.
 
 **Deactivate:** Users with "Active" status can be deactivated. When deactivating a user, it is necessary to decide whether the documents sent by that user will be transferred to another account member or if deactivation will occur without transfer.&#x20;
 
@@ -86,10 +84,10 @@ If the "Transfer" option is chosen, it is necessary to inform who will be the ne
 
 <figure><img src="../../.gitbook/assets/07.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Delete:** Only users with "Pending" status, i.e., those who have been invited but have not yet joined the account, can be deleted from the account.&#x20;
+**Delete:** Only users with "Pending" status, i.e., those who have been invited but have not yet joined the account, can be deleted from the account.
 
 <figure><img src="../../.gitbook/assets/09.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Search:** It is possible to search for a user in the account by name or email using the top search bar.&#x20;
+**Search:** It is possible to search for a user in the account by name or email using the top search bar.
 
 <figure><img src="../../.gitbook/assets/10.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
