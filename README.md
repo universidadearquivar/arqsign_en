@@ -182,7 +182,7 @@ On the left side of the screen, all available menus are listed, grouped accordin
 
 <figure><img src=".gitbook/assets/17 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-In the bottom right corner of the screen, the user will find the Support menu, where they can access a demonstrative tutorial on platform access, FAQ (Frequently Asked Questions) about platform usage, learn how to verify the legal validity of a document, access content from the Help Center and ArqSign blog, schedule a free platform demonstration, and contact the technical support team via chat. &#x20;
+<mark style="color:yellow;">In the bottom right corner of the screen, the user will find the Support menu, where they can access a demonstrative tutorial on platform access, FAQ (Frequently Asked Questions) about platform usage, learn how to verify the legal validity of a document, access content from the Help Center and ArqSign blog, schedule a free platform demonstration, and contact the technical support team via chat.</mark> &#x20;
 
 <figure><img src=".gitbook/assets/05 (7).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
