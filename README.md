@@ -112,7 +112,7 @@ For monthly plans, you pay a monthly fee when subscribing to the plan and can im
 
 For annual plans, there is an option to purchase with interest-free installment payments for up to 12 months on a credit card.&#x20;
 
-#### Purchasing a Plan&#x20;
+#### <mark style="color:yellow;">Purchasing a Plan</mark>&#x20;
 
 1. To acquire a plan, on the ArqSign website's homepage, click on "Plans and Prices" in the top menu. &#x20;
 
