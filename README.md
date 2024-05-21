@@ -39,7 +39,7 @@ To request support or assistance, navigate to the bottom menu of the page and cl
 
 <figure><img src=".gitbook/assets/03 (6).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-Contacting the support team can be done via <mark style="color:yellow;">WhatsApp</mark>, chat, email ([contact@arqsign.com](mailto:contact@arqsign.com)), or phone <mark style="color:yellow;">(4003-8839)</mark>.&#x20;
+Contacting the support team can be done via <mark style="color:yellow;">WhatsApp</mark>, chat, email ([contact@arqsign.com](mailto:contact@arqsign.com)), <mark style="color:yellow;">or phone (4003-8839)</mark>.&#x20;
 
 <figure><img src=".gitbook/assets/04 (6).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
