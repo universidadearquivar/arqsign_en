@@ -126,6 +126,21 @@ To complete the signature process, the signatory should proceed by clicking on t
 
 ***
 
+### <mark style="color:yellow;">Additional Information for the Signature</mark>
+
+After defining the Signature Style, the user will be prompted to sign, which can be:
+
+* **Eletronic Signature**: In an electronic signature, the user provides their personal or business information, and ArqSign certifies the authenticity and truthfulness of the presented information. When using an electronic signature, users will be required to input the necessary information in the "Data" area. The mandatory fields within this area may vary depending on the specific requirements of the document. Any field marked with a symbol "\*" indicates that the information provided is mandatory for completion.&#x20;
+*   **Digital Signature:**  If it has been defined that the user must sign using a digital certificate (ICP Brasil and ICP others), he will not need to provide any data, he must simply select the Signature Style he will use, accept the Electronic Signature Term and click on “Sign and Finish”.
+
+    A list will be displayed with all the certificates installed on the user's machine and in the ArqSign platform account. He must select the one with which he will sign, enter the PIN code of the certificate (if requested) and click on “Next”, if he also needs to sign as a Legal Entity, or on “Finish” to finish.
+
+{% hint style="info" %}
+<mark style="color:blue;">**The certificates hosted in the user's ArqSign platform account presented here must have previously been imported on the My Profile screen > Digital Certificate Tab.**</mark>
+{% endhint %}
+
+***
+
 ### Step 4 - Concluding the signing process
 
 After the process is completed and all signatories have signed the document, all participants will receive an email notification about the completion of the signing process. By clicking on the received link, it will be possible to view the signed document, the document's ID code, information about the digital certificates and electronic signatures used for signing, and the history of events related to the document, as well as information about the signatories.
