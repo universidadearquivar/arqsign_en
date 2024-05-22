@@ -126,24 +126,24 @@ To complete the signature process, the signatory should proceed by clicking on t
 
 ***
 
-### <mark style="color:yellow;">Additional Information for the Signature</mark>
+### <mark style="color:purple;">Additional Information for the Signature</mark>
 
-After defining the Signature Style, the user will be prompted to sign, which can be:
+<mark style="color:purple;">After defining the Signature Style, the user will be prompted to sign, which can be:</mark>
 
-* **Eletronic Signature**: In an electronic signature, the user provides their personal or business information, and ArqSign certifies the authenticity and truthfulness of the presented information. When using an electronic signature, users will be required to input the necessary information in the "Data" area. The mandatory fields within this area may vary depending on the specific requirements of the document. Any field marked with a symbol "\*" indicates that the information provided is mandatory for completion.&#x20;
-*   **Digital Signature:**  If it has been defined that the user must sign using a digital certificate (ICP Brasil and ICP others), he will not need to provide any data, he must simply select the Signature Style he will use, accept the Electronic Signature Term and click on “Sign and Finish”.
+* <mark style="color:purple;">**Eletronic Signature**</mark><mark style="color:purple;">: In an electronic signature, the user provides their personal or business information, and ArqSign certifies the authenticity and truthfulness of the presented information. When using an electronic signature, users will be required to input the necessary information in the "Data" area. The mandatory fields within this area may vary depending on the specific requirements of the document. Any field marked with a symbol "\*" indicates that the information provided is mandatory for completion.</mark>&#x20;
+*   <mark style="color:purple;">**Digital Signature:**</mark>  <mark style="color:purple;"></mark><mark style="color:purple;">If it has been defined that the user must sign using a digital certificate (ICP Brasil and ICP others), he will not need to provide any data, he must simply select the Signature Style he will use, accept the Electronic Signature Term and click on “Sign and Finish”.</mark>
 
-    A list will be displayed with all the certificates installed on the user's machine and in the ArqSign platform account. He must select the one with which he will sign, enter the PIN code of the certificate (if requested) and click on “Next”, if he also needs to sign as a Legal Entity, or on “Finish” to finish.
+    <mark style="color:purple;">A list will be displayed with all the certificates installed on the user's machine and in the ArqSign platform account. He must select the one with which he will sign, enter the PIN code of the certificate (if requested) and click on “Next”, if he also needs to sign as a Legal Entity, or on “Finish” to finish.</mark>
 
 {% hint style="info" %}
 <mark style="color:blue;">**The certificates hosted in the user's ArqSign platform account presented here must have previously been imported on the My Profile screen > Digital Certificate Tab.**</mark>
 {% endhint %}
 
-When completing the signature requirements, the user can choose between “Sign and Complete” to finalize their signature or “Finish Later” to return to the document and complete at another time.
+<mark style="color:purple;">When completing the signature requirements, the user can choose between “Sign and Complete” to finalize their signature or “Finish Later” to return to the document and complete at another time.</mark>
 
-If you choose to complete, a subscription confirmation message will be displayed. If the user does not have an account, they will be invited to create a free trial account or they can click “Later” to return at another time. If you already have an account, you must click “Close” to end the process.
+<mark style="color:purple;">If you choose to complete, a subscription confirmation message will be displayed. If the user does not have an account, they will be invited to create a free trial account or they can click “Later” to return at another time. If you already have an account, you must click “Close” to end the process.</mark>
 
-If the sender has defined that a QR Code must be generated in the Signature Registry on the Advanced Settings screen of document registration, this QR Code will be displayed here.
+<mark style="color:purple;">If the sender has defined that a QR Code must be generated in the Signature Registry on the Advanced Settings screen of document registration, this QR Code will be displayed here.</mark>
 
 ***
 
