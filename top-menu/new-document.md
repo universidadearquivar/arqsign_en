@@ -149,13 +149,13 @@ In the next step, the documents inserted in the previous stage will be displayed
 
 ### Signature Fields&#x20;
 
-In the right corner of the screen, choose between "**Manually position signatures**" to select where the signature areas will be placed in the document, or "**Automatically position signatures on a page at the end of the document**" so that all signatures are inserted at the end of the last page of the document.&#x20;
+In the right corner of the screen, choose between "**Position signatures manually**" to select where the signature areas will be placed in the document, or "**Automatically position place signatures on the page of the document**" so that all signatures are inserted at the end of the last page of the document.&#x20;
 
 For each recipient added in the first step, it is necessary to configure the signature area. To do this, select the recipient in the "**Settings for**" field.&#x20;
 
 <figure><img src="../.gitbook/assets/21 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-If the option **"Manually Position Signatures"** was chosen, the **"Signature Fields"** section will be displayed. To create the signature area, drag the **"Sign as Individual"** box to the part of the document where you  want the signature to be inserted.
+If the option **"Position Signatures Manually"** was chosen, the **"Signature Fields"** section will be displayed. To create the signature area, drag the **"Sign as Individual"** box to the part of the document where you  want the signature to be inserted.
 
 <figure><img src="../.gitbook/assets/img04.png" alt=""><figcaption></figcaption></figure>
 
@@ -167,7 +167,7 @@ If the recipient will also sign as a legal entity, click on **"Sign as Corporate
 
 <figure><img src="../.gitbook/assets/img06.png" alt=""><figcaption></figcaption></figure>
 
-If the option "**Automatically position signatures on a page at the end of the document**" has been chosen, a page will be inserted at the end of the document where signatures and signatory information will be displayed in an orderly manner. The role that the signer has in the contract is also displayed.
+If the option "**Automatically position place signatures on the page of the document**" has been chosen, a page will be inserted at the end of the document where signatures and signatory information will be displayed in an orderly manner. The role that the signer has in the contract is also displayed.
 
 If in [step 1](new-document.md#step-1-add-documents-and-recipients) it was defined that the recipient will sign as an individual and a legal entity, two boxes with their names in the same color should be inserted. The boxes for each of the recipients will be displayed in different colors to visually signal where each should sign.&#x20;
 
@@ -179,15 +179,15 @@ If in [step 1](new-document.md#step-1-add-documents-and-recipients) it was defin
 
 ***
 
-### Additional Signature Information&#x20;
+### Complementary Signature Information&#x20;
 
-Depending on the type of signature defined for the recipient in step 1, the "**Additional Signature Information**" fields will be displayed. These fields will only be shown if the option "Electronic Signature" was chosen in step 1 in the "Signature Type" field.&#x20;
+Depending on the type of signature defined for the recipient in step 1, the "**Complementary signature Information**" fields will be displayed. These fields will only be shown if the option "Electronic Signature" was chosen in step 1 in the "Signature Type" field.&#x20;
 
 If the signature is as an Individual, it is possible to require the recipient's name and some document by selecting the options "Individual's Name" and "Individual's Document" as mandatory fields.&#x20;
 
 <figure><img src="../.gitbook/assets/24 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-To require a document, select the desired option among CPF, CNH, RG, or others. If the last option is selected, you will need to provide the document's name, specify if it is text or numeric, and indicate the number of characters.&#x20;
+<mark style="color:yellow;">To require a document, select the desired option among CPF, CNH, RG, or others. If the last option is selected, you will need to provide the document's name, specify if it is text or numeric, and indicate the number of characters.</mark>&#x20;
 
 If the signature is as a Legal Entity, it is possible to require the recipient's company name and some document by selecting the options "Legal Entity Name" and "Legal Entity Document" as mandatory fields.&#x20;
 
