@@ -23,7 +23,7 @@ A Signatory is an individual or legal entity that participates in the signing pr
 
 ### ArqSign Platform Website &#x20;
 
-The ArqSign website (_<mark style="color:yellow;">arquivar.com</mark>_) provides comprehensive information about the platform, including its features and subscription plans. On the homepage, users can also access the platform login page and sign up for a free trial account.
+The ArqSign website (_<mark style="color:purple;">arquivar.com</mark>_) provides comprehensive information about the platform, including its features and subscription plans. On the homepage, users can also access the platform login page and sign up for a free trial account.
 
 <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -35,15 +35,15 @@ To request support or assistance, navigate to the bottom menu of the page and cl
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>Click on the image to nlarge.</p></figcaption></figure>
 
-<mark style="color:yellow;">Users will be redirected to the platform's Help Center, where they can search through posted content to find solutions to their questions or request contact with the support team.</mark>  &#x20;
+<mark style="color:purple;">Users will be redirected to the platform's Help Center, where they can search through posted content to find solutions to their questions or request contact with the support team.</mark>  &#x20;
 
 <figure><img src=".gitbook/assets/03 (6).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-Contacting the support team can be done via <mark style="color:yellow;">WhatsApp</mark>, chat, email ([contact@arqsign.com](mailto:contact@arqsign.com)), <mark style="color:yellow;">or phone (4003-8839)</mark>.&#x20;
+<mark style="color:purple;">Contacting the support team can be done via WhatsApp, chat, email (</mark>[<mark style="color:purple;">contact@arqsign.com</mark>](mailto:contact@arqsign.com)<mark style="color:purple;">), or phone (4003-8839).</mark>&#x20;
 
 <figure><img src=".gitbook/assets/04 (6).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-<mark style="color:yellow;">Once authenticated, users can also access the support menu on the platform, located in the bottom right corner of the screen.</mark>&#x20;
+<mark style="color:purple;">Once authenticated, users can also access the support menu on the platform, located in the bottom right corner of the screen.</mark>&#x20;
 
 <figure><img src=".gitbook/assets/05 (7).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -112,9 +112,9 @@ For monthly plans, you pay a monthly fee when subscribing to the plan and can im
 
 For annual plans, there is an option to purchase with interest-free installment payments for up to 12 months on a credit card.&#x20;
 
-#### <mark style="color:yellow;">Purchasing a Plan</mark>&#x20;
+#### <mark style="color:purple;">Purchasing a Plan</mark>&#x20;
 
-1. To acquire a plan, on the ArqSign website's homepage, click on "Plans and Prices" in the top menu. &#x20;
+1. <mark style="color:purple;">To acquire a plan, on the ArqSign website's homepage, click on "Plans and Prices" in the top menu.</mark> &#x20;
 
 <figure><img src=".gitbook/assets/11 (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -182,7 +182,7 @@ On the left side of the screen, all available menus are listed, grouped accordin
 
 <figure><img src=".gitbook/assets/17 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-<mark style="color:yellow;">In the bottom right corner of the screen, the user will find the Support menu, where they can access a demonstrative tutorial on platform access, FAQ (Frequently Asked Questions) about platform usage, learn how to verify the legal validity of a document, access content from the Help Center and ArqSign blog, schedule a free platform demonstration, and contact the technical support team via chat.</mark> &#x20;
+<mark style="color:purple;">In the bottom right corner of the screen, the user will find the Support menu, where they can access a demonstrative tutorial on platform access, FAQ (Frequently Asked Questions) about platform usage, learn how to verify the legal validity of a document, access content from the Help Center and ArqSign blog, schedule a free platform demonstration, and contact the technical support team via chat.</mark> &#x20;
 
 <figure><img src=".gitbook/assets/05 (7).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
