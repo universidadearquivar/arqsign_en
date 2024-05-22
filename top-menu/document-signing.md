@@ -139,6 +139,12 @@ After defining the Signature Style, the user will be prompted to sign, which can
 <mark style="color:blue;">**The certificates hosted in the user's ArqSign platform account presented here must have previously been imported on the My Profile screen > Digital Certificate Tab.**</mark>
 {% endhint %}
 
+When completing the signature requirements, the user can choose between “Sign and Complete” to finalize their signature or “Finish Later” to return to the document and complete at another time.
+
+If you choose to complete, a subscription confirmation message will be displayed. If the user does not have an account, they will be invited to create a free trial account or they can click “Later” to return at another time. If you already have an account, you must click “Close” to end the process.
+
+If the sender has defined that a QR Code must be generated in the Signature Registry on the Advanced Settings screen of document registration, this QR Code will be displayed here.
+
 ***
 
 ### Step 4 - Concluding the signing process
