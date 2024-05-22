@@ -75,7 +75,7 @@ The free trial account of the ArqSign Platform provides users with nearly all th
 
 * Full Name: Enter your full name.&#x20;
 * Phone: Enter your phone number with area code.&#x20;
-* Industry: Select the industry in which the company or the account owner operates.&#x20;
+* Business Segment: Select the industry in which the company or the account owner operates.&#x20;
 * Testing ArqSign for: Choose the purpose of the test to be conducted on the ArqSign platform.&#x20;
 * Password: Create a password following the minimum security requirements (at least eight characters, including at least one uppercase letter, one lowercase letter, one number, and one special character). &#x20;
 
