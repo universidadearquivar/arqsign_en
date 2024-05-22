@@ -78,7 +78,7 @@ By clicking on the “Options” button in the top right corner of the subscript
 
 **File Download:** Used to download the document.
 
-When signing the document, the system will automatically record the signer's acceptance of the "**Electronic Signature Agreement**."
+When signing the document, the system will automatically record the signer's acceptance of the "**electronic signature terms**."
 
 To change the language of the document viewing screen, in the bottom right corner of the screen, choose between "English - USA", "Spanish - Spain", or "Portuguese - Brazil".
 

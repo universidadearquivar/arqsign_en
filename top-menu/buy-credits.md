@@ -18,7 +18,7 @@ When clicking on "Buy Credits," the user will be directed to the checkout screen
 
 <figure><img src="../.gitbook/assets/04 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-To complete the purchase, the user should enter the billing and payment information and click "Complete Purchase."
+To complete the purchase, the user should enter the billing and payment information and click "Finalize the Purchase."
 
 <figure><img src="../.gitbook/assets/05 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
