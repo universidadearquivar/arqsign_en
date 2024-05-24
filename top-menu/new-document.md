@@ -113,7 +113,7 @@ After generating the code, choose whether it will be sent via email or SMS, and 
 
 <figure><img src="../.gitbook/assets/15 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Custom Message Icon:** By clicking on this icon, you can insert a message that will be sent to the recipient along with the document. To do this, fill in the "Subject" and "Message" fields. If you wish to delete the message, click on **"Delete Custom Message."**
+**Custom Message Icon:** By clicking on this icon, you can insert a message that will be sent to the recipient along with the document. To do this, fill in the "Subject" and "Message" fields. If you wish to delete the message, click on **"Delete Customized Message."**
 
 <figure><img src="../.gitbook/assets/16 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
