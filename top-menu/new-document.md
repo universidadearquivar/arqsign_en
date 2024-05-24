@@ -61,11 +61,11 @@ To schedule the automatic renewal of the document being registered, select the c
 
 In the "**Recipients**" field, fill in the fields related to the users who will receive the document and participate in the signing process. The following configurations need to be performed for each of the recipients.&#x20;
 
-To add a recipient saved in the contact list, click on the "**Add a recipient from my contacts list**" icon. The contact list must be created beforehand in the My Profile menu.&#x20;
+To add a recipient saved in the contact list, click on the "**Add a recipient from my contact list**" icon. The contact list must be created beforehand in the My Profile menu.&#x20;
 
 <figure><img src="../.gitbook/assets/06 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-By clicking this button, the list is displayed. To add the desired recipients, select them by clicking the checkbox next to their name and click "**Add Recipients**."
+By clicking this button, the list is displayed. To add the desired recipients, select them by clicking the checkbox next to their name and click "**Add Containers**."
 
 <figure><img src="../.gitbook/assets/07 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
