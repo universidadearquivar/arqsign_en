@@ -83,7 +83,7 @@ By checking the **"Sign in order below"** checkbox, the document will be sent to
 
 <figure><img src="../.gitbook/assets/09 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-If it has been determined that the recipient will sign as an individual (pessoa física) or legal entity (pessoa jurídica), it is necessary to define their role as a signatory in the process. Choose from Contractor (Contratada), Contracting Party (Contratante), Guarantor (Fiador), Party (Parte), or add a custom "**Signatory Role**" by clicking "**Add Role.**"
+If it has been determined that the recipient will sign as an individual (pessoa física) or legal entity (pessoa jurídica), it is necessary to define their role as a signatory in the process. Choose from Contractor (Contratada), Contracting Party (Contratante), Guarantor (Fiador), Party (Parte), or add a custom "**Signatory's Role**" by clicking "**Add Role.**"
 
 The signer roles presented here are previously created in the Administration > Account > Settings > Signer Role tab. By default, the platform presents roles such as "Contractor", "Contractee", "Guarantor", "Party", and "Witness", but it is possible to edit or delete these roles, as well as create others if necessary.
 
@@ -101,7 +101,7 @@ The signer roles presented here are previously created in the Administration > A
 
 <figure><img src="../.gitbook/assets/12 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-By selecting the option **"Save this recipient to my contacts list,"** the recipient's provided data will be automatically saved to the user's contact list.
+By selecting the option **"Save this recipient to my contact list,"** the recipient's provided data will be automatically saved to the user's contact list.
 
 <figure><img src="../.gitbook/assets/13 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
