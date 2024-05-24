@@ -69,7 +69,7 @@ By clicking this button, the list is displayed. To add the desired recipients, s
 
 <figure><img src="../.gitbook/assets/07 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-By checking the **"Sign in the order below"** checkbox, the document will be sent to recipients in the order defined in the **"Order"** field that will appear at the top of the "Recipient Data." When this option is set, a user will only receive the document after the preceding one completes their signing or viewing action.
+By checking the **"Sign in order below"** checkbox, the document will be sent to recipients in the order defined in the **"Order"** field that will appear at the top of the "Recipient Data." When this option is set, a user will only receive the document after the preceding one completes their signing or viewing action.
 
 {% hint style="warning" %}
 <mark style="color:orange;">**If the previous user only had viewing access, the next signer will receive the document when the last signer before them completes the signature.**</mark>
@@ -79,7 +79,7 @@ By checking the **"Sign in the order below"** checkbox, the document will be sen
 
 **Recipient's name:** Enter the recipient's name.&#x20;
 
-**Send by:** Select whether the document will be sent by email or Whatsapp to the recipient.
+<mark style="color:purple;">**Send by:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">Select whether the document will be sent by email or Whatsapp to the recipient.</mark>
 
 <figure><img src="../.gitbook/assets/09 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -135,7 +135,7 @@ In the "**Default Message"** field, the default message to be sent to all recipi
 
 <figure><img src="../.gitbook/assets/18 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-After completing these settings, click "**Next**" to proceed to the next step, "Save for Later" to save the document as a draft, or "Discard" to cancel the registration.
+After completing these settings, click "**Next**" to proceed to the next step, "Save as Draft" to save the document as a draft, or "Delete" to cancel the registration.
 
 <figure><img src="../.gitbook/assets/19 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -149,7 +149,7 @@ In the next step, the documents inserted in the previous stage will be displayed
 
 ### Signature Fields&#x20;
 
-In the right corner of the screen, choose between "**Position signatures manually**" to select where the signature areas will be placed in the document, or "**Automatically position place signatures on the page of the document**" so that all signatures are inserted at the end of the last page of the document.&#x20;
+In the right corner of the screen, choose between "**Position signatures manually**" to select where the signature areas will be placed in the document, or "**Automatically place signatures on the page of the document**" so that all signatures are inserted at the end of the last page of the document.&#x20;
 
 For each recipient added in the first step, it is necessary to configure the signature area. To do this, select the recipient in the "**Settings for**" field.&#x20;
 
@@ -167,7 +167,7 @@ If the recipient will also sign as a legal entity, click on **"Sign as Corporate
 
 <figure><img src="../.gitbook/assets/img06.png" alt=""><figcaption></figcaption></figure>
 
-If the option "**Automatically position place signatures on the page of the document**" has been chosen, a page will be inserted at the end of the document where signatures and signatory information will be displayed in an orderly manner. The role that the signer has in the contract is also displayed.
+If the option "**Automatically place signatures on the page of the document**" has been chosen, a page will be inserted at the end of the document where signatures and signatory information will be displayed in an orderly manner. The role that the signer has in the contract is also displayed.
 
 If in [step 1](new-document.md#step-1-add-documents-and-recipients) it was defined that the recipient will sign as an individual and a legal entity, two boxes with their names in the same color should be inserted. The boxes for each of the recipients will be displayed in different colors to visually signal where each should sign.&#x20;
 
