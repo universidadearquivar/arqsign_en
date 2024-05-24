@@ -42,13 +42,13 @@ Upon accessing the platform, users are greeted with a user-friendly interface di
 
 ### Step 1 - Accessing the Document&#x20;
 
-If the sender has set a security code for opening the document, the signatory will be asked to enter the code, which should have been received earlier via email, SMS or from the sender. If the code is not received, the user should click on "Did Not Receive the Code."&#x20;
+If the sender has set a security code for opening the document, the signatory will be asked to enter the code, which should have been received earlier via email, SMS or from the sender. If the code is not received, the user should click on "**I didn't receive the code**."&#x20;
 
 <figure><img src="../.gitbook/assets/11 (8).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Entering the Security Code:** If the signatory has received the security code, they can simply input it into the designated field to proceed with accessing the document. This ensures added security and authentication for document access.
 
-**Requesting a New Code:** In the event that the signatory hasn't received the code or has misplaced it, clicking on "Did Not Receive the Code" will prompt the system to initiate the process for reissuing a new security code. This ensures that signatories can securely access the document without any delays or complications.
+**Requesting a New Code:** In the event that the signatory hasn't received the code or has misplaced it, clicking on "**I didn't receive the code"** will prompt the system to initiate the process for reissuing a new security code. This ensures that signatories can securely access the document without any delays or complications.
 
 <figure><img src="../.gitbook/assets/12 (10).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
