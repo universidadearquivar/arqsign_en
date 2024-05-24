@@ -70,7 +70,7 @@ By clicking on the “Options” button in the top right corner of the subscript
 
 <figure><img src="../.gitbook/assets/07 (12).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Refuse Signing:** Used when the signatory does not wish to sign the document for any reason. In this case, they must provide a justification for the refusal and click on "Decline Signature." By declining the signature, the document's signing process will be automatically canceled for all parties involved and will appear with the status "Canceled" for the sender responsible for the document.
+**Refuse Signing:** Used when the signatory does not wish to sign the document for any reason. In this case, they must provide a justification for the refusal and click on "Refuse Signing." By declining the signature, the document's signing process will be automatically canceled for all parties involved and will appear with the status "Canceled" for the sender responsible for the document.
 
 <figure><img src="../.gitbook/assets/08 (11).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
