@@ -2,30 +2,55 @@
 
 ## Platform features
 
-ArqSign is an electronic signature platform enabling users to easily upload, designate signatories, and send documents for digital signing from any device, ensuring flexibility and security through robust encryption. It features an API for integrating digital signatures into existing business workflows, enhancing operational efficiency. Primarily, ArqSign facilitates the electronic management and signing of documents, supporting both electronic signatures and digital certificates. Tailored for the American market, it emphasizes compliance, security, and accessibility, providing a streamlined solution for businesses adopting digital document processes.&#x20;
+ArqSign is a platform for electronic signatures that works as follows: the user uploads the document, selects the signatories, establishes the signatures, and sends it to those involved in the signing process.&#x20;
 
-Designed to meet the demands of the American market, ArqSign places a strong emphasis on compliance, security, and user accessibility. Its goal is to offer a reliable and efficient solution for businesses transitioning to digital document management and electronic signatures.&#x20;
+The user can access sent and received documents for signature at any time, from anywhere, on any device – mobile phone, computer, tablet – without compromising the security and encryption of data, in accordance with LGPD (General Data Protection Law).&#x20;
+
+ArqSign features the implementation of an API (Application Programming Interface), allowing the user to integrate their Electronic and Digital Document Signature into their company's solutions.&#x20;
+
+The main functionality of the ArqSign platform is to offer users the ability to send, manage, collect, and sign documents digitally, through electronic signatures or digital certificates.&#x20;
+
+The signatory can sign the documents via email, WhatsApp, or their ArqSign account if they have one.&#x20;
+
+
+
+{% hint style="info" %}
+<mark style="color:blue;">**ELECTRONIC SIGNATURE VS. DIGITAL SIGNATURE (ICP Brasil and Other Digital Certificates)**</mark>
+
+<mark style="color:blue;">An electronic signature does not require a digital certificate. It is more commonly used for signing contracts and documents between private entities (B2B, B2C).</mark>&#x20;
+
+<mark style="color:blue;">A digital signature requires a digital certificate. It is more commonly used for issuing invoices and for transactions with the government.</mark>&#x20;
+
+<mark style="color:blue;">On the ArqSign Platform, when configuring a signing workflow, you can determine which type of signature should be executed by the recipient by choosing between:</mark>&#x20;
+
+<mark style="color:blue;">a) Electronic signature: ArqSign produces advanced electronic signatures with legal validity according to Provisional Measure 2.200-2 of 08/24/2001 and Law 14.063 of 11/23/2020. Whenever a signatory signs a document electronically, ArqSign applies its own digital certificate, capturing the file's Hash (unique identifier), verifying the integrity of the file, and attaching the signatory's identification to the certificate.</mark>&#x20;
+
+<mark style="color:blue;">b) Digital signature – ICP-Brasil or ICP Others: ArqSign produces qualified digital signatures according to Provisional Measure 2.200-2 of 08/24/2001 and Law 14.063 of 11/23/2020. When the user already has a digital certificate and wishes to use it to sign through ArqSign, this certificate is used to verify the integrity of the signature and identify the user as the signatory on the document.</mark>&#x20;
+{% endhint %}
 
 ***
 
 ### User and Signatory &#x20;
 
-A User is an individual who uses the ArqSign platform to send, track workflows, collect signatures, access, and manage documents. A user must be linked to an account, or when they also need to sign a document, they become a signatory.&#x20;
+A user is a person who uses the ArqSign Platform to send, monitor workflows, collect signatures, access, and manage documents. A user must be linked to an account, and when they also need to sign a document, they become a signatory.&#x20;
 
-In the ArqSign platform, a user can have the following profiles:&#x20;
+On the ArqSign platform, a user can have the following profiles:&#x20;
 
-* **Document Sender:** A user without permission to access platform management functionalities. Their access is focused on sending and managing their documents.&#x20;
-* **Global Administrator:** Users with permission to access all platform functionalities, including folder and user management.&#x20;
+**Document Sender:** A user without permission to access the platform management functionalities. Their access is focused on sending and managing their documents.&#x20;
 
-A Signatory is an individual or legal entity that participates in the signing process (signs a document). The signatory does not need to have an account on the ArqSign platform to sign a document.&#x20;
+**Global Administrator:** Users with permission to access all platform functionalities, including folder and user management.&#x20;
+
+A signatory is an individual or legal entity that participates in the signing process (signs a document). The signatory does not need to have an account or be a user on the ArqSign Platform to sign a document.&#x20;
 
 ***
 
 ### ArqSign Platform Website &#x20;
 
-The ArqSign website (_<mark style="color:purple;">arquivar.com</mark>_) provides comprehensive information about the platform, including its features and subscription plans. On the homepage, users can also access the platform login page and sign up for a free trial account.
+The ArqSign website (_<mark style="color:purple;">arquivar.com</mark>_) presents all the information and functionalities of the platform, as well as the features of the subscription plans. On the homepage, users will also have access to the platform's login page and the creation of a free trial account.
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Design sem nome (1).gif" alt=""><figcaption></figcaption></figure>
+
+
 
 ***
 
