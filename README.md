@@ -58,7 +58,7 @@ The ArqSign website (_<mark style="color:purple;">arquivar.com</mark>_) presents
 
 To request support or assistance, navigate to the bottom menu of the page and click on "Contact."
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>Click on the image to nlarge.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Click on the image to nlarge.</p></figcaption></figure>
 
 <mark style="color:purple;">Users will be redirected to the platform's Help Center, where they can search through posted content to find solutions to their questions or request contact with the support team.</mark>  &#x20;
 
@@ -90,7 +90,7 @@ The free trial account of the ArqSign Platform provides users with nearly all th
 
 1. To create a free trial account, on the ArqSign platform's homepage, click on "Free Trial".
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Click on the image to enlarge</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption><p>Click on the image to enlarge</p></figcaption></figure>
 
 2. The user will be redirected to the login page, where they should provide their email and click on "Next".
 

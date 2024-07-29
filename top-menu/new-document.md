@@ -4,60 +4,104 @@ On the New Document screen, the user will be able to register a document that wi
 
 ## Step 1: Add Documents and Recipients
 
-### A. Add Documents&#x20;
+### Add Documents (Upload files)
 
-#### Advanced Settings
+To include the documents that need to be signed, drag the desired files to the document upload field or select them for upload from a directory on your device.
 
-Advanced settings pertain to the document.
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Document Expiration Time after Sending:** In this field, the user must specify the expiration period (in days) for the document, i.e., the deadline for recipients to sign it.&#x20;
+You can include more than one file in the same signing process. In this case, the **"Group files into a single document**" option will be available and can be checked or unchecked.&#x20;
 
-{% hint style="warning" %}
-<mark style="color:orange;">**If this field is not modified, it will be filled with the default value. The system's default value is 120 days, but this can be changed in the Administration menu > Account > Settings.**</mark>
-{% endhint %}
+When this option is **checked**, ArqSign displays the **grouped files** in the listing area, where you can change the order of the documents by clicking and dragging them to the desired position. In this case, it is not allowed to change the name of each individual file, only the name of the process.
 
-* **Expiration Warning:** In this field, the user should specify the period (in days) during which the system should send a notification to recipients who have not yet signed, warning them about the document's expiration.
-* **Activate Reminders:** By activating this option, the system will send reminders to recipients to sign the document. These reminders will be sent only to signatories who have not yet signed the document. By default, this option will be marked.
-* **Send Reminders to Recipients Every:** In this field, specify how often (in days) the system should send signature reminders to recipients who have not yet signed.
-* **Generate Access QR Code in the Signature Log:** By activating this option, a QR code will be generated in the signature log document. By default, this option will be unchecked.
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/01 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+To remove a file, click the trash icon available for each file on the screen.&#x20;
 
-To include the document that needs to be signed, select or drag the desired file to the document inclusion field.&#x20;
+When this option is **unchecked**, ArqSign displays the files as **separate items** in the listing area, allowing you to change the order and the names of the files.
 
-Multiple files can be included in the same submission. In this case, the files are grouped into a single archive.
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Files with the following extensions are allowed:**</mark>&#x20;
+<mark style="color:orange;">**The following file extensions are allowed:**</mark>
 
-<mark style="color:orange;">**Document: .doc, .docx, .pdf, .txt.**</mark>&#x20;
+* <mark style="color:orange;">**Document: .doc, .docx, .pdf, .txt**</mark>
+* <mark style="color:orange;">**Image: .jpg, .jpeg, .png, .tif, .tiff**</mark>
+* <mark style="color:orange;">**Presentation: .ppt, .pptx**</mark>
+* <mark style="color:orange;">**Spreadsheet: .csv, .xls, .xlsx**</mark>
 
-<mark style="color:orange;">**Image: .jpg, .jpeg, .png, .tif, .tiff.**</mark>&#x20;
-
-<mark style="color:orange;">**Presentation: .ppt, .pptx.**</mark>&#x20;
-
-<mark style="color:orange;">**Spreadsheet: .csv, .xls, .xlsx.**</mark>&#x20;
-
-<mark style="color:orange;">**Each file can have up to 35MB or up to 2000 pages, with a total limit of 100MB.**</mark>
+<mark style="color:orange;">**Each file can be up to 35MB or up to 2000 pages, and the total file size cannot exceed 100MB.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/02 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+In the **"Signature Process Name"** field, you can edit the name of the process that includes the grouped files as needed.
 
-In the **"Document Name"** field, edit the document name. To delete a file after uploading, click on the "Delete" icon next to the file name.
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/03 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+In the **"Folder"** field, select the folder where the document will be stored. The folders where documents can be saved must be created in the [Directories > Documents](../directories/documents/) menu. By default, a folder with the user's name is created and should be selected if no other folder exists.
 
-In the **"Document Folder"** field, select the folder where the document will be hosted. The folders in which documents can be stored should be created in the Directories > Documents menu. By default, a folder with the user's name is created and should be selected if no other folder exists.
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/04 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+Finally, to schedule the automatic renewal of the documents being registered, check the box for the **"Schedule renewal \_\_\_ months after completion of signatures"** field, specifying the number of months you want to be notified about the renewal process. Once the signatures for the initial submission are completed, the system will start counting the specified period. When the renewal period is reached, the person responsible for the documents (sender) will receive a notification indicating that the documents are ready to be renewed.
 
-To schedule the automatic renewal of the document being registered, select the checkbox in the **"Schedule renewal \_\_\_ months after completion of signatures"** field, specifying the number of months in which you want the document to be renewed. Once the signatures from the initial submission are completed, the system will start counting the specified period. When the renewal period is reached, the document owner (sender) will receive a notification indicating that the document is ready for renewal.
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/05 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+## Advanced settings
+
+Advanced settings pertain to document configurations. You can adjust these settings either as a default for all documents, meaning a standard configuration for every time signatures are needed, or configure options for a specific document individually. To access the full list of options that can be configured for documents, go to the [Administration > Account > Settings](../administration/administration/account.md#settings-tab) menu. Below are all the general configurable options:
+
+**Document expiration time after sending:** In this field, the user should specify the expiration period (in days) for the document, which is the deadline for recipients to sign it.
+
+{% hint style="warning" %}
+<mark style="color:orange;">If this field is not modified, it will be filled with the default value. The system default is 120 days, but this value can be changed in the</mark> [<mark style="color:orange;">**Administration > Account > Settings menu.**</mark>](../administration/administration/account.md#settings-tab)
+{% endhint %}
+
+**Warning before expiration:** In this field, specify the period (in days) before which the system should send a warning to recipients who have not yet signed about the document's expiration.
+
+**Enable reminders:** By enabling this option, the system will send reminders to recipients to sign the document. These reminders will only be sent to signatories who have not yet signed the document. By default, this option will be checked.
+
+**Send reminders to recipients every:** In this field, specify how often (in days) the system should send signing reminders to recipients who have not yet signed.
+
+**Require signatories to read documents before signing:** This setting requires that signatories read the documents before signing. This information will be checked or unchecked based on the account configuration.
+
+**Generate document access QR Code in Signature Record:** By enabling this option, a QR Code will be generated in the document's signature record. By default, this option will be unchecked.
+
+When you hover over the "Advanced Settings" option, a tooltip will appear showing a preview of the configured settings.
+
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
+To edit the settings for a specific file, click on **Advanced Settings**, as shown in the image below.
+
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### B. Recipients&#x20;
+## Recipients&#x20;
+
+In the "Recipients" field, fill in the details for the signatories who will receive the document and participate in the signing process. The following settings need to be configured for each recipient:
+
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
+You can add a recipient from a saved contact list by clicking the **"Add recipient from my contacts"** icon.
+
+{% hint style="info" %}
+<mark style="color:blue;">**Important**</mark><mark style="color:blue;">: The contact list must be created beforehand in the</mark> [<mark style="color:blue;">"My Profile"</mark>](my-profile.md) <mark style="color:blue;">menu.</mark>
+{% endhint %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 In the "**Recipients**" field, fill in the fields related to the users who will receive the document and participate in the signing process. The following configurations need to be performed for each of the recipients.&#x20;
 
