@@ -281,16 +281,16 @@ If the user does not wish to manually insert signatures into the document, they 
 **Simplified Sending** allows the user to send the process without manually adjusting the signature positions. Instead, the platform automatically inserts a page at the end of the document with the signature representations, considering the settings defined earlier during document insertion and the following rules:
 
 {% hint style="info" %}
-**If the 'Group files into a single document' field in Step 1 is unchecked:** \
-The platform **inserts a page at the end of each document** with the signature position for each recipient with an Online Signing action, according to the type of signature for each one (Individual and/or Legal Entity) configured in the 'This Recipient Will' field.
+<mark style="color:blue;">**If the 'Group files into a single document' field in Step 1 is unchecked:**</mark> \ <mark style="color:blue;">The platform</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**inserts a page at the end of each document**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">with the signature position for each recipient with an Online Signing action, according to the type of signature for each one (Individual and/or Legal Entity) configured in the 'This Recipient Will' field.</mark>
 
-**If the 'Group files into a single document' field in Step 1 is checked:** \
-The platform **inserts a page at the end of the document** with the signature position for each recipient with an Online Signing action, according to the type of signature for each one (Individual and/or Legal Entity) configured in the 'This Recipient Will' field.
+<mark style="color:blue;">**If the 'Group files into a single document' field in Step 1 is checked:**</mark> \ <mark style="color:blue;">The platform</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**inserts a page at the end of the document**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">with the signature position for each recipient with an Online Signing action, according to the type of signature for each one (Individual and/or Legal Entity) configured in the 'This Recipient Will' field.</mark>
 {% endhint %}
 
 {% hint style="danger" %}
-
+<mark style="color:red;">If the user has previously chosen to</mark> <mark style="color:red;"></mark><mark style="color:red;">**manually configure the signature**</mark> <mark style="color:red;"></mark><mark style="color:red;">on any document in the process, the system will display a confirmation message for Simplified Sending. Upon confirmation, the manually inserted fields will be deleted, and all signatures will be positioned on the automatically generated page created by the platform."</mark>
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 ### Complementary Signature Information&#x20;
 
