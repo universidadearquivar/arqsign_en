@@ -58,7 +58,7 @@ The ArqSign website (_<mark style="color:purple;">arquivar.com</mark>_) presents
 
 To request support or assistance, navigate to the bottom menu of the page and click on "Contact."
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Click on the image to nlarge.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Click on the image to nlarge.</p></figcaption></figure>
 
 <mark style="color:purple;">Users will be redirected to the platform's Help Center, where they can search through posted content to find solutions to their questions or request contact with the support team.</mark>  &#x20;
 

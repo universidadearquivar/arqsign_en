@@ -8,19 +8,19 @@ On the New Document screen, the user will be able to register a document that wi
 
 To include the documents that need to be signed, drag the desired files to the document upload field or select them for upload from a directory on your device.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 You can include more than one file in the same signing process. In this case, the **"Group files into a single document**" option will be available and can be checked or unchecked.&#x20;
 
 When this option is **checked**, ArqSign displays the **grouped files** in the listing area, where you can change the order of the documents by clicking and dragging them to the desired position. In this case, it is not allowed to change the name of each individual file, only the name of the process.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 To remove a file, click the trash icon available for each file on the screen.&#x20;
 
 When this option is **unchecked**, ArqSign displays the files as **separate items** in the listing area, allowing you to change the order and the names of the files.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**The following file extensions are allowed:**</mark>
@@ -207,41 +207,90 @@ After completing these settings, click "**Next**" to proceed to the next step, "
 
 ## Step 2: Configure Fields
 
-In the next step, the documents inserted in the previous stage will be displayed in PDF format, and the areas where participants in the process should sign need to be configured.
+In the next step, the documents that were inserted in the previous stage in PDF format will be displayed, and the signature fields, filling information, and attachments should be configured.
 
-<figure><img src="../.gitbook/assets/20 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+#### Process with one or more grouped documents
 
-### Signature Fields&#x20;
+When the process has one or more grouped documents, the system displays the name of the process.
 
-In the right corner of the screen, choose between "**Position signatures manually**" to select where the signature areas will be placed in the document, or "**Automatically place signatures on the page of the document**" so that all signatures are inserted at the end of the last page of the document.&#x20;
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-For each recipient added in the first step, it is necessary to configure the signature area. To do this, select the recipient in the "**Settings for**" field.&#x20;
+#### Process with more than one ungrouped document&#x20;
 
-<figure><img src="../.gitbook/assets/21 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+When the process has one or more ungrouped documents, the system displays:
 
-If the option **"Position Signatures Manually"** was chosen, the **"Signature Fields"** section will be displayed. To create the signature area, drag the **"Sign as Individual"** box to the part of the document where you  want the signature to be inserted.
+* At the top of the screen, the **name of the document** being displayed;
+* In the left corner of the screen, the **list of documents in the process**, ordered according to the sequence set in [Step 01](new-document.md#step-1-add-documents-and-recipients), indicating whether the document is being viewed or not. Clicking on a document will display it on the screen.
 
-<figure><img src="../.gitbook/assets/img04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-The signature area as an individual with the signatory's name will be inserted into the document. It will be possible to resize, enlarge, shrink, and position the signature area by dragging with the cursor or using the arrows.
+## Signature fields
 
-<figure><img src="../.gitbook/assets/img05.png" alt=""><figcaption></figcaption></figure>
+#### Signature representation
 
-If the recipient will also sign as a legal entity, click on **"Sign as Corporate"** and repeat the process. To delete a signature area, click on the **"Delete"** icon above the area.
+Clicking on the document, the system displays a configuration modal for the visual representation, listing the signatories pending configuration of the signature representation, ordered alphabetically or according to the signing order defined in [Step 01](new-document.md#step-1-add-documents-and-recipients).
 
-<figure><img src="../.gitbook/assets/img06.png" alt=""><figcaption></figcaption></figure>
+For each listed document, the system shows the respective representation(s) for each signatory according to the type of signature defined in [Step 01](new-document.md#step-1-add-documents-and-recipients) (field 'This Recipient Will'), allowing the user to configure the representation for each signatory with an online signing action for each document.
 
-If the option "**Automatically place signatures on the page of the document**" has been chosen, a page will be inserted at the end of the document where signatures and signatory information will be displayed in an orderly manner. The role that the signer has in the contract is also displayed.
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-If in [step 1](new-document.md#step-1-add-documents-and-recipients) it was defined that the recipient will sign as an individual and a legal entity, two boxes with their names in the same color should be inserted. The boxes for each of the recipients will be displayed in different colors to visually signal where each should sign.&#x20;
+Upon including the configuration of the visual representation, the application displays the representation on the document in the position where the user placed it, allowing the user to adjust the size and/or delete the inserted signature representation.
 
-{% hint style="warning" %}
-<mark style="color:orange;">**Note that the boxes for recipients are of the same color as shown in the "Settings for" field.**</mark>&#x20;
-{% endhint %}
+<figure><img src="../.gitbook/assets/Arqsign_ass.gif" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/23 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+If in Step 1 it was defined that the recipient will sign as both an individual and a legal entity, two boxes will be displayed with the recipient's name in the same color. The boxes for each recipient will be shown in different colors to visually indicate where each should sign.
+
+#### Visual signature representation modal for a process with one or more grouped documents
+
+When the process has one or more grouped documents, the system lists the recipients' representations according to the type of person (individual and/or legal entity), displaying a scrollbar in the modal."
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+#### Visual signature representation modal for a process with more than one ungrouped document
+
+When the process has more than one document, the system displays a 'carousel,' allowing navigation between documents and signatories.
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+Upon completing the configuration of the signature for all signatories on the document, the system marks the document as having completed the representation configuration by turning the checkmark green in the left corner of the screen.
+
+Once the signature configuration for the signatory is completed across all documents, the system indicates that the representation configuration for that signatory is complete by turning the checkmark green next to each signatory's name.
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+## Signature data and attachments
+
+In the top right corner of the screen, the 'Settings for' field is displayed, showing the name of the recipient currently selected for configuration. Each recipient is automatically assigned a color by the platform, and next to this icon, a 'checked' symbol appears. This symbol changes color to green to indicate that the Additional Signature Information has been included or remains gray when it has not been included.
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+If no signature order is configured in Step 1, the **'Settings for'** item displays the list of signatories sorted alphabetically. If a signature order is configured, the list of signatories will be grouped by the order of signatures and sorted alphabetically.
+
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ***
+
+## Simplified Sending
+
+If the user does not wish to manually insert signatures into the document, they can select the **Simplified Sending** option.
+
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+**Simplified Sending** allows the user to send the process without manually adjusting the signature positions. Instead, the platform automatically inserts a page at the end of the document with the signature representations, considering the settings defined earlier during document insertion and the following rules:
+
+{% hint style="info" %}
+**If the 'Group files into a single document' field in Step 1 is unchecked:** \
+The platform **inserts a page at the end of each document** with the signature position for each recipient with an Online Signing action, according to the type of signature for each one (Individual and/or Legal Entity) configured in the 'This Recipient Will' field.
+
+**If the 'Group files into a single document' field in Step 1 is checked:** \
+The platform **inserts a page at the end of the document** with the signature position for each recipient with an Online Signing action, according to the type of signature for each one (Individual and/or Legal Entity) configured in the 'This Recipient Will' field.
+{% endhint %}
+
+{% hint style="danger" %}
+
+{% endhint %}
 
 ### Complementary Signature Information&#x20;
 
