@@ -83,53 +83,43 @@ In the "Recipients" field, fill in the details for the signatories who will rece
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-You can add a recipient from a saved contact list by clicking the **"Add recipient from my contacts"** icon.
+You can add a recipient from a saved contact list by clicking the **"Add recipient from my contact list"** icon.
 
 {% hint style="info" %}
 <mark style="color:blue;">**Important**</mark><mark style="color:blue;">: The contact list must be created beforehand in the</mark> [<mark style="color:blue;">"My Profile"</mark>](my-profile.md) <mark style="color:blue;">menu.</mark>
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
+When you click this button, the list will be displayed. To add the desired recipients, select them by clicking the checkbox next to their names and then click "Add Recipients."
 
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
-
-
-
-
-
-
-
-In the "**Recipients**" field, fill in the fields related to the users who will receive the document and participate in the signing process. The following configurations need to be performed for each of the recipients.&#x20;
-
-To add a recipient saved in the contact list, click on the "**Add a recipient from my contact list**" icon. The contact list must be created beforehand in the My Profile menu.&#x20;
-
-<figure><img src="../.gitbook/assets/06 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
-
-By clicking this button, the list is displayed. To add the desired recipients, select them by clicking the checkbox next to their name and click "**Add Containers**."
-
-<figure><img src="../.gitbook/assets/07 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
-
-By checking the **"Sign in order below"** checkbox, the document will be sent to recipients in the order defined in the **"Order"** field that will appear at the top of the "Recipient Data." When this option is set, a user will only receive the document after the preceding one completes their signing or viewing action.
+By checking the **"Sign in the order below"** checkbox, the document will be sent to recipients in the order specified in the "**Order**" field, which will appear at the top of the "Recipient Details" section. With this option set, a recipient will only receive the document once the previous recipient has completed their signing action.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**If the previous user only had viewing access, the next signer will receive the document when the last signer before them completes the signature.**</mark>
+<mark style="color:orange;">**If the previous user only had viewing actions, the next signatory will receive the document once the last signatory before them has completed their signing.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/08 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-**Recipient's name:** Enter the recipient's name.&#x20;
+**Recipient Name:** Enter the name of the recipient.
 
-<mark style="color:purple;">**Send by:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">Select whether the document will be sent by email or Whatsapp to the recipient.</mark>
+**Send via:** Choose whether the document will be sent via email or WhatsApp to the recipient.
 
-<figure><img src="../.gitbook/assets/09 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+{% hint style="warning" %}
+<mark style="color:orange;">**The WhatsApp sending option will only be displayed if the user's account has WhatsApp message credits.**</mark>
+{% endhint %}
 
-If it has been determined that the recipient will sign as an individual (pessoa física) or legal entity (pessoa jurídica), it is necessary to define their role as a signatory in the process. Choose from Contractor (Contratada), Contracting Party (Contratante), Guarantor (Fiador), Party (Parte), or add a custom "**Signatory's Role**" by clicking "**Add Role.**"
+Depending on the option chosen earlier, provide the recipient's email address or phone number for sending the document.
 
-The signer roles presented here are previously created in the Administration > Account > Settings > Signer Role tab. By default, the platform presents roles such as "Contractor", "Contractee", "Guarantor", "Party", and "Witness", but it is possible to edit or delete these roles, as well as create others if necessary.
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
+**This recipient will:** Specify whether the recipient will sign the document online as an individual, a legal entity, or both, or if they will only receive a copy of the document at the end of the signing process.
+
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
+If it has been determined that the recipient will sign as an individual or a legal entity, you need to define their role in the signing process. Select from one or more of the listed roles or add a custom "Signer Role" by clicking on "Add Role."
 
 <div>
 
@@ -141,35 +131,65 @@ The signer roles presented here are previously created in the Administration > A
 
 </div>
 
+The signer roles presented here are previously created in the menu [Administration > Account > Settings Tab > Signer Role](../administration/administration/account.md#documents-sub-tab). By default, the platform shows the roles "Contracted," "Contractor," "Guarantor," and "Tenant," but you can edit or delete these roles, as well as create new ones if necessary.
+
 **Signature Type:** Select whether the recipient should use an electronic signature or a digital certificate to sign the document.
 
 <figure><img src="../.gitbook/assets/12 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-By selecting the option **"Save this recipient to my contact list,"** the recipient's provided data will be automatically saved to the user's contact list.
 
-<figure><img src="../.gitbook/assets/13 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**"Security Code" Icon:** By clicking on this icon, a numerical code can be created and sent to the recipient for document access. The code can be generated automatically by the system or manually input by the user.
+{% hint style="info" %}
+<mark style="color:blue;">**ELECTRONIC SIGNATURE VS. DIGITAL SIGNATURE (ICP Brazil and Other ICPs)**</mark>
 
-<figure><img src="../.gitbook/assets/14 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<mark style="color:blue;">An</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**electronic signature**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">does not require a digital certificate. It is more commonly used for signing contracts and documents between private parties (B2B, B2C).</mark>
 
-After generating the code, choose whether it will be sent via email or SMS, and provide the email or phone number for delivery. It is also possible not to send the code, allowing the user to inform the recipient in their preferred manner. To delete the created code, simply click on "**Delete Security Code**."
+<mark style="color:blue;">A</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**digital signature**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">requires a digital certificate. It is more commonly used for issuing invoices and for transactions with the government.</mark>
 
-<figure><img src="../.gitbook/assets/15 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<mark style="color:blue;">On the Arqsign Platform, when configuring a signature flow, you can determine which type of signature should be executed by the recipient by choosing between:</mark>
 
-**Custom Message Icon:** By clicking on this icon, you can insert a message that will be sent to the recipient along with the document. To do this, fill in the "Subject" and "Message" fields. If you wish to delete the message, click on **"Delete Customized Message."**
+<mark style="color:blue;">**a) Electronic Signature**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(ArqSign produces advanced electronic signatures with legal validity according to MP 2.200-2 of 24/08/2001 and Law 14.063 of 23/11/2020). Whenever a signer electronically signs a document, Arqsign applies its own platform digital certificate, capturing the unique file Hash, verifying the file's integrity, and attaching the signer's identification to the certificate.</mark>
 
-<figure><img src="../.gitbook/assets/16 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<mark style="color:blue;">**b) Digital Signature – ICP-Brasil or Others**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(ArqSign produces qualified digital signatures in accordance with MP 2.200-2 of 24/08/2001 and Law 14.063 of 23/11/2020). When the user already has a digital certificate and wishes to use it to sign via ArqSign, this certificate is used to verify the integrity of the signature and to identify the user as the signer on the document.</mark>
+{% endhint %}
 
-To add other recipients, click on the "**Add New Recipient**" button.&#x20;
+By selecting the option "Save this recipient in my contact list," the recipient's information will be automatically saved to the user's contact list.
 
-To include yourself as a recipient, click on **"Add me as a recipient".** The name and email fields will be automatically filled with the information registered in your user profile, and the "Send via" field will be filled with the "Email" option.&#x20;
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/17 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+**"Security Code" Icon:** Clicking this icon will generate a numeric code that will be sent to the recipient so they can access the document. The code can be generated automatically by the system or manually entered by the user.
+
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+
+After generating the code, choose whether it will be sent by email, WhatsApp, or SMS, and provide the email or phone number for sending. It is also possible not to send the code, leaving it up to the user to inform the recipient in the way they prefer. To delete the created code, simply click on "Delete Security Code."
+
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+
+If the option to send via WhatsApp is selected, it is possible to allow the recipient to request the code to be resent by checking the **"Allow this recipient to request security code resend"** checkbox.
+
+{% hint style="warning" %}
+<mark style="color:orange;">**Each resending of the security code requested by the recipient will consume one WhatsApp credit from the account of the user sending the document.**</mark>
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+
+**Private Message Icon:** By clicking this icon, you can insert a message that will be sent to the recipient along with the document. To do this, fill in the "Subject" and "Message" fields. If you wish to delete the message, click on **"Delete Private Message."**
+
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
+The **Security Code** and **Private Message** items are expandable, and when collapsed, they feature an edit icon, indicating to the user that they can be modified.
+
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+
+To add other recipients, click the "Add New Recipient" button. If you wish to include yourself as a recipient, click "Add me as a recipient." The name and email fields will be automatically filled with the information registered in your user profile, and the "Send via" field will be filled with the "Email" option.
+
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;
 
 ***
 
-### C. Default Message
+## Default Message
 
 In the "**Default Message"** field, the default message to be sent to all recipients must be defined by filling in the "Subject" and "Message" fields.&#x20;
 
