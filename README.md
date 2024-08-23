@@ -178,19 +178,21 @@ The user will receive an email containing a link that they should click to set a
 
 Upon accessing their account, the user's homepage will display the following buttons in the top menu:&#x20;
 
-**New Document:** By clicking on this button, the user can register a document that will be sent to other users (signatories) for signature. &#x20;
+**New Document:** Clicking on this button allows the user to register a document that will be sent to signatories for signature.
 
-**Batch Signature:** Clicking on this button allows the user to view and sign, in bulk, all documents they have received and that are pending signature. &#x20;
+**Bulk Signing:** Clicking on this button enables the user to view and sign in bulk all documents they have received and are pending signature.\
+\
+**Expired:** Clicking on this button allows the user to view all documents they have sent to others for signature but were not signed within the deadline and have expired. Here, they can resend these documents.
 
-**Expired:** Clicking on this button enables the user to view all documents sent to others for signature but were not signed within the deadline and have expired. Here, they can resend these documents. &#x20;
+**Buy Now / Change Plan:** The "Buy Now" or "Change Plan" buttons will be displayed for users who have a free trial account or for users whose paid plan has expired or is nearing expiration. The "Buy Now" button will be displayed for users with an expired plan subscription. The "Change Plan" button will be displayed for users with a paid plan subscription nearing expiration (30 days before for annual plans and 10 days before for monthly plans).
 
-**Buy Now / Change Plan:** The "Buy Now" or "Change Plan" buttons will be displayed for users with a free trial account or for users with an expired or near-expiration paid plan. The "Buy Now" button appears for users with an expired plan subscription, while the "Change Plan" button is shown for users with a paid plan subscription nearing expiration (30 days before annual plan expiration and 10 days before monthly plan expiration). &#x20;
+**Buy Credits:** On accounts with an active plan, the "Buy Credits" button will be displayed, allowing the user to purchase credits for sending documents via email, WhatsApp, and SMS, according to their account's plan type.
 
-**Buy Credits:** In accounts with an active plan, the "Buy Credits" button is displayed, allowing users to purchase credits for sending documents via email, WhatsApp, and SMS, depending on the account's plan type. &#x20;
+**User Profile:** Clicking on this menu gives the user access to their account information.
 
-**User Profile:** Clicking on this menu gives the user access to account information. Languages: The homepage and platform interface will be presented in the language chosen by the user during registration. To change the language, click on the flag icon in the upper right corner of the screen and choose between Portuguese (Brazil), Spanish, and English. &#x20;
+**Languages:** The homepage and platform interface will be presented in the language chosen by the user during registration. To change the language, click on the flag icon located in the top right corner of the screen and choose between Portuguese (Brazil), Spanish, and English.
 
-**Logout:** Used to log out of the platform. &#x20;
+**Logout:** Used to log out of the platform.
 
 <figure><img src=".gitbook/assets/16 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
