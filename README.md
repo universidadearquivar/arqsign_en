@@ -196,18 +196,12 @@ Upon accessing their account, the user's homepage will display the following but
 
 <figure><img src=".gitbook/assets/16 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-On the left side of the screen, all available menus are listed, grouped accordingly. It's essential to note that these menus are presented based on each user's permission level. &#x20;
+On the left side of the screen, all menus divided into groups are available. It is important to note that these menus are presented according to each user's permission level.
 
-**Mailbox:** In this group, menus related to the document processing workflow are concentrated. &#x20;
+**Mailbox:** In this group, menus related to the document processing workflow are concentrated.&#x20;
 
-**Directories:** This group includes the Documents menu, considered a storage repository for documents processed by the platform, i.e., all documents with completed signature processes are found here. &#x20;
+**Directories:** This group includes the Documents menu. It serves as a repository for storing documents processed by the platform, meaning all documents with completed signing processes are found here.
 
-**Administration:** In this group, account, user, and user group settings are available. &#x20;
+**Administration:** This group includes account settings, users, and user group configurations.
 
-<figure><img src=".gitbook/assets/17 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
-
-<mark style="color:purple;">In the bottom right corner of the screen, the user will find the Support menu, where they can access a demonstrative tutorial on platform access, FAQ (Frequently Asked Questions) about platform usage, learn how to verify the legal validity of a document, access content from the Help Center and ArqSign blog, schedule a free platform demonstration, and contact the technical support team via chat.</mark> &#x20;
-
-<figure><img src=".gitbook/assets/05 (7).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
-
-<figure><img src=".gitbook/assets/06 (5).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
