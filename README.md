@@ -126,23 +126,17 @@ To complete the process, click on&#x20;
 
 ### Paid Plans&#x20;
 
-&#x20;When you subscribe to an ArqSign plan, you will have access to a specific number of document submissions via email, depending on the chosen plan.&#x20;
+When you subscribe to an ArqSign plan, you'll have a set number of sends depending on each plan. For sending flows via email, your account needs to have available sends, as the ArqSign Platform itself handles the flow's delivery. If the sends included in your plan are used up, you can also purchase extra email sending credits by accessing the "Buy Credits" menu after logging into the platform.
 
-To send workflows via email, it is necessary for the account to have available sending credits, as the ArqSign Platform itself handles the workflow transmission. If the allotted email submissions in the user's plan are exhausted, they can purchase additional sending credits by accessing the "Buy Credits" menu after logging into the platform.&#x20;
-
-All paid plans have identical functionalities, with the only difference being the number of submissions in each package and the availability between annual and monthly plans.&#x20;
+&#x20;All paid plans offer the same functionalities. The only difference lies in the number of sends included in each package and the availability of annual and monthly plans.
 
 #### Billing for Paid Plans &#x20;
 
-The billing basis for each plan is the service of sending one workflow for signature. A single workflow submission can include multiple files and signatures, yet only one submission from the plan will be deducted.&#x20;
+The billing for each plan is based on the service of sending a workflow for signature. One send of a workflow can include multiple files and signatures, yet it counts as only one send from the plan. For monthly plans, you pay a monthly fee when you subscribe, and you can start using the tool immediately. Monthly billing will occur automatically on the same day of the month as the initial purchase, unless you disable auto-renewal.
 
-For monthly plans, you pay a monthly fee when subscribing to the plan and can immediately start using the tool. The monthly fee will be automatically billed on the same day of the month as the initial purchase, unless you disable automatic renewal.&#x20;
+#### Purchasing a Plan&#x20;
 
-For annual plans, there is an option to purchase with interest-free installment payments for up to 12 months on a credit card.&#x20;
-
-#### <mark style="color:purple;">Purchasing a Plan</mark>&#x20;
-
-1. <mark style="color:purple;">To acquire a plan, on the ArqSign website's homepage, click on "Plans and Prices" in the top menu.</mark> &#x20;
+1. To acquire a plan, on the ArqSign website's homepage, click on "Plans and Prices" in the top menu. &#x20;
 
 <figure><img src=".gitbook/assets/11 (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -158,25 +152,25 @@ For annual plans, there is an option to purchase with interest-free installment 
 
 ***
 
-## Login (Authentication) on the ArqSign Platform&#x20;
+## Login Page (Authentication) on the ArqSign Platform&#x20;
 
-The ArqSign platform's login page requests the email and password registered by the user during the account creation.&#x20;
+The login page of the ArqSign platform asks for the email and password registered by the user during the account creation.&#x20;
 
-If the user doesn’t have an account yet, they should click on the “Register here" link. &#x20;
+If the user does not yet have an account, they should click on the link “Register here".
 
 <figure><img src=".gitbook/assets/14 (2).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-The option to create a free trial account will be provided. To create this account, the user should enter their email and click on "Next”.&#x20;
+The user will be offered the creation of a free trial account. To create this account, the user should enter their email and click on "Next".
 
 ### Forgot my password&#x20;
 
-&#x20;If the user forgets their password, simply click on "I Forgot my password." &#x20;
+&#x20;If the user forgets their password, they can simply click on "I Forgot my password." &#x20;
 
 <figure><img src=".gitbook/assets/15 (2).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-On the password recovery screen, the user should provide the same email used for platform access and click on "Recover."&#x20;
+On the password recovery screen, the user should enter the same email used to access the platform and click on "Recover."&#x20;
 
-The user will receive an email containing a link they should click to set a new password.
+The user will receive an email containing a link that they should click to set a new password.
 
 ***
 
