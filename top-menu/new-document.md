@@ -14,13 +14,13 @@ You can include more than one file in the same signing process. In this case, th
 
 When this option is **checked**, ArqSign displays the **grouped files** in the listing area, where you can change the order of the documents by clicking and dragging them to the desired position. In this case, it is not allowed to change the name of each individual file, only the name of the process.
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 To remove a file, click the trash icon available for each file on the screen.&#x20;
 
 When this option is **unchecked**, ArqSign displays the files as **separate items** in the listing area, allowing you to change the order and the names of the files.
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**The following file extensions are allowed:**</mark>
@@ -35,19 +35,19 @@ When this option is **unchecked**, ArqSign displays the files as **separate item
 
 In the **"Signature Process Name"** field, you can edit the name of the process that includes the grouped files as needed.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 In the **"Folder"** field, select the folder where the document will be stored. The folders where documents can be saved must be created in the [Directories > Documents](../directories/documents/) menu. By default, a folder with the user's name is created and should be selected if no other folder exists.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 Finally, to schedule the automatic renewal of the documents being registered, check the box for the **"Schedule renewal \_\_\_ months after completion of signatures"** field, specifying the number of months you want to be notified about the renewal process. Once the signatures for the initial submission are completed, the system will start counting the specified period. When the renewal period is reached, the person responsible for the documents (sender) will receive a notification indicating that the documents are ready to be renewed.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ## Advanced settings
 
-Advanced settings pertain to document configurations. You can adjust these settings either as a default for all documents, meaning a standard configuration for every time signatures are needed, or configure options for a specific document individually. To access the full list of options that can be configured for documents, go to the [Administration > Account > Settings](../administration/administration/account.md#settings-tab) menu. Below are all the general configurable options:
+The advanced settings pertain to document-specific configurations. Each setting has a default value, which can be adjusted either universally in the [Administration > Account > Settings](../administration/administration/account.md#settings-tab) menu for all documents or specifically on the New Document screen.
 
 **Document expiration time after sending:** In this field, the user should specify the expiration period (in days) for the document, which is the deadline for recipients to sign it.
 
@@ -67,59 +67,59 @@ Advanced settings pertain to document configurations. You can adjust these setti
 
 When you hover over the "Advanced Settings" option, a tooltip will appear showing a preview of the configured settings.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 To edit the settings for a specific file, click on **Advanced Settings**, as shown in the image below.
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
 ## Recipients&#x20;
 
-In the "Recipients" field, fill in the details for the signatories who will receive the document and participate in the signing process. The following settings need to be configured for each recipient:
+In the "Recipients" field, fill out the information for the signatories who will receive the document and participate in the signing process. Follow the settings described below for each recipient.&#x20;
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-You can add a recipient from a saved contact list by clicking the **"Add recipient from my contact list"** icon.
+To add a recipient saved in the contacts list, click on the "Add recipient from my contacts" icon. The contacts list must be created beforehand in the "My Profile" menu.
+
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">**Important**</mark><mark style="color:blue;">: The contact list must be created beforehand in the</mark> [<mark style="color:blue;">"My Profile"</mark>](my-profile.md) <mark style="color:blue;">menu.</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
-
-When you click this button, the list will be displayed. To add the desired recipients, select them by clicking the checkbox next to their names and then click "Add Recipients."
+When you click on this button, the list is displayed. To add the desired recipients, select them by clicking on the checkbox next to their name and then click on "Add Recipients."
 
 <figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-By checking the **"Sign in the order below"** checkbox, the document will be sent to recipients in the order specified in the "**Order**" field, which will appear at the top of the "Recipient Details" section. With this option set, a recipient will only receive the document once the previous recipient has completed their signing action.
+By checking the "Sign in the order below" checkbox, the document will be sent to recipients in the sequence defined in the "Order" field, which will appear at the top of the "Recipient Details" section. When this option is set, each recipient will only receive the document after the previous one has completed their signing action.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**If the previous user only had viewing actions, the next signatory will receive the document once the last signatory before them has completed their signing.**</mark>
+<mark style="color:orange;">**If the previous user only had a viewing action without signing, the next signatory will receive the document after the last signatory before them completes their signature.**</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-**Recipient Name:** Enter the name of the recipient.
+**Recipient Name:** Enter the recipient's name.
 
-**Send via:** Choose whether the document will be sent via email or WhatsApp to the recipient.
+**Send via:** Select whether the document will be sent via email or WhatsApp to the recipient.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**The WhatsApp sending option will only be displayed if the user's account has WhatsApp message credits.**</mark>
+<mark style="color:orange;">**The option to send via WhatsApp will only be displayed if the user's account has WhatsApp message credits available.**</mark>
 {% endhint %}
 
-Depending on the option chosen earlier, provide the recipient's email address or phone number for sending the document.
+Depending on the option chosen previously, provide the recipient's email address or phone number for sending the document.
 
 <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
-**This recipient will:** Specify whether the recipient will sign the document online as an individual, a legal entity, or both, or if they will only receive a copy of the document at the end of the signing process.
+**This recipient will:** Specify whether the recipient will electronically sign the document as an Individual (Pessoa Física), Legal Entity (Pessoa Jurídica), both, or if they will only receive a copy of the document at the end of the signing process.
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
-If it has been determined that the recipient will sign as an individual or a legal entity, you need to define their role in the signing process. Select from one or more of the listed roles or add a custom "Signer Role" by clicking on "Add Role."
+If it has been determined that the recipient will sign as an individual (pessoa física) or legal entity (pessoa jurídica), it is necessary to define their role in the signing process. Select from one or more roles listed or add a custom "Signatory Role" by clicking on "Add Role".
 
 <div>
 
@@ -132,6 +132,8 @@ If it has been determined that the recipient will sign as an individual or a leg
 </div>
 
 The signer roles presented here are previously created in the menu [Administration > Account > Settings Tab > Signer Role](../administration/administration/account.md#documents-sub-tab). By default, the platform shows the roles "Contracted," "Contractor," "Guarantor," and "Tenant," but you can edit or delete these roles, as well as create new ones if necessary.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **Signature Type:** Select whether the recipient should use an electronic signature or a digital certificate to sign the document.
 
@@ -213,7 +215,7 @@ In the next step, the documents that were inserted in the previous stage in PDF 
 
 When the process has one or more grouped documents, the system displays the name of the process.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Process with more than one ungrouped document&#x20;
 
@@ -222,7 +224,7 @@ When the process has one or more ungrouped documents, the system displays:
 * At the top of the screen, the **name of the document** being displayed;
 * In the left corner of the screen, the **list of documents in the process**, ordered according to the sequence set in [Step 01](new-document.md#step-1-add-documents-and-recipients), indicating whether the document is being viewed or not. Clicking on a document will display it on the screen.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Signature fields
 
@@ -232,7 +234,7 @@ Clicking on the document, the system displays a configuration modal for the visu
 
 For each listed document, the system shows the respective representation(s) for each signatory according to the type of signature defined in [Step 01](new-document.md#step-1-add-documents-and-recipients) (field 'This Recipient Will'), allowing the user to configure the representation for each signatory with an online signing action for each document.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Upon including the configuration of the visual representation, the application displays the representation on the document in the position where the user placed it, allowing the user to adjust the size and/or delete the inserted signature representation.
 
