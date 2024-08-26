@@ -1,10 +1,10 @@
 # ➕ New Document
 
-On the New Document screen, the user will be able to register a document that will be sent to other users (signatories) for signature.&#x20;
+In the "New Document" screen, the user can register one or more documents that will be sent to signatories for signature.
 
 ## Step 1: Add Documents and Recipients
 
-### Add Documents (Upload files)
+### Add Documents (File Upload)
 
 To include the documents that need to be signed, drag the desired files to the document upload field or select them for upload from a directory on your device.
 
