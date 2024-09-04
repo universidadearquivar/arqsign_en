@@ -4,7 +4,7 @@ In the "New Document" screen, the user can register one or more documents that w
 
 ## Step 1: Add Documents and Recipients
 
-### Add Documents (File Upload)
+### A. Add Documents (File Upload)
 
 To include the documents that need to be signed, drag the desired files to the document upload field or select them for upload from a directory on your device.
 
@@ -71,17 +71,17 @@ When you hover over the "Advanced Settings" option, a tooltip will appear showin
 
 To edit the settings for a specific file, click on **Advanced Settings**, as shown in the image below.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
-## Recipients&#x20;
+## B. Recipients&#x20;
 
 In the "Recipients" field, fill out the information for the signatories who will receive the document and participate in the signing process. Follow the settings described below for each recipient.&#x20;
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 To add a recipient saved in the contacts list, click on the "Add recipient from my contacts" icon. The contacts list must be created beforehand in the "My Profile" menu.
 
@@ -133,7 +133,7 @@ If it has been determined that the recipient will sign as an individual (pessoa 
 
 The signer roles presented here are previously created in the menu [Administration > Account > Settings Tab > Signer Role](../administration/administration/account.md#documents-sub-tab). By default, the platform shows the roles "Contracted," "Contractor," "Guarantor," and "Tenant," but you can edit or delete these roles, as well as create new ones if necessary.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Signature Type:** Select whether the recipient should use an electronic signature or a digital certificate to sign the document.
 
@@ -156,6 +156,10 @@ The signer roles presented here are previously created in the menu [Administrati
 
 <mark style="color:blue;">b) Digital Signature – ICP-Brazil or Others (ArqSign produces qualified digital signatures according to MP 2.200-2 of 08/24/2001 and Law 14.063 of 11/23/2020). When a user already possesses a digital certificate and wishes to use it for signing through ArqSign, this certificate is used to verify the integrity of the signature and identify the user as the signer on the document.</mark>&#x20;
 {% endhint %}
+
+**Visual Representation of Signature:** Select which visual representation should be used by the recipient at the time of signature. When choosing the first option (Pattern, Drawing or Image), he can use any of the representations, in the case of the other options, the use will be restricted to the representation selected at that moment.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 When selecting the option 'Save this recipient to my contact list,' the recipient's provided data will be automatically saved to the user's contact list.
 
@@ -217,7 +221,7 @@ In the next step, the documents that were inserted in the previous stage in PDF 
 
 When the process has one or more grouped documents, the system displays the name of the process.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Process with more than one ungrouped document&#x20;
 
@@ -226,7 +230,7 @@ When the process has one or more ungrouped documents, the system displays:
 * At the top of the screen, the **name of the document** being displayed;
 * In the left corner of the screen, the **list of documents in the process**, ordered according to the sequence set in [Step 01](new-document.md#step-1-add-documents-and-recipients), indicating whether the document is being viewed or not. Clicking on a document will display it on the screen.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Signature fields
 
@@ -236,7 +240,7 @@ Clicking on the document, the system displays a configuration modal for the visu
 
 For each listed document, the system shows the respective representation(s) for each signatory according to the type of signature defined in [Step 01](new-document.md#step-1-add-documents-and-recipients) (field 'This Recipient Will'), allowing the user to configure the representation for each signatory with an online signing action for each document.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Upon including the configuration of the visual representation, the application displays the representation on the document in the position where the user placed it, allowing the user to adjust the size and/or delete the inserted signature representation.
 
@@ -248,7 +252,7 @@ If in Step 1 it was defined that the recipient will sign as both an individual a
 
 When the process has one or more grouped documents, the system lists the recipients' representations according to the type of person (individual and/or legal entity), displaying a scrollbar in the modal."
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Visual signature representation modal for a process with more than one ungrouped document
 
@@ -300,11 +304,25 @@ If the user does not wish to manually insert signatures into the document, they 
 
 Depending on the type of signature defined for the recipient in step 1, the "**Complementary signature Information**" fields will be displayed. These fields will only be shown if the option "Electronic Signature" was chosen in step 1 in the "Signature Type" field.&#x20;
 
-If the signature is as an Individual, it is possible to require the recipient's name and some document by selecting the options "Individual's Name" and "Individual's Document" as mandatory fields.&#x20;
+If the signature is as an Individual, it is possible to require data such as name and document from the recipient, checking the option “Name of the Individual” mandatory filling and selecting one of the documents from the list “Document of the Individual”.
 
-<figure><img src="../.gitbook/assets/24 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:purple;">To require a document, select the desired option among CPF, CNH, RG, or others. If the last option is selected, you will need to provide the document's name, specify if it is text or numeric, and indicate the number of characters.</mark>&#x20;
+To request a document, select the desired option from the list. If the last option is selected, you will need to provide the name of the document, specify whether it is text or numeric and indicate the number of characters.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+After selecting the type of document that will be required from the recipient when signing, enter the document number. At the time of signing, the recipient must enter exactly the number defined at this time if the "Compulsory Fill-in" option is selected. When selecting the option "Use the value entered in the field to validate the CPF filled in by the signatory during signature", the field will automatically be mandatory and will be validated by the platform for the signature to continue.
+
+At the time of signing, if the recipient uses a number different from that provided by the sender in the configuration, the following error will be displayed on the screen:
+
+After selecting the type of document that will be required from the recipient when signing, enter the document number. At the time of signing, the recipient must enter exactly the number defined at this time if the "Compulsory Fill-in" option is selected. When selecting the option "Use the value entered in the field to validate the document completed by the signatory during signature", the field will automatically be mandatory and will be validated by the platform for the signature to continue.
+
+At the time of signing, if the recipient uses a number different from that entered by the sender in the configuration, an error message will be displayed on the screen.
+
+{% hint style="warning" %}
+<mark style="color:orange;">Processes configured with this field completion validation are not listed for "Batch Subscription". Documents from these processes will be available for signature in the "Inbox".</mark>
+{% endhint %}
 
 If the signature is as a Legal Entity, it is possible to require the recipient's company name and some document by selecting the options "Legal Entity Name" and "Legal Entity Document" as mandatory fields.&#x20;
 

@@ -1,4 +1,4 @@
-# 💻 Platform Overview
+# 💻 Platform Overview 2.2.0
 
 ## Platform features
 
@@ -58,7 +58,7 @@ The ArqSign website (_<mark style="color:purple;">arquivar.com</mark>_) presents
 
 To request support or assistance, navigate to the bottom menu of the page and click on "Contact."
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to nlarge.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to nlarge.</p></figcaption></figure>
 
 
 
@@ -104,15 +104,15 @@ To complete the process, click on&#x20;
 
 4. "Start my Free Trial". A confirmation message of the account creation will be displayed. To access the platform, click on the provided link. &#x20;
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 5. The user will receive two emails from the platform. The first email will provide instructions on how to use the free trial.
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 6. In the second email, the user will receive the activation link for the account, which should be clicked to complete the initial access.
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 7. The user will be directed to the login screen, where they should enter the password created during registration and click on "Enter" to complete the initial access.
 
