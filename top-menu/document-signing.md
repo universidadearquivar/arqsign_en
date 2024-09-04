@@ -102,7 +102,9 @@ If the signer has also been requested to attach files, they should upload the re
 
 ### Step 3 - Signature Style&#x20;
 
-The Signature Style is the visual representation of the user's signature. To complete the signing of a document, the user must choose how they will sign:
+The Signature Style is the visual representation of the user's signature. To complete the signing of a document, the user must choose how to sign, considering the settings made by the recipient in **New Document**. At this point, the recipient must inform which visual representation should be used by the signatory: "Default, Drawing or Image", or just "Default (Text)" or just "Drawing" or just "Image".
+
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 * **Default:** In this style, the user needs to enter their full name and set the style (font) in which the text will be presented. To do this, click on "Style" and make the selection.
 
