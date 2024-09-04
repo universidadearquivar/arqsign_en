@@ -324,9 +324,7 @@ At the time of signing, if the recipient uses a number different from that enter
 <mark style="color:orange;">Processes configured with this field completion validation are not listed for "Batch Subscription". Documents from these processes will be available for signature in the "Inbox".</mark>
 {% endhint %}
 
-If the signature is as a Legal Entity, it is possible to require the recipient's company name and some document by selecting the options "Legal Entity Name" and "Legal Entity Document" as mandatory fields.&#x20;
-
-To require a document, select the desired option among Driver's License, Identity or others. If the last option is selected, you will need to provide the document name, specify if it is text or numeric, and indicate the number of characters.
+To request another document, select the desired option from the list. If the last option is selected, it will be necessary to provide the name of the document, specify whether it is text or numeric and indicate the number of characters.
 
 <figure><img src="../.gitbook/assets/25 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
