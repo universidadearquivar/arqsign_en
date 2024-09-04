@@ -2,9 +2,23 @@
 
 The batch signing process allows the user to sign multiple documents at once. Batch signing is only available to users with a registered account on the platform and who are authenticated. On this screen, up to 100 documents per page will be displayed, depending on the number of pending documents for signature.
 
-{% hint style="warning" %}
-<mark style="color:orange;">**Documents that require a security code are not listed for batch signing. To sign them, the user must access their Inbox and sign them individually.**</mark>
+{% hint style="danger" %}
+<mark style="color:red;">Documents that require the settings:</mark>
+
+<mark style="color:red;">•</mark> <mark style="color:red;"></mark><mark style="color:red;">**Security code**</mark>
+
+<mark style="color:red;">**• Mandatory reading of documents**</mark>
+
+<mark style="color:red;">**• Predefined Signature Style**</mark>
+
+<mark style="color:red;">**• Filling in or validating subscription data**</mark>
+
+<mark style="color:red;">**• Request to attach documents**</mark>
+
+<mark style="color:red;">**They are not listed**</mark> <mark style="color:red;"></mark><mark style="color:red;">for batch subscription. To subscribe to them, the user must access their</mark> [<mark style="color:red;">**Inbox**</mark>](../mailbox/inbox.md) <mark style="color:red;">and subscribe to them individually.</mark>
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
