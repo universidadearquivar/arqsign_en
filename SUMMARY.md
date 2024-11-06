@@ -2,6 +2,9 @@
 
 * [💻 Platform Overview 2.3.1](README.md)
 * [❔ Frequently Asked Questions](frequently-asked-questions.md)
+* [🟪 ArqSign and Cloud Clinic](arqsign-and-cloud-clinic.md)
+* [🟪 Digital and electronic signature](digital-and-electronic-signature.md)
+* [🟪 Digital Certificate](digital-certificate.md)
 
 ## TOP MENU
 
