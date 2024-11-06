@@ -188,16 +188,14 @@ Upon accessing their account, the user will see the following buttons in the top
 * **Buy Credits**: For accounts with an active plan, the "Buy Credits" button will be displayed, allowing the user to purchase credits for sending documents via email, WhatsApp, and SMS, depending on the account’s plan type.
 * **User Profile**: Clicking this menu gives the user access to their account information.
 * **Languages**: The homepage and platform interface will be presented in the language chosen by the user during registration. To change the language, click the flag icon located in the upper-right corner of the screen and choose between Portuguese (Brazil), Spanish, and English.
-* **Logout**: Used to log out of the platform.
+*   **Logout**: Used to log out of the platform.
 
-<figure><img src=".gitbook/assets/16 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-On the left side of the screen, all menus divided into groups are available. It is important to note that these menus are presented according to each user's permission level.
+On the left side of the screen, we have all the available menus, organized by groups. It is important to note that these menus will be displayed according to each user's permission level.
 
-**Mailbox:** In this group, menus related to the document processing workflow are concentrated.&#x20;
+* **Inbox**: This group contains menus related to the document processing workflow.
+* **Directories**: This group includes the **Documents** menu, which serves as a storage repository for documents processed by the platform. Here, all documents with completed signature processes can be found.
+*   **Administration**: This group contains account settings, user management, and user group configurations.
 
-**Directories:** This group includes the Documents menu. It serves as a repository for storing documents processed by the platform, meaning all documents with completed signing processes are found here.
-
-**Administration:** This group includes account settings, users, and user group configurations.
-
-<figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (39).png" alt="" width="230"><figcaption></figcaption></figure>
