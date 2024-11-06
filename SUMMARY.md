@@ -1,6 +1,6 @@
 # Table of contents
 
-* [💻 Platform Overview 2.2.0](README.md)
+* [💻 Platform Overview 2.3.1](README.md)
 
 ## TOP MENU
 
