@@ -1,6 +1,7 @@
 # Table of contents
 
 * [💻 Platform Overview 2.3.1](README.md)
+* [❔ Frequently Asked Questions](frequently-asked-questions.md)
 
 ## TOP MENU
 
