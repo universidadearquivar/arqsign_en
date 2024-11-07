@@ -5,7 +5,7 @@
 * [🟪 ArqSign and Cloud Clinic](arqsign-and-cloud-clinic.md)
 * [🟪 Digital and electronic signature](digital-and-electronic-signature.md)
 * [🟪 Digital Certificate](digital-certificate.md)
-* [🟪 Copy of Digital Certificate](copy-of-digital-certificate.md)
+* [🟪 How to Use](how-to-use.md)
 
 ## TOP MENU
 
