@@ -684,8 +684,665 @@ The steps to make the change are:
 
 <details>
 
-<summary></summary>
+<summary>How to configure the signature for Individual/CPF or Legal Entity/CNPJ?</summary>
 
+In the ArqSign platform, you can choose whether the document will be signed by an individual or a legal entity.
 
+To do this, the sender should select the type of signature during the configuration of the signature flow, as follows:
+
+1. Upload the document and make necessary configurations.
+2. Insert the recipient.
+3. In the field "This recipient will:", select the options for the recipient’s role:
+   * Sign online as an Individual (Pessoa Física/CPF)
+   * Sign online as a Legal Entity (Pessoa Jurídica/CNPJ)
+   * Receive a copy
+
+One recipient can sign as both an individual and a legal entity during the same process.
+
+Once the recipient configuration is complete, click "Next."
+
+If you are positioning the signatures, you should position the individual and legal entity signatures for the recipient configured to sign with both types.
+
+If you choose the automatic signature positioning option, the platform will position all signatures automatically.
+
+</details>
+
+<details>
+
+<summary>How to sign a document on the ArqSign Platform when the signature request is sent via WhatsApp?</summary>
+
+If a document has been sent to you for signing via WhatsApp from the ArqSign Platform, you will receive a message with the sender's name that can be opened on your mobile app or WhatsApp Web.
+
+If this is your first interaction with the sender on WhatsApp, go to the end of the message and add them to your contacts to enable all the links in the message.
+
+Click on the link in the message, and you will have access to the document for reading.
+
+After reading, simply click on Sign. Fill in the required information if prompted. Attach documents if requested. Apply your visual representation and click Finish.
+
+If you don’t have an ArqSign account, you will be invited to create one to store this and other signed documents via the platform and even try it for free for 15 days.
+
+Once all recipients have signed, everyone will receive an email or WhatsApp with the document signed by all parties.
+
+Additionally, all recipients with a free or paid ArqSign account will receive a copy in the application’s inbox and can manage the document on the platform.
+
+</details>
+
+<details>
+
+<summary>How to sign a document on the ArqSign Platform when the signature request is sent via email?</summary>
+
+Upon receiving an email requesting your signature on a document, it will contain the sender's name, and the subject will have the name of the document to be signed. If you cannot find the email in your inbox, check your Spam or Promotions folder.
+
+Open the email. (Remember, the platform can be accessed from any device – computer, tablet, or mobile phone.)
+
+Click on "Sign Document," and you will have access to the document for reading.
+
+After reading, simply click on Sign. Fill in the required information if prompted. Attach documents if requested. Apply your visual representation and click Finish.
+
+If you do not have an ArqSign account, you will be invited to create an account to store this and other signed documents via the platform and try it for free for 15 days.
+
+Once all recipients have signed, everyone will receive an email or WhatsApp with the document signed by all parties.
+
+Additionally, all recipients with a free or paid ArqSign account will receive a copy in the application’s inbox and can manage the document on the platform.
+
+</details>
+
+<details>
+
+<summary>How to check the status of document transfer requests?</summary>
+
+To check the status of document transfer requests, follow these steps:
+
+Access the "My Profile" menu -> "Requests".
+
+The platform will list the user's document transfer requests, sorted by request date in descending order (with the most recent request at the top).
+
+Through the "Actions" button, you can view requests with the status "Requested" or "Error", and also "Cancel" or "Edit" the document transfer request.
+
+</details>
+
+<details>
+
+<summary>How to deactivate a user and change the ownership of their documents?</summary>
+
+When deactivating a user, it may be necessary to change the ownership of their documents so that someone else can continue managing them.
+
+This action can only be performed by a Global Administrator.
+
+Follow these steps:
+
+1. Access the "Administration" menu -> "Users".
+2. Select the user you want to deactivate.
+3. Click on "Actions".
+4. Click on "Deactivate".
+5. If the user being deactivated has no document transfer requests with the status "Requested" or "In Process", and has sent documents with the status "Pending", "In Process", or "Completed", the system will display a message indicating that the user has documents as the owner and will ask for confirmation to change the ownership of these documents.
+6. Choose the "Transfer" option.
+7. Select a new owner.
+8. Select which documents should be transferred.
+9. Click on "Change".
+10. The transfer will be completed within 24 hours.
+11. To check the status of transfer requests, go to: "My Profile" -> "Requests".
+
+</details>
+
+<details>
+
+<summary>How to change the owner of a flow or document?</summary>
+
+If you are the sender of a flow with the status "Pending", "In Process", or "Completed", you can change the owner to another active user in the account. This way, automatic notifications related to the flow will be sent to the new owner.
+
+Follow the steps below to perform this change:
+
+**Option 1:**
+
+1. Locate the flow in the "Sent" menu.
+2. Click on the dropdown box on the right side.
+3. Click on "Change Owner".
+4. Enter the new owner and save.
+
+If only one document is being transferred, the process will be completed instantly.
+
+If two or more documents are being transferred, the transfer will be completed within 24 hours.
+
+**Option 2:**
+
+1. When deactivating a user who has documents in their account, you can transfer these documents to a new responsible user.
+2. When you click on "Deactivate", a confirmation block will appear.
+3. Confirm that you want to transfer the documents.
+4. Select the new owner.
+5. Choose the documents you want to transfer by status: "All" or "In Signature or with Scheduled Renewal".
+6. Click on "Change".
+7. The user will be deactivated, and the documents will be transferred within 24 hours.
+8. If a user has no documents in their account, this procedure is not necessary.
+9. The document transfer can only be executed to an active user.
+10. To check the status of transfer requests, go to: "My Profile" -> "Requests".
+
+If you want to transfer the ownership of documents from a deactivated user, follow the steps in "How to deactivate a user and change the ownership of their documents?".
+
+</details>
+
+<details>
+
+<summary>How to check the reason for refusal to sign a document?</summary>
+
+You can check the reason for the refusal to sign a document through the notification sent to the sender and when you open the document.
+
+To access the reason for refusal upon opening the document, follow these steps:
+
+1. Open the file with the "refused" signature flow. It will have the status "Canceled".
+2. Click on the signatory and check the reason for refusal.
+
+</details>
+
+<details>
+
+<summary>How to refuse to sign a document?</summary>
+
+1. Open the document you received for signing.
+2. In the upper-right corner, click on "Sign" or "Options."
+3. Click on "Refuse to sign."
+4. Provide the reason for refusal – This information will be available to the sender when they open the file and through an email notification.
+5. Click "Refuse to sign."
+
+<!---->
+
+6. The sender will receive the response via an email notification or will be able to access it by opening the document and clicking on your name.
+
+&#x20;7\. The flow is automatically canceled when there is a refusal to sign.
+
+8. Review the reason for refusal, make necessary changes to the document, and create a new signing flow.
+
+</details>
+
+<details>
+
+<summary>How to check document versioning on the platform?</summary>
+
+Each time a document is renewed using the ArqSign platform's renewal tool, the new documents are linked to the previous ones.
+
+To access this feature, follow these steps:
+
+1. Go to the “Sent” menu.
+2. Locate the flow you want to check.
+3. Click on the “History” button and select the dropdown.
+4. Choose the "Versioning" option.
+
+Review the information.
+
+</details>
+
+<details>
+
+<summary>How to activate automatic document renewal flow?</summary>
+
+If you have scheduled document renewal, once the renewal date is reached, you can trigger automatic renewal, and a new flow will be created with the same signatory settings as the original one.
+
+1. Click on **Renewals**.
+2. Select **Completed Flow**.
+3. Click **Renew** – The platform will automatically generate a new flow with all the signatories from the original flow.
+4. Upload the document for renewal. The new document will be linked to the previous one(s), creating a document versioning.
+5. Review the signatories.
+6. Configure the visual representations.
+7. Send and you're done!
+
+</details>
+
+<details>
+
+<summary>How to change the renewal, document expiration, or adjustment control?</summary>
+
+After completing a signature flow:
+
+1. Click on **Sent**.
+2. Select **Completed Flow**.
+3. Click on **History**.
+4. Click on **Change Renewal**.
+5. Set the new deadline in months after the signature completion.
+6. Click **Change**.
+
+When the defined expiration date, renewal, or adjustment arrives, the ArqSign platform will send an email to the flow owner, informing that the document is ready for renewal, adjustment, etc.
+
+</details>
+
+<details>
+
+<summary>How access to an account works?</summary>
+
+In ArqSign, you can have access to more than one account using the same email.
+
+Example: Let's say you are a lawyer at a law firm. You can have a personal free test account with one email, and with the same email, you can have a user in the firm's account and another user in a client's account to view the client's documents. To access a third-party account, the Global Administrators of the account must invite you. Access can be blocked at any time by the Global Administrator.
+
+</details>
+
+<details>
+
+<summary>What is a user?</summary>
+
+A user is a person who uses the ArqSign Platform to send, monitor workflows, collect signatures, access, and manage documents. A user must be linked to an account, and when they also need to sign a document, they become a signatory.
+
+In the ArqSign platform, a user can have the following profiles:
+
+a) **Document Sender** – A user without permission to access the platform's management features. Their access is focused on sending and managing their documents.
+
+b) **Global Administrator** – Users with permission to access all platform features, including folder and user management.
+
+</details>
+
+<details>
+
+<summary>What is a signatory?</summary>
+
+A signatory is an individual or legal entity that participates in the signing process (signs a document). The signatory does not need to have an account on the ArqSign Platform to sign.
+
+</details>
+
+<details>
+
+<summary>What to do when a signatory reports not receiving the WhatsApp link for signing?</summary>
+
+When a signatory reports not receiving the WhatsApp link for signing, check the following items before resending or opening a support ticket:
+
+1. Ensure the correct WhatsApp number was entered.
+2. If the number is incorrect, you can correct it and resend it via the "Sent" menu > Resend.
+3. Ask the signatory to check their mobile data or Wi-Fi connection.
+4. Ask the signatory to open WhatsApp and check if they received a new message, as there may be a notification configuration issue.
+5. If the issue persists, the message may have been blocked by WhatsApp due to the signatory not having the app updated. To update the app, the signatory should go to the app store and click "Update" ([https://faq.whatsapp.com/5481509731946576/?helpref=search\&query=mensagem](https://faq.whatsapp.com/5481509731946576/?helpref=search\&query=mensagem)).
+6. If the signatory has not updated the app, you can send the WhatsApp Services update link: [https://wa.me/tos/20210210](https://wa.me/tos/20210210). The signatory must open the link in WhatsApp and accept the terms.
+7. After the signatory updates the app and/or WhatsApp Terms of Service, resend the flow through the ArqSign Platform by going to "Sent" > Resend.
+8. If the signatory still does not receive the WhatsApp message, contact support and provide the following information for further investigation:
+
+* Name
+* Company
+* Whatsapp
+* Document name
+* Date is sending
+* Signatory's name
+
+</details>
+
+<details>
+
+<summary>What to do when a signatory reports not receiving the email with the link for signing?</summary>
+
+When a signatory reports not receiving the email with the signing link, check the following items before resending or opening a support ticket:
+
+1. Ensure the correct email address was entered.
+2. Verify that the signatory has internet access.
+3. If the link was sent to a free email service, ask the signatory to check their SPAM, Junk, or Promotions folders, as these email servers may incorrectly classify our emails and send them to those folders.
+4. If the link was sent to someone or a company with antivirus or firewall installed on their machine or server, ask them to check if the email with the link was blocked by their security system.
+5. If you've completed all of these checks and found no issues, try resending the flow via the ArqSign Platform and check the mentioned folders again.
+6. If the signatory still doesn't receive the email, contact support and provide the following information for further investigation:
+   * Name
+   * Company
+   * Email address
+   * Document name
+   * Date of sending
+   * Signatory's na
+
+</details>
+
+<details>
+
+<summary>How to configure an order/sequence for signatures?</summary>
+
+The ArqSign platform allows you to set a sequence for document signatures.
+
+To access this functionality, enable the "Sign in the order below" option during the configuration of recipients.
+
+Enter the recipients in the order you want them to sign.
+
+A field called "Order" will appear, and the recipients will need to sign the document according to this order. The next email will only be sent after the previous person has signed the document.
+
+If you want two people to receive the email simultaneously, assign them the same number.
+
+![](<.gitbook/assets/image (61).png>)
+
+</details>
+
+<details>
+
+<summary>How to edit a document after sending?</summary>
+
+For security reasons, it is not possible to edit a document after it has been sent.
+
+</details>
+
+<details>
+
+<summary>How to request a signature on a tablet?</summary>
+
+To have a client sign a document on a tablet at an establishment, follow these steps:
+
+1. Create a generic email to be used for sending documents to be signed on the tablet, for example: assinadoreletrônicodedocumentos@establishmentname.com.br.
+2. Create a user account for the above email.
+3. Log in to the ArqSign platform using the created user.
+4. Send the document for the client's signature and request the following authentications:
+5. Name
+6. ID
+7. Attach a photo with the ID
+8. Enable geolocation capture on the tablet at the establishment
+
+When signing the document, the person will enter their name, ID, and take a selfie with the document, if possible, showing the establishment's sign.
+
+The following information will be inserted/attached to the document:
+
+Authentications:
+
+* Name
+* ID
+* Selfie with the document
+* Geolocation (establishment)
+
+</details>
+
+<details>
+
+<summary>Why doesn't the page with the Signature Registry appear at the end of the document in ArqSign?</summary>
+
+The act of inserting a mutable page (which changes with each signature) at the end of the file being signed by the parties constitutes a modification of the document. This violates the integrity guarantee and goes against the technical standards of digital signature processes.
+
+Therefore, ArqSign's secure process does not allow the insertion of a page at the end of the signed document, as it would corrupt the certificates that were added during each signatory's signing process.
+
+</details>
+
+<details>
+
+<summary>How do I add a signature on every page of the document?</summary>
+
+It is not necessary to add a signature to each page when signing digitally with ArqSign. The digital signature applies a security layer to the entire document, ensuring its integrity, authenticity, and full acceptance without the need for signatures on each page.
+
+In fact, not adding signatures to each page of an electronically signed document is a recommendation from the National Institute of Information Technology (Instituto Nacional de Tecnologia da Informação – ITI), the government body that regulates electronic signatures in Brazil. For more information, visit: [validar.iti.gov.br/guia.html](https://validar.iti.gov.br/guia.html).
+
+</details>
+
+<details>
+
+<summary>Does my signed document stay saved, or do I need to download it?</summary>
+
+If you have an ArqSign account, your file will be securely stored on the platform, with full security and traceability. You can always access the document for consultation, or download it, share it externally, and explore many other options that ArqSign offers for your business.
+
+If you don’t have an ArqSign account, don’t worry. Once all signatures are completed, a copy of the signed document is sent to all recipients.
+
+</details>
+
+<details>
+
+<summary>How to set up your signature and visual representation of your signature?</summary>
+
+In the top right corner, click on your photo or the placeholder for the photo.
+
+Click on _My Profile_.
+
+Click on _Signature Style_.
+
+Click on _Edit_.
+
+Set up your signature's visual representation in one of the following styles:
+
+* **Standard** – Type your signature.
+* **Drawing** – Draw your signature.
+* **Image** – Upload an image of your signature.
+
+Click _Save_.
+
+Whenever you need to sign a document, the saved styles will be displayed for your selection.
+
+[Click here](https://www.youtube.com/watch?v=5PogsaN\_qmk) to watch the step-by-step video.
+
+</details>
+
+<details>
+
+<summary>How to customize settings for Signature Process, Availability of signed document link, Reminders, and Notifications on the platform?</summary>
+
+You can customize the default settings for flows and processes and adjust reminders and notifications during flow creation.
+
+To customize the default settings, follow these steps:
+
+1. Go to the menu _Administration_ > _Account_ > _Settings_.
+2. Click _Edit_.
+3. Make the adjustments as needed.
+4. Click _Save_.
+
+Understand in detail each customizable item:
+
+* Settings for the Signature Process.
+* Set the default time (in days) for the expiration of the document from the date of sending.
+* Set the default time (in days) for a reminder before expiration.
+* Enable, disable, and set the frequency of reminders for pending signatories.
+* Settings for the availability of the link to the signed document.
+* Set the default expiration time for the link to access the document after signing.,
+* Enable or disable the option to attach a file smaller than 20MB to the email sent upon completion of signatures.
+* Settings for reminders for expiration, renewal, and adjustment.
+* Configure the recurrence of reminders for document expiration, renewal, and adjustments for flows.
+* In Other, configure account-related notifications.
+* Set notifications regarding account usage.
+* Set reminders for signature expiration.
+
+</details>
+
+<details>
+
+<summary>How to enable or disable automatic plan renewal?</summary>
+
+During the validity of the plan, the customer can enable or disable automatic renewal. To do this, follow these steps: Access the [_Administration_ menu > _Account_ > _Billing and Usage_ > _Automatic Renewal_.](administration/administration/account.md)
+
+</details>
+
+<details>
+
+<summary>How to check the plan, expiration, automatic renewal, and usage?</summary>
+
+Go to the [_Administration_ menu > _Account_ > _Billing and Usage_](administration/administration/account.md).
+
+View the contracted plan, plan period, sign-up date, expiration date, automatic renewal status, consumed and available items, renewal period, and purchase history.
+
+</details>
+
+<details>
+
+<summary>How to cancel a document or flow sent?</summary>
+
+To cancel a document or flow before it is completed, follow these steps:
+
+1. Go to the _Sent_ menu.
+2. Locate the document or flow you wish to cancel.
+3. Click on _History_.
+4. Click on _Cancel_.
+5. Confirm the cancellation by clicking _Yes_.
+
+</details>
+
+<details>
+
+<summary>How to edit, correct, or change the signatory's email?</summary>
+
+1. Go to the _Sent_ box.
+2. Locate the document or flow you wish to edit, correct, or change the signatory's email.
+3. Click the _Resend_ button.
+4. Click _Edit_.
+5. Make the necessary change.
+6. Click _Resend_.
+
+If the deadline for signing the document or flow has passed, the resend will be done for all pending signatories in the current order.
+
+If the deadline has not passed, you can edit and resend the document to one or more pending signatories in the current order.
+
+[Click here](https://www.youtube.com/watch?v=1IMOZE11RaQ) to watch the step-by-step video.
+
+</details>
+
+<details>
+
+<summary>How to resend a document or flow?</summary>
+
+1. Go to the _Sent_ box.
+2. Locate the flow or document you want to resend.
+3. Click the _Resend_ button.
+4. Click the _Resend_ button again.
+
+A new send will only be made to the signatories who have not yet signed the document.
+
+[Click here](https://www.youtube.com/watch?v=K11hU-ZOWnk) to watch the step-by-step video.
+
+</details>
+
+<details>
+
+<summary>How to purchase credits for email, WhatsApp, or SMS sends?</summary>
+
+1. Click on _Buy Credits_.
+2. Adjust the quantity of credits you wish to purchase for each available item in your plan (Email, WhatsApp, or SMS sends).
+3. Click on _Proceed_.
+4. Enter or confirm your payment details.
+5. Click on _Complete Purchase_.
+
+Please note that purchases must be made in increments of at least R$10.00, and the credits purchased are valid for 6 months.
+
+</details>
+
+<details>
+
+<summary>How to schedule a renewal, document expiration, or adjustment control?</summary>
+
+You can schedule this during the creation of a signature flow or after the flow is completed. Follow the steps below:
+
+**During the creation of a signature flow:**
+
+1. Click on _New Document_.
+2. Check the box _Schedule Renewal_.
+3. Set the period in months after the signatures are completed.
+4. Finish creating the flow.
+
+**After the completion of a signature flow:**
+
+1. Click on _Sent_.
+2. Select _Completed Flow_.
+3. Click on _History_.
+4. Click on _Change Renewal_.
+5. Set the period in months after the signatures are completed.
+6. Click on _Change_.
+
+When the defined date for document expiration, renewal, or adjustment arrives, the ArqSign platform will send an email to the flow owner, informing them that the document is ready for renewal, adjustment, etc.
+
+[Click here ](https://www.youtube.com/watch?v=v1DGlnU4rLs)to watch the step-by-step video.
+
+</details>
+
+<details>
+
+<summary>How to register a user?</summary>
+
+Access the [_Administration_ menu > _Users_](administration/administration/users.md) and click the button with the "+" sign.
+
+Enter the new user's email.
+
+Define the user's profile by choosing between:
+
+* **Global Administrator** (access to all features – sending, receiving, signing documents, creating and defining access for users and directories, purchasing add-ons, changing the plan)
+* **Document Sender** (only sends and signs documents).
+
+Click _Save_.
+
+After registering the user, a confirmation message will be sent to the provided email to complete the registration.
+
+When creating a user with the **Document Sender** profile, it is recommended to define which user group this user belongs to. Learn more about User Groups by [clicking here](administration/administration/user-groups.md).
+
+</details>
+
+<details>
+
+<summary>How to upload/import your ICP-Brasil A1 Certificate to the platform?</summary>
+
+1. Access your account on the ArqSign platform.
+2. Click on the _Profile_ menu located at the top right of the platform.
+3. Click on the _Digital Certificate_ tab.
+4. Click the _+_ button.
+5. Choose the ICP-Brasil A1 Certificate file with the P12 or PFX extension.
+6. Enter an identification name for the certificate.
+7. Enter the certificate password.
+8. When you sign a document with an ICP-Brasil certificate, simply choose this certificate and enter its password.
+
+</details>
+
+<details>
+
+<summary>Can a user view another user's flows?</summary>
+
+Users with the _Document Sender_ profile can only view the documents from the flows they created.
+
+For this user profile to have shared access to the documents of other users, the _Directories_ functionality should be used.
+
+If you'd like to learn more about the _Directories_ feature, [click here](directories/documents/).
+
+</details>
+
+<details>
+
+<summary>How to customize the Acceptance Term for electronic signature?</summary>
+
+The _Acceptance Term_ for electronic signature formalizes and records the signatories' acceptance history, which is a legal prerequisite for the validity of the electronic signature. You can use our suggested Acceptance Term or customize your own. To customize, follow these steps:
+
+1. Click on [**Administration** > **Account** > **Acceptance Term**](administration/administration/account.md).
+2. Click on **Edit** and customize your term.
+3. Click on **Publish**.
+
+[Click here](https://www.youtube.com/watch?v=MBJB6RW7y7E) to watch the step-by-step video.
+
+</details>
+
+<details>
+
+<summary>What is the limit of people who can sign?</summary>
+
+There is no limit on signatories or people to sign.
+
+</details>
+
+<details>
+
+<summary>What file types (extensions) are allowed?</summary>
+
+The allowed file extensions for manual upload are: .doc, .docx, .xlsx, .xls, .pptx, .ppt, .pdf, .png, .jpeg, .jpg.
+
+Through the integration API, you can send PDF files.
+
+</details>
+
+<details>
+
+<summary>What is the size limit for documents?</summary>
+
+The size limit for individual document uploads is 35MB.
+
+You can upload more than one file at a time, as long as the total size does not exceed 100MB or 25 files. When uploading multiple files, you can group them into a single file or not.
+
+</details>
+
+<details>
+
+<summary>How do I send a document for signature?</summary>
+
+Access the ArqSign platform and click on the ''New Document'' button.
+
+Select and upload files up to 35MB.
+
+You can upload multiple files at once, as long as the total size of the files does not exceed 25 documents and 100MB. Multiple files can be included in the same signature process. In this case, the "Group files into a single document" option will be available and can be checked or unchecked.
+
+When this field is checked, ArqSign will display the grouped files in the list area, where you can change the order of the documents by clicking and dragging them to the desired position. In this case, you cannot change the name of each file, only the name of the process.
+
+To remove a file, click on the trash can icon available for each file on the screen.
+
+When this field is unchecked, ArqSign will display the files ungrouped in the listing area, allowing you to change the order and name of the files.
+
+In the “Signature Process Name” field, you can edit the name of the process that includes the grouped files and change it as needed.
+
+In the “Document Folder” field, select the folder where the document will be stored. The folders in which documents can be stored must be created in the Directories > Documents menu. By default, a folder with the user's name is created and must be selected if no other folder exists.
+
+Finally, to schedule the renewal of documents that are being registered automatically, select the checkbox in the field “Schedule renewal \_\_\_ months after signatures are completed” and enter the number of months in which you want to be notified about the renewal of the process. As soon as the signatures of the first submission are completed, the system will start counting the determined period, and when the renewal period is reached, the person responsible for the documents (sender) will receive a notification informing that the documents in the process are ready to be renewed.
+
+Configure the recipients, define the sending type (via email or WhatsApp), configure the signatures (one per signatory), and click send.
+
+If you are a signatory yourself, you can sign the document after sending it through your account's Inbox. Just click sign and follow the step-by-step instructions in the question “How do I sign a document?” [Click here](https://www.youtube.com/watch?v=nEuvJHxZnto) and watch the step-by-step instructions.
 
 </details>
