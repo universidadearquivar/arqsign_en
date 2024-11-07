@@ -440,6 +440,250 @@ Complete the signing process.
 
 <details>
 
+<summary>How to access document attachments?</summary>
+
+1. Locate the document for which you want to view the attachment.
+2. Double-click on the document.
+3. On the right side, next to the document's signatories, you can download the attachment.
+
+</details>
+
+<details>
+
+<summary>How to configure signing with a foreign document?</summary>
+
+To configure a signature that requires a foreign document, follow these steps:
+
+1. After uploading the document;
+2. Add the recipients and click “Next”;
+3. On the “Configure fields” screen, set up signature collection for the recipients;
+4. Select the recipient at the top of the screen;
+5. On the right side, select the signature type for Individual;
+6. Just below, find the “Additional signature information” settings;
+7. Check the box “Signatory’s Name”;
+8. Check the box “Signatory’s Document”;
+9. In the “Document” box, choose “Other”;
+10. In the box below, specify the document you want to request, and if desired, configure the valid character types and the number of characters for validation in the additional boxes.
+
+</details>
+
+<details>
+
+<summary>How to add a recipient in copy or as an observer in a workflow?</summary>
+
+On the ArqSign Platform, it’s possible to add a person in copy or as an observer in a workflow. This way, at the end of the signing process, this person or persons will receive the signed document.
+
+To set this up, proceed as follows:
+
+1. Click on “New Document”;
+2. Upload the document to be signed and configure the document settings as needed;
+3. In “Recipients,” set the field “This recipient will” to “Receive a copy”;
+4. Continue with the remaining configurations.
+
+</details>
+
+<details>
+
+<summary>How to change the credit card for billing and purchases on the ArqSign platform?</summary>
+
+You can update your credit card for billing and purchases on the ArqSign Platform by following these steps:
+
+1. Go to the “Administration” menu;
+2. Click on “Account”;
+3. Select “Billing and Usage”;
+4. Click on “Change payment method".
+
+</details>
+
+<details>
+
+<summary>How to configure a document for signing with or without a digital certificate (digital or electronic signature)?</summary>
+
+On the ArqSign platform, when setting up a signature flow, you can specify the type of signature required for each recipient, choosing from:
+
+a) **Electronic Signature** (ArqSign provides advanced electronic signatures with legal validity per MP 2.200-2 of 08/24/2001 and Law 14.063 of 11/23/2020);
+
+b) **Digital Signature with ICP-Brasil Certificate** (ArqSign provides qualified digital signatures per MP 2.200-2 of 08/24/2001 and Law 14.063 of 11/23/2020);
+
+c) **Digital Signature with Any Personal Digital Certificate** (ArqSign provides electronic and digital signatures with other certificates).
+
+To set the type of signature, follow these steps:
+
+After uploading and setting up the document, proceed to recipient configuration;
+
+In the "Signature Type" field for each recipient, choose one of the options above;
+
+Done! Now configure the remaining recipients, the signature positions, and send the document.
+
+</details>
+
+<details>
+
+<summary>How to sign a document with a Digital Certificate - ICP-Brasil?</summary>
+
+On the ArqSign Platform, the document sender can specify the type of signature required from the recipient, choosing from:
+
+a) **Electronic Signature** (ArqSign provides advanced electronic signatures with legal validity in compliance with MP 2.200-2 of 08/24/2001 and Law 14.063 of 11/23/2020);
+
+b) **Digital Signature with ICP-Brasil Certificate** (ArqSign provides qualified digital signatures in compliance with MP 2.200-2 of 08/24/2001 and Law 14.063 of 11/23/2020);
+
+c) **Digital Signature with Any Personal Digital Certificate** (ArqSign provides electronic and digital signatures with other certificates).
+
+If you received a document for signing via ArqSign and need to sign it with a Digital Certificate for the first time, follow these steps:
+
+* Open the document, read it, and if you accept, click **Sign**;
+* Complete the signature in your preferred format and click **Next**;
+* When you click **Next**, you'll be notified that the required signature must be completed with a digital certificate;
+* Choose the certificate for signing the document from the following options:
+
+1\) Certificates stored on ArqSign's cloud
+
+2\) Certificates saved on your local computer.
+
+![](.gitbook/assets/Certificado.png)
+
+* For signing with a Certificate stored on the Platform, click the indicated option;
+* For signing with a digital certificate installed on your machine, follow the steps below:
+
+1. Add the ArqSign extension to your browser;
+2. Install the desktop module;
+
+* Enter the password for the Digital Certificate and click **Next**.
+
+The step-by-step instructions for adding the extension to your browser and installing the desktop module can be accessed below:
+
+* [How to add the ArqSign extension to the Chrome browser.](https://arquivar.com.br/faq-assuntos/como-adicionar-extensao-arqsign-certificado-digital-no-navegador-chrome/)
+* [How to add the ArqSign extension to the Edge browser](https://arquivar.com.br/faq-assuntos/como-adicionar-extensao-arqsign-certificado-digital-no-navegador-edge/).
+* [How to add the ArqSign extension to the Firefox browser.](https://arquivar.com.br/faq-assuntos/como-adicionar-extensao-arqsign-no-navegador-firefox/)
+* [How to install the desktop module](https://arquivar.com.br/faq-assuntos/como-instalar-modulo-desktop/).
+
+</details>
+
+<details>
+
+<summary>How to install the desktop module?</summary>
+
+1\) When running the desktop module installation, Microsoft Defender SmartScreen may initially block the installation because the module is not an app from the Microsoft Store. To proceed with the installation, click on **More Info**.
+
+2\) After clicking **More Info**, click the **Run Anyway** button.
+
+3\) After this, follow the installation process and click **Finish** once the installation is complete. The Desktop Module will be active on your computer.
+
+</details>
+
+<details>
+
+<summary>How to add the ArqSign extension in the Firefox browser?</summary>
+
+When a document signer, who is required to use a digital certificate (ICP-Brasil or any other), applies their visual representation and clicks the **Next** button, a message will appear informing them that in order to sign the document with a Digital Certificate installed on the computer, they must add the extension to their browser and then install the desktop module. The process is simple. Just click the displayed link and follow the steps below to complete these actions:
+
+1. Clicking the link will trigger two actions simultaneously. The first is the download of the Desktop Module installer (In Firefox, you will be asked to confirm the download). Wait for the download to complete and follow the steps in the **Desktop Module Installation Tutorial**.
+2. The second action will open a new tab in the browser, in the **Firefox Browser Add-ons** page, showing the ArqSign plugin.
+3. Click the **Add to Firefox** button. A notification will appear asking for confirmation to add the extension to the browser.
+4. After clicking **Add**, a notification will inform you that the extension has been added to the browser. You can then close the Firefox Browser Add-ons tab.
+5. Once the plugin has been added to the browser, if the Desktop Module has not been installed yet, the application will still display a link to download it.
+6. Once both installations are complete, the modal will be updated, listing the certificates saved on the user's computer.
+7. On Windows, after clicking the **Finish** button, permission may be requested to allow the plugin to access the certificates. At this point, click **Allow** to enable the use of digital certificates.
+
+If the extension and desktop module have already been installed, this action will not be required again.
+
+If the signer has Digital Certificates saved in the ArqSign platform, they will be displayed. To use them, simply select and proceed to the next steps, without needing to install the extension and module.
+
+</details>
+
+<details>
+
+<summary>How to add the ArqSign Digital Certificate extension in the Edge browser?</summary>
+
+When a signer of a document that requires a digital certificate (ICP-Brasil or any other) applies their visual representation and clicks the **Next** button, a message will appear informing them that in order to sign the document with a Digital Certificate installed on the computer, they must add the extension to their browser and then install the desktop module. The process is simple. Just click the displayed link and follow the steps below:
+
+1. In Microsoft Edge, when you click the available link, a pop-up block may occur.
+2. If this happens, click the pop-up block icon next to the URL of the page.
+3. After clicking the icon, allow pop-ups for the ArqSign page.
+4. Once pop-ups are unlocked, click the available link again. Clicking the link will trigger two actions simultaneously. The first is the download of the Desktop Module installer. Wait for the download to complete and follow the steps in the **Desktop Module Installation Tutorial**. The second action is opening a new tab in the Microsoft Store with the ArqSign plugin.
+5. Click the **Get** button, and a notification will appear to confirm the addition of the extension to the browser.
+6. After clicking **Add Extension**, a notification will inform you that the extension has been added to the browser. You can then close the Microsoft Store tab.
+7. After adding the plugin to the browser, if the Desktop Module has not been installed yet, the application will still display a link to download it.
+8. Once both installations are complete, the modal will be updated, listing the certificates saved on the user's computer.
+9. On Windows, after clicking the **Finish** button, permission may be requested to allow the plugin to access the certificates. At this point, click **Allow** to enable the use of digital certificates.
+
+If the extension and desktop module have already been installed, this action will not be required again.
+
+If the signer has Digital Certificates saved in the ArqSign platform, they will be displayed. To use them, simply select and proceed to the next steps, without needing to install the extension and module
+
+</details>
+
+<details>
+
+<summary>How to add the ArqSign Digital Certificate extension in the Chrome browser?</summary>
+
+When a signer of a document requiring a digital certificate (ICP-Brasil or any other) applies their visual representation and clicks the **Next** button, a message will appear informing them that to sign the document with the Digital Certificate installed on the computer, they need to add the extension to their browser and then install the desktop module. The process is simple. Just click the displayed link and follow the steps below to configure these settings:
+
+1. Click the indicated link to open the store in the browser.
+2. The ArqSign Digital Certificate extension will be displayed.
+3. Click on **Use in Chrome**.
+4. After clicking **Use in Chrome**, a notification will appear asking for confirmation to add the extension to the browser. Click **Add Extension**.
+5. After clicking **Add Extension**, a notification will inform you that the extension has been added to the browser. You can then close the Chrome Web Store tab.
+6. After adding the plugin to the browser, if the Desktop Module has not been installed yet, the application will still display a link to download it.
+7. If the Desktop Module has not been installed yet, a pop-up will appear offering the option to install or update the Desktop Module on your computer.
+8. Click the indicated link to download the module.
+9. Locate the installer file for the downloaded module and run it to start the installation.
+10. When installing the Desktop Module, Microsoft Defender SmartScreen may initially block the installation since the module is not an app from the Microsoft Store. To continue the installation, click **More Info**.
+11. After clicking **More Info**, click **Run Anyway**.
+12. Click **Install**.
+13. After completing the installation, click **Finish**.
+14. The pop-up will update and prompt you to choose the digital certificate you wish to use.
+15. Choose the certificate and proceed with the signature.
+16. On Windows, after clicking the **Finish** button, you may be asked for permission for the plugin to access the certificates. Click **Allow** to enable the use of digital certificates.
+
+If the extension and desktop module have already been installed, this action will not be required again.
+
+If the signer has Digital Certificates saved in the ArqSign platform, they will be displayed. To use them, simply select and proceed with the next steps without needing to install the extension and module.
+
+</details>
+
+<details>
+
+<summary>How to share a signed document via the ArqSign Platform?</summary>
+
+* Log in to your ArqSign account via the link: [https://app.arqsign.com/auth/login](https://app.arqsign.com/auth/login).
+* Click on **Sent**.
+* Locate the document you want to share.
+* This option allows you to create an access link for one or more documents in the process, which can be shared with people who are not participants in the signing process. The link can have a set or indefinite validity period, and you can decide whether to allow viewers to also see the attachments sent by the signatories.
+* When a process with more than one ungrouped document does not have document sharing, the system will open a modal for you to select the documents you want to share.
+* When a process with more than one document has document sharing enabled, the system will open a modal showing the already shared links.
+* By expanding the sharing link actions, you can either view the sharing screen again or delete the sharing link.
+* When sharing the documents, you have the option to send them by email by clicking the **Send Link by email** button.
+* Enter all the email addresses in the indicated field that should receive the shared documentation.
+
+</details>
+
+<details>
+
+<summary>How to change the Sender/User Name?</summary>
+
+Once a user is created, they can modify the following details in their profile:
+
+![](<.gitbook/assets/image (1).png>)
+
+This change will reflect in the notification of signature requests that the user sends.
+
+![](<.gitbook/assets/image (2).png>)
+
+
+
+The steps to make the change are:
+
+1. Access the menu in the top right corner with your current username.
+2. Click on "My Profile."
+3. In the "My Data" tab, click on "Edit."
+4. Edit the necessary fields.
+5. Click "Save."
+
+</details>
+
+<details>
+
 <summary></summary>
 
 
