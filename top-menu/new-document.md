@@ -71,7 +71,7 @@ When you hover over the "Advanced Settings" option, a tooltip will appear showin
 
 To edit the settings for a specific file, click on **Advanced Settings**, as shown in the image below.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -133,7 +133,7 @@ If it has been determined that the recipient will sign as an individual (pessoa 
 
 The signer roles presented here are previously created in the menu [Administration > Account > Settings Tab > Signer Role](../administration/administration/account.md#documents-sub-tab). By default, the platform shows the roles "Contracted," "Contractor," "Guarantor," and "Tenant," but you can edit or delete these roles, as well as create new ones if necessary.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Signature Type:** Select whether the recipient should use an electronic signature or a digital certificate to sign the document.
 
@@ -159,7 +159,7 @@ The signer roles presented here are previously created in the menu [Administrati
 
 **Visual Representation of Signature:** Select which visual representation should be used by the recipient at the time of signature. When choosing the first option (Pattern, Drawing or Image), he can use any of the representations, in the case of the other options, the use will be restricted to the representation selected at that moment.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 When selecting the option 'Save this recipient to my contact list,' the recipient's provided data will be automatically saved to the user's contact list.
 
@@ -221,7 +221,7 @@ In the next step, the documents that were inserted in the previous stage in PDF 
 
 When the process has one or more grouped documents, the system displays the name of the process.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Process with more than one ungrouped document&#x20;
 
@@ -230,7 +230,7 @@ When the process has one or more ungrouped documents, the system displays:
 * At the top of the screen, the **name of the document** being displayed;
 * In the left corner of the screen, the **list of documents in the process**, ordered according to the sequence set in [Step 01](new-document.md#step-1-add-documents-and-recipients), indicating whether the document is being viewed or not. Clicking on a document will display it on the screen.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Signature fields
 
@@ -306,7 +306,7 @@ Depending on the type of signature defined for the recipient in step 1, the "**C
 
 If the signature is as an Individual, it is possible to require data such as name and document from the recipient, checking the option “Name of the Individual” mandatory filling and selecting one of the documents from the list “Document of the Individual”.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 To request a document, select the desired option from the list. If the last option is selected, you will need to provide the name of the document, specify whether it is text or numeric and indicate the number of characters.
 
