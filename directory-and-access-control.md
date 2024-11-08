@@ -13,18 +13,18 @@ or follow the step-by-step instructions described below:
 
 **How to Create a Directory Structure:**
 
-1. Review user permissions, leaving only your user as the Global Administrator. This will prevent other users from accessing all folders and documents. To do this, go to the [**Administration > Users**](administration/administration/users.md) menu.
-2. Create the directory structure in the [**Documents**](directories/documents/) menu.
-3. If you already have documents in the root folder, move them to the appropriate folders in the [**Documents**](directories/documents/) menu.
+1. Review user permissions, leaving only your user as the Global Administrator. This will prevent other users from accessing all folders and documents. To do this, go to the [Administration > Users](administration/administration/users.md) menu.
+2. Create the directory structure in the [Documents](directories/documents/) menu.
+3. If you already have documents in the root folder, move them to the appropriate folders in the [Documents](directories/documents/) menu.
 
 **How to Set Directory Access Permissions:**
 
-1. To simplify permissions, create user groups (for example, by departments or roles) in the [**Administration > User Group**](administration/administration/user-groups.md) menu, as shown in the examples below:
+1. To simplify permissions, create user groups (for example, by departments or roles) in the [Administration > User Group](administration/administration/user-groups.md) menu, as shown in the examples below:
    * Commercial – Management (Directory Profile – Administrator)
    * Commercial – Salespeople (Directory Profile – Collaborator)
    * Commercial – Other roles with read-only access (Directory Profile – Reader)
-2. Add the created groups to the root folder and enable read permissions for everyone via the [**Documents > Actions**](directories/documents/#individual-actions-subdirectories) menu.
-3. Adjust the permissions of each department’s folders in the [**Documents**](directories/documents/) menu by selecting [**Actions > Edit permissions** ](directories/documents/#individual-actions-subdirectories)for the folder.
+2. Add the created groups to the root folder and enable read permissions for everyone via the [Documents > Actions](directories/documents/#individual-actions-subdirectories) menu.
+3. Adjust the permissions of each department’s folders in the [Documents](directories/documents/) menu by selecting [Actions > Edit permissions ](directories/documents/#individual-actions-subdirectories)for the folder.
 4. Create or edit users and adjust their access permissions as needed. Click on the image to enlarge.
 
 ![](<.gitbook/assets/image (63).png>)
@@ -39,15 +39,14 @@ a) Document Sender – A user without access to the platform’s administrative 
 
 b) Global Administrator – A user with access to all platform features.
 
-1.  **Directory Profile** – Designates the access level of a user or group to directories. Directory profiles include Administrator, Collaborator, and Reader.
+1. **Directory Profile** – Designates the access level of a user or group to directories. Directory profiles include Administrator, Collaborator, and Reader.
 
+a) Administrator – Users or groups with this profile can view and download content, add, move, share, and rename documents, delete or create folders, and adjust access permissions.
 
+b) Collaborator – Users or groups with this profile can view and download content, add, move, share, and rename documents in folders they are permitted access to.
 
-**Administrator** – Users or groups with this profile can view and download content, add, move, share, and rename documents, delete or create folders, and adjust access permissions.
+c) Reader – Users or groups with this profile can only view and download content within the folder and documents.
 
-* **Collaborator** – Users or groups with this profile can view and download content, add, move, share, and rename documents in folders they are permitted access to.
-* **Reader** – Users or groups with this profile can only view and download content within the folder and documents.
-
-Click here to watch the explanatory video.
+[Click here](https://www.youtube.com/watch?v=FHTsOb1LLSo) to watch the explanatory video.
 
 </details>
