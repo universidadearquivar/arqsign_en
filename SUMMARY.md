@@ -1,12 +1,13 @@
 # Table of contents
 
 * [💻 Platform Overview 2.3.1](README.md)
-* [❔ Frequently Asked Questions](frequently-asked-questions.md)
-* [🟪 ArqSign and Cloud Clinic](arqsign-and-cloud-clinic.md)
-* [🟪 Digital and electronic signature](digital-and-electronic-signature.md)
-* [🟪 Digital Certificate](digital-certificate.md)
-* [🟪 How to Use](how-to-use.md)
-* [🟪 Directory and access control](directory-and-access-control.md)
+* [❔ Frequently Asked Questions](frequently-asked-questions/README.md)
+  * [🟪 ArqSign and Cloud Clinic](frequently-asked-questions/arqsign-and-cloud-clinic.md)
+  * [🟪 Digital and electronic signature](frequently-asked-questions/digital-and-electronic-signature.md)
+  * [🟪 Digital Certificate](frequently-asked-questions/digital-certificate.md)
+  * [🟪 How to Use](frequently-asked-questions/how-to-use.md)
+  * [🟪 Directory and access control](frequently-asked-questions/directory-and-access-control.md)
+  * [🟪 Integration between Systems](frequently-asked-questions/integration-between-systems.md)
 
 ## TOP MENU
 
@@ -38,3 +39,7 @@
   * [🟪 Account](administration/administration/account.md)
   * [🟪 Users](administration/administration/users.md)
   * [🟪 User Groups](administration/administration/user-groups.md)
+
+***
+
+* [Integrations](integrations.md)

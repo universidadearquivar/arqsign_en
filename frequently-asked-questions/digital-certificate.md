@@ -45,7 +45,7 @@ If you receive a document to sign via the ArqSign Platform and need to use a Dig
 
 2\) Certificates saved on the computer of the person signing the document.
 
-![](<.gitbook/assets/Certificado (1).png>)
+![](<../.gitbook/assets/Certificado (1).png>)
 
 * For signing with a Certificate inserted in the Platform, click on the indicated option;
 * For signing with a digital Certificate installed on your machine, you must follow the steps indicated to:

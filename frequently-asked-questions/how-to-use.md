@@ -28,19 +28,19 @@ Access the Signature platform and configure your Electronic Signature.
 
 On the left side of the screen, you will find all available menus, organized into groups: Mailbox, Directories, and Administration. It is important to note that these menus will be displayed according to each user's permission level. Click on the image to enlarge.
 
-![](<.gitbook/assets/image (40).png>)
+![](<../.gitbook/assets/image (40).png>)
 
 **MAILBOX:** This group contains menus related to the document processing workflow. Click on the image to enlarge.
 
-![](<.gitbook/assets/image (41).png>)
+![](<../.gitbook/assets/image (41).png>)
 
 **DIRECTORIES:** This group contains the Documents menu, which serves as a storage repository for documents processed by the platform. In other words, all documents with a completed signature process can be found here. Click on the image to enlarge.
 
-![](<.gitbook/assets/image (42).png>)
+![](<../.gitbook/assets/image (42).png>)
 
 **ADMINISTRATION:** This group contains settings related to the account, users, and user groups.
 
-![](<.gitbook/assets/image (43).png>)
+![](<../.gitbook/assets/image (43).png>)
 
 </details>
 
@@ -51,23 +51,23 @@ On the left side of the screen, you will find all available menus, organized int
 1. The batch signing process can also be performed directly via mobile phone, following the same steps as on the platform.
 2. The "Batch Signature" option will appear, along with the list of documents pending signature for selection. Once the documents are selected, click on the "Batch Signature" icon.
 
-![](<.gitbook/assets/image (44).png>)
+![](<../.gitbook/assets/image (44).png>)
 
 3. Fill in the requested data.
 
-![](<.gitbook/assets/image (45).png>)
+![](<../.gitbook/assets/image (45).png>)
 
 4. Define the visual representation (Signature Style).
 
-![](<.gitbook/assets/image (46).png>)
+![](<../.gitbook/assets/image (46).png>)
 
 5. Track the progress of the signatures.
 
-![](<.gitbook/assets/image (47).png>)
+![](<../.gitbook/assets/image (47).png>)
 
 6. A notification of the completed process will be displayed.
 
-![](<.gitbook/assets/image (48).png>)
+![](<../.gitbook/assets/image (48).png>)
 
 7. Once the signature process is completed by all responsible parties, the final document can be accessed in ArqGED, as it will be retained in the workflow.
 
@@ -86,7 +86,7 @@ If you have received a document for signature, click on the access link to the d
 5. Apply the visual representation of your signature using one of the signature styles: Standard (your name written), Drawing (handwritten signature), or Image (upload the image/photo of your signature).
 6. Click on "Complete."
 
-[Click here to see how to sign documents through the ArqSign ](top-menu/document-signing.md)[platform.](top-menu/document-signing.md)
+[Click here to see how to sign documents through the ArqSign ](../top-menu/document-signing.md)[platform.](../top-menu/document-signing.md)
 
 </details>
 
@@ -94,7 +94,7 @@ If you have received a document for signature, click on the access link to the d
 
 <summary>How to sign documents in batch?</summary>
 
-[Click here to check how to perform batch document signing through the ArqSign platform.](top-menu/batch-signing.md)
+[Click here to check how to perform batch document signing through the ArqSign platform.](../top-menu/batch-signing.md)
 
 </details>
 
@@ -106,13 +106,13 @@ If you have received a document for signature, click on the access link to the d
 2. After logging in, click on your name in the upper right corner.
 3. Click on "My Profile."
 
-![](<.gitbook/assets/image (49).png>)
+![](<../.gitbook/assets/image (49).png>)
 
 **Tab "My Data"**
 
 1. Make sure your data is fully updated. If you want to change something, click on "Edit" to enable the editing fields.
 
-![](<.gitbook/assets/image (50).png>)
+![](<../.gitbook/assets/image (50).png>)
 
 
 
@@ -123,24 +123,24 @@ In this tab, you can maintain a list of the most frequently used contacts on the
 1. In this tab, you can "Save the recipients of a document sent for signature in my contact list."
 2. By clicking on the "+" icon, you can add contacts. When you click this option, a screen will be enabled for registering a new contact to include in the list. After entering the contact's details, click "Save" or "Save and Close."
 
-![](<.gitbook/assets/image (51).png>)
+![](<../.gitbook/assets/image (51).png>)
 
 **Icons – "My Contacts" Tab**
 
-![](<.gitbook/assets/image (52).png>)
+![](<../.gitbook/assets/image (52).png>)
 
 **"Signature Style" Tab**
 
 1. In this tab, register the signatures you will use in document signing processes. Click on "Edit" to enable the fields.
 2. Go through the three available options. After completing, click "Save."
 
-![](<.gitbook/assets/image (53).png>)
+![](<../.gitbook/assets/image (53).png>)
 
 "**Digital Certificate" Tab**
 
 1. In this tab, you can upload digital certificates to the cloud, storing them on the ArqSign Platform. These stored certificates will be listed when the logged-in user is signing a document with the Digital Certificate (ICP) signature type.
 
-![](<.gitbook/assets/image (54).png>)
+![](<../.gitbook/assets/image (54).png>)
 
 
 
@@ -148,7 +148,7 @@ In this tab, you can maintain a list of the most frequently used contacts on the
 
 1. In the "Requests" tab, the user can view requests for document ownership transfer. For example, if the user changes the document owner in the inbox, the movement will be recorded in the "Requests" tab.
 
-![](<.gitbook/assets/image (55).png>)
+![](<../.gitbook/assets/image (55).png>)
 
 </details>
 
@@ -369,15 +369,15 @@ To customize the notifications on the ArqSign platform, the Account Administrato
 5. If you want to preview the notifications with the changes you made, click “Preview Notification”;
 6. Once all adjustments are made, click “Save”.
 
-![](<.gitbook/assets/image (56).png>)
+![](<../.gitbook/assets/image (56).png>)
 
 Standard Notification:
 
-![](<.gitbook/assets/image (57).png>)
+![](<../.gitbook/assets/image (57).png>)
 
 Example of customized notification simulation:
 
-![](<.gitbook/assets/image (58).png>)
+![](<../.gitbook/assets/image (58).png>)
 
 </details>
 
@@ -387,7 +387,7 @@ Example of customized notification simulation:
 
 1. Click on ‘New Document’.
 2. Select the document you wish to send and provide the signatory’s details such as name, email, etc.
-3. Below these details, you will see a 'message' ![](<.gitbook/assets/image (59).png>)symbol. Click on it to open the private message tab.
+3. Below these details, you will see a 'message' ![](<../.gitbook/assets/image (59).png>)symbol. Click on it to open the private message tab.
 4. In the private message tab, you can enter the subject and the message you want to send specifically to the selected signatory. Other signatories will receive the default message.
 
 </details>
@@ -398,7 +398,7 @@ Example of customized notification simulation:
 
 1. Click on ‘New Document’.
 2. Select the document you want to send and enter the signatory’s information, such as name and email.
-3. Below this information, there will be a 'lock' ![](<.gitbook/assets/image (60).png>)symbol. Click on it to open the security tab.
+3. Below this information, there will be a 'lock' ![](<../.gitbook/assets/image (60).png>)symbol. Click on it to open the security tab.
 4. In the security tab, you can generate the code 'Automatically or Manually' and specify the method (email, SMS, WhatsApp, or none) through which you want to send the token.
 5. Once configured, the security token will be sent through the selected method when the signatory clicks to access the document. If no method is selected, you can provide the token to the signatory directly.
 
@@ -540,7 +540,7 @@ If you received a document for signing via ArqSign and need to sign it with a Di
 
 2\) Certificates saved on your local computer.
 
-![](.gitbook/assets/Certificado.png)
+![](../.gitbook/assets/Certificado.png)
 
 * For signing with a Certificate stored on the Platform, click the indicated option;
 * For signing with a digital certificate installed on your machine, follow the steps below:
@@ -664,11 +664,11 @@ If the signer has Digital Certificates saved in the ArqSign platform, they will 
 
 Once a user is created, they can modify the following details in their profile:
 
-![](<.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 This change will reflect in the notification of signature requests that the user sends.
 
-![](<.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 
 
@@ -995,7 +995,7 @@ A field called "Order" will appear, and the recipients will need to sign the doc
 
 If you want two people to receive the email simultaneously, assign them the same number.
 
-![](<.gitbook/assets/image (61).png>)
+![](<../.gitbook/assets/image (61).png>)
 
 </details>
 
@@ -1125,7 +1125,7 @@ Understand in detail each customizable item:
 
 <summary>How to enable or disable automatic plan renewal?</summary>
 
-During the validity of the plan, the customer can enable or disable automatic renewal. To do this, follow these steps: Access the [_Administration_ menu > _Account_ > _Billing and Usage_ > _Automatic Renewal_.](administration/administration/account.md)
+During the validity of the plan, the customer can enable or disable automatic renewal. To do this, follow these steps: Access the [_Administration_ menu > _Account_ > _Billing and Usage_ > _Automatic Renewal_.](../administration/administration/account.md)
 
 </details>
 
@@ -1133,7 +1133,7 @@ During the validity of the plan, the customer can enable or disable automatic re
 
 <summary>How to check the plan, expiration, automatic renewal, and usage?</summary>
 
-Go to the [_Administration_ menu > _Account_ > _Billing and Usage_](administration/administration/account.md).
+Go to the [_Administration_ menu > _Account_ > _Billing and Usage_](../administration/administration/account.md).
 
 View the contracted plan, plan period, sign-up date, expiration date, automatic renewal status, consumed and available items, renewal period, and purchase history.
 
@@ -1233,7 +1233,7 @@ When the defined date for document expiration, renewal, or adjustment arrives, t
 
 <summary>How to register a user?</summary>
 
-Access the [_Administration_ menu > _Users_](administration/administration/users.md) and click the button with the "+" sign.
+Access the [_Administration_ menu > _Users_](../administration/administration/users.md) and click the button with the "+" sign.
 
 Enter the new user's email.
 
@@ -1246,7 +1246,7 @@ Click _Save_.
 
 After registering the user, a confirmation message will be sent to the provided email to complete the registration.
 
-When creating a user with the **Document Sender** profile, it is recommended to define which user group this user belongs to. Learn more about User Groups by [clicking here](administration/administration/user-groups.md).
+When creating a user with the **Document Sender** profile, it is recommended to define which user group this user belongs to. Learn more about User Groups by [clicking here](../administration/administration/user-groups.md).
 
 </details>
 
@@ -1273,7 +1273,7 @@ Users with the _Document Sender_ profile can only view the documents from the fl
 
 For this user profile to have shared access to the documents of other users, the _Directories_ functionality should be used.
 
-If you'd like to learn more about the _Directories_ feature, [click here](directories/documents/).
+If you'd like to learn more about the _Directories_ feature, [click here](../directories/documents/).
 
 </details>
 
@@ -1283,7 +1283,7 @@ If you'd like to learn more about the _Directories_ feature, [click here](direct
 
 The _Acceptance Term_ for electronic signature formalizes and records the signatories' acceptance history, which is a legal prerequisite for the validity of the electronic signature. You can use our suggested Acceptance Term or customize your own. To customize, follow these steps:
 
-1. Click on [**Administration** > **Account** > **Acceptance Term**](administration/administration/account.md).
+1. Click on [**Administration** > **Account** > **Acceptance Term**](../administration/administration/account.md).
 2. Click on **Edit** and customize your term.
 3. Click on **Publish**.
 
