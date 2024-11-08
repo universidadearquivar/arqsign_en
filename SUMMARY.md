@@ -8,6 +8,7 @@
   * [🟪 How to Use](frequently-asked-questions/how-to-use.md)
   * [🟪 Directory and access control](frequently-asked-questions/directory-and-access-control.md)
   * [🟪 Integration between Systems](frequently-asked-questions/integration-between-systems.md)
+  * [🟪 Plans and payments](frequently-asked-questions/plans-and-payments.md)
 
 ## TOP MENU
 
