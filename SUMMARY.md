@@ -6,6 +6,7 @@
 * [🟪 Digital and electronic signature](digital-and-electronic-signature.md)
 * [🟪 Digital Certificate](digital-certificate.md)
 * [🟪 How to Use](how-to-use.md)
+* [🟪 Directory and access control](directory-and-access-control.md)
 
 ## TOP MENU
 
