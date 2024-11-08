@@ -10,6 +10,7 @@
   * [🟪 Integration between Systems](frequently-asked-questions/integration-between-systems.md)
   * [🟪 Plans and payments](frequently-asked-questions/plans-and-payments.md)
   * [🟪 Security](frequently-asked-questions/security.md)
+  * [🟪 Legal Validity](frequently-asked-questions/legal-validity.md)
 
 ## TOP MENU
 

@@ -1,18 +1,18 @@
 # ➕ New Document
 
-In the "New Document" screen, the user can register one or more documents that will be sent to signatories for signature.
+On the New Document screen, the user can register one or more documents that will be sent to signatories for signature.
 
 ## Step 1: Add Documents and Recipients
 
-### A. Add Documents (File Upload)
+### A. Add Documents (Upload Files)
 
-To include the documents that need to be signed, drag the desired files to the document upload field or select them for upload from a directory on your device.
+To include documents that need to be signed, drag the desired files to the document inclusion field or select them to upload from a directory on your device.
 
 <figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-You can include more than one file in the same signing process. In this case, the **"Group files into a single document**" option will be available and can be checked or unchecked.&#x20;
+More than one file can be included in the same signature process. In this case, the "**Group files into a single document**" option will be available and can be checked or unchecked.&#x20;
 
-When this option is **checked**, ArqSign displays the **grouped files** in the listing area, where you can change the order of the documents by clicking and dragging them to the desired position. In this case, it is not allowed to change the name of each individual file, only the name of the process.
+When this field is **checked**, ArqSign displays the **grouped files** in the list area, where you can change the order of the documents by clicking and dragging them to the desired position. In this case, you cannot change the name of each file, only the name of the process.&#x20;
 
 <figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
