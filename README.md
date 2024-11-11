@@ -61,9 +61,9 @@ To request support or assistance, click on "Support" in the bottom menu of the p
 
 The user will be directed to the platform's Help Center, where they can search through posted content for a solution to their question or request contact with the support team.
 
-<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt="" width="539"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt="" width="539"><figcaption></figcaption></figure>
 
 Contact with the support team can be made via WhatsApp, chat, email (faleconosco@arqsign.com), or phone (4003-8839).
 

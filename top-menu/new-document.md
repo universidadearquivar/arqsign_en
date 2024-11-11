@@ -14,7 +14,7 @@ More than one file can be included in the same signature process. In this case, 
 
 When this field is **checked**, ArqSign displays the **grouped files** in the list area, where you can change the order of the documents by clicking and dragging them to the desired position. In this case, you cannot change the name of each file, only the name of the process.&#x20;
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 To remove a file, click the trash icon available for each file on the screen.&#x20;
 
@@ -23,7 +23,7 @@ When this option is **unchecked**, ArqSign displays the files as **separate item
 <figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 {% hint style="warning" %}
-<mark style="color:orange;">**The following file extensions are allowed:**</mark>
+<mark style="color:orange;">**Files with the following extensions are allowed:**</mark>
 
 * <mark style="color:orange;">**Document: .doc, .docx, .pdf, .txt**</mark>
 * <mark style="color:orange;">**Image: .jpg, .jpeg, .png, .tif, .tiff**</mark>
@@ -37,6 +37,8 @@ In the **"Signature Process Name"** field, you can edit the name of the process 
 
 <figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
+In the “**Signature Process Name**” field, you can edit the name of the process that includes the grouped files, changing it as needed.
+
 In the **"Folder"** field, select the folder where the document will be stored. The folders where documents can be saved must be created in the [Directories > Documents](../directories/documents/) menu. By default, a folder with the user's name is created and should be selected if no other folder exists.
 
 <figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
@@ -47,31 +49,31 @@ Finally, to schedule the automatic renewal of the documents being registered, ch
 
 ## Advanced settings
 
-The advanced settings pertain to document-specific configurations. Each setting has a default value, which can be adjusted either universally in the [Administration > Account > Settings](../administration/administration/account.md#settings-tab) menu for all documents or specifically on the New Document screen.
+Advanced settings are document-specific settings. You can adjust them for all documents, i.e., leave a default setting for every time you need to request signatures, or configure options for just one specific document. To access the full list of options that can be configured for documents, go to [Administration > Account > Settings](../administration/administration/account.md#settings-tab). See below for all the general configurable options
 
-**Document expiration time after sending:** In this field, the user should specify the expiration period (in days) for the document, which is the deadline for recipients to sign it.
+**Document expiration time after sending:** In this field, the user must enter the document expiration time (in days), which is the deadline for recipients to sign it.
 
 {% hint style="warning" %}
-<mark style="color:orange;">If this field is not modified, it will be filled with the default value. The system default is 120 days, but this value can be changed in the</mark> [<mark style="color:orange;">**Administration > Account > Settings menu.**</mark>](../administration/administration/account.md#settings-tab)
+<mark style="color:orange;">If this field is not changed, it will be filled with the default value. The system default value is 120 days, but this value can be changed in the</mark> [<mark style="color:orange;">**Administration > Account > Settings**</mark>](../administration/administration/account.md#settings-tab) <mark style="color:orange;">menu.</mark>
 {% endhint %}
 
-**Warning before expiration:** In this field, specify the period (in days) before which the system should send a warning to recipients who have not yet signed about the document's expiration.
+**Notice before expiration:** This field must contain the deadline (in days) in which the system must send a notice about the document's expiration to recipients who have not yet signed.
 
-**Enable reminders:** By enabling this option, the system will send reminders to recipients to sign the document. These reminders will only be sent to signatories who have not yet signed the document. By default, this option will be checked.
+**Enable reminders:** When you enable this option, the system will send reminders to recipients to sign the document. These reminders will only be sent to signers who have not yet signed the document. By default, this option will be checked.
 
-**Send reminders to recipients every:** In this field, specify how often (in days) the system should send signing reminders to recipients who have not yet signed.
+**Send reminders to recipients every:** In this field, you must enter how often (in days) the system should send signature reminders to recipients who have not yet signed.
 
-**Require signatories to read documents before signing:** This setting requires that signatories read the documents before signing. This information will be checked or unchecked based on the account configuration.
+Require signatory to read documents before signing: This setting requires the signatory to read the documents in the process. This information will be checked or unchecked, depending on the account configuration.
 
-**Generate document access QR Code in Signature Record:** By enabling this option, a QR Code will be generated in the document's signature record. By default, this option will be unchecked.
+**Generate document access QRCode in the Signature Registry:** When this option is enabled, a QRCode will be generated in the signature registry document. By default, this option will be unchecked.
 
-When you hover over the "Advanced Settings" option, a tooltip will appear showing a preview of the configured settings.
+When you hover your mouse over the "Advanced Settings" option, a Tooltip is displayed with a preview of the settings made.
 
-<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-To edit the settings for a specific file, click on **Advanced Settings**, as shown in the image below.
+To specifically edit the settings of a specific file, click on **Advanced Settings**, as shown in the image below.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -79,11 +81,11 @@ To edit the settings for a specific file, click on **Advanced Settings**, as sho
 
 ## B. Recipients&#x20;
 
-In the "Recipients" field, fill out the information for the signatories who will receive the document and participate in the signing process. Follow the settings described below for each recipient.&#x20;
+In the “Recipients” field, fill in the fields relating to the signatories who will receive the document and participate in the signing process. You must perform the configurations described below for each of the recipients.
 
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-To add a recipient saved in the contacts list, click on the "Add recipient from my contacts" icon. The contacts list must be created beforehand in the "My Profile" menu.
+You can add a saved recipient from your saved contact list by clicking on the “Add recipient from my contacts” icon.
 
 <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
@@ -91,35 +93,35 @@ To add a recipient saved in the contacts list, click on the "Add recipient from 
 <mark style="color:blue;">**Important**</mark><mark style="color:blue;">: The contact list must be created beforehand in the</mark> [<mark style="color:blue;">"My Profile"</mark>](my-profile.md) <mark style="color:blue;">menu.</mark>
 {% endhint %}
 
-When you click on this button, the list is displayed. To add the desired recipients, select them by clicking on the checkbox next to their name and then click on "Add Recipients."
+Clicking this button displays the list. To add the desired recipients, select them by clicking the checkbox next to their name and click “Add Recipients”.
 
 <figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-By checking the "Sign in the order below" checkbox, the document will be sent to recipients in the sequence defined in the "Order" field, which will appear at the top of the "Recipient Details" section. When this option is set, each recipient will only receive the document after the previous one has completed their signing action.
+By checking the “**Sign in the order below**” checkbox, the document will be sent to the recipients in the order defined in the “**Order**” field that will appear at the top of “**Recipient Data**.” By setting this option, a user will only receive the document when the previous user completes their signature action.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**If the previous user only had a viewing action without signing, the next signatory will receive the document after the last signatory before them completes their signature.**</mark>
+<mark style="color:orange;">**If the previous user only had a view action, the next signer will receive the document when the last signer before them completes the signature.**</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 **Recipient Name:** Enter the recipient's name.
 
-**Send via:** Select whether the document will be sent via email or WhatsApp to the recipient.
+**Send by:** Select whether the document will be sent by email or WhatsApp to the recipient.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**The option to send via WhatsApp will only be displayed if the user's account has WhatsApp message credits available.**</mark>
+<mark style="color:orange;">**The option to send via WhatsApp will only be displayed if the user's account has WhatsApp message credits.**</mark>
 {% endhint %}
 
 Depending on the option chosen previously, provide the recipient's email address or phone number for sending the document.
 
 <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
-**This recipient will:** Specify whether the recipient will electronically sign the document as an Individual (Pessoa Física), Legal Entity (Pessoa Jurídica), both, or if they will only receive a copy of the document at the end of the signing process.
+**This recipient will:** Indicate whether the recipient will sign the document online as an Individual, Legal Entity, or both, or whether they will only receive a copy of the document at the end of the signing process.
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
-If it has been determined that the recipient will sign as an individual (pessoa física) or legal entity (pessoa jurídica), it is necessary to define their role in the signing process. Select from one or more roles listed or add a custom "Signatory Role" by clicking on "Add Role".
+If you have determined that the recipient will sign as an individual or legal entity, you must define their role as signatory in the process. Select from one or more listed roles or add a custom “Signatory Role” by clicking “Add Role”.
 
 <div>
 
@@ -131,9 +133,9 @@ If it has been determined that the recipient will sign as an individual (pessoa 
 
 </div>
 
-The signer roles presented here are previously created in the menu [Administration > Account > Settings Tab > Signer Role](../administration/administration/account.md#documents-sub-tab). By default, the platform shows the roles "Contracted," "Contractor," "Guarantor," and "Tenant," but you can edit or delete these roles, as well as create new ones if necessary.
+The signatory roles presented here are previously created in the [Administration > Account > Settings Tab > Signatory Role](https://arquivar.gitbook.io/manual-arqsign/administracao/administracao/conta#papel-do-signatario) menu . By default, the platform presents the roles “Contractor”, “Contractor”, “Guarantor” and “Tenant”, but it is possible to edit or delete these roles, in addition to creating others if necessary.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Signature Type:** Select whether the recipient should use an electronic signature or a digital certificate to sign the document.
 
@@ -142,54 +144,52 @@ The signer roles presented here are previously created in the menu [Administrati
 
 
 {% hint style="info" %}
-<mark style="color:blue;">**Electronic Signature vs Digital Signature (ICP Brazil and Others)**</mark>&#x20;
+<mark style="color:blue;">**ELECTRONIC SIGNATURE X DIGITAL SIGNATURE (ICP Brazil and ICP Others)**</mark>&#x20;
 
-&#x20;&#x20;
+<mark style="color:blue;">An electronic signature is one that does not require a digital certificate. It is most commonly used to sign contracts and documents between private entities (B2B, B2C).</mark>&#x20;
 
-<mark style="color:blue;">An electronic signature is one that does not require a digital certificate. It is commonly used for signing contracts and documents between private entities (B2B, B2C).</mark>&#x20;
+<mark style="color:blue;">A digital signature is one that requires a digital certificate. It is most commonly used for issuing invoices and for transactions with the government.</mark>&#x20;
 
-<mark style="color:blue;">A digital signature, on the other hand, requires a digital certificate. It is primarily used for issuing invoices and transactions with the government.</mark>&#x20;
+<mark style="color:blue;">On the ArqSign Platform, when configuring a signature flow you can determine which type of signature should be executed per recipient by choosing between:</mark>&#x20;
 
-<mark style="color:blue;">In the ArqSign platform, when configuring a signature workflow, you can determine which type of signature should be executed by the recipient, choosing between:</mark>&#x20;
+<mark style="color:blue;">a) Electronic signature (ArqSign produces advanced electronic signatures with legal validity in accordance with MP 2.200-2 of 08/24/2001 and Law 14.063 of 11/23/2020). Whenever a signatory signs a document electronically, ArqSign applies a digital certificate specific to the platform, capturing the Hash (unique identification) of the file, verifying the integrity of the file, and attaching the signatory's identification to the certificate.</mark>&#x20;
 
-<mark style="color:blue;">a) Electronic Signature (ArqSign produces advanced electronic signatures with legal validity according to MP 2.200-2 of 08/24/2001 and Law 14.063 of 11/23/2020). Whenever a signer electronically signs a document, ArqSign applies its own digital certificate, capturing the hash (unique identification) of the file, verifying file integrity, and attaching the signer's identification to the certificate.</mark>&#x20;
-
-<mark style="color:blue;">b) Digital Signature – ICP-Brazil or Others (ArqSign produces qualified digital signatures according to MP 2.200-2 of 08/24/2001 and Law 14.063 of 11/23/2020). When a user already possesses a digital certificate and wishes to use it for signing through ArqSign, this certificate is used to verify the integrity of the signature and identify the user as the signer on the document.</mark>&#x20;
+<mark style="color:blue;">b) Digital signature – ICP-Brasil or Others (ArqSign produces qualified digital signatures in accordance with MP 2.200-2 of 08/24/2001 and Law 14.063 of 11/23/2020). When the user already has a digital certificate and wishes to use it to sign through ArqSign, this certificate is used to verify the integrity of the signature and identify the user as the signatory in the document.</mark>&#x20;
 {% endhint %}
 
-**Visual Representation of Signature:** Select which visual representation should be used by the recipient at the time of signature. When choosing the first option (Pattern, Drawing or Image), he can use any of the representations, in the case of the other options, the use will be restricted to the representation selected at that moment.
+**Signature Visual Representation:** Select the visual representation that the recipient should use when signing. When choosing the first option (Standard, Drawing or Image), the recipient can use any of the representations. In the case of the other options, the use will be restricted to the representation selected at that time.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-When selecting the option 'Save this recipient to my contact list,' the recipient's provided data will be automatically saved to the user's contact list.
+By checking the option “**Save this recipient in my contact list**”, the recipient’s data will be automatically saved in the user’s contact list.
 
 <figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-**Security Code Icon:** Clicking on this icon allows you to generate a numerical code that will be sent to the recipient for accessing the document. The code can be automatically generated by the system or manually entered by the user.
+**Security Code Icon:** Clicking this icon will create a numeric code that will be sent to the recipient so they can access the document. The code can be generated automatically by the system or entered manually by the user.
 
 <figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
-After generating the code, choose whether it will be sent via email, WhatsApp, or SMS, and provide the email address or phone number for sending. It's also possible to not send the code, allowing the user to inform the recipient in their preferred manner. To delete the created code, simply click on 'Delete Security Code.
+After generating the code, choose whether it will be sent by email, WhatsApp, or SMS and provide the email or phone number to send it to. It is also possible not to send the code, leaving it up to the user to inform the recipient in the way they prefer. To delete the created code, simply click on “Delete Security Code”.
 
 <figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
-If the option to send via WhatsApp is selected, it's possible to allow the recipient to request a resend of the code by checking the 'Allow this recipient to request a resend of the security code' checkbox.
+If you select the option to send via WhatsApp, you can allow the recipient to request that the code be resent by checking the checkbox “Allow this recipient to request that the security code be resent".
 
 {% hint style="warning" %}
-<mark style="color:orange;">Each resend of the security code requested by the recipient will consume a WhatsApp credit from the sending user's account.</mark>
+<mark style="color:orange;">Each resend of the security code requested by the recipient will consume WhatsApp credit from the account of the user sending the document.</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-**Private Message Icon:** Clicking on this icon allows you to insert a message that will be sent to the recipient along with the document. To do this, fill in the 'Subject' and 'Message' fields. If you wish to delete the private message, click on 'Delete Private Message'.
+Private Message Icon: By clicking this icon, you can enter a message that will be sent to the recipient along with the document. To do this, fill in the “Subject” and “Message” fields. If you wish to delete the message, click “Delete Private Message”. Good afternoon.
 
 <figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
-The **Security Code** and **Private Message** items are expandable, and when collapsed, they feature an edit icon, indicating to the user that they can be modified.
+The "**Security Code**" and "**Private Message**" items are expandable, and when collapsed, they display an edit icon, indicating to the user that they can be modified.
 
 <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
-To add other recipients, click the "Add New Recipient" button. If you wish to include yourself as a recipient, click "Add me as a recipient." The name and email fields will be automatically filled with the information registered in your user profile, and the "Send via" field will be filled with the "Email" option.
+To add additional recipients, click on the "Add New Recipient" button. If you wish to include yourself as a recipient, click on "Add me as recipient." The name and email fields will be automatically populated with the information registered in your user profile, and the "Send by" field will be filled in with the "Email" option.
 
 <figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
@@ -199,15 +199,15 @@ To add other recipients, click the "Add New Recipient" button. If you wish to in
 
 ## Default Message
 
-In the "**Default Message"** field, the default message to be sent to all recipients must be defined by filling in the "Subject" and "Message" fields.&#x20;
+In the "**Default Message"** field,you can keep the default message created by the platform or select your standard message from the list created in "**My Profile,**" which will be sent to all recipients, filling in the "Subject" and "Message" fields.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**In the case of recipients who have the Custom Message fields filled, the provided message will be sent in place of the default message.**</mark>&#x20;
+<mark style="color:orange;">**For recipients who have the Personalized Message fields filled out, the message provided will be sent instead of the standard message.**</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/18 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-After completing these settings, click "**Next**" to proceed to the next step, "Save as Draft" to save the document as a draft, or "Delete" to cancel the registration.
+Once you have completed these settings, click "**Next**" to proceed to the next step, "Finish Later" to save the flow as a draft, or "Discard" to cancel the registration.
 
 <figure><img src="../.gitbook/assets/19 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -215,66 +215,66 @@ After completing these settings, click "**Next**" to proceed to the next step, "
 
 ## Step 2: Configure Fields
 
-In the next step, the documents that were inserted in the previous stage in PDF format will be displayed, and the signature fields, filling information, and attachments should be configured.
+In the next step, the documents that were inserted in the previous step will be displayed in PDF format, and the signature fields, information, and attachments must be configured.
 
 #### Process with one or more grouped documents
 
-When the process has one or more grouped documents, the system displays the name of the process.
+When the process contains one or more grouped documents, the system will display the process name.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### Process with more than one ungrouped document&#x20;
+**Process with more than one non-grouped document**
 
-When the process has one or more ungrouped documents, the system displays:
+When the process has one or more ungrouped documents , the system displays:
 
 * At the top of the screen, the **name of the document** being displayed;
-* In the left corner of the screen, the **list of documents in the process**, ordered according to the sequence set in [Step 01](new-document.md#step-1-add-documents-and-recipients), indicating whether the document is being viewed or not. Clicking on a document will display it on the screen.
+* In the left corner of the screen, the list of process documents ordered according to the order configuration defined in [Step 01](new-document.md#step-1-add-documents-and-recipients), indicating whether the document is being viewed or not. When clicking on the document, the system will display it on the screen.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Signature fields
 
 #### Signature representation
 
-Clicking on the document, the system displays a configuration modal for the visual representation, listing the signatories pending configuration of the signature representation, ordered alphabetically or according to the signing order defined in [Step 01](new-document.md#step-1-add-documents-and-recipients).
+When clicking on the document, the system displays the visual representation configuration modal, listing the signatories pending signature representation configuration, sorted alphabetically or according to the signature order defined in [Step 01](new-document.md#step-1-add-documents-and-recipients).
 
-For each listed document, the system shows the respective representation(s) for each signatory according to the type of signature defined in [Step 01](new-document.md#step-1-add-documents-and-recipients) (field 'This Recipient Will'), allowing the user to configure the representation for each signatory with an online signing action for each document.
+For each document listed, the system displays the respective representation(s) for each signatory(ies) according to the signature type defined in [Step 01](new-document.md#step-1-add-documents-and-recipients) (in the "This Recipient will" field), enabling the user to configure the representation for each signatory(ies) who will sign online in each document.
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Upon including the configuration of the visual representation, the application displays the representation on the document in the position where the user placed it, allowing the user to adjust the size and/or delete the inserted signature representation.
+When including the visual representation configuration, the application displays the representation in the document at the position where the user inserted it, allowing the user to adjust the size and/or delete the inserted signature representation.
 
 <figure><img src="../.gitbook/assets/Arqsign_ass.gif" alt=""><figcaption></figcaption></figure>
 
-If in Step 1 it was defined that the recipient will sign as both an individual and a legal entity, two boxes will be displayed with the recipient's name in the same color. The boxes for each recipient will be shown in different colors to visually indicate where each should sign.
+If in Step 1 it was defined that the recipient will sign as both an individual and a legal entity, two boxes will be displayed with the recipient's name in the same color. The boxes for each of the recipients will be displayed in different colors to visually indicate where each person should sign.
 
-#### Visual signature representation modal for a process with one or more grouped documents
+**Visual representation modal of signature for process with one document or more grouped documents**
 
-When the process has one or more grouped documents, the system lists the recipients' representations according to the type of person (individual and/or legal entity), displaying a scrollbar in the modal."
+When the process has one document or multiple grouped documents, the system lists the recipients' representations according to their type (individual and/or legal entity), displaying a scroll bar in the modal for easier navigation.
 
 <figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Visual signature representation modal for a process with more than one ungrouped document
 
-When the process has more than one document, the system displays a 'carousel,' allowing navigation between documents and signatories.
+When the process involves more than one document, the system displays a "carousel", allowing navigation between documents and signatories. This carousel enables the user to easily switch between documents and adjust the signature fields for each recipient accordingly.
 
 <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-Upon completing the configuration of the signature for all signatories on the document, the system marks the document as having completed the representation configuration by turning the checkmark green in the left corner of the screen.
+When you complete the signature configuration for all signatories in the document, the system marks the document as having completed representation configuration by displaying a checked box in green in the left corner of the screen.&#x20;
 
-Once the signature configuration for the signatory is completed across all documents, the system indicates that the representation configuration for that signatory is complete by turning the checkmark green next to each signatory's name.
+Once the signatory's signature setup is completed for all documents, the system flags this signatory as having completed representation setup by marking a green check mark next to each signatory's name.&#x20;
 
 <figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Signature data and attachments
 
-In the top right corner of the screen, the 'Settings for' field is displayed, showing the name of the recipient currently selected for configuration. Each recipient is automatically assigned a color by the platform, and next to this icon, a 'checked' symbol appears. This symbol changes color to green to indicate that the Additional Signature Information has been included or remains gray when it has not been included.
+In the upper right corner of the screen, the "Settings for" field displays the name of the recipient selected for configuration. Each recipient is automatically assigned a color by the platform, and next to this icon, a "checked" symbol appears. This symbol changes color to green when the Additional Signature Information has been included, and remains gray when it has not been included.
 
 <figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
-If no signature order is configured in Step 1, the **'Settings for'** item displays the list of signatories sorted alphabetically. If a signature order is configured, the list of signatories will be grouped by the order of signatures and sorted alphabetically.
+If no signature order is configured in Step 1, the "**Settings for**" item displays the list of signers sorted alphabetically. If a signature order is configured, the list of signers will be grouped by signature order and sorted alphabetically.
 
 <figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -306,7 +306,7 @@ Depending on the type of signature defined for the recipient in step 1, the "**C
 
 If the signature is as an Individual, it is possible to require data such as name and document from the recipient, checking the option “Name of the Individual” mandatory filling and selecting one of the documents from the list “Document of the Individual”.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 To request a document, select the desired option from the list. If the last option is selected, you will need to provide the name of the document, specify whether it is text or numeric and indicate the number of characters.
 
