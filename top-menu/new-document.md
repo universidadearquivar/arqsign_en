@@ -152,9 +152,9 @@ The signatory roles presented here are previously created in the [Administration
 
 <mark style="color:blue;">On the ArqSign Platform, when configuring a signature flow you can determine which type of signature should be executed per recipient by choosing between:</mark>&#x20;
 
-<mark style="color:blue;">a) Electronic signature (ArqSign produces advanced electronic signatures with legal validity in accordance with MP 2.200-2 of 08/24/2001 and Law 14.063 of 11/23/2020). Whenever a signatory signs a document electronically, ArqSign applies a digital certificate specific to the platform, capturing the Hash (unique identification) of the file, verifying the integrity of the file, and attaching the signatory's identification to the certificate.</mark>&#x20;
+<mark style="color:blue;">**a)**</mark> <mark style="color:blue;">**Electronic signature**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(ArqSign produces advanced electronic signatures with legal validity in accordance with MP 2.200-2 of 08/24/2001 and Law 14.063 of 11/23/2020). Whenever a signatory signs a document electronically, ArqSign applies a digital certificate specific to the platform, capturing the Hash (unique identification) of the file, verifying the integrity of the file, and attaching the signatory's identification to the certificate.</mark>&#x20;
 
-<mark style="color:blue;">b) Digital signature – ICP-Brasil or Others (ArqSign produces qualified digital signatures in accordance with MP 2.200-2 of 08/24/2001 and Law 14.063 of 11/23/2020). When the user already has a digital certificate and wishes to use it to sign through ArqSign, this certificate is used to verify the integrity of the signature and identify the user as the signatory in the document.</mark>&#x20;
+<mark style="color:blue;">**b)**</mark> <mark style="color:blue;">**Digital signature – ICP-Brasil or Others**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(ArqSign produces qualified digital signatures in accordance with MP 2.200-2 of 08/24/2001 and Law 14.063 of 11/23/2020). When the user already has a digital certificate and wishes to use it to sign through ArqSign, this certificate is used to verify the integrity of the signature and identify the user as the signatory in the document.</mark>&#x20;
 {% endhint %}
 
 **Signature Visual Representation:** Select the visual representation that the recipient should use when signing. When choosing the first option (Standard, Drawing or Image), the recipient can use any of the representations. In the case of the other options, the use will be restricted to the representation selected at that time.
@@ -289,9 +289,8 @@ If the user does not wish to manually insert signatures into the document, they 
 **Simplified Sending** allows the user to send the process without manually adjusting the signature positions. The platform will automatically insert a page at the end of the document with signature representations, based on the settings previously defined when inserting the documents and the following rules:
 
 {% hint style="info" %}
-<mark style="color:blue;">**If the "Group files into a single document" field from Step 1 is unchecked:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">The platform</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**inserts a page at the end of each document**</mark><mark style="color:blue;">, with the position of each recipient's signature for the "Sign Online" action, based on the signature type (Individual and/or Legal Entity) configured in the "This Recipient will" field.</mark>
-
-<mark style="color:blue;">**If the "Group files into a single document" field from Step 1 is checked:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">The platform</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**inserts a page at the end of the document**</mark><mark style="color:blue;">, with the position of each recipient's signature for the "Sign Online" action, according to the signature type (Individual and/or Legal Entity) configured in the "This Recipient will" field.</mark>
+* <mark style="color:blue;">**If the "Group files into a single document" field from Step 1 is unchecked:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">The platform</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**inserts a page at the end of each document**</mark><mark style="color:blue;">, with the position of each recipient's signature for the "Sign Online" action, based on the signature type (Individual and/or Legal Entity) configured in the "This Recipient will" field.</mark>
+* <mark style="color:blue;">**If the "Group files into a single document" field from Step 1 is checked:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">The platform</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**inserts a page at the end of the document**</mark><mark style="color:blue;">, with the position of each recipient's signature for the "Sign Online" action, according to the signature type (Individual and/or Legal Entity) configured in the "This Recipient will" field.</mark>
 {% endhint %}
 
 {% hint style="danger" %}
@@ -302,9 +301,7 @@ If the user does not wish to manually insert signatures into the document, they 
 
 ### Complementary Signature Information&#x20;
 
-Depending on the type of signature defined for the recipient in step 1, the "**Complementary signature Information**" fields will be displayed. These fields will only be shown if the option "Electronic Signature" was chosen in step 1 in the "Signature Type" field.&#x20;
-
-If the signature is as an Individual, it is possible to require data such as name and document from the recipient, checking the option “Name of the Individual” mandatory filling and selecting one of the documents from the list “Document of the Individual”.
+The "Settings for" field displays the name of the recipients selected for configuration, along with an icon in the platform-defined color for each recipient. This icon indicates whether additional data configuration and/or attachments have been included.
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -321,7 +318,7 @@ After selecting the type of document that will be required from the recipient wh
 At the time of signing, if the recipient uses a number different from that entered by the sender in the configuration, an error message will be displayed on the screen.
 
 {% hint style="warning" %}
-<mark style="color:orange;">Processes configured with this field completion validation are not listed for "Batch Subscription". Documents from these processes will be available for signature in the "Inbox".</mark>
+<mark style="color:orange;">**Processes configured with this field completion validation are not listed for "Batch Subscription". Documents from these processes will be available for signature in the "Inbox".**</mark>
 {% endhint %}
 
 To request another document, select the desired option from the list. If the last option is selected, it will be necessary to provide the name of the document, specify whether it is text or numeric and indicate the number of characters.
