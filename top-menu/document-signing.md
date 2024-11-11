@@ -1,24 +1,34 @@
 # ✍️ Document Signing
 
-The electronic signing process can be seamlessly completed through two distinct pathways for added flexibility and convenience.
+{% hint style="danger" %}
+<mark style="color:red;">Due to a change in the technology used in the latest platform update, all customers must</mark> <mark style="color:red;"></mark><mark style="color:red;">**manually update**</mark> <mark style="color:red;"></mark><mark style="color:red;">the</mark> <mark style="color:red;"></mark><mark style="color:red;">**AppNative**</mark> <mark style="color:red;"></mark><mark style="color:red;">installer (download and install), as automatic updates will not be possible.</mark>
 
-Both pathways ensure a smooth and expedited signing experience, catering to diverse user preferences and facilitating efficient document management.&#x20;
+<mark style="color:red;">At the time of subscription, if the update process has not been completed, the platform will display a message to guide the user regarding the update.</mark>
+{% endhint %}
+
+The process of electronically signing documents can be carried out in three ways:
 
 {% tabs %}
-{% tab title="Access via Email Notification Link" %}
-Upon receiving an email notification, the designated signer gains direct access to the document requiring their signature by simply clicking on the provided link. This link is embedded within the notification email for swift and efficient access.&#x20;
+{% tab title="By email" %}
+It occurs when the person responsible receives an email notification, informing them that the document must be signed and providing the link to access the document(s) in the signing process.
 
-The email notification is comprehensive, featuring essential details such as the sender's name, the document in need of signature, and the designated deadline for completion. Moreover, personalized messages, if included by the sender, are prominently displayed within this notification for enhanced communication.&#x20;
+The user responsible for the signature will receive an email notification with the link to access the file(s). This email will also include the sender's name and the signature deadline. If the recipient has defined a personalized message, it will also be displayed in this notification.
 
-<figure><img src="../.gitbook/assets/01 (13).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
 
-Upon clicking the link or entering the provided code, users will be directed to the login screen. For those with an existing account on the signing platform, they have the option to either sign the document directly without logging in or input their credentials for access.&#x20;
+{% tab title="By Whatsapp" %}
+**Understanding the Signing Process Completion**
 
-If the user doesn't possess a registered account, they will still be seamlessly directed to the signing screen without the need for providing credentials. However, upon completing the signing process, a suggestion message will appear encouraging them to consider creating a free trial account for enhanced features and benefits.&#x20;
+Once the signing process is concluded, the document involved becomes accessible to all signatories via an email notification. This email contains a link that allows recipients to view crucial details about the document:
 
-It's crucial to note that creating a free trial account is purely optional and not mandatory. Users can choose to proceed with their document signing without any obligation to sign up for a trial account. This approach ensures flexibility and respects the user's autonomy in deciding whether to explore additional features of the platform.&#x20;
+* **Signed Document**: Access and review the contents of the finalized and signed document.
+* **Document ID Code**: A unique identifier for reference and tracking purposes.
+* **Digital Certificates and Electronic Signatures**: Information about the authenticity and security of the document, showcasing the digital verification methods used.
+* **Event History**: A timeline or log of actions taken during the signing process.
+* **Signatories Information**: Data regarding who signed the document and their corresponding roles or permissions.
 
-<figure><img src="../.gitbook/assets/02 (13).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+This centralized review feature ensures transparency and easy access to all pertinent information related to the document's signing.
 {% endtab %}
 
 {% tab title="Direct Platform Access" %}
