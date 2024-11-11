@@ -338,6 +338,8 @@ If you select the last option, "Others," you will need to specify the document n
 
 If the signature is for a Legal Entity, you can require the recipient to provide the company name and a document by marking the “Legal Entity Company Name” and “Legal Entity Document” options as mandatory.
 
+<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ### Attachments&#x20;
@@ -349,6 +351,12 @@ Provide the name of the attachment that will be requested and specify whether it
 It is possible to request more than one attachment by clicking on the "**Add**" icon.&#x20;
 
 <figure><img src="../.gitbook/assets/26 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+
+After selecting the type of document that will be required from the recipient for signing, enter the document number. When signing, the recipient must enter exactly the number defined at that time if the "**Mandatory Filling**" option is selected. If the "**Use the value entered in the field to validate the CNPJ filled in by the signatory during signing**" option is selected, the field will automatically be mandatory and validated by the platform for the signature to proceed.
+
+If, at the time of signing, the recipient enters a different number than the one provided by the sender in the configuration, the following error will be displayed on the screen:
+
+<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
 By clicking "**Delete,**" the document will be deleted. Clicking "**Save as Draft**" will save the document in the Drafts folder. To edit the document or recipients, click "**Previous Step**." Once the signature field configurations are completed, click "**Send**" to submit the document for the recipients' signatures.&#x20;
 
