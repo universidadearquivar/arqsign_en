@@ -236,7 +236,52 @@ The user must select the certificate they will use to sign and enter the certifi
 
 <figure><img src="../.gitbook/assets/image (75).png" alt="" width="375"><figcaption></figcaption></figure>
 
+{% hint style="warning" %}
+<mark style="color:orange;">The certificates hosted in the user's ArqSign platform account, as presented here, must have been previously imported in the</mark> [<mark style="color:blue;">**My Profile > Digital Certificate**</mark>](my-profile.md) <mark style="color:orange;">tab. If the user has a digital certificate hosted on ArqSign, they will be given the option to authenticate within the platform to use the certificate they have.</mark>
+{% endhint %}
 
+<details>
 
-<figure><img src="../.gitbook/assets/18 (2).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<summary>Installation of Necessary Plugins for Using Digital Certificates</summary>
 
+If you have not done so yet, when signing a document for the first time using a digital certificate, the user will be prompted to install the plugins "ArqSign Digital Certificate" (available by [clicking here](https://chromewebstore.google.com/detail/arqsign-certificado-digit/fjdnpmenmpfadeojgkhgiogiclmcjgbp?hl=pt-br\&pli=1)) and AppNative – Desktop Module (provided during the process).
+
+![](<../.gitbook/assets/image (76).png>)
+
+1. When you click "Install Now," a window will open with the download link for the "ArqSign Digital Certificate" plugin.
+
+![](<../.gitbook/assets/image (77).png>)
+
+2. Install the extension according to the browser you are using.
+
+![](<../.gitbook/assets/image (78).png>)![](<../.gitbook/assets/image (79).png>)
+
+3. After completing the first installation, return to the ArqSign platform and proceed with the installation of the AppNative application by clicking on “Click here to download...”.
+
+![](<../.gitbook/assets/image (80).png>)![](<../.gitbook/assets/image (81).png>)
+
+4. After completing the second installation, return to the ArqSign platform. A message confirming the completion of the installations will be displayed.
+
+![](<../.gitbook/assets/image (82).png>)
+
+</details>
+
+To finalize the signing process, the signer must click on “Finish.” They will be directed to the login screen. If they already have an active account on the signing platform, they can enter their credentials to log in. If they do not have an account registered on the platform, a message will be displayed suggesting the creation of a free trial account.
+
+<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+<mark style="color:orange;">Creating a free trial account is not mandatory.</mark>
+{% endhint %}
+
+### Completing the Signature,
+
+Once the signing process is completed, the recipient will receive a notification of the completed signatures via email or WhatsApp. The platform will send the signed document(s) and the respective Signature Record to the recipients, based on the account settings (link or file). When there is more than one file in the process, the platform will send a zip file containing all the documents along with their respective signature record.
+
+<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+
+If the sender has defined that a QR Code should be generated in the Signature Record, in the [<mark style="color:blue;">Advanced Settings section of the document</mark> ](new-document.md#advanced-settings)registration, this QR Code will be displayed on the signature record page.
+
+<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
