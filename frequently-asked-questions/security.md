@@ -24,9 +24,9 @@ In the Adobe Reader Subscriptions Panel you can check:
 2. A digital certificate identifying each signature action (in the example below we have 2 signatories).
 3. Archiving finalizes the signature flow and locks the file to prevent changes.
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1).png>)
 
-![](<../.gitbook/assets/image (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 </details>
 
