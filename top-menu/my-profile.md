@@ -1,56 +1,56 @@
 # 👤 My Profile
 
-In the My Profile menu, the information of the authenticated user is displayed.
+The My Profile menu displays the authenticated user's information.
 
-<figure><img src="../.gitbook/assets/01 (5).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## My Data Tab&#x20;
 
-In the My Data tab, the user's registration information is displayed. It is possible to edit the data by clicking the "Edit" button.
+The My Data tab displays the user's registration information. Data can be edited by clicking the “Edit” button.
 
-<figure><img src="../.gitbook/assets/02 (5).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 
-**Profile Picture:** To insert or edit the profile picture, click on the image and select the "Upload New Image" option. Choose the desired photo and click "Save." To delete the profile picture, simply click on the photo and select the "Delete Current Image" option.
+**Profile Photo:** To add or edit the profile photo, click on the image and select the “Upload New Image” option. Choose the desired photo and click “Save.” To delete the profile photo, simply click on the photo and select the “Delete Current Image” option.
 
-<figure><img src="../.gitbook/assets/03 (4).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
-**Email:** The email presented in this field is the same one used at the time of the user account registration on the platform and cannot be changed.
+**Email:** The email presented in this field is the same one used during the user's account registration on the platform and cannot be changed.
 
-**Full Name:** Displays the user's full name.
+**Full Name:** Displays the user's full name. The name registered in this field appears as the sender of documents for this user in emails and WhatsApp messages.
 
-**Position:** The user can inform their job title in this field.
+**Job Title:** The user can enter their job title in this field.
 
-**Type of Identification Document:** In this field, the user must choose an identification document, which can be CPF (Brazilian ID), driver's license (CNH), RG (national ID), or another document.
+**Identification Document Type:** In this field, the user must choose an identification document, which can be CPF, CNH, RG, or another document.
 
-**Identification Document:** In this field, the user must enter the document number chosen in the "Type of Identification Document" field.
+**Identification Document Number:** In this field, the user must provide the number of the document selected in the “Identification Document Type” field.
 
-**Time Zone:** In this field, the user can choose the time zone they want the platform to consider. This setting is useful for configurations involving scheduling, for example.
+**Time Zone:** In this field, the user can select the time zone they want the platform to consider. This setting is useful for configurations involving scheduling, for example.
 
-**Your default language:** The user can choose the default language in which they want the platform interface to be presented, among "Portuguese - Brazil," "English - USA," and "Spanish - Spain."
+**Default Language:** The user can choose the default language in which they want the platform interface to be displayed, from “Portuguese – Brazil,” “English – USA,” and “Spanish – Spain.”
 
-**Phone:** In this field, the user must enter their contact phone number and click "Add Phone." The numbers entered here will be displayed just below in the "Phones" field.
+**Phone Number:** In this field, the user must provide their contact phone number and click “Add Phone.” The numbers entered here will be displayed below, in the “Phones” field.
 
-<figure><img src="../.gitbook/assets/04 (4).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## My Contacts Tab&#x20;
 
-In the My Contacts tab, the user can register recipient information for sending documents.&#x20;
+In the My Contacts tab, the user can register recipient information for sending documents.
 
-**Save the recipients of a document sent for signature in my contact list:** By checking this option, whenever the user sends a document for signature to a recipient who is not yet included in the contact list, the contact information of that recipient will be automatically saved, and they will be added to the list.&#x20;
+**Save recipients of a document sent for signature in my contact list:** By keeping this option checked, whenever the user sends a document for signature to a recipient who is not yet included in the contact list, the contact information of that recipient will be automatically saved, and they will become part of the list.
 
-<figure><img src="../.gitbook/assets/05 (5).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
-**Column Name:** In this column, the contact's name is displayed in the same way it was registered on the list or as it was provided during the document sending. If the contact has been shared with the user by another account member, the contact's name will be displayed along with information about who registered it.
+**Column Name:** This column displays the contact's name as it was registered in the list or as provided during the document submission. If the contact was shared with the user by another account member, the contact's name will be followed by the information of who registered it.
 
-**Column Email:** In this column, the name or email of the contact provided during registration or document sending is displayed.
+**Column E-mail / WhatsApp:** This column shows the contact's name or email as provided in the registration or during the document submission.
 
 <figure><img src="../.gitbook/assets/06 (3).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Add Contact Icon:** To add a new contact, click on the "Add Contact" icon and provide the name and email or WhatsApp number of the contact. By selecting the option "Share with all account users," the registered contact will be saved in the contact list of all users who are part of the account. To finish, click "Save."
+**Add Contact Icon:** To add a new contact, click on the "Add Contact" icon and provide the contact's name and email or WhatsApp number. By selecting the option "Share with all account users," the registered contact will be saved in the contact list of all users within the account. To finish, click on "Save".
 
 <figure><img src="../.gitbook/assets/07 (4).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
