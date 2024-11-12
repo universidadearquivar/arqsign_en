@@ -162,21 +162,15 @@ Due to a change in technology used in the latest platform update, all customers 
 
 At the time of subscription, if the update process has not been completed, the platform must download the installation file and display a message to guide the user through the installation process.
 
-
-
-
-
-**Signature Registration:** Used to download the log of the signatures made on the document. The Signature Log displays all information about the electronic signatures made, such as the names of the signatories, date and time of the signature, location and IP from where it was made, data from the certificates used, etc.
-
-**Electronic Signature Terms:** Clicking on this option will display the Electronic Signature Terms presented to all signatories for acknowledgment of the truthfulness and authenticity of the signed documents. It is also possible to print this term by clicking on the print icon.
+<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ### Step 2 - Signatory Information and Attachments&#x20;
 
-In the next step, if the signer has been requested to provide additional data, they should fill it in.
+In the next item, if there is a previous configuration requesting the signatory to provide additional data, they must provide it.
 
-If the signer has also been requested to attach files, they should upload the requested documents in the "Attachments" field. After completing, the user should click on "Next."
+If the signatory has also been asked to attach files, in the “Attachments” field, they must upload the requested documents. Once completed, the user must click “Next".
 
 <figure><img src="../.gitbook/assets/13 (7).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -184,15 +178,15 @@ If the signer has also been requested to attach files, they should upload the re
 
 ### Step 3 - Signature Style&#x20;
 
-The Signature Style is the visual representation of the user's signature. To complete the signing of a document, the user must choose how to sign, considering the settings made by the recipient in [**New Document**](new-document.md#b.-recipients). At this point, the recipient must inform which visual representation should be used by the signatory: "Default, Drawing or Image", or just "Default (Text)" or just "Drawing" or just "Image".
+The Signature Style is the visual representation of the user's signature. To sign a document, the user must choose how to sign, based on the settings made by the recipient in the [**New Document**](new-document.md#b.-recipients). At this point, the recipient must indicate which visual representation should be used by the signer: "Standard, Drawing or Image," or only "Standard (Text)," only "Drawing," or only "Image."
 
 <figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
-* **Default:** In this style, the user needs to enter their full name and set the style (font) in which the text will be presented. To do this, click on "Style" and make the selection.
+* **Default:**In this style, the user must enter their full name and define the style (font) in which the text should be presented. To do this, they should click on "Style" and make the selection.
 
 <figure><img src="../.gitbook/assets/14 (6).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-* **Drawing:** To sign with a drawing, the user should sign or initial using the mouse in the "Signature Drawing Area." To correct, click on the "Erase" icon.
+* **Drawing:** To sign with a drawing, the user must sign or initial in the “Signature Drawing Area” using the mouse. To correct, click on the “Erase” icon.
 
 <figure><img src="../.gitbook/assets/15 (5).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -200,40 +194,49 @@ The Signature Style is the visual representation of the user's signature. To com
 
 <figure><img src="../.gitbook/assets/16 (5).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-To complete the signature process, the signatory should proceed by clicking on the "Apply" button. In cases where the document requires signatures both as an individual and a Legal Entity, the signatory can use the same signature for both purposes by simply clicking on the option labeled "Apply Individual and Legal Entity." This simplifies the signing process, ensuring consistency and efficiency in executing the document."
+To complete, the signer must click on “Finish.” If the document requests that the signer sign as both an Individual and a Legal Entity, the same signature will be used for both cases.
 
-{% hint style="warning" %}
-<mark style="color:orange;">**Creating a free trial account is not mandatory.**</mark>
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/17 (3).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### <mark style="color:purple;">Additional Information for the Signature</mark>
-
-<mark style="color:purple;">After defining the Signature Style, the user will be prompted to sign, which can be:</mark>
-
-* <mark style="color:purple;">**Eletronic Signature**</mark><mark style="color:purple;">: In an electronic signature, the user provides their personal or business information, and ArqSign certifies the authenticity and truthfulness of the presented information. When using an electronic signature, users will be required to input the necessary information in the "Data" area. The mandatory fields within this area may vary depending on the specific requirements of the document. Any field marked with a symbol "\*" indicates that the information provided is mandatory for completion.</mark>&#x20;
-*   <mark style="color:purple;">**Digital Signature:**</mark>  <mark style="color:purple;"></mark><mark style="color:purple;">If it has been defined that the user must sign using a digital certificate (ICP Brasil and ICP others), he will not need to provide any data, he must simply select the Signature Style he will use, accept the Electronic Signature Term and click on “Sign and Finish”.</mark>
-
-    <mark style="color:purple;">A list will be displayed with all the certificates installed on the user's machine and in the ArqSign platform account. He must select the one with which he will sign, enter the PIN code of the certificate (if requested) and click on “Next”, if he also needs to sign as a Legal Entity, or on “Finish” to finish.</mark>
+### Step 4 - Signing Electronically or with a Digital Certificate
 
 {% hint style="info" %}
-<mark style="color:blue;">**The certificates hosted in the user's ArqSign platform account presented here must have previously been imported on the My Profile screen > Digital Certificate Tab.**</mark>
+<mark style="color:blue;">**ELECTRONIC SIGNATURE vs. DIGITAL SIGNATURE (ICP-Brasil and ICP Others)**</mark>
+
+<mark style="color:blue;">An</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**electronic signature**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">is one that does not require a digital certificate. It is primarily used for signing contracts and documents between private entities (B2B, B2C).</mark>
+
+<mark style="color:blue;">A</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**digital signature**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">requires a digital certificate. It is mainly used for issuing invoices and for transactions with government entities.</mark>
+
+<mark style="color:blue;">In the</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Arqsign Platform**</mark><mark style="color:blue;">, when configuring a signing workflow, you can specify which type of signature the recipient should use by choosing between:</mark>
+
+<mark style="color:blue;">a)</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Electronic Signature**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(ArqSign generates advanced electronic signatures with legal validity according to MP 2.200-2 of 08/24/2001 and Law 14.063 of 11/23/2020). Whenever a signer electronically signs a document, Arqsign applies its own platform digital certificate, captures the file’s unique identification hash, verifies the file's integrity, and attaches the signer's identification to the certificate.</mark>
+
+<mark style="color:blue;">b)</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Digital Signature – ICP-Brasil or ICP Others**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(ArqSign generates qualified digital signatures in compliance with MP 2.200-2 of 08/24/2001 and Law 14.063 of 11/23/2020). When the user already has a digital certificate and wishes to use it to sign via ArqSign, this certificate is used to verify the integrity of the signature and identify the user as the signer in the document.</mark>
 {% endhint %}
 
-<mark style="color:purple;">When completing the signature requirements, the user can choose between “Sign and Complete” to finalize their signature or “Finish Later” to return to the document and complete at another time.</mark>
+Once the Signature Style is defined, the user's signature will be requested, which can be:
 
-<mark style="color:purple;">If you choose to complete, a subscription confirmation message will be displayed. If the user does not have an account, they will be invited to create a free trial account or they can click “Later” to return at another time. If you already have an account, you must click “Close” to end the process.</mark>
+### A. Electronic Signature
 
-<mark style="color:purple;">If the sender has defined that a QR Code must be generated in the Signature Registry on the Advanced Settings screen of document registration, this QR Code will be displayed here.</mark>
+For an electronic signature, the user provides their personal or business details, and Arqsign itself certifies the authenticity and accuracy of the information provided.
 
-***
+If the user is using an electronic signature, they will be required to fill in the mandatory fields requested. These mandatory fields may vary depending on the document. The symbol <mark style="color:red;">\*</mark> indicates that the information is required.
 
-### Step 4 - Concluding the signing process
+<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
-After the process is completed and all signatories have signed the document, all participants will receive an email notification about the completion of the signing process. By clicking on the received link, it will be possible to view the signed document, the document's ID code, information about the digital certificates and electronic signatures used for signing, and the history of events related to the document, as well as information about the signatories.
+### B. Digital Signature – ICP Brasil and Others
+
+If it has been defined that the user must sign using a digital certificate (ICP Brasil and ICP Others), a list of all the certificates installed on the user's machine and in the ArqSign platform account will be displayed.
+
+<figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+
+The user must select the certificate they will use to sign and enter the certificate's PIN code (if prompted). If the user is also required to sign as a Legal Entity, the same signature will be used for both cases.
+
+<figure><img src="../.gitbook/assets/image (75).png" alt="" width="375"><figcaption></figcaption></figure>
+
+
 
 <figure><img src="../.gitbook/assets/18 (2).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
