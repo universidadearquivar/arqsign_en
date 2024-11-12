@@ -16,7 +16,7 @@
 
 * [➕ New Document](top-menu/new-document.md)
 * [✍️ Document Signing](top-menu/document-signing.md)
-* [🖊️ Batch Signing](top-menu/batch-signing.md)
+* [🖊️ Batch Signature](top-menu/batch-signature.md)
 * [⏱️ Overdue](top-menu/overdue.md)
 * [🛒 Purchase Plan or Change Plan](top-menu/purchase-plan-or-change-plan.md)
 * [💳 Buy Credits](top-menu/buy-credits.md)

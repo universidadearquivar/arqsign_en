@@ -94,7 +94,7 @@ If you have received a document for signature, click on the access link to the d
 
 <summary>How to sign documents in batch?</summary>
 
-[Click here to check how to perform batch document signing through the ArqSign platform.](../top-menu/batch-signing.md)
+[Click here to check how to perform batch document signing through the ArqSign platform.](../top-menu/batch-signature.md)
 
 </details>
 
