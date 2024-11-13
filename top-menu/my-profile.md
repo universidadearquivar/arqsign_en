@@ -54,23 +54,39 @@ In the My Contacts tab, the user can register recipient information for sending 
 
 <figure><img src="../.gitbook/assets/07 (4).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Edit Contact Icon:** To edit the information of a contact, select the desired recipient by checking the checkbox on the left and click on the "Edit Contact" icon.
+**Edit Contact Icon:** To edit contact information, select the desired recipient by checking the box to the left and click on the "Edit Contact" icon.
 
-**Delete Contact(s) Icon:** To delete one or more contacts, select the desired ones by checking the checkbox on the left and click on the "Delete Contact(s)" icon.
+**Delete Contact(s) Icon:** To delete one or more contacts, select the desired contacts by checking the boxes to the left and click on the "Delete Contact(s)" icon.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**It is only possible to edit or delete contacts that have been registered by the user.**</mark>
+<mark style="color:orange;">**Only contacts added by the user can be edited or deleted.**</mark>
 {% endhint %}
 
-**Search Bar:** It is possible to locate a specific contact using email or WhatsApp filters for searching.
+**Search Bar:** You can find a specific contact using email or WhatsApp filters for search.
 
 <figure><img src="../.gitbook/assets/08 (2).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
+## Standard Message
+
+In the Standard Message tab, the user can create multiple specific messages to choose from when sending a document for signature.
+
+<figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption><p>Click on the image to enlarge</p></figcaption></figure>
+
+**Add:** Click on **Add "+"** to include a new message.
+
+<figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption><p>Click on the image to enlarge</p></figcaption></figure>
+
+Fill in the fields displayed on the screen, paying attention to the character limit allowed in each field. Click Save.
+
+
+
 ## Signature Style Tab&#x20;
 
 In the Signature Style tab, the user must define the visual representation of their signature, which will be used as their electronic signature for legal purposes. The user can register three types of Signature Styles by clicking "Edit."
+
+
 
 <figure><img src="../.gitbook/assets/09 (3).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 

@@ -20,4 +20,7 @@ The “Change Plan” button will be displayed for users with a paid plan subscr
 
 2. When purchasing a plan, the system will check if the email provided during the purchase is linked to any free account.
 3. If it is verified that the email provided during the purchase is linked to a free account, the user will be presented with two options: 1) Migrate the free trial account to the paid account, or 2) Create a new account for the purchased plan.
+
+<figure><img src="../.gitbook/assets/image (114).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+
 4. After the plan change is completed, if the account is shared with other users, all users with an administrator profile for the account will receive an email notification about the plan change or renewal.
