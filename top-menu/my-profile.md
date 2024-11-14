@@ -80,45 +80,61 @@ In the Standard Message tab, the user can create multiple specific messages to c
 
 Fill in the fields displayed on the screen, paying attention to the character limit allowed in each field. Click Save.
 
+<figure><img src="../.gitbook/assets/image (115).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
+The standard message created will be displayed to the signer as shown in the image. Please observe the highlighted area, where the previously registered text from the platform is located.
+
+<figure><img src="../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+
+When the recipient does not define a default message from their list, the platform will consider the system's default. Please observe the highlighted area with the notification of the received document, considering the names of the files attached to the process.
+
+Repeat the process until all the messages you wish to keep as default are added.
+
+{% hint style="info" %}
+<mark style="color:blue;">The list of default messages cannot be shared among users, meaning each user will be able to view and/or select only the messages they have created.</mark>
+{% endhint %}
+
+**Edit:** Select the message you wish to modify, and the system will enable the Edit option.
+
+**Delete:** Select the message you wish to remove.
+
+**Filter:** Use this to search for a specific default message in the available list.
 
 ## Signature Style Tab&#x20;
 
-In the Signature Style tab, the user must define the visual representation of their signature, which will be used as their electronic signature for legal purposes. The user can register three types of Signature Styles by clicking "Edit."
-
-
+In the Signature Style tab, the user must define the visual representation of their signature. The user can register three types of Signature Styles by clicking on "Edit."
 
 <figure><img src="../.gitbook/assets/09 (3).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Default:** In this style, the user should enter the full name and define the style (font) in which the text will be presented. To do this, click on "Style" and make the necessary adjustments.
+**Default:** In this signature style, the user must provide their full name and define the font style for the text. To do this, click on "Style" and make the definition. To delete, click on the trash can icon.
 
 <figure><img src="../.gitbook/assets/10 (2).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Drawing:** To sign with a drawing, the user should, in the "Signature Drawing Area," sign or initial using the mouse. To make corrections, click on the "Erase" icon.
+**Drawing:** To sign with a drawing, the user must, in the "Signature Drawing Area" field, draw their signature using the mouse or finger if using a mobile phone or tablet. To correct it, click on the trash can icon.
 
 <figure><img src="../.gitbook/assets/11 (2).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Image:** If desired, the user can upload an image that represents their signature.
+**Image:** If desired, the user can upload an image that represents their signature. To delete, click on the trash can icon.
 
-<figure><img src="../.gitbook/assets/12 (3).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
-The visual representations registered here will be displayed to the user whenever they sign a document. To complete the inclusion of Signature Styles, click "Save."
+The signature styles for the visual representations registered here will be displayed to the user whenever they need to [sign a document](document-signing.md). To finalize the inclusion of one of the Signature Styles, select it and click "Apply."
 
 ***
 
 ## Digital Certificate Tab&#x20;
 
-In the Digital Certificate tab, the user should register A1 type digital certificates that will be used for signing documents.&#x20;
+In the Digital Certificate tab, the user must register the A1 type digital certificates that will be used for signing documents.
 
-On the main screen, information about all certificates registered by the user is displayed.&#x20;
+The main screen displays the information of all certificates registered by the user.
 
 <figure><img src="../.gitbook/assets/13 (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:blue;">**INFORMATION:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">A1 type digital certificates store the user's signature on their own machine and have a password for access. By importing an A1 digital certificate, it will be hosted on the ArqSign platform (cloud) and can be used to sign documents on any device or computer.</mark>&#x20;
+<mark style="color:blue;">**INFORMATION:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">A1 type digital certificates store the user's signature on the user's own machine and require a password for access. When importing an A1 digital certificate, it will be hosted on the ArqSign platform (cloud) and can be used for signing on any device or computer.</mark>
 {% endhint %}
 
-To upload a certificate, the user should click on the "New" icon, import the certificate file, define a name for the certificate, and provide its password.&#x20;
+To upload a certificate, the user must click on the "New" icon, import the certificate file, define a name, and provide the certificate password.
 
 <figure><img src="../.gitbook/assets/14 (4).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -126,31 +142,31 @@ To upload a certificate, the user should click on the "New" icon, import the cer
 
 ## Requests Tab&#x20;
 
-In the Requests menu, all document transfer requests made by the user are displayed. Whenever the user transfers the ownership of a document they authored to another user in the Documents, Inbox, and Sent menus, this request will be shown here.&#x20;
+In the Requests menu, all document transfer requests made by the user are displayed. Whenever the user transfers ownership of a document they created to another user in the [Documents](../directories/documents/), [Inbox](../mailbox/inbox.md), or [Sent ](../mailbox/sent.md)menus, this request will be shown here.
 
-This section will also include requests for document ownership transfer due to the deactivation of account users.&#x20;
+This tab will also include requests for document ownership transfer due to the [deactivation of account users.](../administration/administration/users.md#actions-on-the-users-screen)
 
-If the transfer request is for a single document, it is processed instantly. However, for batch transfer requests, it may take up to 24 hours to be executed.&#x20;
+If the transfer request is for a single document, it is processed instantly, but if the transfer request is in bulk, it may take up to 24 hours to be completed.
 
 <figure><img src="../.gitbook/assets/15 (3).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Request Date:** In this column, the date when the user requested the document transfer is displayed.&#x20;
+**Request Date:** This column displays the date when the user requested the document transfer.
 
-**Previous Owner:** Name of the user who requested the transfer of document ownership.
+**Previous Responsible:** The name of the user who requested the document ownership transfer.
 
-**New Owner:** Name of the user who will be the new owner of the document.
+**New Responsible:** The name of the user who will be the new owner of the document.
 
-**Quantity:** The number of documents that will be transferred to the new owner.
+**Quantity:** The number of documents that will be transferred to the new responsible user.
 
-**Request Status:** The status of a transfer request can be "Completed" (the transfer has been concluded), "In Progress" (the transfer is being processed and should occur within 24 hours of the request), or "Requested" (a future date has been scheduled for the transfer).
+**Request Status:** The status of a transfer request can be "Completed" (the transfer has been finished), "In process" (the transfer is being processed and should be completed within 24 hours after the request), or "Scheduled" (a future date has been set for the transfer).
 
-**Completion Date:** The date when the ownership transfer is completed.
+**Completion Date:** The date the ownership transfer was completed.
 
 <figure><img src="../.gitbook/assets/16 (2).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Actions:** If the status of the request is "Completed" or "In Progress," no action can be taken in relation to it. If the status is still "Requested," two actions can be performed:
+**Actions:** If the request status is "Completed" or "In process," no actions can be performed on it. If the status is still "Scheduled," two actions can be performed on the request:
 
-* _Cancel:_ Cancels the ownership transfer.&#x20;
-* _Edit:_ Modifies the user designated as the new owner of the document.&#x20;
+* _Cancel:_ Cancels the ownership transfer.
+* _Edit_: Changes the user designated as the new document owner.
 
 <figure><img src="../.gitbook/assets/17 (2).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
