@@ -1,24 +1,24 @@
 # 🗑️ Deleted
 
-Within the Deleted Items menu, users can find a list of all documents that have been deleted by the user. This includes documents that have been completed, canceled, or those that were only created.
+In the Deleted menu, all documents deleted by the user are displayed. Documents that have been completed, canceled, or merely created can be deleted.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**It's essential to highlight that documents cannot be viewed directly within the Deleted Items screen. If users wish to access a deleted document, they must first restore it. Upon restoration, the document can be accessed from its original mailbox, which may be either the Inbox or the Sent Items folder.**</mark>
+<mark style="color:orange;">**It is not possible to view the document on the Deleted screen. To view the file, it is necessary to restore the document and access it from its original inbox, which can be the**</mark> [<mark style="color:blue;">**Inbox**</mark>](inbox.md) <mark style="color:orange;">**or the**</mark> [<mark style="color:blue;">**Sent**</mark>](sent.md) <mark style="color:orange;">**folder.**</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/01 (2) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
-## Columns on the Deleted Items Screen&#x20;
+## Columns of the Main Screen – Deleted&#x20;
 
 <figure><img src="../.gitbook/assets/02 (2).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Column Process Name:**In this column, Displays the name of the document along with the primary signer's name. If there are multiple signers, it indicates the first signer's name and the count of remaining signatories.
+**Document Name Column:** This column displays the document name and the signatory's name. If there are multiple signatories, the name of the first signatory is shown, along with the number of additional people who need to sign.
 
-**Column Responsible:** In this column, Presents the name and email of the individual who sent the document (sender).
+**Responsible Column:** This column shows the name and email of the person who sent the document (sender).
 
-**Column Status:** Indicates the document's status as "Concluded" (all participants have signed), "Cancelled" (sending was interrupted), or "Created" (document configuration incomplete). Hovering over the status reveals detailed information about signatories' completion status and any applicable security codes sent to recipients.
+**Status Column:** The possible statuses for a document are: "Completed" (all participants have signed the document), "Canceled" (the document's sending was canceled, and the signing process was interrupted), and "Created" (the document was created on the platform, but its configuration and sending to recipients have not been completed). Hovering over the status will display information about which signatories still have pending signatures and which have completed them, along with the data of those signatories. It will also show the security code sent to recipients (if applicable).
 
 <figure><img src="../.gitbook/assets/03 (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
