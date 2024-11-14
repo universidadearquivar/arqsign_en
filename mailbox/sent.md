@@ -8,17 +8,17 @@ In the _Sent_ box, all documents sent by the user to signatories are displayed, 
 
 When clicking on a document, the document view screen will open, displaying the sent document, its status, and expiration date. On the right side of the screen, signatory information is shown, including personal data, signatory role, and signature status.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 When the process contains more than one document that is not grouped, the system lists the documents in the order defined for the process documents, allowing navigation through the documents. The currently selected document is displayed on the screen for the logged-in user.
 
 **Logged in user view**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **View Not Logged In User**
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 By default, the signatory's data is displayed openly on the screen. Simply close the list and continue navigating the document.
 
@@ -26,7 +26,7 @@ By default, the signatory's data is displayed openly on the screen. Simply close
 
 ## Columns on the main screen – Sent
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Document Name Column:** This column displays the document name and the signatory's name. If there are multiple signatories, the name of the first signatory is shown along with the number of others who need to sign.
 
@@ -34,7 +34,7 @@ By default, the signatory's data is displayed openly on the screen. Simply close
 
 **Status Column:** The possible statuses for a document are: "Waiting" (no participants have signed the document yet), "In Process" (one or more participants have signed the document, but there are still pending signatures), "Completed" (all participants have signed the document), and "Cancelled" (the document sending was cancelled, and the signing process was interrupted). Hovering over the status will display information about which signatories still have pending signatures and which have completed them, along with their details. The security code sent to the recipients (if any) is also displayed.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="424"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="424"><figcaption></figcaption></figure>
 
 **Size Column:** This column displays the file size of the document.
 
@@ -54,7 +54,7 @@ By default, the signatory's data is displayed openly on the screen. Simply close
 
 ## Individual Actions - Sent
 
-<figure><img src="../.gitbook/assets/image (7).png" alt="" width="177"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt="" width="177"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">It is important to note that the "Actions" displayed on the screen depend on the "Status" of the signing process.</mark>
@@ -66,11 +66,11 @@ It is possible to resend documents that have not been signed by all signatories.
 
 When clicking "Resend," the sending order information will be displayed for the recipients, including the email or phone number to which the document was sent, and the security code for document access (if applicable).
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the "Edit" icon, it is possible to edit the recipient's information, as well as the settings defined for document validation in the [recipient's configuration](../top-menu/new-document.md#step-2-configure-fields).
 
-<figure><img src="../.gitbook/assets/image (9).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">The document validation data can only be edited on this screen if it was configured previously. The "Edit" option does not allow the inclusion of validation data.</mark>
@@ -80,7 +80,7 @@ In the "Edit" icon, it is possible to edit the recipient's information, as well 
 
 This option will only be displayed if the user has access to the folder where the document is stored. By clicking this option, the user can change the folder in the directory where the document is stored.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Change Owner**
 
@@ -90,14 +90,14 @@ By selecting this option, the user can change the document owner. After executin
 <mark style="color:orange;">**Only users registered under the same account as the current owner can be selected as the new owner.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (11).png" alt="" width="531"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt="" width="531"><figcaption></figcaption></figure>
 
 **Download File**\
 When the process contains a document or is a sharing of only one document from the process, **the system downloads** the **document and the signature record** in a .zip folder.
 
 The zip folder is named after the process name, and the signature record file is named as "**DocumentName\_SignatureRecord**."
 
-<figure><img src="../.gitbook/assets/image (12).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 When the **process contains more than one document**, the system displays a modal with the documents of the process, allowing the user to select which documents they wish to download. In the case of a sharing, only the documents that have been shared should be listed.
 

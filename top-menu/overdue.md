@@ -44,13 +44,13 @@ The "Overdue" menu provides users with a comprehensive view of documents sent fo
 
 Clicking this button will display the sending order information for the recipients, the email or phone number to which the document was sent, the security code for document access (if available), and the "Edit" icon, which allows editing of the recipient’s information. When the document is resent, it will no longer appear in the Expired screen because the expiration deadline is renewed.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Change Folder**&#x20;
 
 This option will only be displayed if the user has access to the account where the document is stored. By clicking this option, the user will be able to change the folder in the directory where the document is stored.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Change Owner**
 
@@ -68,17 +68,17 @@ When a process contains a document or is a share of only one document from the p
 
 The .zip folder is named after the process, and the signature record file is named as **DocumentName\_Signature** Record.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 When the process **contains more than one document**, the system displays a modal with the process documents for the user to select which ones they wish to download. If it is a sharing, only the documents that have been shared should be listed.
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The Signature Record displays all information about the electronic and digital signatures made during the process, such as the signers' names, date and time of the signature, location, IP address from where it was made, details of the digital certificates used, etc.
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Cancel**
 
@@ -92,11 +92,11 @@ Used to view information about the document and the history of events related to
 
 With the events button positioned to the right, the process data can be viewed on the screen.
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 With the events button positioned to the left, it is possible to view the document IDs and Hashes, in the case of a **process with multiple ungrouped documents**.
 
-<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -104,7 +104,7 @@ With the events button positioned to the left, it is possible to view the docume
 
 It is possible to select multiple documents by checking the checkboxes next to the file name and perform batch actions.
 
-<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Change Owner**
 
