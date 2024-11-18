@@ -1,20 +1,20 @@
 # 🟪 Account
 
-In the Account menu, you can find information about the user's account.
+The Account menu contains information about the user’s account.
 
 <figure><img src="../../.gitbook/assets/01 (2).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
-## Invoice Data Tab&#x20;
+## Fiscal Data Tab&#x20;
 
-In the Tax Information tab, the fiscal and financial details of the user are displayed. The data provided when creating an account and purchasing a plan on the ArqSign platform is presented on this screen.
+In the Fiscal Data tab, users can view their fiscal and financial information. The data entered when creating an account and purchasing a plan on the ArgSign platform are displayed here.
 
-If the user's account is on a free plan, the information will be blank but can be edited by clicking on the "Edit" button.
+If the user's account is on a free plan, the fields will be blank but can be edited by clicking the "Edit" button.
 
 <figure><img src="../../.gitbook/assets/02 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-In this tab, the following user information is presented:&#x20;
+In this tab, the following user information is displayed:
 
 * **Account Name:** The name created for the account during registration on the platform. It could be, for example, the user's name or the name of the company that owns the account.&#x20;
 * **Segment:** The professional segment in which the user or company operates.&#x20;
@@ -30,43 +30,43 @@ In this tab, the following user information is presented:&#x20;
 * **State**: The state of the user or company.&#x20;
 * **City**: The city of the user or company.&#x20;
 
-<figure><img src="../../.gitbook/assets/03 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Billing and Usage Tab&#x20;
 
-In the Billing and Usage tab, the user's account purchase history is presented.&#x20;
+In the Billing and Usage tab, the user's account purchase history is displayed.
 
-### Plan and Consumption Sub-Tab&#x20;
+### Plan and Usage&#x20;
 
-In the Plan and Usage sub-tab, the type of plan, billing period (annual or monthly), plan subscription date, and subscription expiration date are displayed.&#x20;
+In the Plan and Usage sub-tab, the type of plan, billing period (annual or monthly), plan start date, and subscription expiration date are shown.
 
-By default, when creating an account, the "Automatic Renewal" option will be automatically enabled. To cancel this renewal, simply uncheck this option.&#x20;
+By default, when creating an account, the "Auto-Renewal" option will be automatically enabled. To cancel this renewal, simply uncheck this option.
 
 <figure><img src="../../.gitbook/assets/04 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:blue;">By keeping the automatic renewal enabled, when the plan expires, the system will automatically renew the payment using the same payment method as the previous purchase. If the option is disabled, the "Buy Now" button will be displayed, allowing the user to repurchase the same plan or choose another plan.</mark>
+<mark style="color:blue;">By keeping auto-renewal enabled, the system will automatically renew the payment upon plan expiration, using the same payment method as the previous purchase. If the option is disabled, a "Buy Now" button will appear, allowing the user to repurchase the same plan or choose a different one.</mark>
 {% endhint %}
 
-To change the payment method for the plan, click on "Change Payment Method." A link will be sent to the account owner's email or phone with instructions to make this change.
+To change the plan’s payment method, click on "**Change Payment Method.**" A link will be sent to the email or phone of the account administrator to complete this update.
 
-<figure><img src="../../.gitbook/assets/05 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
 
-Clicking on "Plan Details" will display information about the user's current plan, such as plan type, billing period (monthly or annual), amount paid for the plan, description and quantity of items the plan provides access to, credit values, excess credits, and the plan's expiration date.
+Clicking on "Plan Details" will display specifics of the user’s current plan, such as plan type, billing period (monthly or annual), amount paid, description and quantity of accessible items, credit values, excess credits, and the plan’s expiration date.
 
-<figure><img src="../../.gitbook/assets/07 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (180).png" alt="" width="563"><figcaption></figcaption></figure>
 
-On this screen, it is also possible to view the remaining credits the user has for sending documents. In "Accumulated Plan Usage," the user can see the quantity of document sends included in the contracted plan.&#x20;
+On this screen, it is also possible to view the remaining credits the user has for sending documents. In **"Accumulated Plan Usage**," the user can see the quantity of document sends included in the contracted plan.&#x20;
 
-In "Remaining Credits from Plan Subscription," the credits the user still has in the subscribed plan are presented. The user can view the quantity of credits available for sending documents via email, as well as security codes via SMS. &#x20;
+In "**Remaining Credits from Plan Subscription**," the credits the user still has in the subscribed plan are presented. The user can view the quantity of credits available for sending documents via email, as well as security codes via SMS. &#x20;
 
 {% hint style="warning" %}
-<mark style="color:orange;">**It is not possible to send documents via SMS. The credits purchased for SMS sending can only be used for sending security codes. The security code or token is a password used to access documents sent via email and can be used to add an extra layer of security to the electronic document signing process.**</mark>
+<mark style="color:orange;">**Sending documents via SMS is not available. Credits purchased for SMS can only be used to send security codes. The security code or token is a password used to grant access to documents sent via email or WhatsApp, adding an extra layer of security to the electronic document signing process.**</mark>
 {% endhint %}
 
-If the user has purchased additional credits beyond those already included in the plan, clicking on "Expiration Dates of Extra Credits" will allow them to view the dates on which separately purchased credits will expire.
+If users have purchased credits beyond those included in the plan, clicking on “**Extra Credits Expiration Dates**” will display the expiration dates for these additional credits.
 
 <figure><img src="../../.gitbook/assets/08.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -74,11 +74,11 @@ If the user has purchased additional credits beyond those already included in th
 
 ### Purchase History Sub-Tab&#x20;
 
-In the Purchase History tab, the user can find a description of the products already purchased, the validity period of each, the number of installments in which the payment was divided, the amount, and the status of these installments.
+In the Purchase History tab, users can view a description of previously purchased products, the validity period for each, the number of payment installments, the amount, and the status of these installments.
 
-Clicking on "Plan Details" displays a detailed description and quantity of the items included in the plan, credit values, excess credit values (if purchased), and the expiration date of each item.
+<figure><img src="../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/06 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+Clicking on "**Plan Details**" presents a detailed description and quantity of items included in the plan, credit values, any additional purchased credits, and the expiration date for each item.
 
 <figure><img src="../../.gitbook/assets/07 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -88,47 +88,51 @@ Clicking on "Plan Details" displays a detailed description and quantity of the i
 
 ### Documents Sub-Tab&#x20;
 
-By default, the settings on this tab are automatically filled in, but it is possible to modify them by clicking the "Edit" button.
+By default, some configurations in this tab are automatically filled, but they can be modified by clicking the "**Edit**" button.
 
 <figure><img src="../../.gitbook/assets/09 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-The values set here will be adopted as the default for the configuration of sending and renewing documents and signature processes performed by the user. However, these settings can be altered for each document during its creation in the "New Document > Add Documents and Recipients > Advanced Settings" screen.
+The values set here will be adopted as defaults for document sending configurations and signature process renewals made by the user but can be changed for each document during its creation in the [New Document > Add Documents and Recipients > Advanced Settings](../../top-menu/new-document.md#advanced-settings) screen.
 
-**Default expiration time of \_\_\_\_ days for the document when not signed by one or more recipients from the date of sending:** In this field, the default time (in days) is set for users to sign a document before it expires and becomes unavailable.
+**Default time of \_\_\_\_ days for document expiration, when not signed by one or more recipients from the sending date:** This field defines the default time (in days) that users will have to sign a document before it expires and becomes unavailable.
 
-**Default notice period of \_\_\_\_ days before the expiration date:** In this field, it is defined how many days before a document expires recipients who have not yet signed the document should be notified about its expiration.
+**Default time of \_\_\_\_ days for notice before expiration date:** This field defines how many days before a document expires the recipients who have not yet signed the document will be notified about its expiration.
 
-**Default setting for recurring reminders to be sent to recipients after the date of sending:** By checking this option, from the moment the document is sent until its expiration date, reminders will be sent to recipients at regular intervals determined in the field "Default time of \_\_\_\_\_ days for recurring reminder to recipients about any pending action on the document." If the option is disabled, the field below will also be automatically disabled.
+**Default setting for recurring reminders to be sent to recipients after the sending date:** By enabling this option, reminders will be sent to recipients from the sending date until the expiration date at the time interval set in the Default time of \_\_\_\_ days for recurring reminders to recipients about pending actions on the document field. If the option is disabled, the field below will also be automatically disabled.
+
+**Group the documents in the process into a single file:** Setting for grouping the documents in the process into a single file. This option will be unchecked by default.
+
+**Require the signer to read the documents before signing:** This setting forces the reading of the documents in the process. This option will be unchecked by default.
 
 <figure><img src="../../.gitbook/assets/10 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-**Generate QR Code for document access in the Signature Log:** If this option is enabled, the Signature Log of a signed document will display a QR Code through which the person accessing it can view the signed document.
+**Generate QR Code for document access in the Signature Log:** If this option is enabled, a QR code will be displayed in the Signature Log of a signed document. Through this QR code, the person accessing it will be able to view the signed document.
 
-**Default expiration time of \_\_\_\_\_ days for the access link to the document after the completion of the signature:** In this field, the default time (in days) is set for users to access a document after the signature process is completed until it expires and becomes unavailable.
+**Default time of \_\_\_\_\_ days for expiration of the access link to the document, after the signature process is completed:** This field defines the default time (in days) that users will have to access a document after the signature process is completed before it expires and becomes unavailable.
 
-**Attach a file smaller than 10MB to the email sent upon signature completion:** If this option is selected, any completed document with a process file size smaller than 10MB will be sent to recipients as an attachment in the email notification of the signature completion process.
+**Attach a file smaller than 10MB to the email sent upon completion of the signatures:** If this option is checked, any completed document whose file size is smaller than 10MB will be sent to recipients as an attachment in the notification email for the completed signature process.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Upon completing the signature process, the system will send an access link to the document in the body of the email to all recipients.**</mark>
+<mark style="color:orange;">**Upon completion of the signature process, the system will send an access link to the document in the body of the email to all recipients.**</mark>
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/11 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
 
-**Default setting for recurring reminders to be sent to senders after the scheduled renewal date of a document:** If this option is checked, when there is a completed document with a scheduled renewal, the system will remind the sender that it is eligible for renewal. This reminder will be sent at the interval defined in the field "Default time of \_\_\_\_ days for recurring reminders to senders about document renewal." If this option is disabled, this field will also be automatically disabled.
+**Default configuration for recurring reminders to be sent to senders after the scheduled renewal date of a document:** If this option is checked, when a document with a scheduled renewal is completed, the system will remind the sender that the document is eligible for renewal. This reminder will be sent within the time frame defined in the field “Default time of \_\_\_\_ days for recurring reminders to senders about document renewal.” If this option is disabled, the field will also be disabled.
 
-<figure><img src="../../.gitbook/assets/12.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ### Signatory Role Sub-Tab&#x20;
 
-In this tab, signatory roles are created that will be presented when registering a document for signature in the "New Document > Add Documents and Recipients > Add Documents > Recipients" screen.
+In this tab, signer roles are created. These roles will be presented to the user when configuring recipients/signers on the screen [New Document > Add Documents and Recipients > Add Documents > Recipients.](../../top-menu/new-document.md#b.-recipients)
 
 {% hint style="info" %}
-<mark style="color:blue;">The signatory's role is their function in the contract, whether as a party, hired person, contractor, guarantor, witness, legal representative, etc.</mark>
+<mark style="color:blue;">The signatory's role refers to their function in the contract, such as party, contracted person, contracting party, witness, legal representative, etc.</mark>
 {% endhint %}
 
-By default, the platform presents the roles "Hired," "Contractor," "Guarantor," "Party," and "Witness."&#x20;
+By default, the platform presents the roles "Contracted", "Contracting Party", "Guarantor", "Party", and "Witness".
 
 <figure><img src="../../.gitbook/assets/13.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -142,17 +146,19 @@ It will be possible to change the name of the role and set it as the default rol
 <mark style="color:orange;">**The default role is the one that will be assigned to the signer if the sender of the document does not define a specific role for them at the time of document registration. By default, the system assigns the "Party" role as the default, but this choice can be changed by the sender user. It is not mandatory to determine a default role, but if necessary, only one of the roles can be set as the default.**</mark>
 {% endhint %}
 
+<figure><img src="../../.gitbook/assets/15.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+
 To create a new role, click on the "Add" icon and provide a name for the role. If you wish to make it the default role, check the option "Set this role as default." To finish, click on "Save."
 
 <figure><img src="../../.gitbook/assets/16.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/15.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
 
 To change the default role, click on "Remove Default" or "Set as Default," depending on your needs.
 
 <figure><img src="../../.gitbook/assets/17.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-To delete a role, click on the "Delete" icon. It's also possible to find a role type using the search bar on the screen.
+To delete a role, click on the "Delete" icon. It is also possible to find a type of role using the search bar on the screen.
 
 <figure><img src="../../.gitbook/assets/18.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -160,35 +166,31 @@ To delete a role, click on the "Delete" icon. It's also possible to find a role 
 
 ### Notification Sub-Tab&#x20;
 
-**Notify upon reaching \_\_\_\_% usage of my subscription items:** By filling in this field, the user will be notified by the system when their plan consumption reaches a certain percentage. This configuration will be disabled for plans with unlimited usage.
+**Notify when reaching \_\_\_\_ % of usage of my subscription items:** By filling in this field, the user will be notified by the system when their plan consumption reaches a certain percentage. This setting will be disabled for plans with unlimited submissions.
 
-**Notify every \_\_\_\_\_ days, starting from \_\_\_\_\_ days before the subscription expiration:** By filling in these fields, global administrators of the account will be notified within the specified period as the plan expiration date approaches.
+**Notify every \_\_\_\_\_ days, starting from \_\_\_\_\_ days before the subscription expiration:** By filling in these fields, the global administrators of the account will be notified in the specified period when the subscription expiration date is approaching. After the subscription expires, this type of notification will no longer be sent.
 
-{% hint style="info" %}
-<mark style="color:blue;">After the subscription expiration, this type of notification will no longer be sent.</mark>
-{% endhint %}
+<figure><img src="../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/19.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+If the "**Custom Notifications - Customization with brand colors and logo**" field is enabled, it will be possible to insert a banner and define the highlight colors for the notifications sent to recipients via email and WhatsApp.
 
-If the "**Custom Notifications - Customization with brand colors and logo**" field is enabled, it will be possible to insert a banner and define the highlight colors of the notifications sent to recipients via email.
-
-<figure><img src="../../.gitbook/assets/20.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Pay attention to the standard dimensions of the banner image. Images outside the specified sizes will not be accepted.**</mark>
+<mark style="color:orange;">**Please pay attention to the standard image dimensions for the banner. Images that do not meet the specified sizes will not be accepted.**</mark> ![](<../../.gitbook/assets/image (188).png>)
 {% endhint %}
 
-Clicking on the "Delete Image" icon will delete the banner.&#x20;
+Clicking on the "Delete Image" icon will remove the banner.
 
-Clicking on "View Notification" will allow you to see how the notification email and WhatsApp notification will be presented to the recipient.&#x20;
+Clicking on "Preview Notification" will allow you to see how the notification email and WhatsApp notification will appear to the recipient.
+
+<figure><img src="../../.gitbook/assets/image (189).png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-<mark style="color:orange;">**If these fields are not filled in, the system will send the banner and use the default colors of the ArqSign platform.**</mark>
+<mark style="color:orange;">**If these fields are not filled out, the system will send the banner and use the default colors from the ArqSign platform.**</mark>
 {% endhint %}
-
-<figure><img src="../../.gitbook/assets/21.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/22.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
@@ -196,33 +198,33 @@ Clicking on "View Notification" will allow you to see how the notification email
 
 ### Sub-Tab Term&#x20;
 
-In this tab, the user can insert or edit the Electronic Signature Term presented to signatories when signing a document. The purpose of this term is to ensure that signatories understand the legal validity of electronic signatures made through the ArqSign platform.&#x20;
+In this tab, the user can insert or edit the Electronic Signature Acceptance Term, which is presented to the signatories when signing a document. The purpose of this term is to ensure that the signatories have agreed to sign the document electronically.
 
 The platform presents the default term, but if the user wishes to edit or replace this text, they can do so by clicking on "Edit."
 
 <figure><img src="../../.gitbook/assets/23.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-They can also change the formatting and colors of the text using the editing toolbar.&#x20;
+The user can also alter the formatting and colors of the text using the editing toolbar.
 
-<figure><img src="../../.gitbook/assets/24.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
-By clicking "Preview," the Term is displayed as it will be presented to signatories. The user can print the text by clicking "Print."
+By clicking on "Preview," the Term will be displayed as it will appear to the signatories. The user can print the text by clicking on "Print."
 
-<figure><img src="../../.gitbook/assets/25.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (193).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 
 ### Acceptance History Sub-Tab&#x20;
 
-In this tab, all acceptances of the Electronic Signature Term by signatories are presented. In other words, every time a signatory accepts the presented Acceptance Term, this action will be displayed on this screen.
+This tab displays all the Acceptances of the Electronic Signature Term performed by signatories. Each time a signatory accepts the Term presented to them, this action is recorded and can be viewed on this screen.
 
-* **Acceptance Date:** This column displays the date on which the signatory accepted the Electronic Signature Term.&#x20;
-* **Name:** The name of the signatory who accepted the term.&#x20;
-* **Email/Phone:** The contact information of the signatory through which they received the link to access the document for signature and accepted the term.&#x20;
-* **Term Version:** This column shows the version of the Electronic Signature Term accepted by the user. Each time the term is edited or replaced, the system assigns a new version.&#x20;
-* **IP:** This column shows the IP address of the machine used by the signatory at the time of accepting the Electronic Signature Term.&#x20;
-* **Geolocation:** This column shows the geolocation of the signatory's machine at the time they accepted the Electronic Signature Term.&#x20;
-* **View Term:** Clicking on this button displays the version of the term accepted by the signatory.&#x20;
+* Acceptance Date: This column shows the date when the signatory accepted the Electronic Signature Term.
+* Name: The name of the signatory who accepted the term.
+* Email/Phone: The contact details of the signatory through which they received the link to access the document for signing and performed the acceptance.
+* Term Version: This column shows the version of the Electronic Signature Term accepted by the user. Each time the Term is edited or replaced, the system assigns it a new version.
+* IP: This column shows the IP address of the device used by the signatory at the time of acceptance of the Electronic Signature Term.
+* Geolocation: This column shows the geolocation of the signatory's device at the moment of acceptance of the Electronic Signature Term.
+* View Term: By clicking this button, the version of the term accepted by the signatory will be displayed.
 
 <figure><img src="../../.gitbook/assets/26.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
