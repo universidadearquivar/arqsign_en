@@ -12,3 +12,9 @@ The rate limit is a measure to protect the application from attacks or misuse of
 
 It is determined based on the number of requests that the client's application sends to the software within a time window. This limit applies per ArqSIGN account, and the controlled time window is listed below:
 
+<figure><img src="../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
+
+The rate limit ensures the stability and security of services for clients. However, if your business has a demand greater than the one mentioned above, we offer a Custom Plan to meet your needs without compromising the stability and security of the services.
+
+<figure><img src="../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
+
