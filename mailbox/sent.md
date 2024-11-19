@@ -14,11 +14,11 @@ When the process contains more than one document that is not grouped, the system
 
 **Logged in user view**
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **View Not Logged In User**
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 By default, the signatory's data is displayed openly on the screen. Simply close the list and continue navigating the document.
 

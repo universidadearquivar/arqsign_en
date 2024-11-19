@@ -47,3 +47,5 @@
 
 * [🧩 Integrations](integrations/README.md)
   * [🟪 API](integrations/api.md)
+  * [🟪 Requirements for using the API](integrations/requirements-for-using-the-api.md)
+  * [🟪 API Request Limits](integrations/api-request-limits.md)
