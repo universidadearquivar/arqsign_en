@@ -1,4 +1,4 @@
-# Integrations
+# 🧩 Integrations
 
 {% hint style="danger" %}
 <mark style="color:red;">The URL for the ArqSIGN API will be changed!</mark>
