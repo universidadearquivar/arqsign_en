@@ -45,5 +45,5 @@
 
 ***
 
-* [Integrations](integrations.md)
-* [🟪 API](api.md)
+* [Integrations](integrations/README.md)
+  * [🟪 API](integrations/api.md)

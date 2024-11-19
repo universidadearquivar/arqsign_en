@@ -2,7 +2,7 @@
 
 In the API menu, the client has access to the keys required for managing and controlling the requests made through the integration API.
 
-<figure><img src=".gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
 
 ## AppKey
 
@@ -26,7 +26,7 @@ Once the key is generated, it must be included in the HEADER of requests for aut
 
 By clicking "Generate Key Pair," a validation message will appear on the screen confirming the action.
 
-<figure><img src=".gitbook/assets/image (207).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (207).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 <mark style="color:red;">**If, after regenerating the keys, the user does not update them in the search parameters of the existing integration, the API calls to ArqSign will stop functioning.**</mark>
@@ -34,29 +34,29 @@ By clicking "Generate Key Pair," a validation message will appear on the screen 
 
 To **regenerate the key pai**r, use the "**Generate Key Pair**" button. To **regenerate only one of the keys**, use the "**Regenerate Key**" icon, considering either Key 1 or Key 2.
 
-<figure><img src=".gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
 
 ## How to pass the AppKey and SubscriptionKey
 
 Considering the route: [https://api-rest.arqsign.com/](https://api-rest.arqsign.com/), it is necessary to send both the "AppKey" and the "SubscriptionKey" in the "Headers" as shown in the figure below:
 
-<figure><img src=".gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
 
 ## ArqSign Integration Services
 
-<figure><img src=".gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
 
 By clicking this link, the application will open the page [api.arqsign.com](https://api.arqsign.com/index.html) with the methods available up to this point.
 
 ## API Documentation
 
-<figure><img src=".gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
 
 By clicking this link, the application will open the API details page.
 
 ## Download User IDs List
 
-<figure><img src=".gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
 
 By clicking on this link, the application will download a .csv file with the list of all active users in the account and their respective IDs.
 
@@ -66,7 +66,7 @@ By clicking on this link, the application will download a .csv file with the lis
 
 ## Download list of folder IDs
 
-<figure><img src=".gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 
 By clicking this link, the application will download a .csv file containing the list of all non-deleted folders in the account and their respective IDs.
 
