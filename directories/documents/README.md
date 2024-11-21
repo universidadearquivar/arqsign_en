@@ -4,7 +4,7 @@ In the Documents menu, all completed documents from the user's account are store
 
 Clicking on the menu will display the root folder of the directory, where all the documents of the account will be hosted.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

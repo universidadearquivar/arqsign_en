@@ -49,5 +49,6 @@
   * [🟪 API](integrations/api.md)
   * [◼️ Requirements for using the API](integrations/requirements-for-using-the-api.md)
   * [◼️ API Request Limits](integrations/api-request-limits.md)
-  * [◼️ Available Methods in the API](integrations/available-methods-in-the-api.md)
-  * [🗃️ 1. Process](integrations/1.-process.md)
+  * [◼️ Available Methods in the API](integrations/available-methods-in-the-api/README.md)
+    * [🗃️ 1. Process](integrations/available-methods-in-the-api/1.-process.md)
+    * [✔️ 1.1. POST/api/v2/processo/enviar-documento-para-assinar](integrations/available-methods-in-the-api/1.1.-post-api-v2-processo-enviar-documento-para-assinar.md)
