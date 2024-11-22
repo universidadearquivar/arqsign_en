@@ -1,4 +1,4 @@
-# ◼️ API Request Limits
+# 🔳 API Request Limits
 
 ## Endpoint being deprecated (available until 31/10/2024): [https://api.arqsign.com/](https://api.arqsign.com/)
 

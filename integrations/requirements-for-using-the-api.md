@@ -1,4 +1,4 @@
-# ◼️ Requirements for using the API
+# 🔳 Requirements for using the API
 
 1. [Access your account ](https://app.gitbook.com/o/Ai1YjbPQxIuvTaVzoZ4H/s/WoZ5sO9ix7pAjCll866S/)or create a [free test account](https://app.gitbook.com/o/Ai1YjbPQxIuvTaVzoZ4H/s/WoZ5sO9ix7pAjCll866S/) on the ArqSign Platform. Once authenticated, click on the [Integrations menu and access your API AppKey](./), user ID, and folder ID.
 

@@ -1,4 +1,4 @@
-# ◼️ Available Methods in the API
+# 🔳 Available Methods in the API
 
 ArqSign currently has six available methods for use on the platform, some of which have already been reformulated and updated to version 2.
 
