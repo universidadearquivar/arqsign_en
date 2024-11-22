@@ -4,7 +4,7 @@ In the Documents menu, all completed documents from the user's account are store
 
 Clicking on the menu will display the root folder of the directory, where all the documents of the account will be hosted.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -12,7 +12,7 @@ Clicking on the menu will display the root folder of the directory, where all th
 
 The root folder is automatically created when the user's account is created and is, by default, named after the account. To rename it, click on "Rename" in the "Actions" column.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Access to the Root Folder of Directories&#x20;
 

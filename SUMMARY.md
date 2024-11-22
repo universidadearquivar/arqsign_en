@@ -55,3 +55,4 @@
       * [✔️ 1.2.GET/api/v2/processo/{idProcesso}](integrations/available-methods-in-the-api/1.1.get-api-v2-processo-idprocesso.md)
       * [✔️ 1.3.PATCH/api/v2/processo/{idProcesso}/reenviar-processo](integrations/available-methods-in-the-api/1.3.patch-api-v2-processo-idprocesso-reenviar-processo.md)
       * [✔️ 1.4. GET /api/v1/processo/{idProcesso}/status-do-processo](integrations/available-methods-in-the-api/1.-process/1.4.-get-api-v1-processo-idprocesso-status-do-processo.md)
+      * [✔️ 1.5.GET/api/v1/processo/{idprocesso}/dados-signatarios](integrations/available-methods-in-the-api/1.-process/1.5.get-api-v1-processo-idprocesso-dados-signatarios.md)

@@ -12,7 +12,7 @@ In the Drafts menu, all documents that were started for signature collection in 
 
 ## Main Screen Columns – Drafts
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Document Name Column:** This column displays the document name and the name of the signatory. If there are multiple signatories, the name of the first signatory is shown along with the number of other individuals who are required to sign.
 
@@ -36,13 +36,13 @@ In the Drafts menu, all documents that were started for signature collection in 
 
 ## Individual Actions – Drafts
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="167"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="167"><figcaption></figcaption></figure>
 
 **Edit**&#x20;
 
 By clicking this option, the user is directed to the document registration screen, where they must complete the document configuration, add recipients, and make any other necessary settings for sending the file and collecting signatures.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Change Folder**&#x20;
 
