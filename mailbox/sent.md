@@ -14,7 +14,7 @@ When the process contains more than one document that is not grouped, the system
 
 **Logged in user view**
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **View Not Logged In User**
 

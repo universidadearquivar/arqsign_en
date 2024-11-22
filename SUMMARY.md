@@ -61,4 +61,5 @@
       * [✔️ 1.8.GET/api/v1/processo/{idArquivoProcesso}/registro-assinaturas](integrations/available-methods-in-the-api/1.-process/1.8.get-api-v1-processo-idarquivoprocesso-registro-assinaturas.md)
     * [🗃️ 2. Directories](integrations/available-methods-in-the-api/2.-directories/README.md)
       * [✔️ 2.1.POST/api/v1/diretorio/buscar-pastas](integrations/available-methods-in-the-api/2.-directories/2.1.post-api-v1-diretorio-buscar-pastas.md)
-    * [🗃️ 3. Users](integrations/available-methods-in-the-api/3.-users.md)
+    * [🗃️ 3. Users](integrations/available-methods-in-the-api/3.-users/README.md)
+      * [✔️ 3.1.POST/api/v1/usuarios/buscar-usuarios](integrations/available-methods-in-the-api/3.-users/3.1.post-api-v1-usuarios-buscar-usuarios.md)
