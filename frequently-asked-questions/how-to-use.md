@@ -664,11 +664,11 @@ If the signer has Digital Certificates saved in the ArqSign platform, they will 
 
 Once a user is created, they can modify the following details in their profile:
 
-![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 This change will reflect in the notification of signature requests that the user sends.
 
-![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 
 
@@ -844,9 +844,7 @@ To access the reason for refusal upon opening the document, follow these steps:
 4. Provide the reason for refusal – This information will be available to the sender when they open the file and through an email notification.
 5. Click "Refuse to sign."
 
-<!---->
-
-6. The sender will receive the response via an email notification or will be able to access it by opening the document and clicking on your name.
+6) The sender will receive the response via an email notification or will be able to access it by opening the document and clicking on your name.
 
 &#x20;7\. The flow is automatically canceled when there is a refusal to sign.
 
@@ -1087,7 +1085,7 @@ Click _Save_.
 
 Whenever you need to sign a document, the saved styles will be displayed for your selection.
 
-[Click here](https://www.youtube.com/watch?v=5PogsaN\_qmk) to watch the step-by-step video.
+[Click here](https://www.youtube.com/watch?v=5PogsaN_qmk) to watch the step-by-step video.
 
 </details>
 

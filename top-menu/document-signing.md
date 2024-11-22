@@ -62,7 +62,7 @@ Once logged into the account, the user must click on the [Mailbox > Inbox](../ma
 
 If the sender has defined a security code to open the document, the signatory will be asked to provide the code, which must have been previously received by email, WhatsApp, SMS, or directly from the sender. If the user does not have the code, they must click on **“I Didn’t Receive the Code”.**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Entering the Security Code:** If the signatory has received the security code, they can simply input it into the designated field to proceed with accessing the document. This ensures added security and authentication for document access.
 
@@ -78,7 +78,7 @@ For the process that has **more than one non-grouped document**, the screen with
 
 The platform lists the process documents according to the order defined when sending the documents for signature.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 When clicking on a document link, the system displays the selected document, presenting the process documents in the side menu and flagging the documents that are pending and/or unread.
 
@@ -182,7 +182,7 @@ The Signature Style is the visual representation of the user's signature. To sig
 
 <figure><img src="../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
 
-* **Default:**In this style, the user must enter their full name and define the style (font) in which the text should be presented. To do this, they should click on "Style" and make the selection.
+* **Default:**&#x49;n this style, the user must enter their full name and define the style (font) in which the text should be presented. To do this, they should click on "Style" and make the selection.
 
 <figure><img src="../.gitbook/assets/14 (6).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
