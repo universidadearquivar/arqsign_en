@@ -53,3 +53,4 @@
     * [🗃️ 1. Process](integrations/available-methods-in-the-api/1.-process.md)
     * [✔️ 1.1. POST/api/v2/processo/enviar-documento-para-assinar](integrations/available-methods-in-the-api/1.1.-post-api-v2-processo-enviar-documento-para-assinar.md)
     * [✔️ 1.1.GET/api/v2/processo/{idProcesso}](integrations/available-methods-in-the-api/1.1.get-api-v2-processo-idprocesso.md)
+    * [✔️ 1.3.PATCH/api/v2/processo/{idProcesso}/reenviar-processo](integrations/available-methods-in-the-api/1.3.patch-api-v2-processo-idprocesso-reenviar-processo.md)

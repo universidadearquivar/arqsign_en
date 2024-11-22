@@ -69,11 +69,11 @@ Require signatory to read documents before signing: This setting requires the si
 
 When you hover your mouse over the "Advanced Settings" option, a Tooltip is displayed with a preview of the settings made.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 To specifically edit the settings of a specific file, click on **Advanced Settings**, as shown in the image below.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -151,7 +151,7 @@ The signatory roles presented here are previously created in the [Administration
 
 **Signature Visual Representation:** Select the visual representation that the recipient should use when signing. When choosing the first option (Standard, Drawing or Image), the recipient can use any of the representations. In the case of the other options, the use will be restricted to the representation selected at that time.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 By checking the option “**Save this recipient in my contact list**”, the recipient’s data will be automatically saved in the user’s contact list.
 
@@ -213,7 +213,7 @@ In the next step, the documents that were inserted in the previous step will be 
 
 When the process contains one or more grouped documents, the system will display the process name.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Process with more than one non-grouped document**
 
@@ -297,7 +297,7 @@ The "Settings for" field displays the name of the recipients selected for config
 
 <figure><img src="../.gitbook/assets/image (18) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 * <mark style="color:blue;">**If there is no signature order configured**</mark><mark style="color:blue;">, the platform displays the signatories in alphabetical order.</mark>
