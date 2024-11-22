@@ -57,3 +57,5 @@
       * [✔️ 1.4. GET /api/v1/processo/{idProcesso}/status-do-processo](integrations/available-methods-in-the-api/1.-process/1.4.-get-api-v1-processo-idprocesso-status-do-processo.md)
       * [✔️ 1.5.GET/api/v1/processo/{idprocesso}/dados-signatarios](integrations/available-methods-in-the-api/1.-process/1.5.get-api-v1-processo-idprocesso-dados-signatarios.md)
       * [✔️ 1.6.PATCH/api/v1/processo/{idProcesso}/cancelar-processo](integrations/available-methods-in-the-api/1.-process/1.6.patch-api-v1-processo-idprocesso-cancelar-processo.md)
+      * [✔️ 1.7.POST/api/v1/processo/{idProcesso}/buscar-anexos-signatarios](integrations/available-methods-in-the-api/1.-process/1.7.post-api-v1-processo-idprocesso-buscar-anexos-signatarios.md)
+      * [✔️ 1.8.GET/api/v1/processo/{idArquivoProcesso}/registro-assinaturas](integrations/available-methods-in-the-api/1.-process/1.8.get-api-v1-processo-idarquivoprocesso-registro-assinaturas.md)
