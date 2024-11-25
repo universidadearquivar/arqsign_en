@@ -70,3 +70,4 @@
       * [✔️ 5.2.POST/api/v1/confwebhook](integrations/available-methods-in-the-api/5.-webhook/5.2.post-api-v1-confwebhook.md)
   * [🔳 Ideal flow considering some available methods](integrations/ideal-flow-considering-some-available-methods.md)
   * [🔳 ArqSign API URL](integrations/arqsign-api-url.md)
+  * [🔳 Library for Postman Testing](integrations/library-for-postman-testing.md)
