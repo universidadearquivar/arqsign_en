@@ -4,7 +4,7 @@ In the Documents menu, all completed documents from the user's account are store
 
 Clicking on the menu will display the root folder of the directory, where all the documents of the account will be hosted.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -12,7 +12,7 @@ Clicking on the menu will display the root folder of the directory, where all th
 
 The root folder is automatically created when the user's account is created and is, by default, named after the account. To rename it, click on "Rename" in the "Actions" column.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Access to the Root Folder of Directories&#x20;
 
@@ -40,7 +40,7 @@ In the "Profile" field, select the profile that designates the user's or group's
 * Documents Collaborator: A user or group with this directory profile can view and download content, include, move, share, and rename documents in the folder they have access to.
 * Documents Reader: A user or group with this directory profile can only view and download the content of the folder and documents.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -48,7 +48,7 @@ In the "Profile" field, select the profile that designates the user's or group's
 
 When clicking on the root folder, subdirectories are displayed, which are subfolders created to organize documents according to the user's needs. Documents that are not stored in any of these subdirectories may also be shown.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Columns on the Main Screen - Subdirectories
 

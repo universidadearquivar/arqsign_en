@@ -2,11 +2,11 @@
 
 1. [Access your account ](https://app.gitbook.com/o/Ai1YjbPQxIuvTaVzoZ4H/s/WoZ5sO9ix7pAjCll866S/)or create a [free test account](https://app.gitbook.com/o/Ai1YjbPQxIuvTaVzoZ4H/s/WoZ5sO9ix7pAjCll866S/) on the ArqSign Platform. Once authenticated, click on the [Integrations menu and access your API AppKey](./), user ID, and folder ID.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 2. For testing, use the Postman tool and for Authorization, select the AppKey type.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **R**equirements
 

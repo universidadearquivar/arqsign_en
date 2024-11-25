@@ -12,7 +12,7 @@ In the Drafts menu, all documents that were started for signature collection in 
 
 ## Main Screen Columns – Drafts
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Document Name Column:** This column displays the document name and the name of the signatory. If there are multiple signatories, the name of the first signatory is shown along with the number of other individuals who are required to sign.
 
@@ -36,13 +36,13 @@ In the Drafts menu, all documents that were started for signature collection in 
 
 ## Individual Actions – Drafts
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="167"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="167"><figcaption></figcaption></figure>
 
 **Edit**&#x20;
 
 By clicking this option, the user is directed to the document registration screen, where they must complete the document configuration, add recipients, and make any other necessary settings for sending the file and collecting signatures.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Change Folder**&#x20;
 
@@ -76,11 +76,11 @@ When a process contains a document or is a shared single document from the proce
 
 The .zip folder is named after the process name, and the signature record file is named as _**DocumentName\_SignatureRecord**_.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="470"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="470"><figcaption></figcaption></figure>
 
 When the process **contains more than one document**, the system displays a modal with the documents of the process, allowing the user to select which documents they wish to download. In the case of sharing, only the documents that have been shared will be listed.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="542"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="" width="542"><figcaption></figcaption></figure>
 
 When downloading from the Menu > Drafts, by default, the Signature Record, which displays all information about the electronic and digital signatures such as the signatories' names, date and time of the signature, location, IP address, and digital certificate details, is generated. However, it appears without the signature data since the document has not yet been sent for signing.
 
