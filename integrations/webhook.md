@@ -298,3 +298,57 @@ For each event in the application, as per the listed triggers, the system execut
 
 When data delivery fails, the failure information is recorded in the system for a later attempt to resend, either manually or automatically. The application considers whether the delivery is successful based on the following parameters:
 
+**A. Webhook Configured WITH the "Await Response" Option:**
+
+With this configuration, the webhook waits for up to 100 seconds for confirmation from its listener (URL to publish) after sending the message.
+
+The expected confirmation is an <mark style="color:green;">**HTTP 200 - OK**</mark> status code.
+
+1. If the listener does not respond within the **expected time, the system logs it as a failure (handled)**. The **absence of a response is treated as a failure**.
+2. If the listener **returns a code other than HTTP 200**, the webhook **considers the delivery failed**.
+
+Transmissions with failed deliveries are eligible for manual or automated retries, except for failures with the following codes:
+
+* 401 – Unauthorized. Issues with HTTP credentials.
+* 403 – Access to the server is forbidden. The server processed the request but refuses to complete it.
+* 404 – URL does not exist.
+
+**B. Webhook Configured WITHOUT the "Await Response" Option:**
+
+Without this configuration, the webhook waits for up to 100 seconds for confirmation from its listener after sending the message.
+
+The expected confirmation is an <mark style="color:green;">**HTTP 200 - OK**</mark> status code.
+
+1. If the listener does not respond within the **expected time, the system does not record it as a failure. The absence of a response is not considered a failure**.
+2.  If the listener **returns a code other than HTTP 200**, the webhook **considers the delivery failed**.
+
+    Transmissions with failed deliveries are eligible for manual or automated retries, except for failures with the following codes:
+
+    * 401 – Unauthorized. Issues with HTTP credentials.
+    * 403 – Access to the server is forbidden. The server processed the request but refuses to complete it.
+    * 404 – URL does not exist.
+
+### Retries in Case of Failures
+
+Eligible communication failures can be retransmitted manually by user request or automatically according to the following schedule:
+
+* 1st Attempt: At the time of the event.
+* 2nd Attempt: 5 minutes after the first attempt.
+* 3rd Attempt: 15 minutes after the first attempt.
+* 4th Attempt: 30 minutes after the first attempt.
+* 5th Attempt: 1 hour after the first attempt.
+* 6th Attempt: 2 hours after the first attempt.
+* 7th Attempt: 4 hours after the first attempt.
+* 8th Attempt: 8 hours after the first attempt.
+* 9th Attempt: 16 hours after the first attempt.
+* 10th Attempt: 1 day after the first attempt.
+* 11th Attempt: 2 days after the first attempt.
+* 12th Attempt: 3 days after the first attempt.
+* 13th Attempt: 4 days after the first attempt.
+* 14th Attempt: 5 days after the first attempt. If the webhook still fails on this day, it will be deactivated **(Inactive due to recurring failures)**.
+
+{% hint style="info" %}
+<mark style="color:blue;">Each event configured in the webhook with a failure will have a maximum of 14 attempts, including the first attempt made when the event occurs.</mark>
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
