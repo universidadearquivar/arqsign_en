@@ -352,3 +352,39 @@ Eligible communication failures can be retransmitted manually by user request or
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
+
+### Automatic Deactivation of Webhook Due to Failures
+
+Whenever the webhook receives the following error codes from the listener (client URL), it will be immediately deactivated to prevent unnecessary calls, receiving the status **"Inactive due to failures"**.
+
+Error Codes:
+
+* 401 – Unauthorized. Issues with HTTP credentials.
+* 403 – Server access denied. The server processed the request but refuses to complete it.
+* 404 – URL does not exist.
+
+For other errors, <mark style="color:red;">**after five consecutive**</mark> days of errors, the trigger associated with these failures will be deactivated, receiving the status "Inactive due to recurring failures."
+
+Webhooks deactivated by the application due to failures will have the status "Inactive due to failures" and will no longer send messages to the listener (client URL). However, they can be edited and reactivated.
+
+## Failure Logs
+
+In this tab, you can monitor the webhook failure logs.
+
+<figure><img src="../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
+
+On this screen, it is also possible to manually resend the data by clicking the "Resend" button. This button will only be enabled if the record has not reached the 14th attempt.
+
+<figure><img src="../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
+
+If the Webhook is inactive or being edited by another user, all records in the GRID will have the "Resend" button disabled.
+
+When the \[Resend] button is clicked, the system attempts to send the message again.
+
+In all cases, if a resend is successful, the record is removed from the GRID, and the trigger's attempt count is reset to zero.
+
+In the "Failure" column, the failure message is displayed. Clicking the icon opens a new window.
+
+<figure><img src="../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
+
+In the new window, in addition to the detailed failure message, other process data is displayed.
