@@ -64,7 +64,7 @@
       * [🗃️ 3. Users](integrations/api/available-methods-in-the-api/3.-users/README.md)
         * [✔️ 3.1.POST/api/v1/usuarios/buscar-usuarios](integrations/api/available-methods-in-the-api/3.-users/3.1.post-api-v1-usuarios-buscar-usuarios.md)
       * [🗃️ 4. Account](integrations/api/available-methods-in-the-api/4.-account/README.md)
-        * [✔️ 4.3.GET/api/v1/conta/dados-assinatura](integrations/api/available-methods-in-the-api/4.-account/4.3.get-api-v1-conta-dados-assinatura.md)
+        * [✔️ 4.1.GET/api/v1/conta/dados-assinatura](integrations/api/available-methods-in-the-api/4.-account/4.1.get-api-v1-conta-dados-assinatura.md)
       * [🗃️ 5. Webhook](integrations/api/available-methods-in-the-api/5.-webhook/README.md)
         * [✔️ 5.1.PATCH/api/v1/confwebhook/{idConfWebHook}/alterar-status](integrations/api/available-methods-in-the-api/5.-webhook/5.1.patch-api-v1-confwebhook-idconfwebhook-alterar-status.md)
         * [✔️ 5.2.POST/api/v1/confwebhook](integrations/api/available-methods-in-the-api/5.-webhook/5.2.post-api-v1-confwebhook.md)
@@ -72,3 +72,4 @@
     * [🔳 ArqSign API URL](integrations/api/arqsign-api-url.md)
     * [🔳 Library for Postman Testing](integrations/api/library-for-postman-testing.md)
   * [🟪 Webhook](integrations/webhook.md)
+  * [🔳 Change History](integrations/change-history.md)
