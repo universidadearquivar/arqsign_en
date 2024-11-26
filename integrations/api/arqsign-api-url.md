@@ -10,15 +10,15 @@ To view the online API documentation of the ArqSign platform, visit: [**https://
 
 When accessing the documentation URL, a list of available APIs is displayed. Clicking on an API reveals its details on the screen.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 On the left side of the screen, the list of available methods for the selected API is displayed.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 By clicking on the method, its details are displayed on the right side of the screen.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Search operations:** Use this to search for a method within the selected API on the screen.
 

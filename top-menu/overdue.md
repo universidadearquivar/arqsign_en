@@ -44,13 +44,13 @@ The "Overdue" menu provides users with a comprehensive view of documents sent fo
 
 Clicking this button will display the sending order information for the recipients, the email or phone number to which the document was sent, the security code for document access (if available), and the "Edit" icon, which allows editing of the recipient’s information. When the document is resent, it will no longer appear in the Expired screen because the expiration deadline is renewed.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Change Folder**&#x20;
 
 This option will only be displayed if the user has access to the account where the document is stored. By clicking this option, the user will be able to change the folder in the directory where the document is stored.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Change Owner**
 
