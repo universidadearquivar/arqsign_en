@@ -34,14 +34,14 @@ In the Adobe Reader Subscriptions Panel you can check:
 
 <summary>What type of encryption is used on the ArqSign Platform?</summary>
 
-To ensure the security of data being transferred between the Client and the Server, data is encrypted using a SHA256 SSL certificate.
+To ensure the security of data being transferred between the Client and the Server, [data is encrypted](https://arquivar.com.br/politica-de-privacidade/) using a SHA256 SSL certificate.
 
 We use encryption for communications and transaction processes, employing industry-standard transport protocols between user devices and Microsoft Azure data centers, as well as within the data centers themselves.
 
 For data at rest, our Server, Azure, offers a wide range of encryption capabilities up to AES-256.
 
-* **Network Protection** – The infrastructure required to securely connect virtual machines to each other and to connect on-premises data centers to Azure VMs. Azure blocks unauthorized traffic to and from Microsoft data centers using a variety of technologies. Azure Virtual Network extends your on-premises network to the cloud via site-to-site VPN.
-* **Threat Management** – Microsoft Antimalware for cloud services and virtual machines. Microsoft also employs intrusion detection, distributed denial of service (DDoS) attack prevention, regular penetration testing, and data analytics and machine learning tools to help mitigate threats against the Azure platform.
+* Network Protection – The infrastructure required to securely connect virtual machines to each other and to connect on-premises data centers to Azure VMs. Azure blocks unauthorized traffic to and from Microsoft data centers using a variety of technologies. Azure Virtual Network extends your on-premises network to the cloud via site-to-site VPN.
+* Threat Management – Microsoft Antimalware for cloud services and virtual machines. Microsoft also employs intrusion detection, distributed denial of service (DDoS) attack prevention, regular penetration testing, and data analytics and machine learning tools to help mitigate threats against the Azure platform.
 
 </details>
 

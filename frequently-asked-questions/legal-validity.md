@@ -57,7 +57,7 @@ To do this, follow the step-by-step instructions described in the link [https://
 
 <summary>Does an electronic signature have legal validity?</summary>
 
-Provisional Measure No. 2,200-2/2001 created the Brazilian Public Key Infrastructure (ICP-Brasil) and determined the criteria to guarantee legal validity.  &#x20;
+Provisional Measure No. 2.200-2/2001 created the Brazilian Public Key Infrastructure (ICP-Brasil) and determined the criteria to guarantee legal validity.  &#x20;
 
 These criteria are described in article 10, § 2 of the aforementioned MP and are: &#x20;
 
