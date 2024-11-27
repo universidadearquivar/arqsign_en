@@ -21,11 +21,7 @@ The signatory can sign the documents via email, WhatsApp, or their ArqSign accou
 
 <mark style="color:blue;">On the ArqSign Platform, when configuring a signing workflow, you can determine which type of signature should be executed by the recipient by choosing between:</mark>&#x20;
 
-&#x20;&#x20;
-
 <mark style="color:blue;">a) Electronic signature: ArqSign produces advanced electronic signatures with legal validity according to Provisional Measure 2.200-2 of 08/24/2001 and Law 14.063 of 11/23/2020. Whenever a signatory signs a document electronically, ArqSign applies its own digital certificate, capturing the file's Hash (unique identifier), verifying the integrity of the file, and attaching the signatory's identification to the certificate.</mark>&#x20;
-
-&#x20;&#x20;
 
 <mark style="color:blue;">b) Digital signature – ICP-Brasil or ICP Others: ArqSign produces qualified digital signatures according to Provisional Measure 2.200-2 of 08/24/2001 and Law 14.063 of 11/23/2020. When the user already has a digital certificate and wishes to use it to sign through ArqSign, this certificate is used to verify the integrity of the signature and identify the user as the signatory on the document</mark>
 {% endhint %}
@@ -61,11 +57,11 @@ To request support or assistance, click on "Support" in the bottom menu of the p
 
 The user will be directed to the platform's Help Center, where they can search through posted content for a solution to their question or request contact with the support team.
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="539"><figcaption></figcaption></figure>
 
 Contact with the support team can be made via WhatsApp, chat, email (faleconosco@arqsign.com), or phone (4003-8839).
+
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
