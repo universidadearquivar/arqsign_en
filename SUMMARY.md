@@ -65,7 +65,7 @@
         * [✔️ 3.1.POST/api/v1/usuarios/buscar-usuarios](integrations/api/available-methods-in-the-api/3.-users/3.1.post-api-v1-usuarios-buscar-usuarios.md)
       * [🗃️ 4. Account](integrations/api/available-methods-in-the-api/4.-account/README.md)
         * [✔️ 4.1.GET/api/v1/conta/papeis-signatarios](integrations/api/available-methods-in-the-api/4.-account/4.1.get-api-v1-conta-papeis-signatarios.md)
-      * [Page](integrations/api/available-methods-in-the-api/page.md)
+      * [✔️ 4.1.GET/api/v1/conta/papeis-signatarios](integrations/api/available-methods-in-the-api/4.1.get-api-v1-conta-papeis-signatarios.md)
       * [✔️ 4.2.POST/api/v1/conta/buscar-consumo-itens-assinatura](integrations/api/available-methods-in-the-api/4.2.post-api-v1-conta-buscar-consumo-itens-assinatura.md)
       * [🗃️ 5. Webhook](integrations/api/available-methods-in-the-api/5.-webhook/README.md)
         * [✔️ 5.1.PATCH/api/v1/confwebhook/{idConfWebHook}/alterar-status](integrations/api/available-methods-in-the-api/5.-webhook/5.1.patch-api-v1-confwebhook-idconfwebhook-alterar-status.md)
