@@ -86,7 +86,7 @@ If you have received a document for signature, click on the access link to the d
 5. Apply the visual representation of your signature using one of the signature styles: Standard (your name written), Drawing (handwritten signature), or Image (upload the image/photo of your signature).
 6. Click on "Complete."
 
-[Click here to see how to sign documents through the ArqSign ](../top-menu/document-signing.md)[platform.](../top-menu/document-signing.md)
+[Click here to learn how to sign documents through the ArqSign platform.](../top-menu/document-signing.md)
 
 </details>
 
@@ -232,7 +232,7 @@ To edit a contact, choose the "Edit" option, make the necessary changes, and cli
 To send a document for signature to a saved contact in the ArqSign Platform, whether in your user account or shared by another user, follow these steps:
 
 1. Click on "New Document," upload the document, and perform the necessary settings related to the document.
-2. In the recipient configuration section, click on the button.
+2. In the recipient configuration section, click on the button.<img src="../.gitbook/assets/image.png" alt="" data-size="original">
 3. The platform will display a query grid with all the contacts of the logged-in user associated with the logged-in account, alphabetically ordered by the name column. It will then display all the contacts from other active users in the logged-in account who have been marked for sharing with all account users, alphabetically ordered by the name column.
 4. Choose the recipient(s) and click on "Add Recipients."
 5. Configure the type of electronic signature for each recipient.
@@ -248,7 +248,7 @@ You can save contacts in the ArqSign Platform in two ways:
 
 **First way:**
 
-1. When registering a recipient, keep the checkbox "Save this recipient in my contact list" checked.
+When registering a recipient, keep the checkbox "Save this recipient in my contact list" checked.
 
 **Second way:**
 
@@ -256,19 +256,26 @@ You can save contacts in the ArqSign Platform in two ways:
 2. Access the "My Contacts" option.
 3. To insert a contact, click on the "+" button, enter the details, choose whether to share the contact with all users of the account, and click Save.
 4. To automatically save all recipients you send documents to for signing in the future, enable the "Save recipients of a document sent for signature in my contact list" option.
-5. The Name and Email/WhatsApp of the recipient(s) will be saved as contacts of the user in the account. Contacts will be linked to the account the user is logged into. Therefore, when this user logs into another account, the contacts will be different.
+
+The Name and Email/WhatsApp of the recipient(s) will be saved as contacts of the user in the account. Contacts will be linked to the account the user is logged into. Therefore, when this user logs into another account, the contacts will be different.
 
 **Rules:**
 
-* It is not allowed to register a contact with the same email as an already registered contact that:
-  * Belongs to the logged-in user in the account.
-  * Is related to other active users of the logged-in account and shared in the account.
-* Only a valid email can be registered for an email contact.
-* It is not allowed to register a contact with the same phone number as an already registered contact that:
-  * Belongs to the logged-in user in the account.
-  * Is related to other active users of the logged-in account and shared in the account.
-* Only a valid phone number can be registered for a WhatsApp contact.
-* The field "Share with all users of the account" is optional, allowing the user to specify if the contact being created will be shared with other contacts in the account.
+It is not allowed to register a contact with the same email as an already registered contact that:
+
+* Belongs to the logged-in user in the account.
+* Is related to other active users of the logged-in account and shared in the account.
+
+Only a valid email can be registered for an email contact.
+
+It is not allowed to register a contact with the same phone number as an already registered contact that:
+
+* Belongs to the logged-in user in the account.
+* Is related to other active users of the logged-in account and shared in the account.
+
+Only a valid phone number can be registered for a WhatsApp contact.
+
+The field "Share with all users of the account" is optional, allowing the user to specify if the contact being created will be shared with other contacts in the account.
 
 To understand better, [click here](https://www.youtube.com/watch?v=b73Cu1HCaWA) and watch the explanatory video.
 
@@ -664,11 +671,11 @@ If the signer has Digital Certificates saved in the ArqSign platform, they will 
 
 Once a user is created, they can modify the following details in their profile:
 
-![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 This change will reflect in the notification of signature requests that the user sends.
 
-![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 
 
@@ -891,12 +898,12 @@ If you have scheduled document renewal, once the renewal date is reached, you ca
 
 After completing a signature flow:
 
-1. Click on **Sent**.
-2. Select **Completed Flow**.
-3. Click on **History**.
-4. Click on **Change Renewal**.
+1. Click on Sent.
+2. Select Completed Flow.
+3. Click on History.
+4. Click on Change Renewal.
 5. Set the new deadline in months after the signature completion.
-6. Click **Change**.
+6. Click Change.
 
 When the defined expiration date, renewal, or adjustment arrives, the ArqSign platform will send an email to the flow owner, informing that the document is ready for renewal, adjustment, etc.
 
@@ -908,7 +915,7 @@ When the defined expiration date, renewal, or adjustment arrives, the ArqSign pl
 
 In ArqSign, you can have access to more than one account using the same email.
 
-Example: Let's say you are a lawyer at a law firm. You can have a personal free test account with one email, and with the same email, you can have a user in the firm's account and another user in a client's account to view the client's documents. To access a third-party account, the Global Administrators of the account must invite you. Access can be blocked at any time by the Global Administrator.
+**Example:** Let's say you are a lawyer at a law firm. You can have a personal free test account with one email, and with the same email, you can have a user in the firm's account and another user in a client's account to view the client's documents. To access a third-party account, the Global Administrators of the account must invite you. Access can be blocked at any time by the Global Administrator.
 
 </details>
 
@@ -920,9 +927,9 @@ A user is a person who uses the ArqSign Platform to send, monitor workflows, col
 
 In the ArqSign platform, a user can have the following profiles:
 
-a) **Document Sender** – A user without permission to access the platform's management features. Their access is focused on sending and managing their documents.
+a) Document Sender – A user without permission to access the platform's management features. Their access is focused on sending and managing their documents.
 
-b) **Global Administrator** – Users with permission to access all platform features, including folder and user management.
+b) Global Administrator – Users with permission to access all platform features, including folder and user management.
 
 </details>
 
@@ -966,8 +973,8 @@ When a signatory reports not receiving the email with the signing link, check th
 
 1. Ensure the correct email address was entered.
 2. Verify that the signatory has internet access.
-3. If the link was sent to a free email service, ask the signatory to check their SPAM, Junk, or Promotions folders, as these email servers may incorrectly classify our emails and send them to those folders.
-4. If the link was sent to someone or a company with antivirus or firewall installed on their machine or server, ask them to check if the email with the link was blocked by their security system.
+3. If the link was sent to a free email service, ask the signatory to check their **SPAM, Junk mail, or Promotions**, as these email servers may incorrectly classify our emails and send them to those folders.
+4. If the link was sent to someone or a company with antivirus or firewall installed on their machine or server, ask them to check if **the email with the link was blocked by their security system.**
 5. If you've completed all of these checks and found no issues, try resending the flow via the ArqSign Platform and check the mentioned folders again.
 6. If the signatory still doesn't receive the email, contact support and provide the following information for further investigation:
    * Name
@@ -993,7 +1000,7 @@ A field called "Order" will appear, and the recipients will need to sign the doc
 
 If you want two people to receive the email simultaneously, assign them the same number.
 
-![](<../.gitbook/assets/image (61).png>)
+![](../.gitbook/assets/image.gif)
 
 </details>
 
@@ -1077,9 +1084,9 @@ Click on _Edit_.
 
 Set up your signature's visual representation in one of the following styles:
 
-* **Standard** – Type your signature.
-* **Drawing** – Draw your signature.
-* **Image** – Upload an image of your signature.
+* Standard – Type your signature.
+* Drawing – Draw your signature.
+* Image – Upload an image of your signature.
 
 Click _Save_.
 
@@ -1123,7 +1130,7 @@ Understand in detail each customizable item:
 
 <summary>How to enable or disable automatic plan renewal?</summary>
 
-During the validity of the plan, the customer can enable or disable automatic renewal. To do this, follow these steps: Access the [_Administration_ menu > _Account_ > _Billing and Usage_ > _Automatic Renewal_.](../administration/administration/account.md)
+During the validity of the plan, the customer can enable or disable automatic renewal. To do this, follow these steps: Access the [Administration menu > Account > Billing and Usage > Automatic Renewal.](../administration/administration/account.md)
 
 </details>
 
@@ -1131,7 +1138,7 @@ During the validity of the plan, the customer can enable or disable automatic re
 
 <summary>How to check the plan, expiration, automatic renewal, and usage?</summary>
 
-Go to the [_Administration_ menu > _Account_ > _Billing and Usage_](../administration/administration/account.md).
+Go to the [Administration menu > Account > Billing and Usage](../administration/administration/account.md).
 
 View the contracted plan, plan period, sign-up date, expiration date, automatic renewal status, consumed and available items, renewal period, and purchase history.
 
@@ -1231,20 +1238,23 @@ When the defined date for document expiration, renewal, or adjustment arrives, t
 
 <summary>How to register a user?</summary>
 
-Access the [_Administration_ menu > _Users_](../administration/administration/users.md) and click the button with the "+" sign.
+Access the [Administration menu > Users](../administration/administration/users.md) and click the button with the "+" sign.
 
 Enter the new user's email.
 
 Define the user's profile by choosing between:
 
-* **Global Administrator** (access to all features – sending, receiving, signing documents, creating and defining access for users and directories, purchasing add-ons, changing the plan)
-* **Document Sender** (only sends and signs documents).
+a) Global Administrator (access to all features – sending, receiving, signing documents, creating and defining access for users and directories, purchasing add-ons, changing the plan)
+
+or
+
+b) Document Sender (only sends and signs documents).
 
 Click _Save_.
 
 After registering the user, a confirmation message will be sent to the provided email to complete the registration.
 
-When creating a user with the **Document Sender** profile, it is recommended to define which user group this user belongs to. Learn more about User Groups by [clicking here](../administration/administration/user-groups.md).
+When creating a user with the Document Sender profile, it is recommended to define which user group this user belongs to. Learn more about User Groups by [clicking here](../administration/administration/user-groups.md).
 
 </details>
 
@@ -1281,9 +1291,9 @@ If you'd like to learn more about the _Directories_ feature, [click here](../dir
 
 The _Acceptance Term_ for electronic signature formalizes and records the signatories' acceptance history, which is a legal prerequisite for the validity of the electronic signature. You can use our suggested Acceptance Term or customize your own. To customize, follow these steps:
 
-1. Click on [**Administration** > **Account** > **Acceptance Term**](../administration/administration/account.md).
-2. Click on **Edit** and customize your term.
-3. Click on **Publish**.
+1. Click on [Administration > Account > Acceptance Term](../administration/administration/account.md).
+2. Click on Edit and customize your term.
+3. Click on Publish.
 
 [Click here](https://www.youtube.com/watch?v=MBJB6RW7y7E) to watch the step-by-step video.
 

@@ -18,7 +18,7 @@ c) **Signature with Personal Digital Certificate (All Types)** (ArqSign generate
 2. When configuring a recipient, in the "Signature Type" field, select one of the options described above.
 3. Done! Now, just configure the other recipients and the signature position on the document, then send.
 
-To learn how to sign a document with a Digital Certificate – ICP-Brasil,[ click here](https://app.gitbook.com/o/Ai1YjbPQxIuvTaVzoZ4H/s/WoZ5sO9ix7pAjCll866S/\~/changes/159/digital-certificate).
+To learn how to sign a document with a Digital Certificate – ICP-Brasil,[ click here](https://app.gitbook.com/o/Ai1YjbPQxIuvTaVzoZ4H/s/WoZ5sO9ix7pAjCll866S/~/changes/159/digital-certificate).
 
 </details>
 
@@ -221,7 +221,6 @@ Legally, between private entities, any document can be signed electronically, pr
 5. Choose the ICP-Brasil Certificate file type A1 with P12 or PFX extension.
 6. Enter a name to identify the Certificate.
 7. Enter the Certificate password.
-
-When signing a document with an ICP-Brasil Certificate, simply select the certificate and enter your password.
+8. When signing a document with an ICP-Brasil Certificate, simply select the certificate and enter your password.
 
 </details>
