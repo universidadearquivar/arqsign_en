@@ -63,6 +63,8 @@ Contact with the support team can be made via WhatsApp, chat, email (faleconosco
 
 <figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+After authentication, the user will also have access to the support menu on the platform, located at the bottom right corner of the screen.
+
 <figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
