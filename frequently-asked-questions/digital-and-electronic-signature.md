@@ -47,11 +47,15 @@ The benefits are numerous, including signing a document in minutes, lower costs 
 
 According to Law No. 14,063, of September 23, 2020, Article 4, electronic signatures are classified as follows:
 
-I – **Simple electronic signature:** a) Allows the signatory to be identified; b) Attaches or associates data to other data in electronic format related to the signatory;
+**I –** Simple electronic signature:&#x20;
 
-II – **Advanced electronic signature:** One that uses certificates not issued by ICP-Brasil or other means of proving authorship, document integrity, and acceptance between the parties.
+a) Allows the signatory to be identified;&#x20;
 
-III – **Qualified electronic signature:** One that uses an ICP-Brasil digital certificate.
+b) Attaches or associates data to other data in electronic format related to the signatory;
+
+**II –** Advanced electronic signature: One that uses certificates not issued by ICP-Brasil or other means of proving authorship, document integrity, and acceptance between the parties.
+
+**III –** Qualified electronic signature: One that uses an ICP-Brasil digital certificate.
 
 The three types of signatures mentioned in the legislation define the level of trust of the signature, with the qualified electronic signature having the highest level of trust.
 

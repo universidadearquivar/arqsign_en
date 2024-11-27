@@ -179,21 +179,30 @@ The user will receive an email containing a link that they should click to set a
 
 Upon accessing their account, the user will see the following buttons in the top menu:
 
-* **New Document**: Clicking this button allows the user to upload a document to be sent to signatories for signing.
-* **Batch Signing**: Clicking this button allows the user to view and sign all documents received that are pending signature.
-* **Expired**: Clicking this button allows the user to view all documents they sent to others for signing but that were not signed within the deadline and have expired. Here, the user can resend those documents.
-* **Buy Now / Change Plan**: The "Buy Now" or "Change Plan" buttons will be displayed for users with a free trial account or users with an expired or soon-to-expire paid plan. The "Buy Now" button will be shown for users with an expired plan, while the "Change Plan" button will be shown for users with a paid plan nearing expiration (30 days before the expiration of annual plans and 10 days before the expiration of monthly plans).
-* **Buy Credits**: For accounts with an active plan, the "Buy Credits" button will be displayed, allowing the user to purchase credits for sending documents via email, WhatsApp, and SMS, depending on the account’s plan type.
-* **User Profile**: Clicking this menu gives the user access to their account information.
-* **Languages**: The homepage and platform interface will be presented in the language chosen by the user during registration. To change the language, click the flag icon located in the upper-right corner of the screen and choose between Portuguese (Brazil), Spanish, and English.
-*   **Logout**: Used to log out of the platform.
+**New Document**: Clicking this button allows the user to upload a document to be sent to signatories for signing.
 
-    <figure><img src=".gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
+**Batch Signing**: Clicking this button allows the user to view and sign all documents received that are pending signature.
+
+**Expired**: Clicking this button allows the user to view all documents they sent to others for signing but that were not signed within the deadline and have expired. Here, the user can resend those documents.
+
+**Buy Now / Change Plan**: The "Buy Now" or "Change Plan" buttons will be displayed for users with a free trial account or users with an expired or soon-to-expire paid plan. The "Buy Now" button will be shown for users with an expired plan, while the "Change Plan" button will be shown for users with a paid plan nearing expiration (30 days before the expiration of annual plans and 10 days before the expiration of monthly plans).
+
+**Buy Credits**: For accounts with an active plan, the "Buy Credits" button will be displayed, allowing the user to purchase credits for sending documents via email, WhatsApp, and SMS, depending on the account’s plan type.
+
+**User Profile**: Clicking this menu gives the user access to their account information.
+
+**Languages**: The homepage and platform interface will be presented in the language chosen by the user during registration. To change the language, click the flag icon located in the upper-right corner of the screen and choose between Portuguese (Brazil), Spanish, and English.
+
+**Logout**: Used to log out of the platform.
+
+<figure><img src=".gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
 
 On the left side of the screen, we have all the available menus, organized by groups. It is important to note that these menus will be displayed according to each user's permission level.
 
-* **Inbox**: This group contains menus related to the document processing workflow.
-* **Directories**: This group includes the **Documents** menu, which serves as a storage repository for documents processed by the platform. Here, all documents with completed signature processes can be found.
-*   **Administration**: This group contains account settings, user management, and user group configurations.
+**Inbox**: This group contains menus related to the document processing workflow.
 
-    <figure><img src=".gitbook/assets/image (39).png" alt="" width="230"><figcaption></figcaption></figure>
+**Directories**: This group includes the **Documents** menu, which serves as a storage repository for documents processed by the platform. Here, all documents with completed signature processes can be found.
+
+**Administration**: This group contains account settings, user management, and user group configurations.
+
+<figure><img src=".gitbook/assets/image (39).png" alt="" width="230"><figcaption></figcaption></figure>
