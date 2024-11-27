@@ -8,7 +8,7 @@ To test the ArqSign integration API, start by creating a free trial account on o
 
 In your trial account, you’ll find the "Integrations" menu, where you can access all necessary information for testing.
 
-Now just follow the instructions in the documentation available [by clicking here.](https://app.gitbook.com/o/Ai1YjbPQxIuvTaVzoZ4H/s/WoZ5sO9ix7pAjCll866S/\~/changes/167/integrations/\~/page)
+Now just follow the instructions in the documentation available [by clicking here.](https://app.gitbook.com/o/Ai1YjbPQxIuvTaVzoZ4H/s/WoZ5sO9ix7pAjCll866S/~/changes/167/integrations/~/page)
 
 </details>
 
@@ -20,17 +20,17 @@ The ArqSign platform integration API is ready for other software to build their 
 
 The available methods are:
 
-[POST – Send document for signature](https://arquivar.gitbook.io/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/post-api-v1-processo-enviar-documento-para-assinar)
+[POST – Send document for signature](../integrations/api/available-methods-in-the-api/1.-process/1.1.-post-api-v2-processo-enviar-documento-para-assinar.md)
 
-[GET – Monitoring the status of the document sent for signature](https://arquivar.gitbook.io/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/get-api-v1-processo-idprocesso)
+GET – Track the status of the document sent for signature
 
-[GET – Return of document and records after signature is completed](https://arquivar.gitbook.io/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/get-api-v1-processo-idprocesso-status-do-processo)
+GET – Retrieve the document and records after the signature process is completed
 
-[GET - Monitoring the data of signatories who have the action of signing electronically in a signature process](https://arquivar.gitbook.io/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/get-api-v1-processo-idprocesso-dados-signatarios)
+GET – Track the data of signatories assigned to electronically sign within a signature process
 
-[PATCH – Resend document for signature](https://arquivar.gitbook.io/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/patch-api-v1-processo-idprocesso-reenviar-processo)
+PATCH – Resend document for signature
 
-[PATCH – Cancellation of sending a document for signature](https://arquivar.gitbook.io/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/patch-api-v1-processo-idprocesso-cancelar-processo)
+PATCH – Cancel document submission for signature
 
 </details>
 
