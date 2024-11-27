@@ -39,7 +39,7 @@ a) Document Sender – A user without access to the platform’s administrative 
 
 b) Global Administrator – A user with access to all platform features.
 
-1. **Directory Profile** – Designates the access level of a user or group to directories. Directory profiles include Administrator, Collaborator, and Reader.
+2. **Directory Profile** – Designates the access level of a user or group to directories. Directory profiles include Administrator, Collaborator, and Reader.
 
 a) Administrator – Users or groups with this profile can view and download content, add, move, share, and rename documents, delete or create folders, and adjust access permissions.
 
