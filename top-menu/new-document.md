@@ -202,7 +202,7 @@ In the "**Default Message"** field,you can keep the default message created by t
 
 <figure><img src="../.gitbook/assets/18 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-Once you have completed these settings, click "**Next**" to proceed to the next step, "Finish Later" to save the flow as a draft, or "Discard" to cancel the registration.
+Once you have completed these settings, click "Next" to proceed to the next step, "Finish Later" to save the flow as a draft, or "Discard" to cancel the registration.
 
 <figure><img src="../.gitbook/assets/19 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -214,16 +214,16 @@ In the next step, the documents that were inserted in the previous step will be 
 
 #### Process with one or more grouped documents
 
-When the process contains one or more grouped documents, the system will display the process name.
+When the process contains one or more **grouped** documents, the system will display the process name.
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Process with more than one non-grouped document**
 
-When the process has one or more ungrouped documents , the system displays:
+When the process has one or more **ungrouped** documents , the system displays:
 
 * At the top of the screen, the **name of the document** being displayed;
-* In the left corner of the screen, the list of process documents ordered according to the order configuration defined in [Step 01](new-document.md#step-1-add-documents-and-recipients), indicating whether the document is being viewed or not. When clicking on the document, the system will display it on the screen.
+* In the left corner of the screen, the **list of process documents** ordered according to the order configuration defined in [Step 01](new-document.md#step-1-add-documents-and-recipients), indicating whether the document is being viewed or not. When clicking on the document, the system will display it on the screen.
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -241,7 +241,7 @@ When including the visual representation configuration, the application displays
 
 <figure><img src="../.gitbook/assets/Arqsign_ass.gif" alt=""><figcaption></figcaption></figure>
 
-If in Step 1 it was defined that the recipient will sign as both an individual and a legal entity, two boxes will be displayed with the recipient's name in the same color. The boxes for each of the recipients will be displayed in different colors to visually indicate where each person should sign.
+If in [Step 1](new-document.md#b.-recipients) it was defined that the recipient will sign as both an individual and a legal entity, two boxes will be displayed with the recipient's name in the same color. The boxes for each of the recipients will be displayed in different colors to visually indicate where each person should sign.
 
 **Visual representation modal of signature for process with one document or more grouped documents**
 
@@ -251,7 +251,7 @@ When the process has one document or multiple grouped documents, the system list
 
 #### Visual signature representation modal for a process with more than one ungrouped document
 
-When the process involves more than one document, the system displays a "carousel", allowing navigation between documents and signatories. This carousel enables the user to easily switch between documents and adjust the signature fields for each recipient accordingly.
+When the process involves **more than one document**, the system displays a **"carousel"**, allowing navigation between documents and signatories. This carousel enables the user to easily switch between documents and adjust the signature fields for each recipient accordingly.
 
 <figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -265,7 +265,7 @@ Once the signatory's signature setup is completed for all documents, the system 
 
 ### Signature data and attachments
 
-In the upper right corner of the screen, the "Settings for" field displays the name of the recipient selected for configuration. Each recipient is automatically assigned a color by the platform, and next to this icon, a "checked" symbol appears. This symbol changes color to green when the Additional Signature Information has been included, and remains gray when it has not been included.
+In the upper right corner of the screen, the **"Settings for"** field displays the name of the recipient selected for configuration. Each recipient is automatically assigned a color by the platform, and next to this icon, a "checked" symbol appears. This symbol changes color to green when the **Additional Signature Information** has been included, and remains gray when it has not been included.
 
 <figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -284,8 +284,13 @@ If the user does not wish to manually insert signatures into the document, they 
 **Simplified Sending** allows the user to send the process without manually adjusting the signature positions. The platform will automatically insert a page at the end of the document with signature representations, based on the settings previously defined when inserting the documents and the following rules:
 
 {% hint style="info" %}
-* <mark style="color:blue;">**If the "Group files into a single document" field from Step 1 is unchecked:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">The platform</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**inserts a page at the end of each document**</mark><mark style="color:blue;">, with the position of each recipient's signature for the "Sign Online" action, based on the signature type (Individual and/or Legal Entity) configured in the "This Recipient will" field.</mark>
-* <mark style="color:blue;">**If the "Group files into a single document" field from Step 1 is checked:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">The platform</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**inserts a page at the end of the document**</mark><mark style="color:blue;">, with the position of each recipient's signature for the "Sign Online" action, according to the signature type (Individual and/or Legal Entity) configured in the "This Recipient will" field.</mark>
+* **If the "Group files into a single document" field in** [**Step 1**](new-document.md#step-1-add-documents-and-recipients) **is unchecked:**
+
+The platform adds a page at the end of each document with the signature position for each recipient assigned the action of Sign Online, according to the type of signature for each (Individual and/or Legal Entity) configured in the "This Recipient Will" field.
+
+* **If the "Group files into a single document" field in** [**Step 1**](new-document.md#step-1-add-documents-and-recipients) **is checked:**
+
+The platform adds a page at the end of the document with the signature position for each recipient assigned the action of Sign Online, according to the type of signature for each (Individual and/or Legal Entity) configured in the "This Recipient Will" field.
 {% endhint %}
 
 {% hint style="danger" %}
