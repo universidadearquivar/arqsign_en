@@ -36,7 +36,7 @@ In the Drafts menu, all documents that were started for signature collection in 
 
 ## Individual Actions – Drafts
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="167"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="167"><figcaption></figcaption></figure>
 
 **Edit**&#x20;
 

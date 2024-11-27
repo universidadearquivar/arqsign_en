@@ -14,7 +14,7 @@ When accessing the documentation URL, a list of available APIs is displayed. Cli
 
 On the left side of the screen, the list of available methods for the selected API is displayed.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 By clicking on the method, its details are displayed on the right side of the screen.
 
