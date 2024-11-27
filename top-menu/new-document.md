@@ -25,10 +25,13 @@ When this option is **unchecked**, ArqSign displays the files as **separate item
 {% hint style="warning" %}
 <mark style="color:orange;">**Files with the following extensions are allowed:**</mark>
 
-* <mark style="color:orange;">**Document: .doc, .docx, .pdf, .txt**</mark>
-* <mark style="color:orange;">**Image: .jpg, .jpeg, .png, .tif, .tiff**</mark>
-* <mark style="color:orange;">**Presentation: .ppt, .pptx**</mark>
-* <mark style="color:orange;">**Spreadsheet: .csv, .xls, .xlsx**</mark>
+<mark style="color:orange;">**Document: .doc, .docx, .pdf, .txt**</mark>
+
+<mark style="color:orange;">**Image: .jpg, .jpeg, .png, .tif, .tiff**</mark>
+
+<mark style="color:orange;">**Presentation: .ppt, .pptx**</mark>
+
+<mark style="color:orange;">**Spreadsheet: .csv, .xls, .xlsx**</mark>
 
 <mark style="color:orange;">**Each file can be up to 35MB or up to 2000 pages, and the total file size cannot exceed 100MB.**</mark>
 {% endhint %}
