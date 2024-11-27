@@ -50,7 +50,7 @@ Finally, to schedule the automatic renewal of the documents being registered, ch
 
 <figure><img src="../.gitbook/assets/image (14) (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-## Advanced settings
+### Advanced settings
 
 Advanced settings are document-specific settings. You can adjust them for all documents, i.e., leave a default setting for every time you need to request signatures, or configure options for just one specific document. To access the full list of options that can be configured for documents, go to [Administration > Account > Settings](../administration/administration/account.md#settings-tab). See below for all the general configurable options
 
@@ -82,7 +82,7 @@ To specifically edit the settings of a specific file, click on **Advanced Settin
 
 ***
 
-## B. Recipients&#x20;
+### B. Recipients&#x20;
 
 In the “Recipients” field, fill in the fields relating to the signatories who will receive the document and participate in the signing process. You must perform the configurations described below for each of the recipients.
 
@@ -192,7 +192,7 @@ To add additional recipients, click on the "Add New Recipient" button. If you wi
 
 ***
 
-## Default Message
+### C. Default Message
 
 In the "**Default Message"** field,you can keep the default message created by the platform or select your standard message from the list created in "**My Profile,**" which will be sent to all recipients, filling in the "Subject" and "Message" fields.
 
@@ -227,7 +227,7 @@ When the process has one or more ungrouped documents , the system displays:
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-## Signature fields
+### Signature fields
 
 #### Signature representation
 
@@ -263,7 +263,7 @@ Once the signatory's signature setup is completed for all documents, the system 
 
 <figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-## Signature data and attachments
+### Signature data and attachments
 
 In the upper right corner of the screen, the "Settings for" field displays the name of the recipient selected for configuration. Each recipient is automatically assigned a color by the platform, and next to this icon, a "checked" symbol appears. This symbol changes color to green when the Additional Signature Information has been included, and remains gray when it has not been included.
 
@@ -275,7 +275,7 @@ If no signature order is configured in Step 1, the "**Settings for**" item displ
 
 ***
 
-## Simplified Sending
+### Simplified Sending
 
 If the user does not wish to manually insert signatures into the document, they can select the **Simplified Sending** option.
 
