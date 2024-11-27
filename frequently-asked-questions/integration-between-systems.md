@@ -22,15 +22,15 @@ The available methods are:
 
 [POST – Send document for signature](../integrations/api/available-methods-in-the-api/1.-process/1.1.-post-api-v2-processo-enviar-documento-para-assinar.md)
 
-GET – Track the status of the document sent for signature
+[GET – Track the status of the document sent for signature](../integrations/api/available-methods-in-the-api/1.-process/1.8.get-api-v1-processo-idarquivoprocesso-registro-assinaturas.md)
 
-GET – Retrieve the document and records after the signature process is completed
+[GET – Retrieve the document and records after the signature process is completed](../integrations/api/available-methods-in-the-api/1.-process/1.4.-get-api-v1-processo-idprocesso-status-do-processo.md)
 
-GET – Track the data of signatories assigned to electronically sign within a signature process
+[GET – Track the data of signatories assigned to electronically sign within a signature process](../integrations/api/available-methods-in-the-api/1.-process/1.5.get-api-v1-processo-idprocesso-dados-signatarios.md)
 
-PATCH – Resend document for signature
+[PATCH – Resend document for signature](../integrations/api/available-methods-in-the-api/1.-process/1.3.patch-api-v2-processo-idprocesso-reenviar-processo.md)
 
-PATCH – Cancel document submission for signature
+[PATCH – Cancel document submission for signature](../integrations/api/available-methods-in-the-api/1.-process/1.6.patch-api-v1-processo-idprocesso-cancelar-processo.md)
 
 </details>
 
