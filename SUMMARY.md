@@ -67,6 +67,7 @@
         * [✔️ 4.1.GET/api/v1/conta/papeis-signatarios](integrations/api/available-methods-in-the-api/4.-account/4.1.get-api-v1-conta-papeis-signatarios.md)
       * [✔️ 4.1.GET/api/v1/conta/papeis-signatarios](integrations/api/available-methods-in-the-api/4.1.get-api-v1-conta-papeis-signatarios.md)
       * [✔️ 4.2.POST/api/v1/conta/buscar-consumo-itens-assinatura](integrations/api/available-methods-in-the-api/4.2.post-api-v1-conta-buscar-consumo-itens-assinatura.md)
+      * [✔️ 4.3.GET/api/v1/conta/dados-assinatura](integrations/api/available-methods-in-the-api/4.3.get-api-v1-conta-dados-assinatura.md)
       * [🗃️ 5. Webhook](integrations/api/available-methods-in-the-api/5.-webhook/README.md)
         * [✔️ 5.1.PATCH/api/v1/confwebhook/{idConfWebHook}/alterar-status](integrations/api/available-methods-in-the-api/5.-webhook/5.1.patch-api-v1-confwebhook-idconfwebhook-alterar-status.md)
         * [✔️ 5.2.POST/api/v1/confwebhook](integrations/api/available-methods-in-the-api/5.-webhook/5.2.post-api-v1-confwebhook.md)
