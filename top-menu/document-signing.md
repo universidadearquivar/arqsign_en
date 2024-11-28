@@ -268,19 +268,25 @@ If you have not done so yet, when signing a document for the first time using a 
 
 To complete the signing process, the signer must click on "Finish." They will be directed to a pop-up screen, which will vary depending on their situation.
 
-If they already have an active account on the signing platform and are logged in, they can click on the "return to the platform" option and will be redirected to their ArqSign inbox.
+If they already have an active account on the signing platform and **are logged in**, they can click on the "return to the platform" option and will be redirected to their ArqSign inbox.
 
+<figure><img src="../.gitbook/assets/Screenshot_4 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
+If they already have an active account on the signing platform but **are not logged in**, they can click on the "access my account" option and provide their credentials to log in.
+
+<figure><img src="../.gitbook/assets/Screenshot_3 (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+If the signer does **not have an account registered** on the platform, a suggestion message will be displayed to create a[ free trial account](https://app.gitbook.com/o/Ai1YjbPQxIuvTaVzoZ4H/s/WoZ5sO9ix7pAjCll866S/) or to learn more, where the user will be redirected to the information page on the ArqSign website.
 
 {% hint style="warning" %}
-<mark style="color:orange;">Creating a free trial account is not mandatory.</mark>
+<mark style="color:orange;">**Creating a free trial account is not mandatory.**</mark>
 {% endhint %}
 
 ## Completing the Signature
 
 Once the signing process is completed, the recipient will receive a notification of the completed signatures via email or WhatsApp. The platform will send the signed document(s) and the respective Signature Record to the recipients, based on the account settings (link or file). When there is more than one file in the process, the platform will send a zip file containing all the documents along with their respective signature record.
 
-<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (263).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
