@@ -114,7 +114,7 @@ By clicking on “Options”, the signatory will be able to perform the followin
 
 <figure><img src="../.gitbook/assets/05 (13).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-### History
+**History**
 
 Here you can view the history of the signing process and its documents. Select the events button to view the data in detail.
 
@@ -126,19 +126,19 @@ With the events button positioned to the right, it is possible to view the IDs a
 
 <figure><img src="../.gitbook/assets/image (12) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-### Decline Subscription
+**Decline Subscription**
 
 This option is used when, for some reason, the signatory does not wish to sign the document. In this case, they must provide a justification for the refusal and click on “Refuse Signature”. By refusing the signature, the document signing process will be automatically canceled for all involved and will appear with the status “Canceled” for the sender responsible for the document.
 
 <figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-### Complete Later
+**Complete Later**
 
 This option is used to return and complete the signing at another time. Whenever this option is selected, the platform will display a message validating the action.
 
 <figure><img src="../.gitbook/assets/image (14) (1) (1).png" alt="" width="548"><figcaption></figcaption></figure>
 
-### Download File
+**Download File**
 
 This option allows you to download the documents in the signing process. Select the file(s) you want and click "Download".
 
@@ -218,7 +218,7 @@ To complete, the signer must click on “Finish.” If the document requests tha
 
 Once the Signature Style is defined, the user's signature will be requested, which can be:
 
-### A. Electronic Signature
+**A. Electronic Signature**
 
 For an electronic signature, the user provides their personal or business details, and Arqsign itself certifies the authenticity and accuracy of the information provided.
 
@@ -226,7 +226,7 @@ If the user is using an electronic signature, they will be required to fill in t
 
 <figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
-### B. Digital Signature – ICP Brasil and Others
+**B. Digital Signature – ICP Brasil and Others**
 
 If it has been defined that the user must sign using a digital certificate (ICP Brasil and ICP Others), a list of all the certificates installed on the user's machine and in the ArqSign platform account will be displayed.
 
@@ -274,7 +274,7 @@ To finalize the signing process, the signer must click on “Finish.” They wil
 <mark style="color:orange;">Creating a free trial account is not mandatory.</mark>
 {% endhint %}
 
-### Completing the Signature,
+## Completing the Signature
 
 Once the signing process is completed, the recipient will receive a notification of the completed signatures via email or WhatsApp. The platform will send the signed document(s) and the respective Signature Record to the recipients, based on the account settings (link or file). When there is more than one file in the process, the platform will send a zip file containing all the documents along with their respective signature record.
 
