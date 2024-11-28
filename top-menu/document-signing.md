@@ -18,7 +18,7 @@ The user responsible for the signature will receive an email notification with t
 
 By clicking on the link or entering the code, the user will be directed to the signing screen.
 
-<figure><img src="../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="By Whatsapp" %}
@@ -26,11 +26,11 @@ It occurs when the person responsible receives a notification via WhatsApp, info
 
 The user responsible for the signature will receive a WhatsApp message with the link to access the file. This message will also include the sender's name and the signature deadline. If the recipient has defined a personalized message, it will also be displayed in this notification.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="284"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="284"><figcaption></figcaption></figure>
 
 By clicking on the link or entering the code, the user will be directed to the signing screen.
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="263"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="263"><figcaption></figcaption></figure>
 
 At the end of the process, a message will be displayed suggesting that he create a free trial account.
 
@@ -38,11 +38,11 @@ At the end of the process, a message will be displayed suggesting that he create
 <mark style="color:orange;">**Creating a free trial account is not mandatory.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="236"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="236"><figcaption></figcaption></figure>
 
 The signatory will also receive a WhatsApp message confirming the completion of the signing process.
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="261"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="261"><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="By direct access to ArqSign via login" %}
@@ -62,7 +62,7 @@ Once logged into the account, the user must click on the [Mailbox > Inbox](../ma
 
 If the sender has defined a security code to open the document, the signatory will be asked to provide the code, which must have been previously received by email, WhatsApp, SMS, or directly from the sender. If the user does not have the code, they must click on **“I Didn’t Receive the Code”.**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Entering the Security Code:** If the signatory has received the security code, they can simply input it into the designated field to proceed with accessing the document. This ensures added security and authentication for document access.
 
@@ -78,13 +78,13 @@ For the process that has **more than one non-grouped document**, the screen with
 
 The platform lists the process documents according to the order defined when sending the documents for signature.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 When clicking on a document link, the system displays the selected document, presenting the process documents in the side menu and flagging the documents that are pending and/or unread.
 
 For a process with only one document, the system will not display a side list of files and will only show the "Sign" button at the bottom of the page.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">For processes with a single document, the system displays the "Sign Document" button according to the mandatory document reading parameter.</mark>
@@ -96,15 +96,15 @@ For a process with only one document, the system will not display a side list of
 
 {% tabs %}
 {% tab title="With mandatory reading" %}
-<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 When the process **requires reading documents**, the "**Sign Documents**" button appears disabled for the user as soon as they enter the process. In this case, the preview icon indicates the documents that are pending and/or unread, allowing the user to go through all the files. The "Sign Documents" button will be enabled at the end of the reading.
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Without mandatory reading" %}
-<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If the process does not require reading of documents, the "**Sign Documents**" button is already enabled for the user as soon as they enter the process. In this case, the preview icon only indicates the documents that are pending and/or unread.
 {% endtab %}
@@ -120,41 +120,41 @@ Here you can view the history of the signing process and its documents. Select t
 
 With the events button positioned to the left, the process data will be displayed on the screen.
 
-<figure><img src="../.gitbook/assets/image (11) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 With the events button positioned to the right, it is possible to view the IDs and Hashes of the documents, in the case of a **process with more than one non-grouped document**.
 
-<figure><img src="../.gitbook/assets/image (12) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Decline Subscription**
 
 This option is used when, for some reason, the signatory does not wish to sign the document. In this case, they must provide a justification for the refusal and click on “Refuse Signature”. By refusing the signature, the document signing process will be automatically canceled for all involved and will appear with the status “Canceled” for the sender responsible for the document.
 
-<figure><img src="../.gitbook/assets/image (13) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Complete Later**
 
 This option is used to return and complete the signing at another time. Whenever this option is selected, the platform will display a message validating the action.
 
-<figure><img src="../.gitbook/assets/image (14) (1) (1) (1) (1).png" alt="" width="548"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1) (1) (1) (1) (1).png" alt="" width="548"><figcaption></figcaption></figure>
 
 **Download File**
 
 This option allows you to download the documents in the signing process. Select the file(s) you want and click "Download".
 
-<figure><img src="../.gitbook/assets/image (15) (1) (1) (1).png" alt="" width="449"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1) (1) (1) (1).png" alt="" width="449"><figcaption></figcaption></figure>
 
 At this stage of the process, the documents have not yet been signed, so it is only possible to download the files without recording the signatures.
 
 At the bottom of the page, there is also the "**Electronic Signature Term**", which can be viewed by the user, along with the option to change the platform language. The available languages are currently "English - USA," "Spanish - Spain," and "Portuguese - Brazil".
 
-<figure><img src="../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 When signing the document, the system will automatically record the signatory’s acceptance of the "Electronic Signature Term".
 
 To proceed with the signature, the signatory must click on "Sign".
 
-<figure><img src="../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### AppNative
 
