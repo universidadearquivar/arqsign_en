@@ -2,13 +2,13 @@
 
 In the Renewals menu, all documents that have been registered and sent for signing with the option "Schedule renewal \_\_\_ months after signature completion" checked in the [New Document screen > Add Documents and Recipients > Add Documents](../top-menu/new-document.md) will be displayed. Only documents with the "Completed" status can be shown in this screen.
 
-<figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Main Screen Columns – Renewals&#x20;
 
-<figure><img src="../.gitbook/assets/02 (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Column Name of Document:** This column displays the document name and the name of the signatory. If there are multiple signatories, it shows the name of the first one and the number of other people who still need to sign.
 
@@ -16,7 +16,7 @@ In the Renewals menu, all documents that have been registered and sent for signi
 
 **Column Status:** In the Renewals screen, the only status available for a document is “Completed” (all participants have signed the document). Hovering over the status will display information about the signatories. The security code sent to recipients (if any) will also be shown.
 
-<figure><img src="../.gitbook/assets/03 (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="287"><figcaption></figcaption></figure>
 
 **Column Size:** This column displays the file size of the document.
 
@@ -30,13 +30,13 @@ In the Renewals menu, all documents that have been registered and sent for signi
 
 **Filter Bar:** It is possible to locate one or more documents using the available search filters. In the Renewals screen, search can be done by document name, responsible person’s name, signatories' names, document status, folder where the document is hosted, or document’s deletion date.
 
-<figure><img src="../.gitbook/assets/image (148).png" alt="" width="305"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="286"><figcaption></figcaption></figure>
 
 ***
 
 ## Individual Actions – Renewals
 
-<figure><img src="../.gitbook/assets/image (149).png" alt="" width="147"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **Renew**&#x20;
 
@@ -50,13 +50,13 @@ This action will be available if the document has reached the scheduled date and
 
 By clicking this option, the user can change the folder in which the document is stored.
 
-<figure><img src="../.gitbook/assets/image (150).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Change Renewal**&#x20;
 
 This option will only be available if the document has not yet been renewed. By clicking this option, the user can change the renewal date by specifying the number of months for the document's renewal interval. It is also possible to delete the renewal by clicking "Delete Schedule."
 
-<figure><img src="../.gitbook/assets/image (151).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt="" width="515"><figcaption></figcaption></figure>
 
 **History**
 
@@ -68,7 +68,7 @@ When the events button is positioned to the right, we can observe the process da
 
 With the events button positioned to the left, it is possible to view the Ids and Hashes of the documents, in the case of a **process with more than one document that is not grouped.**
 
-<figure><img src="../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 **Change Owner**&#x20;
 
@@ -78,7 +78,7 @@ By clicking this option, the user will be able to change the document's owner. O
 <mark style="color:orange;">**Only users registered under the same account as the responsible party can be selected as the new owner.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (154).png" alt="" width="541"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt="" width="531"><figcaption></figcaption></figure>
 
 **Download File**
 
@@ -86,11 +86,11 @@ When the process contains a single document or is a sharing of only one document
 
 The zip folder is named with the process name, and the signature record file is named as **DocumentName\_SignatureRecord**.
 
-<figure><img src="../.gitbook/assets/image (155).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 When the process **contains more than one document**, the system displays a modal with the documents from the process for the user to select which documents they wish to download. If it is a sharing, only the documents that were shared should be listed.
 
-<figure><img src="../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt="" width="563"><figcaption></figcaption></figure>
 
 The Signature Log displays all information about the electronic and digital signatures made during the process, such as the signatories' names, the date and time of the signature, location, IP address where it was made, details of the digital certificates used, etc.
 
@@ -120,7 +120,7 @@ When sharing the process documents, the user has the option to send them via ema
 
 Add all the emails that should receive the shared documentation in the indicated field.
 
-<figure><img src="../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 <mark style="color:red;">When sharing documents from a process, it is important to note that the recipient of the shared documents will only be able to view the documents selected for sharing, not all the documents that make up the signing process.</mark>
@@ -140,17 +140,17 @@ When sharing more documents from the process, the list will display, in addition
 
 **Delete:** Used to delete the file, which will be moved to the [Deleted folder](deleted.md).
 
-<figure><img src="../.gitbook/assets/image (167).png" alt="" width="315"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 **Rename:** This option will only be displayed if the user, in addition to being a signer, is also the sender of the document.
 
 When the process contains only one document, the system allows the process name to be changed:
 
-<figure><img src="../.gitbook/assets/image (168).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt="" width="467"><figcaption></figcaption></figure>
 
 When the process contains more than one document, the system allows both the process name and the names of the documents within the process to be changed.
 
-<figure><img src="../.gitbook/assets/image (169).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt="" width="467"><figcaption></figcaption></figure>
 
 The "**Rename process documents**" field is displayed only if the logged-in user is the sender of the process and the process contains more than one document/file.
 
@@ -162,19 +162,19 @@ The user has the option to move the documents, changing their order. When docume
 
 This option allows the user to view all versions of a document that have been sent. When a document is renewed and completed, it is no longer displayed on the Renewals screen, but the information about its submission can still be viewed on the Document Versioning screen.
 
-<figure><img src="../.gitbook/assets/image (170).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Batch Actions - Renewals
 
 It is possible to select multiple documents by checking the checkboxes next to the file names and perform batch actions.
 
-<figure><img src="../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (171).png" alt="" width="226"><figcaption></figcaption></figure>
 
 **Move Process(es)**&#x20;
 
 By clicking this icon, you will be able to change the folder where the selected documents are stored.
 
-<figure><img src="../.gitbook/assets/image (172).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Change Owner**&#x20;
 
@@ -184,11 +184,10 @@ By clicking this icon, you can change the ownership of the selected documents, m
 <mark style="color:orange;">**Only users registered under the same account as the responsible user can be selected as new owners.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (173).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt="" width="531"><figcaption></figcaption></figure>
 
 **Delete**&#x20;
 
 By clicking this icon, you can delete the selected documents. This action can only be performed on documents with the status "Completed" or "Cancelled."
 
-<figure><img src="../.gitbook/assets/image (174).png" alt="" width="372"><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/image (17).png" alt="" width="307"><figcaption></figcaption></figure>

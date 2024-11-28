@@ -4,7 +4,7 @@ In the Documents menu, all completed documents from the user's account are store
 
 Clicking on the menu will display the root folder of the directory, where all the documents of the account will be hosted.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -12,7 +12,7 @@ Clicking on the menu will display the root folder of the directory, where all th
 
 The root folder is automatically created when the user's account is created and is, by default, named after the account. To rename it, click on "Rename" in the "Actions" column.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 ### Access to the Root Folder of Directories&#x20;
 
@@ -30,7 +30,7 @@ Access to the root directory folder is granted to users who have been designated
 
 On the "Edit Authorizations" screen, click on the "Include" icon.
 
-<figure><img src="../../.gitbook/assets/04 (8).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 In the "Group" field, select the group to which access will be granted and enable read permission for all under [Documents > Actions > Edit Permissions](./#individual-actions-subdirectories).
 
@@ -40,7 +40,7 @@ In the "Profile" field, select the profile that designates the user's or group's
 * Documents Collaborator: A user or group with this directory profile can view and download content, include, move, share, and rename documents in the folder they have access to.
 * Documents Reader: A user or group with this directory profile can only view and download the content of the folder and documents.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -48,7 +48,7 @@ In the "Profile" field, select the profile that designates the user's or group's
 
 When clicking on the root folder, subdirectories are displayed, which are subfolders created to organize documents according to the user's needs. Documents that are not stored in any of these subdirectories may also be shown.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 ### Columns on the Main Screen - Subdirectories
 
@@ -60,7 +60,7 @@ When clicking on the root folder, subdirectories are displayed, which are subfol
 
 **Size Column:** Displays the size of the document. For folders, this field will be blank, as a folder contains documents of varying sizes.
 
-<figure><img src="../../.gitbook/assets/07 (8).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 ### Individual Actions - Subdirectories
 
@@ -70,21 +70,21 @@ When clicking on the root folder, subdirectories are displayed, which are subfol
 
 **Change Owner:** This option will only be available for individual documents and if the user is the sender of the document. By clicking this option, it will be possible to assign a new owner to the document. To do this, select the new owner user and click "Change."
 
-<figure><img src="../../.gitbook/assets/09 (7).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt="" width="494"><figcaption></figcaption></figure>
 
 **Download File:** This option will only be available for individual documents. Click this option to download the signed document.
 
 **Share:** This option will only be available for individual documents. This option allows the user to create an access link to the document, which can be shared with people who are not participants in the signing process. The link can have a set or indefinite expiration date, and the user can decide whether to allow people accessing it to also view the attachments sent by the signers.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Move:** This option will only be available for individual documents. Clicking this option will allow you to change the folder where the selected documents are stored. Select the folder to which the documents will be moved and click "Move".
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Rename:** This option is available for individual documents and folders. It is used to rename the document or folder.
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Batch Actions - Subdirectories
 
@@ -100,4 +100,4 @@ It is possible to select more than one document by marking the checkboxes next t
 
 **Search Bar:** You can search by document or folder name using the top search bar.
 
-<figure><img src="../../.gitbook/assets/13 (3).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (292).png" alt=""><figcaption></figcaption></figure>

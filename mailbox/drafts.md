@@ -56,7 +56,7 @@ When a process contains a document or is a shared single document from the proce
 
 The .zip folder is named after the process name, and the signature record file is named as _**DocumentName\_SignatureRegistration**_.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 When the process **contains more than one document**, the system displays a modal with the documents of the process, allowing the user to select which documents they wish to download. In the case of sharing, only the documents that have been shared will be listed.
 
@@ -64,7 +64,7 @@ When the process **contains more than one document**, the system displays a moda
 
 When downloading from the Menu > Drafts, by default, the Signature Record, which displays all information about the electronic and digital signatures such as the signatories' names, date and time of the signature, location, IP address, and digital certificate details, is generated. However, it appears without the signature data since the document has not yet been sent for signing.
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Delete**&#x20;
 
@@ -94,7 +94,7 @@ The user has the ability to move documents, changing their order. When moving th
 
 It is possible to select more than one document by marking the checkboxes next to the file name and perform batch actions.
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Move Process(es)**&#x20;
 
