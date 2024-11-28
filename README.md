@@ -53,7 +53,7 @@ The ArqSign website ([https://arquivar.com.br/arqsign/](https://arquivar.com.br/
 
 To request support or assistance, click on "Support" in the bottom menu of the page.
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The user will be directed to the platform's Help Center, where they can search through posted content for a solution to their question or request contact with the support team.
 
@@ -61,11 +61,11 @@ The user will be directed to the platform's Help Center, where they can search t
 
 Contact with the support team can be made via WhatsApp, chat, email (faleconosco@arqsign.com), or phone (4003-8839).
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 After authentication, the user will also have access to the support menu on the platform, located at the bottom right corner of the screen.
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -85,11 +85,11 @@ The free trial account on the ArqSign Platform provides users with nearly all th
 
 1. To create a free trial account, on the homepage of the ArqSign platform website, click on "Free Trial".
 
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. The user will be redirected to the login page, where they should enter their email and click “Start Now.”
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt="" width="491"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="491"><figcaption></figcaption></figure>
 
 3. Next, provide the requested information:&#x20;
 
@@ -99,13 +99,13 @@ The free trial account on the ArqSign Platform provides users with nearly all th
 * **Testing ArqSign for:** Choose the purpose of the test to be conducted on the ArqSign platform.&#x20;
 *   **Password:** Create a password following the minimum security requirements (at least eight characters, including at least one uppercase letter, one lowercase letter, one number, and one special character). &#x20;
 
-    <figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt="" width="329"><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="329"><figcaption></figcaption></figure>
 
 To complete the process, click on&#x20;
 
 4.  To finish, click on “Start My Free Trial.” A confirmation message for account creation will appear. To access the platform, click the provided link.
 
-    <figure><img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png" alt="" width="326"><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="326"><figcaption></figcaption></figure>
 5. The user will be directed to the login screen, where they should enter the password created during registration and click on "Acces My Account" to complete the initial access.
 
 <figure><img src=".gitbook/assets/10 (3).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
@@ -138,13 +138,13 @@ For annual plans, there is an option to purchase in up to 12 installments withou
 
 1.  To purchase a plan, go to the ArqSign website's homepage and click on "Plans and Prices" in the top menu. &#x20;
 
-    <figure><img src=".gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 2.  The features and prices of each plan will be presented. Click on "Start Now" for the plan you wish to purchase.
 
-    <figure><img src=".gitbook/assets/image (11) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (11) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 3.  The user will be directed to the checkout page, where the details of the chosen plan will be displayed. They should enter their billing and payment information and click "Complete Purchase."
 
-    <figure><img src=".gitbook/assets/image (12) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (12) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 4. After the payment is made, the user will receive an email with the activation link for the account, which they should click to complete the first login.
 
 ***

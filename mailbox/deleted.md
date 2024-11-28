@@ -99,4 +99,4 @@ It is possible to select more than one document by checking the checkboxes next 
 <mark style="color:red;">**Documents with the "Created" status cannot be restored.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>

@@ -232,7 +232,7 @@ To edit a contact, choose the "Edit" option, make the necessary changes, and cli
 To send a document for signature to a saved contact in the ArqSign Platform, whether in your user account or shared by another user, follow these steps:
 
 1. Click on "New Document," upload the document, and perform the necessary settings related to the document.
-2. In the recipient configuration section, click on the button.<img src="../.gitbook/assets/image (9).png" alt="" data-size="original">
+2. In the recipient configuration section, click on the button.<img src="../.gitbook/assets/image (9) (1).png" alt="" data-size="original">
 3. The platform will display a query grid with all the contacts of the logged-in user associated with the logged-in account, alphabetically ordered by the name column. It will then display all the contacts from other active users in the logged-in account who have been marked for sharing with all account users, alphabetically ordered by the name column.
 4. Choose the recipient(s) and click on "Add Recipients."
 5. Configure the type of electronic signature for each recipient.
@@ -675,7 +675,7 @@ Once a user is created, they can modify the following details in their profile:
 
 This change will reflect in the notification of signature requests that the user sends.
 
-![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 
 
