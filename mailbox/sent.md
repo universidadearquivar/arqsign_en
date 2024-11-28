@@ -8,17 +8,17 @@ In the _Sent_ box, all documents sent by the user to signatories are displayed, 
 
 When clicking on a document, the document view screen will open, displaying the sent document, its status, and expiration date. On the right side of the screen, signatory information is shown, including personal data, signatory role, and signature status.
 
-<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 When the process contains more than one document that is not grouped, the system lists the documents in the order defined for the process documents, allowing navigation through the documents. The currently selected document is displayed on the screen for the logged-in user.
 
 **Logged in user view**
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **View Not Logged In User**
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 By default, the signatory's data is displayed openly on the screen. Simply close the list and continue navigating the document.
 
@@ -26,7 +26,7 @@ By default, the signatory's data is displayed openly on the screen. Simply close
 
 ## Columns on the main screen – Sent
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Document Name Column:** This column displays the document name and the signatory's name. If there are multiple signatories, the name of the first signatory is shown along with the number of others who need to sign.
 
@@ -34,7 +34,7 @@ By default, the signatory's data is displayed openly on the screen. Simply close
 
 **Status Column:** The possible statuses for a document are: "Waiting" (no participants have signed the document yet), "In Process" (one or more participants have signed the document, but there are still pending signatures), "Completed" (all participants have signed the document), and "Cancelled" (the document sending was cancelled, and the signing process was interrupted). Hovering over the status will display information about which signatories still have pending signatures and which have completed them, along with their details. The security code sent to the recipients (if any) is also displayed.
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt="" width="424"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt="" width="424"><figcaption></figcaption></figure>
 
 **Size Column:** This column displays the file size of the document.
 
@@ -54,7 +54,7 @@ By default, the signatory's data is displayed openly on the screen. Simply close
 
 ## Individual Actions - Sent
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt="" width="177"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt="" width="177"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">It is important to note that the "Actions" displayed on the screen depend on the "Status" of the signing process.</mark>
@@ -66,11 +66,11 @@ It is possible to resend documents that have not been signed by all signatories.
 
 When clicking "Resend," the sending order information will be displayed for the recipients, including the email or phone number to which the document was sent, and the security code for document access (if applicable).
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the "Edit" icon, it is possible to edit the recipient's information, as well as the settings defined for document validation in the [recipient's configuration](../top-menu/new-document.md#step-2-configure-fields).
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">The document validation data can only be edited on this screen if it was configured previously. The "Edit" option does not allow the inclusion of validation data.</mark>
@@ -80,7 +80,7 @@ In the "Edit" icon, it is possible to edit the recipient's information, as well 
 
 This option will only be displayed if the user has access to the folder where the document is stored. By clicking this option, the user can change the folder in the directory where the document is stored.
 
-<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Change Owner**
 
@@ -90,32 +90,32 @@ By selecting this option, the user can change the document owner. After executin
 <mark style="color:orange;">**Only users registered under the same account as the current owner can be selected as the new owner.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt="" width="531"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (1) (1).png" alt="" width="531"><figcaption></figcaption></figure>
 
 **Download File**\
 When the process contains a document or is a sharing of only one document from the process, **the system downloads** the **document and the signature record** in a .zip folder.
 
 The zip folder is named after the process name, and the signature record file is named as "**DocumentName\_SignatureRecord**."
 
-<figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 When the **process contains more than one document**, the system displays a modal with the documents of the process, allowing the user to select which documents they wish to download. In the case of a sharing, only the documents that have been shared should be listed.
 
-<figure><img src="../.gitbook/assets/image (13) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Signature Log**&#x20;
 
 The Signature Log displays all information about the electronic and digital signatures completed during the process, including the signatories' names, date and time of signing, location, IP address of the signing location, details of the digital certificates used, and more.
 
-<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Cancel**&#x20;
 
 By selecting this option, the document is canceled, and the signature process is halted.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 **History**
 
@@ -123,17 +123,17 @@ This option allows users to view information about the document and its related 
 
 With the **events button positioned to the right**, the process data is displayed on the screen.
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 With the **events button positioned to the left**, it is possible to view the IDs and hashes of the documents, in cases where a **process contains more than one ungrouped document**.
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Change Renewal**&#x20;
 
 This option is only available if the document has a "Completed" status. By selecting this option, the user can add or modify the document's renewal date, previously set in the "Schedule renewal \_\_\_ months after signing completion" field, located in the New Document > Add Documents and Recipients > Add Documents screen. To set or adjust the number of months between renewals, edit the "Renewal Interval (Months)" field.
 
-<figure><img src="../.gitbook/assets/image (19).png" alt="" width="500"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt="" width="500"><figcaption></figcaption></figure>
 
 **Correct**\
 This button will appear when the contact information (email or phone number) for sending the document to one or more signatories is incorrect. In this case, it is necessary to correct the incorrect information for the system to resend the document.
@@ -141,7 +141,7 @@ This button will appear when the contact information (email or phone number) for
 **Delete**\
 This option is used to delete the workflow. Deleted workflows will be moved to the [Deleted](deleted.md) folder.
 
-<figure><img src="../.gitbook/assets/image (20).png" alt="" width="364"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1).png" alt="" width="364"><figcaption></figcaption></figure>
 
 **Rename**
 
@@ -149,11 +149,11 @@ This option is only available if the user is both the signatory and the sender o
 
 When the process contains only one document, the system allows changing the process name.
 
-<figure><img src="../.gitbook/assets/image (21).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 When the process contains more than one document, the system allows changing both the process name and the names of the documents within the process.
 
-<figure><img src="../.gitbook/assets/image (22).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 The "**Rename process documents**" field is displayed only if the logged-in user is the sender of the process and if the process contains more than one document/file.
 
@@ -166,15 +166,15 @@ This option allows the user to create an access link to one or more documents wi
 
 When a process with multiple ungrouped documents does not have document sharing, the system opens a modal for the user to select the documents they wish to share.
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 When the process with multiple documents has document sharing enabled, the system opens a modal displaying the links that have already been shared.
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 By expanding the actions of the shared link, it is possible to **view** the sharing screen again or **delete** the sharing that was previously done.
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 When sharing the documents of the process, the user has the option to send them via email by clicking the "Send Link by Email" button.
 

@@ -76,7 +76,7 @@ In the Standard Message tab, the user can create multiple specific messages to c
 
 **Add:** Click on Add "+**"** to include a new message.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 Fill in the fields displayed on the screen, paying attention to the character limit allowed in each field. Click Save.
 
@@ -106,19 +106,19 @@ Repeat the process until all the messages you wish to keep as default are added.
 
 In the Signature Style tab, the user must define the visual representation of their signature. The user can register three types of Signature Styles by clicking on "Edit."
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Default:** In this signature style, the user must provide their full name and define the font style for the text. To do this, click on "Style" and make the definition. To delete, click on the trash can icon.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Drawing:** To sign with a drawing, the user must, in the "Signature Drawing Area" field, draw their signature using the mouse or finger if using a mobile phone or tablet. To correct it, click on the trash can icon.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Image:** If desired, the user can upload an image that represents their signature. To delete, click on the trash can icon.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 The signature styles for the visual representations registered here will be displayed to the user whenever they need to [sign a document](document-signing.md). To finalize the inclusion of one of the Signature Styles, select it and click "Apply."
 
@@ -138,7 +138,7 @@ The main screen displays the information of all certificates registered by the u
 
 To upload a certificate, the user must click on the "New" icon, import the certificate file, define a name, and provide the certificate password.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="" width="560"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="560"><figcaption></figcaption></figure>
 
 ***
 
@@ -150,7 +150,7 @@ This tab will also include requests for document ownership transfer due to the [
 
 If the transfer request is for a single document, it is processed instantly, but if the transfer request is in bulk, it may take up to 24 hours to be completed.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Request Date:** This column displays the date when the user requested the document transfer.
 
