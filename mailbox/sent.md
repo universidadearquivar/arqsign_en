@@ -14,11 +14,11 @@ When the process contains more than one document that is not grouped, the system
 
 **Logged in user view**
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **View Not Logged In User**
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 By default, the signatory's data is displayed openly on the screen. Simply close the list and continue navigating the document.
 
@@ -26,7 +26,7 @@ By default, the signatory's data is displayed openly on the screen. Simply close
 
 ## Columns on the main screen – Sent
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Document Name Column:** This column displays the document name and the signatory's name. If there are multiple signatories, the name of the first signatory is shown along with the number of others who need to sign.
 
@@ -34,7 +34,7 @@ By default, the signatory's data is displayed openly on the screen. Simply close
 
 **Status Column:** The possible statuses for a document are: "Waiting" (no participants have signed the document yet), "In Process" (one or more participants have signed the document, but there are still pending signatures), "Completed" (all participants have signed the document), and "Cancelled" (the document sending was cancelled, and the signing process was interrupted). Hovering over the status will display information about which signatories still have pending signatures and which have completed them, along with their details. The security code sent to the recipients (if any) is also displayed.
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt="" width="424"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt="" width="424"><figcaption></figcaption></figure>
 
 **Size Column:** This column displays the file size of the document.
 
@@ -54,7 +54,7 @@ By default, the signatory's data is displayed openly on the screen. Simply close
 
 ## Individual Actions - Sent
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt="" width="177"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt="" width="177"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">It is important to note that the "Actions" displayed on the screen depend on the "Status" of the signing process.</mark>
@@ -66,11 +66,11 @@ It is possible to resend documents that have not been signed by all signatories.
 
 When clicking "Resend," the sending order information will be displayed for the recipients, including the email or phone number to which the document was sent, and the security code for document access (if applicable).
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the "Edit" icon, it is possible to edit the recipient's information, as well as the settings defined for document validation in the [recipient's configuration](../top-menu/new-document.md#step-2-configure-fields).
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">The document validation data can only be edited on this screen if it was configured previously. The "Edit" option does not allow the inclusion of validation data.</mark>
