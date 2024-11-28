@@ -101,13 +101,13 @@ The zip folder is named after the process name, and the signature record file is
 
 When the **process contains more than one document**, the system displays a modal with the documents of the process, allowing the user to select which documents they wish to download. In the case of a sharing, only the documents that have been shared should be listed.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Signature Log**&#x20;
 
 The Signature Log displays all information about the electronic and digital signatures completed during the process, including the signatories' names, date and time of signing, location, IP address of the signing location, details of the digital certificates used, and more.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 

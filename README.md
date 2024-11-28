@@ -167,11 +167,11 @@ The user will be offered the option to [create a free trial account](https://arq
 
 On the password recovery screen, the user must enter the same email used to access the platform and click "Recover."&#x20;
 
-<figure><img src=".gitbook/assets/image (13) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (13) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The user will receive an email containing a link that they should click to set a new password.
 
-<figure><img src=".gitbook/assets/image (14) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (14) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 

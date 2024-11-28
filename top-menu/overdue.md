@@ -8,17 +8,17 @@ The Overdue menu provides users with a comprehensive view of documents sent for 
 
 ## Columns on the main screen - Overdue
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **Document Name Column**: This column displays the document name and the name of the signer. If there is more than one signer, it will show the name of the first signer and the number of other people who need to sign. All listed documents will display the message “Expired before signatures were completed”.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 **Responsible Column**: This column displays the name and email of the person who sent the document (sender). In the Expired screen, the user’s own name will always be displayed.
 
 **Status Column**: Documents listed on the Expired screen will always have the status “Awaiting” (no participant has signed the document yet) or “In process” (one or more participants have signed the document, but signatures are still pending). Hovering over the status shows information about which signers still have pending signatures and which have completed them, along with signer details.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **Size Column**: This column displays the document file size.
 
@@ -32,25 +32,25 @@ The Overdue menu provides users with a comprehensive view of documents sent for 
 
 **Filter Bar**: You can locate one or more documents using the available search filters. Searches can be done by document name, signer name, status, folder where the document is stored, or document expiration date.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="286"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt="" width="286"><figcaption></figcaption></figure>
 
 ***
 
 ## Individual Actions – Overdue
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="174"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt="" width="174"><figcaption></figcaption></figure>
 
 **Resend**
 
 Clicking this button will display the sending order information for the recipients, the email or phone number to which the document was sent, the security code for document access (if available), and the "Edit" icon, which allows editing of the recipient’s information. When the document is resent, it will no longer appear in the Expired screen because the expiration deadline is renewed.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 **Change Folder**&#x20;
 
 This option will only be displayed if the user has access to the account where the document is stored. By clicking this option, the user will be able to change the folder in the directory where the document is stored.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Change Owner**
 
@@ -60,7 +60,7 @@ By clicking this option, the user will be able to change the document’s owner.
 <mark style="color:orange;">**Only users registered under the same account as the current owner can be selected as the new owner.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (9).png" alt="" width="533"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt="" width="533"><figcaption></figcaption></figure>
 
 **Download File**
 
@@ -84,7 +84,7 @@ The Signature Record displays all information about the electronic and digital s
 
 Clicking this option will cancel the document, and the signature process will be interrupted.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 **History**
 
@@ -114,16 +114,16 @@ Clicking this option will allow you to change the document owner. Once this acti
 <mark style="color:orange;">**Only users registered under the same account as the current owner can be selected as the new owner.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (9).png" alt="" width="533"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt="" width="533"><figcaption></figcaption></figure>
 
 **Cancel Send**
 
 Clicking this icon will allow you to cancel the sending of the selected documents, interrupting the signature processes.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 **Resend**
 
 Clicking this icon will allow you to resend the selected documents to recipients who have not yet signed. When a document is resent, it will no longer appear on the Expired screen because the expiration deadline is renewed.
 
-<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>

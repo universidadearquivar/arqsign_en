@@ -130,13 +130,13 @@ With the events button positioned to the right, it is possible to view the IDs a
 
 This option is used when, for some reason, the signatory does not wish to sign the document. In this case, they must provide a justification for the refusal and click on “Refuse Signature”. By refusing the signature, the document signing process will be automatically canceled for all involved and will appear with the status “Canceled” for the sender responsible for the document.
 
-<figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Complete Later**
 
 This option is used to return and complete the signing at another time. Whenever this option is selected, the platform will display a message validating the action.
 
-<figure><img src="../.gitbook/assets/image (14) (1) (1).png" alt="" width="548"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1) (1) (1).png" alt="" width="548"><figcaption></figcaption></figure>
 
 **Download File**
 
