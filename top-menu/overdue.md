@@ -8,17 +8,17 @@ The Overdue menu provides users with a comprehensive view of documents sent for 
 
 ## Columns on the main screen - Overdue
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Document Name Column**: This column displays the document name and the name of the signer. If there is more than one signer, it will show the name of the first signer and the number of other people who need to sign. All listed documents will display the message “Expired before signatures were completed”.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Responsible Column**: This column displays the name and email of the person who sent the document (sender). In the Expired screen, the user’s own name will always be displayed.
 
 **Status Column**: Documents listed on the Expired screen will always have the status “Awaiting” (no participant has signed the document yet) or “In process” (one or more participants have signed the document, but signatures are still pending). Hovering over the status shows information about which signers still have pending signatures and which have completed them, along with signer details.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Size Column**: This column displays the document file size.
 
@@ -32,19 +32,19 @@ The Overdue menu provides users with a comprehensive view of documents sent for 
 
 **Filter Bar**: You can locate one or more documents using the available search filters. Searches can be done by document name, signer name, status, folder where the document is stored, or document expiration date.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="" width="286"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="286"><figcaption></figcaption></figure>
 
 ***
 
 ## Individual Actions – Overdue
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="174"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="174"><figcaption></figcaption></figure>
 
 **Resend**
 
 Clicking this button will display the sending order information for the recipients, the email or phone number to which the document was sent, the security code for document access (if available), and the "Edit" icon, which allows editing of the recipient’s information. When the document is resent, it will no longer appear in the Expired screen because the expiration deadline is renewed.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Change Folder**&#x20;
 
@@ -68,17 +68,17 @@ When a process contains a document or is a share of only one document from the p
 
 The .zip folder is named after the process, and the signature record file is named as **DocumentName\_Signature** Record.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 When the process **contains more than one document**, the system displays a modal with the process documents for the user to select which ones they wish to download. If it is a sharing, only the documents that have been shared should be listed.
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The Signature Record displays all information about the electronic and digital signatures made during the process, such as the signers' names, date and time of the signature, location, IP address from where it was made, details of the digital certificates used, etc.
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Cancel**
 
