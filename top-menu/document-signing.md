@@ -35,7 +35,7 @@ By clicking on the link or entering the code, the user will be directed to the s
 At the end of the process, a message will be displayed suggesting that he create a free trial account.
 
 {% hint style="warning" %}
-<mark style="color:orange;">Creating a free trial account is not mandatory.</mark>
+<mark style="color:orange;">**Creating a free trial account is not mandatory.**</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt="" width="236"><figcaption></figcaption></figure>
@@ -68,7 +68,7 @@ If the sender has defined a security code to open the document, the signatory wi
 
 **Requesting a New Code:** In the event that the signatory hasn't received the code or has misplaced it, clicking on "**I didn't receive the code"** will prompt the system to initiate the process for reissuing a new security code. This ensures that signatories can securely access the document without any delays or complications.
 
-<figure><img src="../.gitbook/assets/12 (10).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure>
 
 The document will be displayed on the screen for signature. At the top of the screen, you will see the names of the sender, the document name, navigation between pages, and buttons to zoom in and view the document in full screen.
 
@@ -172,15 +172,15 @@ In the next item, if there is a previous configuration requesting the signatory 
 
 If the signatory has also been asked to attach files, in the “Attachments” field, they must upload the requested documents. Once completed, the user must click “Next".
 
-<figure><img src="../.gitbook/assets/13 (7).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ### Step 3 - Signature Style&#x20;
 
-The Signature Style is the visual representation of the user's signature. To sign a document, the user must choose how to sign, based on the settings made by the recipient in the [**New Document**](new-document.md#b.-recipients). At this point, the recipient must indicate which visual representation should be used by the signer: "Standard, Drawing or Image," or only "Standard (Text)," only "Drawing," or only "Image."
+The Signature Style is the visual representation of the user's signature. To sign a document, the user must choose how to sign, based on the settings made by the recipient in the [New Document](new-document.md#b.-recipients). At this point, the recipient must indicate which visual representation should be used by the signer: "Standard, Drawing or Image," or only "Standard (Text)," only "Drawing," or only "Image."
 
-<figure><img src="../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
 
 * **Default:**&#x49;n this style, the user must enter their full name and define the style (font) in which the text should be presented. To do this, they should click on "Style" and make the selection.
 
@@ -224,7 +224,7 @@ For an electronic signature, the user provides their personal or business detail
 
 If the user is using an electronic signature, they will be required to fill in the mandatory fields requested. These mandatory fields may vary depending on the document. The symbol <mark style="color:red;">\*</mark> indicates that the information is required.
 
-<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
 
 **B. Digital Signature – ICP Brasil and Others**
 
@@ -234,7 +234,7 @@ If it has been defined that the user must sign using a digital certificate (ICP 
 
 The user must select the certificate they will use to sign and enter the certificate's PIN code (if prompted). If the user is also required to sign as a Legal Entity, the same signature will be used for both cases.
 
-<figure><img src="../.gitbook/assets/image (75).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (75).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">The certificates hosted in the user's ArqSign platform account, as presented here, must have been previously imported in the</mark> [<mark style="color:blue;">**My Profile > Digital Certificate**</mark>](my-profile.md) <mark style="color:orange;">tab. If the user has a digital certificate hosted on ArqSign, they will be given the option to authenticate within the platform to use the certificate they have.</mark>
@@ -266,9 +266,11 @@ If you have not done so yet, when signing a document for the first time using a 
 
 </details>
 
-To finalize the signing process, the signer must click on “Finish.” They will be directed to the login screen. If they already have an active account on the signing platform, they can enter their credentials to log in. If they do not have an account registered on the platform, a message will be displayed suggesting the creation of a free trial account.
+To complete the signing process, the signer must click on "Finish." They will be directed to a pop-up screen, which will vary depending on their situation.
 
-<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+If they already have an active account on the signing platform and are logged in, they can click on the "return to the platform" option and will be redirected to their ArqSign inbox.
+
+
 
 {% hint style="warning" %}
 <mark style="color:orange;">Creating a free trial account is not mandatory.</mark>
