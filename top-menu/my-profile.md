@@ -2,7 +2,7 @@
 
 The My Profile menu displays the authenticated user's information.
 
-<figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (264).png" alt="" width="383"><figcaption></figcaption></figure>
 
 ***
 
@@ -10,11 +10,11 @@ The My Profile menu displays the authenticated user's information.
 
 The My Data tab displays the user's registration information. Data can be edited by clicking the “Edit” button.
 
-<figure><img src="../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (265).png" alt=""><figcaption></figcaption></figure>
 
 **Profile Photo:** To add or edit the profile photo, click on the image and select the “Upload New Image” option. Choose the desired photo and click “Save.” To delete the profile photo, simply click on the photo and select the “Delete Current Image” option.
 
-<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
 
 **Email:** The email presented in this field is the same one used during the user's account registration on the platform and cannot be changed.
 
@@ -32,7 +32,7 @@ The My Data tab displays the user's registration information. Data can be edited
 
 **Phone Number:** In this field, the user must provide their contact phone number and click “Add Phone.” The numbers entered here will be displayed below, in the “Phones” field.
 
-<figure><img src="../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -42,17 +42,17 @@ In the My Contacts tab, the user can register recipient information for sending 
 
 **Save recipients of a document sent for signature in my contact list:** By keeping this option checked, whenever the user sends a document for signature to a recipient who is not yet included in the contact list, the contact information of that recipient will be automatically saved, and they will become part of the list.
 
-<figure><img src="../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
 
 **Column Name:** This column displays the contact's name as it was registered in the list or as provided during the document submission. If the contact was shared with the user by another account member, the contact's name will be followed by the information of who registered it.
 
 **Column E-mail / WhatsApp:** This column shows the contact's name or email as provided in the registration or during the document submission.
 
-<figure><img src="../.gitbook/assets/06 (3).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (269).png" alt=""><figcaption></figcaption></figure>
 
 **Add Contact Icon:** To add a new contact, click on the "Add Contact" icon and provide the contact's name and email or WhatsApp number. By selecting the option "Share with all account users," the registered contact will be saved in the contact list of all users within the account. To finish, click on "Save".
 
-<figure><img src="../.gitbook/assets/07 (4).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (270).png" alt="" width="525"><figcaption></figcaption></figure>
 
 **Edit Contact Icon:** To edit contact information, select the desired recipient by checking the box to the left and click on the "Edit Contact" icon.
 
@@ -64,7 +64,7 @@ In the My Contacts tab, the user can register recipient information for sending 
 
 **Search Bar:** You can find a specific contact using email or WhatsApp filters for search.
 
-<figure><img src="../.gitbook/assets/08 (2).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (271).png" alt="" width="499"><figcaption></figcaption></figure>
 
 ***
 
