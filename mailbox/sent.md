@@ -1,20 +1,20 @@
 # 📩 Sent
 
-### View Process
+## View Process
 
 In the _Sent_ box, all documents sent by the user to signatories are displayed, including those where the user is also a signatory.
 
-<figure><img src="../.gitbook/assets/01 (12).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
 
 When clicking on a document, the document view screen will open, displaying the sent document, its status, and expiration date. On the right side of the screen, signatory information is shown, including personal data, signatory role, and signature status.
 
-<figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 When the process contains more than one document that is not grouped, the system lists the documents in the order defined for the process documents, allowing navigation through the documents. The currently selected document is displayed on the screen for the logged-in user.
 
 **Logged in user view**
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (273).png" alt=""><figcaption></figcaption></figure>
 
 **View Not Logged In User**
 
@@ -200,7 +200,7 @@ When multiple documents from the process are shared, the list will display, in a
 
 <figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-### Batch Actions - Sent
+## Batch Actions - Sent
 
 It is possible to select multiple documents by checking the checkbox next to the file name and selecting one of the batch action icons to perform.
 
