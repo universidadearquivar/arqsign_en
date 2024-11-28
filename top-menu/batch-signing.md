@@ -18,13 +18,13 @@ The batch signature process allows the user to sign multiple documents at once. 
 <mark style="color:red;">**They are not listed**</mark> <mark style="color:red;"></mark><mark style="color:red;">for batch subscription. To sign them, the user must access their</mark> [<mark style="color:blue;">Inbox</mark>](../mailbox/inbox.md) <mark style="color:red;">and sign them individually.</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (37) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Main Screen Columns – Batch Signature
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Document Name Column:** This column displays the document's name.
 
@@ -36,7 +36,7 @@ The batch signature process allows the user to sign multiple documents at once. 
 
 **Filter Bar:** Users can locate one or more documents using the available search filters. In the Batch Signature screen, the search can be performed by document name, responsible party name, or the type of signature to be used.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

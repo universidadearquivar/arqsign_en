@@ -62,7 +62,7 @@ When a process has one document or it is a sharing of only one document from the
 
 The zip folder is named after the process, and the signature record file is named as **DocumentName\_Signature\_Record**.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="474"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="474"><figcaption></figcaption></figure>
 
 When the **process has more than one document**, the system will display a modal with the process documents for the user to select which ones they want to download. In the case of sharing, only the documents that were shared should be listed.
 
@@ -75,11 +75,11 @@ Here, you can view the history of the signing process and its documents. Select 
 
 With the event button positioned to the right, the process data is displayed on the screen.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 With the event button positioned to the left, it is possible to view the IDs and Hashes of the documents, in the case of a process with more than one ungrouped document.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
