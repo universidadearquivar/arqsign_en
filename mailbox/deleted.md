@@ -6,7 +6,7 @@ In the Deleted menu, all documents deleted by the user are displayed. Documents 
 <mark style="color:orange;">**It is not possible to view the document on the Deleted screen. To view the file, it is necessary to restore the document and access it from its original inbox, which can be the**</mark> [<mark style="color:blue;">**Inbox**</mark>](inbox.md) <mark style="color:orange;">**or the**</mark> [<mark style="color:blue;">**Sent**</mark>](sent.md) <mark style="color:orange;">**folder.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/01 (2) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (285).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
