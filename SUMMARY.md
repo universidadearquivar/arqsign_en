@@ -70,7 +70,6 @@
       * [🗃️ 5. Webhook](integrations/api/available-methods-in-the-api/5.-webhook/README.md)
         * [✔️ 5.1.PATCH/api/v1/confwebhook/{idConfWebHook}/alterar-status](integrations/api/available-methods-in-the-api/5.-webhook/5.1.patch-api-v1-confwebhook-idconfwebhook-alterar-status.md)
         * [✔️ 5.2.POST/api/v1/confwebhook](integrations/api/available-methods-in-the-api/5.-webhook/5.2.post-api-v1-confwebhook.md)
-    * [🔳 Ideal flow considering some available methods](integrations/api/ideal-flow-considering-some-available-methods.md)
     * [🔳 ArqSign API URL](integrations/api/arqsign-api-url.md)
     * [🔳 Library for Postman Testing](integrations/api/library-for-postman-testing.md)
   * [🟪 Webhook](integrations/webhook.md)

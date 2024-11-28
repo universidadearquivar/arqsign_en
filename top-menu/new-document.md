@@ -54,27 +54,23 @@ Finally, to schedule the automatic renewal of the documents being registered, ch
 
 Advanced settings are document-specific settings. You can adjust them for all documents, i.e., leave a default setting for every time you need to request signatures, or configure options for just one specific document. To access the full list of options that can be configured for documents, go to [Administration > Account > Settings](../administration/administration/account.md#settings-tab). See below for all the general configurable options
 
-**Document expiration time after sending:** In this field, the user must enter the document expiration time (in days), which is the deadline for recipients to sign it.
+* **Document expiration time after sending:** In this field, the user must enter the document expiration time (in days), which is the deadline for recipients to sign it.
 
 {% hint style="warning" %}
 <mark style="color:orange;">If this field is not changed, it will be filled with the default value. The system default value is 120 days, but this value can be changed in the</mark> [<mark style="color:orange;">**Administration > Account > Settings**</mark>](../administration/administration/account.md#settings-tab) <mark style="color:orange;">menu.</mark>
 {% endhint %}
 
-**Notice before expiration:** This field must contain the deadline (in days) in which the system must send a notice about the document's expiration to recipients who have not yet signed.
-
-**Enable reminders:** When you enable this option, the system will send reminders to recipients to sign the document. These reminders will only be sent to signers who have not yet signed the document. By default, this option will be checked.
-
-**Send reminders to recipients every:** In this field, you must enter how often (in days) the system should send signature reminders to recipients who have not yet signed.
-
-Require signatory to read documents before signing: This setting requires the signatory to read the documents in the process. This information will be checked or unchecked, depending on the account configuration.
-
-**Generate document access QRCode in the Signature Registry:** When this option is enabled, a QRCode will be generated in the signature registry document. By default, this option will be unchecked.
+* **Notice before expiration:** This field must contain the deadline (in days) in which the system must send a notice about the document's expiration to recipients who have not yet signed.
+* **Enable reminders:** When you enable this option, the system will send reminders to recipients to sign the document. These reminders will only be sent to signers who have not yet signed the document. By default, this option will be checked.
+* **Send reminders to recipients every:** In this field, you must enter how often (in days) the system should send signature reminders to recipients who have not yet signed.
+* **Require signatory to read documents before signing:** This setting requires the signatory to read the documents in the process. This information will be checked or unchecked, depending on the account configuration.
+* **Generate document access QRCode in the Signature Registry:** When this option is enabled, a QRCode will be generated in the signature registry document. By default, this option will be unchecked.
 
 When you hover your mouse over the "Advanced Settings" option, a Tooltip is displayed with a preview of the settings made.
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-To specifically edit the settings of a specific file, click on **Advanced Settings**, as shown in the image below.
+To specifically edit the settings of a specific file, click on Advanced Settings, as shown in the image below.
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -126,11 +122,11 @@ Depending on the option chosen previously, provide the recipient's email address
 
 If you have determined that the recipient will sign as an individual or legal entity, you must define their role as signatory in the process. Select from one or more listed roles or add a custom “Signatory Role” by clicking “Add Role”.
 
-<div><figure><img src="../.gitbook/assets/10 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure> <figure><img src="../.gitbook/assets/11 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/10 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 The signatory roles presented here are previously created in the [Administration > Account > Settings Tab > Signatory Role](https://arquivar.gitbook.io/manual-arqsign/administracao/administracao/conta#papel-do-signatario) menu . By default, the platform presents the roles “Contractor”, “Contractor”, “Guarantor” and “Tenant”, but it is possible to edit or delete these roles, in addition to creating others if necessary.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/11 (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 **Signature Type:** Select whether the recipient should use an electronic signature or a digital certificate to sign the document.
 
@@ -168,7 +164,7 @@ After generating the code, choose whether it will be sent by email, WhatsApp, or
 
 <figure><img src="../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
-If you select the option to send via WhatsApp, you can allow the recipient to request that the code be resent by checking the checkbox “Allow this recipient to request that the security code be resent".
+If you select the option to send via WhatsApp, you can allow the recipient to request that the code be resent by checking the checkbox **“Allow this recipient to request that the security code be resent"**.
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Each resend of the security code requested by the recipient will consume WhatsApp credit from the account of the user sending the document.**</mark>
@@ -194,7 +190,7 @@ To add additional recipients, click on the "Add New Recipient" button. If you wi
 
 ### C. Default Message
 
-In the "**Default Message"** field,you can keep the default message created by the platform or select your standard message from the list created in "**My Profile,**" which will be sent to all recipients, filling in the "Subject" and "Message" fields.
+In the "Default Messag&#x65;**"** field,you can keep the default message created by the platform or select your standard message from the list created in "[My Profile](my-profile.md)"**,** which will be sent to all recipients, filling in the "Subject" and "Message" fields.
 
 {% hint style="warning" %}
 <mark style="color:orange;">**For recipients who have the Personalized Message fields filled out, the message provided will be sent instead of the standard message.**</mark>
@@ -202,7 +198,7 @@ In the "**Default Message"** field,you can keep the default message created by t
 
 <figure><img src="../.gitbook/assets/18 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
-Once you have completed these settings, click "Next" to proceed to the next step, "Finish Later" to save the flow as a draft, or "Discard" to cancel the registration.
+After completing these configurations, click "Next" to proceed to the next step, "Save as Draft" to save the workflow as a draft, or "Delete" to cancel the registration.
 
 <figure><img src="../.gitbook/assets/19 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -269,7 +265,7 @@ In the upper right corner of the screen, the **"Settings for"** field displays t
 
 <figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-If no signature order is configured in Step 1, the "**Settings for**" item displays the list of signers sorted alphabetically. If a signature order is configured, the list of signers will be grouped by signature order and sorted alphabetically.
+If no signature order is configured in [Step 1](new-document.md#step-1-add-documents-and-recipients), the "**Settings for**" item displays the list of signers sorted alphabetically. If a signature order is configured, the list of signers will be grouped by signature order and sorted alphabetically.
 
 <figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
