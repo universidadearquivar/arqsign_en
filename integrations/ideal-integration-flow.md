@@ -46,5 +46,5 @@ With the two Webhooks configured, you can implement the following integration fl
 
 _Click the images to enlarge_
 
-
+<figure><img src="../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
 
