@@ -73,4 +73,4 @@
     * [🔳 ArqSign API URL](integrations/api/arqsign-api-url.md)
     * [🔳 Library for Postman Testing](integrations/api/library-for-postman-testing.md)
   * [🟪 Webhook](integrations/webhook.md)
-  * [🔳 Change History](integrations/change-history.md)
+  * [Ideal Integration Flow](integrations/ideal-integration-flow.md)
