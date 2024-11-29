@@ -76,7 +76,7 @@ When clicking on the root folder, subdirectories are displayed, which are subfol
 
 **Share:** This option will only be available for individual documents. This option allows the user to create an access link to the document, which can be shared with people who are not participants in the signing process. The link can have a set or indefinite expiration date, and the user can decide whether to allow people accessing it to also view the attachments sent by the signers.
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Move:** This option will only be available for individual documents. Clicking this option will allow you to change the folder where the selected documents are stored. Select the folder to which the documents will be moved and click "Move".
 

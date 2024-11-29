@@ -18,7 +18,7 @@ When clicking on a document, the document's viewing screen will open, displaying
 
 ## Main Screen Columns – Inbox
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Document Name Column:** This column displays the document name and the signatory's name. If there is more than one signatory, the name of the first signatory will be shown, along with the number of additional people who need to sign.
 
@@ -26,7 +26,7 @@ When clicking on a document, the document's viewing screen will open, displaying
 
 **Status Column:** The possible statuses for a document are:"Waiting" (no participants have signed the document yet), "In process" (one or more participants have signed, but signatures are still pending), and "Completed" (all participants have signed the document). Hovering over the status reveals information about which signatories still have pending signatures, which have completed signing, and details about each signatory.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Size Column:** This column displays the file size of the document.
 
@@ -40,13 +40,13 @@ When clicking on a document, the document's viewing screen will open, displaying
 
 **Filter Bar:** One or more documents can be located using the available search filters. Searches can be conducted by the name or email of the sender, the name of a signatory, the document's status (only documents with "Completed," "Waiting," or "In process" statuses will be displayed in the Inbox), the folder where the document is stored, or the date the signatures were completed.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="239"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="239"><figcaption></figcaption></figure>
 
 ***
 
 ## Individual Actions - Inbox
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Sign**\
 Available only if the document has not yet been signed by the signatory and it is their turn to sign, according to the order set by the sender, if applicable. Clicking this button directs the user to [the document signing screen.](../top-menu/document-signing.md)
@@ -56,17 +56,17 @@ Here, the user can view the history of the signing process and its documents. Se
 
 With the events button positioned to the right, the process data is displayed on the screen.
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 When the events button is positioned to the left, the IDs and hashes of the documents can be viewed, in cases where a **process includes more than one document that is not grouped**.
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Change Folder**&#x20;
 
 This option is displayed only if the user has access to the account where the document is stored. By clicking this option, the user can change the directory folder where the document is stored.
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Change Owner**&#x20;
 
@@ -78,7 +78,7 @@ This option is displayed only if the user is both the signatory and the sender o
 <mark style="color:orange;">**A Global Administrator who is not the document’s sender may change the ownership of completed documents listed in the Directories feature or when deactivating a user who owns documents.**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt="" width="530"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt="" width="530"><figcaption></figcaption></figure>
 
 **Download File**\
 When a process includes a single document or involves sharing only one document from the process, **the system downloads** the **document along with the signature record** in a .zip folder.
@@ -89,11 +89,11 @@ The zip folder is named after the process, and the signature record file is name
 
 When **the process includes multiple documents**, the system displays a modal with the documents in the process, allowing the user to select which documents to download. In the case of a shared process, only the shared documents will be listed for selection.
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt="" width="560"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt="" width="560"><figcaption></figcaption></figure>
 
 The Signature Registration displays all information regarding the electronic and digital signatures performed during the process, such as the names of the signatories, the date and time of the signature, location, the IP address from which it was signed, details of the digital certificates used, and more.
 
-<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

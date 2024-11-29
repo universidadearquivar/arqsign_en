@@ -6,15 +6,15 @@
 
 1\. Identify which departments will use the ArqSign Platform for sending documents for signature. Based on these departments, create a folder for each one. To do this, go to the [Documents](./) screen, access the root folder, and click on the "Include Folder" icon.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Enter the department name and click Save.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 3.  Repeat the process until all necessary folders are created.
 
-    <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**The Global Administrator must perform all configurations, permission adjustments, user releases, etc., before starting to send documents for signing.**</mark>
@@ -34,7 +34,7 @@ Create user groups by separating them by sectors, functions, or a combination of
 * <mark style="color:blue;">Commercial - Other functions with read-only access</mark>
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -42,15 +42,15 @@ Create user groups by separating them by sectors, functions, or a combination of
 
 The groups created in the previous step must be inserted into [the root directory](./#root-folder-of-directories) with "Reader" permission. To do this, in the root folder, click on Actions > Edit Authorizations.&#x20;
 
-<figure><img src="../../.gitbook/assets/05 (10).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Click on the "Include" icon.&#x20;
 
-<figure><img src="../../.gitbook/assets/06 (8).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Select each of the groups created in the previous step and in the "Profile" column, assign the "Document Reader" profile to all the groups. Click on the "Confirm" icon to save the changes.
 
-<figure><img src="../../.gitbook/assets/07 (9).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -58,21 +58,21 @@ Select each of the groups created in the previous step and in the "Profile" colu
 
 The permissions for the sector folders must be adjusted so that access is granted only to members of the sector. To do this, it will be necessary to:
 
-1. **Stop inheriting permissions from the root folder:** In the "Actions" column of the desired sector folder, click on "Edit Permissions". Then, click on "Stop Inheriting".
+1.  **Stop inheriting permissions from the root folder:** In the "Actions" column of the desired sector folder, click on "Edit Permissions". Then, click on "Stop Inheriting".
 
-<figure><img src="../../.gitbook/assets/08 (7).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/09 (8).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 2. **Remove groups from other sectors:** Select all the other groups/sectors that should not have access to the content of the selected folder and click on the "Delete" icon.&#x20;
 
 Only the groups that should have access to the folder should remain.
 
-<figure><img src="../../.gitbook/assets/10 (6).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 **3. Edit the access profile of the relevant sector:** Adjust the permissions of the remaining groups by selecting them and clicking on the "Edit" icon.
 
-<figure><img src="../../.gitbook/assets/11 (5).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 **4. In the "Profile" column:** Define whether the group will remain only as "Document Reader" or if it will be "Document and Folder Administrator" or "Document Collaborator."
 
@@ -80,7 +80,7 @@ Only the groups that should have access to the folder should remain.
 * _Document Collaborator:_ A user or group with this directory profile can view and download content, add, move, share, and rename documents within the folder to which they have access.
 * _Document Reader:_ A user or group with this directory profile can only view and download the content of the folder and documents.
 
-<figure><img src="../../.gitbook/assets/12 (6).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**This process should be repeated for all other sectoral folders and subfolders that can be created within the sector folders.**</mark>
