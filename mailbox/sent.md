@@ -18,7 +18,7 @@ When the process contains more than one document that is not grouped, the system
 
 **View Not Logged In User**
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 By default, the signatory's data is displayed openly on the screen. Simply close the list and continue navigating the document.
 
@@ -113,7 +113,7 @@ The Signature Log displays all information about the electronic and digital sign
 
 By selecting this option, the document is canceled, and the signature process is halted.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **History**
 
@@ -131,7 +131,7 @@ With the **events button positioned to the left**, it is possible to view the ID
 
 This option is only available if the document has a "Completed" status. By selecting this option, the user can add or modify the document's renewal date, previously set in the "Schedule renewal \_\_\_ months after signing completion" field, located in the New Document > Add Documents and Recipients > Add Documents screen. To set or adjust the number of months between renewals, edit the "Renewal Interval (Months)" field.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="515"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="515"><figcaption></figcaption></figure>
 
 **Correct**
 
@@ -141,7 +141,7 @@ This button will appear when the contact information (email or phone number) for
 
 This option is used to delete the workflow. Deleted workflows will be moved to the [Deleted](deleted.md) folder.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="358"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt="" width="358"><figcaption></figcaption></figure>
 
 **Rename**
 
@@ -149,11 +149,11 @@ This option is only available if the user is both the signatory and the sender o
 
 When the process contains only one document, the system allows changing the process name.
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 When the process contains more than one document, the system allows changing both the process name and the names of the documents within the process.
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 The "**Rename process documents**" field is displayed only if the logged-in user is the sender of the process and if the process contains more than one document/file.
 

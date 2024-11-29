@@ -6,15 +6,15 @@
 
 1\. Identify which departments will use the ArqSign Platform for sending documents for signature. Based on these departments, create a folder for each one. To do this, go to the [Documents](./) screen, access the root folder, and click on the "Include Folder" icon.
 
-<figure><img src="../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Enter the department name and click Save.
 
-<figure><img src="../../.gitbook/assets/image (176).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
-3. Repeat the process until all necessary folders are created.
+3.  Repeat the process until all necessary folders are created.
 
-<figure><img src="../../.gitbook/assets/03 (9).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**The Global Administrator must perform all configurations, permission adjustments, user releases, etc., before starting to send documents for signing.**</mark>
@@ -34,7 +34,7 @@ Create user groups by separating them by sectors, functions, or a combination of
 * <mark style="color:blue;">Commercial - Other functions with read-only access</mark>
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/04 (9).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -36,9 +36,9 @@ In the "Group" field, select the group to which access will be granted and enabl
 
 In the "Profile" field, select the profile that designates the user's or group's access permission to Directories. The directory profiles can be:
 
-* Documents and Folders Administrator: A user or group with this directory profile can view and download content, include, move, share, and rename documents, delete or create new folders, and change access permissions.
-* Documents Collaborator: A user or group with this directory profile can view and download content, include, move, share, and rename documents in the folder they have access to.
-* Documents Reader: A user or group with this directory profile can only view and download the content of the folder and documents.
+* _Documents and Folders Administrator:_ A user or group with this directory profile can view and download content, include, move, share, and rename documents, delete or create new folders, and change access permissions.
+* _Documents Collaborator:_ A user or group with this directory profile can view and download content, include, move, share, and rename documents in the folder they have access to.
+* _Documents Reader:_ A user or group with this directory profile can only view and download the content of the folder and documents.
 
 <figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
@@ -76,7 +76,7 @@ When clicking on the root folder, subdirectories are displayed, which are subfol
 
 **Share:** This option will only be available for individual documents. This option allows the user to create an access link to the document, which can be shared with people who are not participants in the signing process. The link can have a set or indefinite expiration date, and the user can decide whether to allow people accessing it to also view the attachments sent by the signers.
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Move:** This option will only be available for individual documents. Clicking this option will allow you to change the folder where the selected documents are stored. Select the folder to which the documents will be moved and click "Move".
 

@@ -64,7 +64,7 @@ When the process **contains more than one document**, the system displays a moda
 
 When downloading from the Menu > Drafts, by default, the Signature Record, which displays all information about the electronic and digital signatures such as the signatories' names, date and time of the signature, location, IP address, and digital certificate details, is generated. However, it appears without the signature data since the document has not yet been sent for signing.
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Delete**&#x20;
 

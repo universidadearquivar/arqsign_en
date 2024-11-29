@@ -36,7 +36,7 @@ The batch signature process allows the user to sign multiple documents at once. 
 
 **Filter Bar:** Users can locate one or more documents using the available search filters. In the Batch Signature screen, the search can be performed by document name, responsible party name, or the type of signature to be used.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -44,7 +44,7 @@ The batch signature process allows the user to sign multiple documents at once. 
 
 1.  In the list of pending documents, select the ones you wish to sign and click on the “Batch Signature” icon.
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 2. The "Signature Data" screen will appear. Fill in the required information and click "Next." The \* symbol indicates mandatory information.
 
 {% hint style="warning" %}
@@ -55,7 +55,7 @@ The batch signature process allows the user to sign multiple documents at once. 
 <mark style="color:blue;">**Example:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">If a document requires an individual’s signature, the signer’s CPF will be requested; if another document requires a corporate signature, the CNPJ will also be requested, and so on, until all required fields are completed.</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. The next step is to define the [Signature Style](new-document.md#b.-recipients), which can be a standard style, a drawing, or an image. Once selected, click "Finish."
 
@@ -109,7 +109,7 @@ If you have not done so yet, when signing a document for the first time using a 
 <mark style="color:blue;">**Example:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Some reasons for potential failures include multiple users signing the document at the same time, internet connection failure during signing, interrupted access, among others.</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
 ***
 
