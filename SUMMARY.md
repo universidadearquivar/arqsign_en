@@ -1,6 +1,6 @@
 # Table of contents
 
-* [💻 Platform Overview 2.5.0](README.md)
+* [💻 Platform Overview 2.5.1](README.md)
 * [❔ Frequently Asked Questions](frequently-asked-questions/README.md)
   * [🟪 ArqSign and Cloud Clinic](frequently-asked-questions/arqsign-and-cloud-clinic.md)
   * [🟪 Digital and electronic signature](frequently-asked-questions/digital-and-electronic-signature.md)
