@@ -10,7 +10,7 @@ icon: rectangle-history
 
 <summary>2.5.0 - 26/11/2024</summary>
 
-The Ideal Integration Flow has been updated according to the new methods made available in update 2.4.0, released on 13/11/2024.
+The [Ideal Integration Flow](https://manual.arquivar.com/arqsign-manual-or-english/integrations/ideal-integration-flow) has been updated according to the new methods made available in update 2.4.0, released on 13/11/2024.
 
 </details>
 
@@ -20,28 +20,28 @@ The Ideal Integration Flow has been updated according to the new methods made av
 
 **The API for retrieving process data has been adjusted:**
 
-* GET/api/v2/processo/{idProcesso}
+* [GET/api/v2/processo/{idProcesso}](https://manual.arquivar.com/arqsign-manual-or-english/integrations/api/available-methods-in-the-api/1.-process/1.2.get-api-v2-processo-idprocesso)
   * This service allows clients, via API, to retrieve a process with its respective process data, signatories, and process documents.
 
 **New methods have also been made available**:
 
-* POST/api/v1/processo/{idProcesso}/buscar-anexos-signatarios
+* [POST/api/v1/processo/{idProcesso}/buscar-anexos-signatarios](https://manual.arquivar.com/arqsign-manual-or-english/integrations/api/available-methods-in-the-api/1.-process/1.7.post-api-v1-processo-idprocesso-buscar-anexos-signatarios)
   * Allows retrieving attachments of signatories by specifying one or more signatories within the process.
-* GET/api/v1/processo/{idArquivoProcesso}/registro-assinaturas
+* [GET/api/v1/processo/{idArquivoProcesso}/registro-assinaturas](https://manual.arquivar.com/arqsign-manual-or-english/integrations/api/available-methods-in-the-api/1.-process/1.8.get-api-v1-processo-idarquivoprocesso-registro-assinaturas)
   * Allows retrieving the base64 signature record of a process file.
-* POST/api/v1/diretorio/buscar-pastas
+* [POST/api/v1/diretorio/buscar-pastas](https://manual.arquivar.com/arqsign-manual-or-english/integrations/api/available-methods-in-the-api/2.-directories/2.1.post-api-v1-diretorio-buscar-pastas)
   * Allows retrieving folder data within the account.
-* POST/api/v1/usuarios/buscar-usuarios
+* [POST/api/v1/usuarios/buscar-usuarios](https://manual.arquivar.com/arqsign-manual-or-english/integrations/api/available-methods-in-the-api/3.-users/3.1.post-api-v1-usuarios-buscar-usuarios)
   * Allows retrieving user data from the account.
-* GET/api/v1/conta/papeis-signatarios
+* [GET/api/v1/conta/papeis-signatarios](https://manual.arquivar.com/arqsign-manual-or-english/integrations/api/available-methods-in-the-api/4.-account/4.1.get-api-v1-conta-papeis-signatarios)
   * Allows retrieving the signatory roles in the account.
-* POST/api/v1/conta/buscar-consumo-itens-assinatura
+* [POST/api/v1/conta/buscar-consumo-itens-assinatura](https://manual.arquivar.com/arqsign-manual-or-english/integrations/api/available-methods-in-the-api/4.-account/4.2.post-api-v1-conta-buscar-consumo-itens-assinatura)
   * Allows retrieving the quantity of signature-related items (Submissions, WhatsApp, SMS) used within a specific period.
-* GET/api/v1/conta/dados-assinatura
+* [GET/api/v1/conta/dados-assinatura](https://manual.arquivar.com/arqsign-manual-or-english/integrations/api/available-methods-in-the-api/4.-account/4.3.get-api-v1-conta-dados-assinatura)
   * Allows retrieving the details of an ArqSIGN account.
-* PATCH/api/v1/confwebhook/{idConfWebHook}/alterar-status
+* [PATCH/api/v1/confwebhook/{idConfWebHook}/alterar-status](https://manual.arquivar.com/manual-arqsign/administracao/integracoes/api/metodos-disponiveis-na-api/5.-webhook/5.1.patch-api-v1-confwebhook-idconfwebhook-alterar-status)
   * Allows changing the status of webhook configurations.
-* POST/api/v1/confwebhook
+* [POST/api/v1/confwebhook](https://manual.arquivar.com/arqsign-manual-or-english/integrations/api/available-methods-in-the-api/5.-webhook/5.2.post-api-v1-confwebhook)
   * Allows registering webhook configurations
 
 </details>
