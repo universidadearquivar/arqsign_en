@@ -67,7 +67,7 @@ At this stage, the client must implement the call to the **POST** method respons
 **Method:**
 
 > * **Name:** Send Signing Process V2
-> * **URL:** POST [https://api-rest.arqsign.com/api/v2/processo/enviar-documento-para-assinar](https://api-rest.arqsign.com/api/v2/processo/enviar-documento-para-assinar)
+> * **URL:** POST [https://api-rest.arqsign.com/api/v2/processo/enviar-documento-para-assinar](https://manual.arquivar.com/arqsign-manual-or-english/integrations/api/available-methods-in-the-api/1.-process/1.1.-post-api-v2-processo-enviar-documento-para-assinar)
 > * **Documentation:** [https://developers.arqsign.com/api-details#api=api-rest-arqsign\&operation=6734bb1a4640eeaf71857525](https://developers.arqsign.com/api-details#api=api-rest-arqsign\&operation=6734bb1a4640eeaf71857525)
 
 2. **Monitoring: Failure**
@@ -79,7 +79,7 @@ After receiving this **Webhook** response, the client can implement the call to 
 **Method:**
 
 > * **Name:** Edit and Resend the Process to Pending Signatories V2
-> * **URL:** PATCH https://api-rest.arqsign.com/api/v2/processo/{idProcesso}/reenviar-processo
+> * **URL:** PATCH [https://api-rest.arqsign.com/api/v2/processo/{idProcesso}/reenviar-processo](api/available-methods-in-the-api/1.-process/1.3.patch-api-v2-processo-idprocesso-reenviar-processo.md)
 > * **Documentation:** [https://developers.arqsign.com/api-details#api=api-rest-arqsign\&operation=6734bb1a21b37c983bbe8bbe](https://developers.arqsign.com/api-details#api=api-rest-arqsign\&operation=6734bb1a21b37c983bbe8bbe)
 
 3. **Monitoring: Signed by a Signatory**
@@ -109,7 +109,7 @@ After receiving this **Webhook** response, the client can implement the call to 
 **Method:**
 
 > * **Name:** Edit and Resend the Process to Pending Signatories V2
-> * **URL:** PATCH https://api-rest.arqsign.com/api/v2/processo/{idProcesso}/reenviar-processo
+> * **URL:** PATCH [https://api-rest.arqsign.com/api/v2/processo/{idProcesso}/reenviar-processo](https://manual.arquivar.com/arqsign-manual-or-english/integrations/api/available-methods-in-the-api/1.-process/1.3.patch-api-v2-processo-idprocesso-reenviar-processo)
 > * **Documentation:** [https://developers.arqsign.com/api-details#api=api-rest-arqsign\&operation=6734bb1a21b37c983bbe8bbe](https://developers.arqsign.com/api-details#api=api-rest-arqsign\&operation=6734bb1a21b37c983bbe8bbe)
 
 6. **Conclusion**
