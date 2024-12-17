@@ -26,7 +26,7 @@ It occurs when the person responsible receives a notification via WhatsApp, info
 
 The user responsible for the signature will receive a WhatsApp message with the link to access the file. This message will also include the sender's name and the signature deadline. If the recipient has defined a personalized message, it will also be displayed in this notification.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="284"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="284"><figcaption></figcaption></figure>
 
 By clicking on the link or entering the code, the user will be directed to the signing screen.
 
@@ -62,7 +62,7 @@ Once logged into the account, the user must click on the [Mailbox > Inbox](../ma
 
 If the sender has defined a security code to open the document, the signatory will be asked to provide the code, which must have been previously received by email, WhatsApp, SMS, or directly from the sender. If the user does not have the code, they must click on **“I Didn’t Receive the Code”.**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Entering the Security Code:** If the signatory has received the security code, they can simply input it into the designated field to proceed with accessing the document. This ensures added security and authentication for document access.
 
@@ -78,13 +78,13 @@ For the process that has **more than one non-grouped document**, the screen with
 
 The platform lists the process documents according to the order defined when sending the documents for signature.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 When clicking on a document link, the system displays the selected document, presenting the process documents in the side menu and flagging the documents that are pending and/or unread.
 
 For a process with only one document, the system will not display a side list of files and will only show the "Sign" button at the bottom of the page.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">For processes with a single document, the system displays the "Sign Document" button according to the mandatory document reading parameter.</mark>

@@ -8,17 +8,17 @@ The Overdue menu provides users with a comprehensive view of documents sent for 
 
 ## Columns on the main screen - Overdue
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Document Name Column**: This column displays the document name and the name of the signer. If there is more than one signer, it will show the name of the first signer and the number of other people who need to sign. All listed documents will display the message “Expired before signatures were completed”.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Responsible Column**: This column displays the name and email of the person who sent the document (sender). In the Expired screen, the user’s own name will always be displayed.
 
 **Status Column**: Documents listed on the Expired screen will always have the status “Awaiting” (no participant has signed the document yet) or “In process” (one or more participants have signed the document, but signatures are still pending). Hovering over the status shows information about which signers still have pending signatures and which have completed them, along with signer details.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Size Column**: This column displays the document file size.
 
@@ -68,7 +68,7 @@ When a process contains a document or is a share of only one document from the p
 
 The .zip folder is named after the process, and the signature record file is named as **DocumentName\_Signature** Record.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 When the process **contains more than one document**, the system displays a modal with the process documents for the user to select which ones they wish to download. If it is a sharing, only the documents that have been shared should be listed.
 

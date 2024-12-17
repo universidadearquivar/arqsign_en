@@ -18,7 +18,7 @@ When clicking on a document, the document's viewing screen will open, displaying
 
 ## Main Screen Columns – Inbox
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Document Name Column:** This column displays the document name and the signatory's name. If there is more than one signatory, the name of the first signatory will be shown, along with the number of additional people who need to sign.
 
@@ -26,7 +26,7 @@ When clicking on a document, the document's viewing screen will open, displaying
 
 **Status Column:** The possible statuses for a document are:"Waiting" (no participants have signed the document yet), "In process" (one or more participants have signed, but signatures are still pending), and "Completed" (all participants have signed the document). Hovering over the status reveals information about which signatories still have pending signatures, which have completed signing, and details about each signatory.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Size Column:** This column displays the file size of the document.
 
@@ -40,13 +40,13 @@ When clicking on a document, the document's viewing screen will open, displaying
 
 **Filter Bar:** One or more documents can be located using the available search filters. Searches can be conducted by the name or email of the sender, the name of a signatory, the document's status (only documents with "Completed," "Waiting," or "In process" statuses will be displayed in the Inbox), the folder where the document is stored, or the date the signatures were completed.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="239"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="" width="239"><figcaption></figcaption></figure>
 
 ***
 
 ## Individual Actions - Inbox
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Sign**\
 Available only if the document has not yet been signed by the signatory and it is their turn to sign, according to the order set by the sender, if applicable. Clicking this button directs the user to [the document signing screen.](../top-menu/document-signing.md)

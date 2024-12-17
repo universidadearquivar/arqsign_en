@@ -8,7 +8,7 @@ In the Renewals menu, all documents that have been registered and sent for signi
 
 ## Main Screen Columns – Renewals&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Column Name of Document:** This column displays the document name and the name of the signatory. If there are multiple signatories, it shows the name of the first one and the number of other people who still need to sign.
 
@@ -16,7 +16,7 @@ In the Renewals menu, all documents that have been registered and sent for signi
 
 **Column Status:** In the Renewals screen, the only status available for a document is “Completed” (all participants have signed the document). Hovering over the status will display information about the signatories. The security code sent to recipients (if any) will also be shown.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="287"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="287"><figcaption></figcaption></figure>
 
 **Column Size:** This column displays the file size of the document.
 
@@ -30,13 +30,13 @@ In the Renewals menu, all documents that have been registered and sent for signi
 
 **Filter Bar:** It is possible to locate one or more documents using the available search filters. In the Renewals screen, search can be done by document name, responsible person’s name, signatories' names, document status, folder where the document is hosted, or document’s deletion date.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt="" width="286"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="286"><figcaption></figcaption></figure>
 
 ***
 
 ## Individual Actions – Renewals
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Renew**&#x20;
 
