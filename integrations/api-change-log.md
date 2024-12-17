@@ -56,7 +56,7 @@ Version 1 (V1) of the following methods has been discontinued:
 * GET/api/v1/processo/{idprocesso}
 * PATCH/api/v1/processo/{idProcesso}/reenviar-processo
 
-For more details, click here.
+For more details, [click here.](https://manual.arquivar.com/arqsign-manual-or-english/integrations/api/available-methods-in-the-api)
 
 </details>
 
@@ -64,7 +64,7 @@ For more details, click here.
 
 <summary>2.3.0 - 31/10/2024</summary>
 
-The Webhook menu has been created under Integrations. Its purpose is to enable clients to monitor the progress of document signature processes. Depending on the webhook configuration, the user will receive process execution data through events/triggers.
+The[ Webhook ](https://manual.arquivar.com/arqsign-manual-or-english/integrations/webhook)menu has been created under Integrations. Its purpose is to enable clients to monitor the progress of document signature processes. Depending on the webhook configuration, the user will receive process execution data through events/triggers.
 
 </details>
 
@@ -86,7 +86,7 @@ For more details, click here.
 
 Version two (V2) of the following method has been created:
 
-* PATCH api/v2/processo/reenviar-processo/{idProcesso}\
+* [PATCH api/v2/processo/reenviar-processo/{idProcesso}](https://manual.arquivar.com/arqsign-manual-or-english/integrations/api/available-methods-in-the-api/1.-process/1.3.patch-api-v2-processo-idprocesso-reenviar-processo)\
   This version has been completely restructured to allow not only the simple and direct resubmission of a process but also the editing of data such as email or WhatsApp delivery type, security code delivery method, signatory name, and mandatory data required for validation or autofill, depending on the account or signature type.
 
 </details>
@@ -95,7 +95,7 @@ Version two (V2) of the following method has been created:
 
 <summary>2.1.0 - 05/08/2024</summary>
 
-The API menu has been created under Integrations. Its purpose is to provide the client with the access key(s) that will be used for API request management and control.
+[The API menu](https://manual.arquivar.com/arqsign-manual-or-english/integrations/api) has been created under Integrations. Its purpose is to provide the client with the access key(s) that will be used for API request management and control.
 
 </details>
 
@@ -105,9 +105,9 @@ The API menu has been created under Integrations. Its purpose is to provide the 
 
 Version two (V2) of the following methods has been created:
 
-* POST api/v2/processo/enviar-documento-para-assinar\
+* [POST api/v2/processo/enviar-documento-para-assinar](https://manual.arquivar.com/arqsign-manual-or-english/integrations/api/available-methods-in-the-api/1.-process/1.1.-post-api-v2-processo-enviar-documento-para-assinar)\
   Parameters gerarQrCode and obrigarLeitura have been added, along with the option to send multiple .pdf documents in the process.
-* GET /api/v2/processo/{idProcesso}\
+* [GET /api/v2/processo/{idProcesso}](https://manual.arquivar.com/arqsign-manual-or-english/integrations/api/available-methods-in-the-api/1.-process/1.2.get-api-v2-processo-idprocesso)\
   The new version of the process retrieval service returns all documents within the specified process, which is not possible using version 1 of the service.
 
 </details>
@@ -116,7 +116,9 @@ Version two (V2) of the following methods has been created:
 
 <summary>1.17.0 - 07/02/2024</summary>
 
-Sign Document: The system encountered an error when attempting to sign a document sent via API. The system displayed the visual representation in an incorrect position for documents sent via API with manual positioning.
+Sign Document: The system encountered an error when attempting to sign a document sent via API.&#x20;
+
+The system displayed the visual representation in an incorrect position for documents sent via API with manual positioning.
 
 </details>
 
@@ -212,9 +214,11 @@ API: The system did not apply visual representation for recipients who required 
 
 API > Send Document for Signature:
 
-* The system sent documents via API without visual representation for type PJ when a company name and PJ document configuration were mandatory.
-* The system validated the signature position for recipients whose action was to receive a copy.
-* The system generated signature marking on the automatic page for recipients receiving a copy.
+The system sent documents via API without visual representation for type PJ when a company name and PJ document configuration were mandatory.
+
+The system validated the signature position for recipients whose action was to receive a copy.
+
+The system generated signature marking on the automatic page for recipients receiving a copy.
 
 </details>
 
