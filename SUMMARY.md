@@ -74,3 +74,4 @@
     * [🔳 Library for Postman Testing](integrations/api/library-for-postman-testing.md)
   * [🟪 Webhook](integrations/webhook.md)
   * [Ideal Integration Flow](integrations/ideal-integration-flow.md)
+  * [API Change Log](integrations/api-change-log.md)
