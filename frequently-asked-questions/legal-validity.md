@@ -69,6 +69,14 @@ These criteria are described in article 10, § 2 of the aforementioned MP and ar
 
 <details>
 
+<summary>If the digital certificate used to sign a document has expired, does this affect the validity of the documents I previously signed with this certificate?</summary>
+
+No, as long as the signatures were generated during the validity period of the digital certificate. The technology of the ArqSIGN platform does not allow documents to be signed using expired certificates. The application performs an automatic validation to ensure that the ICP-Brasil digital certificate is valid at the time of signing.
+
+</details>
+
+<details>
+
 <summary>Is it possible to print a document electronically signed through ArqSign?</summary>
 
 Yes, it is possible. You just need to download the signed document and the Signature Record to print them. An important note: the verification of the legal validity of this document can only be performed digitally since the signature was executed digitally. If you have configured your account to generate the Signature Record with a QR Code, you can access the digital document by scanning the QR Code found in the Signature Record and validate the document's legal authenticity using Adobe Reader or the ITI Portal, as indicated in the footer of the Signature Record.
