@@ -20,7 +20,9 @@ According to the Webhook configuration made, the client receives the execution d
 
 Clicking on Webhook displays the GRID with the Webhook configurations of the logged-in user's account, sorted alphabetically by the "Name" column.
 
-<figure><img src="../.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_10.png" alt=""><figcaption></figcaption></figure>
+
+**Webhook Documentation:** Click to access the details of the configuration and usage of the Webhook.
 
 **Add:** Use this option to include a new configuration. When clicking on the "Add" icon, the application checks the account status and the number of configurations the account has.
 
