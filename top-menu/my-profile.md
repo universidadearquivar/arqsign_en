@@ -16,7 +16,9 @@ The My Data tab displays the user's registration information. Data can be edited
 
 <figure><img src="../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
 
-**Email:** The email presented in this field is the same one used during the user's account registration on the platform and cannot be changed.
+**Email**: The email displayed in this field is the same one used during the user account registration on the platform and cannot be modified.
+
+If you wish to use another email as the "Document sender," create another [user ](../administration/administration/users.md)for this email. On the ArqSign Platform, users are unlimited.
 
 **Full Name:** Displays the user's full name. The name registered in this field appears as the sender of documents for this user in emails and WhatsApp messages.
 
