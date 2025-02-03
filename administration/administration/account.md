@@ -42,7 +42,7 @@ In the Billing and Usage tab, the user's account purchase history is displayed.
 
 In the Plan and Usage sub-tab, the type of plan, billing period (annual or monthly), plan start date, and subscription expiration date are shown.
 
-By default, when creating an account, the "Auto-Renewal" option will be automatically enabled. To cancel this renewal, simply uncheck this option.
+By default, when creating an account, the "**Auto-Renewal**" option will be automatically enabled. To cancel this renewal, simply uncheck this option.
 
 <figure><img src="../../.gitbook/assets/04 (1).png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
 
@@ -69,6 +69,14 @@ In "**Remaining Credits from Plan Subscription**," the credits the user still ha
 If users have purchased credits beyond those included in the plan, clicking on “**Extra Credits Expiration Dates**” will display the expiration dates for these additional credits.
 
 <figure><img src="../../.gitbook/assets/08.png" alt=""><figcaption><p>Click on the image to enlarge.</p></figcaption></figure>
+
+{% hint style="warning" %}
+<mark style="color:orange;">**When the account’s signature plan is ArqGED, ArqSign will not display:**</mark>
+
+* <mark style="color:orange;">**The fields “Automatic Renewal,” "Change payment method," and the button "Buy Credits."**</mark>
+
+<mark style="color:orange;">**Billing for these accounts will be done via ArqGED, in accordance with the service established in the contract.**</mark>
+{% endhint %}
 
 ***
 

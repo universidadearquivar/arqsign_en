@@ -18,7 +18,7 @@ When the process contains more than one document that is not grouped, the system
 
 **View Not Logged In User**
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 By default, the signatory's data is displayed openly on the screen. Simply close the list and continue navigating the document.
 
@@ -68,13 +68,25 @@ When clicking "Resend," the sending order information will be displayed for the 
 
 <figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
-In the "Edit" icon, it is possible to edit the recipient's information, as well as the settings defined for document validation in the [recipient's configuration](../top-menu/new-document.md#step-2-configure-fields).
+In the "Edit" icon, it is possible to edit the recipient's information, as well as the settings defined for document validation in the [**recipient's configuration**](../top-menu/new-document.md#step-2-configure-fields).
 
 <figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">The document validation data can only be edited on this screen if it was configured previously. The "Edit" option does not allow the inclusion of validation data.</mark>
 {% endhint %}
+
+{% hint style="warning" %}
+<mark style="color:orange;">**Signature processes sent through ArqGED-ArqFlow can only be resent through a new action in ArqGED-ArqFlow.**</mark>
+
+<mark style="color:orange;">**Thus, the "Resend" option will not be available in the Actions column.**</mark>
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+The "Resend" option will also not be available when opening the process in the ArqSign platform.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Change Folder**&#x20;
 
@@ -105,15 +117,15 @@ When the **process contains more than one document**, the system displays a moda
 
 The Signature Log displays all information about the electronic and digital signatures completed during the process, including the signatories' names, date and time of signing, location, IP address of the signing location, details of the digital certificates used, and more.
 
-<figure><img src="../.gitbook/assets/image (14) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (15) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Cancel**&#x20;
 
 By selecting this option, the document is canceled, and the signature process is halted.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **History**
 
@@ -131,7 +143,7 @@ With the **events button positioned to the left**, it is possible to view the ID
 
 This option is only available if the document has a "Completed" status. By selecting this option, the user can add or modify the document's renewal date, previously set in the "Schedule renewal \_\_\_ months after signing completion" field, located in the New Document > Add Documents and Recipients > Add Documents screen. To set or adjust the number of months between renewals, edit the "Renewal Interval (Months)" field.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="515"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="515"><figcaption></figcaption></figure>
 
 **Correct**
 
@@ -141,7 +153,7 @@ This button will appear when the contact information (email or phone number) for
 
 This option is used to delete the workflow. Deleted workflows will be moved to the [Deleted](deleted.md) folder.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="358"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="" width="358"><figcaption></figcaption></figure>
 
 **Rename**
 
@@ -149,7 +161,7 @@ This option is only available if the user is both the signatory and the sender o
 
 When the process contains only one document, the system allows changing the process name.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 When the process contains more than one document, the system allows changing both the process name and the names of the documents within the process.
 
@@ -232,6 +244,12 @@ By clicking this icon, it will be possible to resend the selected documents to r
 
 <figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="warning" %}
+<mark style="color:orange;">**For the batch resend action, the system will not enable the resend icon if at least one selected process is marked as "Sent via ArqFlow."**</mark>
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 **Cancel Sending**&#x20;
 
 By clicking this icon, it will be possible to cancel the sending of the selected documents, halting the signature processes. This action can only be performed on documents that are not marked as "Completed."
@@ -245,3 +263,11 @@ By clicking this icon, it will be possible to cancel the sending of the selected
 By clicking this icon, it will be possible to delete the selected documents. This action can only be performed on documents with the status "Completed" or "Canceled."
 
 <figure><img src="../.gitbook/assets/image (11) (1).png" alt="" width="307"><figcaption></figcaption></figure>
+
+#### Email Delivery Failures
+
+When there is a failure in sending the process, the system will mark the process with the sending failure.
+
+When there is a failure in sending the security code to any recipient of the process, the system will mark the recipient with the security code sending failure.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

@@ -20,5 +20,5 @@ The user can purchase extra credits for sending documents via email and WhatsApp
 
 2.  To complete the purchase, the user must enter the billing and payment information and click “Complete Purchase”.
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 3. After the purchase is completed, if the account is shared with other users, all users with an administrator profile for the account will receive an email notification about the acquisition of the extra credits.

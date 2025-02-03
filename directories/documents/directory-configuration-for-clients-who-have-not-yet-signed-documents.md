@@ -6,15 +6,15 @@
 
 1\. Identify which departments will use the ArqSign Platform for sending documents for signature. Based on these departments, create a folder for each one. To do this, go to the [Documents](./) screen, access the root folder, and click on the "Include Folder" icon.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Enter the department name and click Save.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 3.  Repeat the process until all necessary folders are created.
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**The Global Administrator must perform all configurations, permission adjustments, user releases, etc., before starting to send documents for signing.**</mark>
@@ -34,7 +34,7 @@ Create user groups by separating them by sectors, functions, or a combination of
 * <mark style="color:blue;">Commercial - Other functions with read-only access</mark>
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -42,15 +42,15 @@ Create user groups by separating them by sectors, functions, or a combination of
 
 The groups created in the previous step must be inserted into [the root directory](./#root-folder-of-directories) with "Reader" permission. To do this, in the root folder, click on Actions > Edit Authorizations.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Click on the "Include" icon.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Select each of the groups created in the previous step and in the "Profile" column, assign the "Document Reader" profile to all the groups. Click on the "Confirm" icon to save the changes.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
