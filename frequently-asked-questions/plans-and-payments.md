@@ -29,7 +29,7 @@ Ideal for professionals who need a continuous flow of digital signatures.
 ✔ Unlimited storage and users.\
 ✔ Integration API to automate processes.
 
-💰 Investment: R$ 160.00 upfront or up to 12 installments of R$ 13.33 interest-free on a credit card.
+💰 Investment: R$ 238,00 upfront or up to 12 installments of R$ 19,90 interest-free on a credit card.
 
 📜 Billing and Invoice:
 
@@ -37,10 +37,10 @@ Ideal for professionals who need a continuous flow of digital signatures.
 * Invoice issued monthly after billing.
 
 📌 Add-ons:\
-➕ Additional send: R$ 0.85 per send.\
-➕ SMS authentication: R$ 0.25 per authentication.\
-➕ WhatsApp authentication: R$ 0.60 per authentication.\
-➕ WhatsApp message sending: R$ 0.60 per message.
+➕ Additional send: R$ 1,00 per send.\
+➕ SMS authentication: R$ 0,25 per authentication.\
+➕ WhatsApp authentication: R$ 0,60 per authentication.\
+➕ WhatsApp message sending: R$ 0,60 per message.
 
 ✅ <mark style="color:purple;">**Business Annual Plan – 600 Sends**</mark>
 
@@ -51,7 +51,7 @@ Perfect for companies seeking greater efficiency and automation in signature pro
 ✔ Unlimited storage and users.\
 ✔ Integration API to optimize workflows.
 
-💰 Investment: R$ 355.00 upfront or up to 12 installments of R$ 29.58 interest-free on a credit card.
+💰 Investment: R$ 478,00 upfront or up to 12 installments of R$ 39,90 interest-free on a credit card.
 
 📜 Billing and Invoice:
 
@@ -60,10 +60,10 @@ Annual billing via credit card.
 Invoice issued monthly after billing.
 
 📌 Add-ons:\
-➕ Additional send: R$ 0.85 per send.\
-➕ SMS authentication: R$ 0.25 per authentication.\
-➕ WhatsApp authentication: R$ 0.60 per authentication.\
-➕ WhatsApp message sending: R$ 0.60 per message.
+➕ Additional send: R$ 0,85 per send.\
+➕ SMS authentication: R$ 0,25 per authentication.\
+➕ WhatsApp authentication: R$ 0,60 per authentication.\
+➕ WhatsApp message sending: R$ 0,60 per message.
 
 ✅ <mark style="color:purple;">**Corporate Annual Plan – Unlimited Sends**</mark>
 
@@ -75,7 +75,7 @@ For companies that require an unlimited volume of digital signatures.
 ✔ Integration API for maximum productivity.
 
 💰 Investment:\
-R$ 730.00 upfront or up to 12 installments of R$ 60.83 interest-free on a credit card.
+R$ 838,80 upfront or up to 12 installments of R$ 69,90 interest-free on a credit card.
 
 📜 Billing and Invoice:
 
@@ -84,9 +84,9 @@ Annual billing via credit card.
 Invoice issued monthly after billing.
 
 📌 Add-ons:\
-➕ SMS authentication: R$ 0.25 per authentication.\
-➕ WhatsApp authentication: R$ 0.60 per authentication.\
-➕ WhatsApp message sending: R$ 0.60 per message.
+➕ SMS authentication: R$ 0,25 per authentication.\
+➕ WhatsApp authentication: R$ 0,60 per authentication.\
+➕ WhatsApp message sending: R$ 0,60 per message.
 
 </details>
 
@@ -98,7 +98,7 @@ Invoice issued monthly after billing.
 
 For professionals who need an affordable and flexible plan.
 
-💰 Investment: R$ 16.90/month
+💰 Investment: R$ 29,90/month
 
 📜 Billing and Invoice:
 
@@ -106,16 +106,16 @@ For professionals who need an affordable and flexible plan.
 * Invoice issued monthly after billing.
 
 📌 Add-ons:\
-➕ Additional send: R$ 0.85 per send.\
-➕ SMS authentication: R$ 0.25 per authentication.\
-➕ WhatsApp authentication: R$ 0.60 per authentication.\
-➕ WhatsApp message sending: R$ 0.60 per message.
+➕ Additional send: R$ 1,50 per send.\
+➕ SMS authentication: R$ 0,25 per authentication.\
+➕ WhatsApp authentication: R$ 0,60 per authentication.\
+➕ WhatsApp message sending: R$ 0,60 per message.
 
 ✅ <mark style="color:purple;">**Business Monthly Plan – 50 Sends**</mark>
 
 For companies that need more sends and monthly flexibility.
 
-💰 Investment: R$ 36.90/month
+💰 Investment: R$ 59,90/month
 
 📜 Billing and Invoice:
 
@@ -123,16 +123,16 @@ For companies that need more sends and monthly flexibility.
 * Invoice issued monthly after billing.
 
 📌 Add-ons:\
-➕ Additional send: R$ 0.85 per send.\
-➕ SMS authentication: R$ 0.25 per authentication.\
-➕ WhatsApp authentication: R$ 0.60 per authentication.\
-➕ WhatsApp message sending: R$ 0.60 per message.
+➕ Additional send: R$ 1,20 per send.\
+➕ SMS authentication: R$ 0,25 per authentication.\
+➕ WhatsApp authentication: R$ 0,60 per authentication.\
+➕ WhatsApp message sending: R$ 0,60 per message.
 
 ✅ <mark style="color:purple;">**Corporate Monthly Plan – Unlimited Sends**</mark>
 
 For companies that want complete freedom in sending documents.
 
-💰 Investment: R$ 75.90/month
+💰 Investment: R$ 89,90/month
 
 📜 Billing and Invoice:
 
@@ -140,9 +140,9 @@ For companies that want complete freedom in sending documents.
 * Invoice issued monthly after billing.
 
 📌 Add-ons:\
-➕ SMS authentication: R$ 0.25 per authentication.\
-➕ WhatsApp authentication: R$ 0.60 per authentication.\
-➕ WhatsApp message sending: R$ 0.60 per message.
+➕ SMS authentication: R$ 0,25 per authentication.\
+➕ WhatsApp authentication: R$ 0,60 per authentication.\
+➕ WhatsApp message sending: R$ 0,60 per message.
 
 </details>
 
