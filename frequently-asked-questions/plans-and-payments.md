@@ -1,5 +1,191 @@
 # 🟪 Plans and payments
 
+
+
+<details>
+
+<summary>ArqSign Plans – Choose the Best Option for You</summary>
+
+All plans include:
+
+✅ Unlimited storage and users
+
+✅ Access to all platform features
+
+✅ Integration API
+
+</details>
+
+<details>
+
+<summary>Annual Plans - Savings and More Benefits</summary>
+
+✅ <mark style="color:purple;">**Professional Annual Plan – 240 Sends**</mark>
+
+Ideal for professionals who need a continuous flow of digital signatures.
+
+🔹 What's included?\
+✔ 240 sends (workflows) via email over 12 months.\
+✔ Unlimited storage and users.\
+✔ Integration API to automate processes.
+
+💰 Investment: R$ 160.00 upfront or up to 12 installments of R$ 13.33 interest-free on a credit card.
+
+📜 Billing and Invoice:
+
+* Annual billing via credit card.
+* Invoice issued monthly after billing.
+
+📌 Add-ons:\
+➕ Additional send: R$ 0.85 per send.\
+➕ SMS authentication: R$ 0.25 per authentication.\
+➕ WhatsApp authentication: R$ 0.60 per authentication.\
+➕ WhatsApp message sending: R$ 0.60 per message.
+
+✅ <mark style="color:purple;">**Business Annual Plan – 600 Sends**</mark>
+
+Perfect for companies seeking greater efficiency and automation in signature processes.
+
+🔹 What's included?\
+✔ 600 sends (workflows) via email over 12 months.\
+✔ Unlimited storage and users.\
+✔ Integration API to optimize workflows.
+
+💰 Investment: R$ 355.00 upfront or up to 12 installments of R$ 29.58 interest-free on a credit card.
+
+📜 Billing and Invoice:
+
+Annual billing via credit card.
+
+Invoice issued monthly after billing.
+
+📌 Add-ons:\
+➕ Additional send: R$ 0.85 per send.\
+➕ SMS authentication: R$ 0.25 per authentication.\
+➕ WhatsApp authentication: R$ 0.60 per authentication.\
+➕ WhatsApp message sending: R$ 0.60 per message.
+
+✅ <mark style="color:purple;">**Corporate Annual Plan – Unlimited Sends**</mark>
+
+For companies that require an unlimited volume of digital signatures.
+
+🔹 What's included?\
+✔ Unlimited sends via email.\
+✔ Unlimited storage and users.\
+✔ Integration API for maximum productivity.
+
+💰 Investment:\
+R$ 730.00 upfront or up to 12 installments of R$ 60.83 interest-free on a credit card.
+
+📜 Billing and Invoice:
+
+Annual billing via credit card.
+
+Invoice issued monthly after billing.
+
+📌 Add-ons:\
+➕ SMS authentication: R$ 0.25 per authentication.\
+➕ WhatsApp authentication: R$ 0.60 per authentication.\
+➕ WhatsApp message sending: R$ 0.60 per message.
+
+</details>
+
+<details>
+
+<summary>Monthly Plans - Flexibility for Your Business</summary>
+
+✅ <mark style="color:purple;">**Professional Monthly Plan – 20 Sends**</mark>
+
+For professionals who need an affordable and flexible plan.
+
+💰 Investment: R$ 16.90/month
+
+📜 Billing and Invoice:
+
+* Monthly billing via credit card.
+* Invoice issued monthly after billing.
+
+📌 Add-ons:\
+➕ Additional send: R$ 0.85 per send.\
+➕ SMS authentication: R$ 0.25 per authentication.\
+➕ WhatsApp authentication: R$ 0.60 per authentication.\
+➕ WhatsApp message sending: R$ 0.60 per message.
+
+✅ <mark style="color:purple;">**Business Monthly Plan – 50 Sends**</mark>
+
+For companies that need more sends and monthly flexibility.
+
+💰 Investment: R$ 36.90/month
+
+📜 Billing and Invoice:
+
+* Monthly billing via credit card.
+* Invoice issued monthly after billing.
+
+📌 Add-ons:\
+➕ Additional send: R$ 0.85 per send.\
+➕ SMS authentication: R$ 0.25 per authentication.\
+➕ WhatsApp authentication: R$ 0.60 per authentication.\
+➕ WhatsApp message sending: R$ 0.60 per message.
+
+✅ <mark style="color:purple;">**Corporate Monthly Plan – Unlimited Sends**</mark>
+
+For companies that want complete freedom in sending documents.
+
+💰 Investment: R$ 75.90/month
+
+📜 Billing and Invoice:
+
+* Monthly billing via credit card.
+* Invoice issued monthly after billing.
+
+📌 Add-ons:\
+➕ SMS authentication: R$ 0.25 per authentication.\
+➕ WhatsApp authentication: R$ 0.60 per authentication.\
+➕ WhatsApp message sending: R$ 0.60 per message.
+
+</details>
+
+<details>
+
+<summary>Plans - How is Consumption Calculated?</summary>
+
+<mark style="color:purple;">**About Sending Documents for Signatures**</mark>
+
+At ArqSign, plans are based on SENDS, which function as digital envelopes. With just 1 SEND, you can configure up to 25 documents (totaling up to 100MB) and include as many signers as needed—all for the cost of 1 SEND.
+
+#### <mark style="color:purple;">How does consumption work when sending documents?</mark>
+
+You can send documents for signature via email or WhatsApp.
+
+✅ **Email Sending:**
+
+When you send a document for signature via email, ArqSign handles everything! The system sends it directly to the signer, and once they sign, the platform automatically forwards the completed document to all parties involved.
+
+➡️ Consumption: 1 SEND
+
+✅ **WhatsApp Sending:**
+
+WhatsApp sending works differently because it is integrated directly with WhatsApp Business, ensuring greater security and traceability. When a document is sent for signature via WhatsApp:
+
+1️ - ArqSign sends it to the integrated WhatsApp Business.\
+2️ - WhatsApp Business forwards it directly to the signer's number.\
+3️ - After signing, the completed document is automatically sent to all parties—via email for those who signed via email and via WhatsApp for those who signed via WhatsApp.
+
+➡️ Consumption: 1 SEND + 2 WHATSAPP CREDITS
+
+#### Why is there an additional cost for WhatsApp?
+
+The charge for WHATSAPP CREDITS is due to our official integration with WhatsApp Business, which ensures that the signature link is sent directly to the signer, eliminating the risk of interception or misuse. This means:
+
+🔹 Increased security – Only the intended recipient can access and sign.\
+🔹 Reliable audit trail – The process is 100% traceable and auditable.\
+🔹 Speed and convenience – Your client receives the document directly on WhatsApp, increasing response rates and reducing signing time.
+
+By using WhatsApp on ArqSign, you provide a more secure and efficient experience for your signers, enhancing the reliability and speed of the signing process.
+
+</details>
+
 <details>
 
 <summary>Can I cancel my plan if I need to?</summary>
