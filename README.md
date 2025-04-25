@@ -1,4 +1,4 @@
-# 💻 Platform Overview 2.8.0
+# 💻 Platform Overview 2.13.0
 
 ## Platform features
 
@@ -45,7 +45,7 @@ A **Signer** is an individual or legal entity participating in the signing proce
 
 The ArqSign website ([https://arquivar.com.br/arqsign/](https://arquivar.com.br/arqsign/)) provides all platform information and features, including subscription plan details. On the homepage, users can also access the platform's login page and create a free trial account.
 
-<figure><img src=".gitbook/assets/Animação.gif" alt=""><figcaption></figcaption></figure>
+{% file src=".gitbook/assets/Gravação de Tela 2025-04-25 135759.mp4" %}
 
 ***
 
